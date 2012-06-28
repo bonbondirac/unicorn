@@ -16,6 +16,9 @@ COMMON_FREQ_PATH = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
 
 REDIS_HOST = 'localhost'
 REDIS_PORT = 6379
-REDIS_DB = 1
+REDIS_DB = 2
 
 REDIS_PREFIX = 'un_'
+
+WORD_FREQ_KEY = 'freq:%s'
+RARE_FREQ = 0.01
