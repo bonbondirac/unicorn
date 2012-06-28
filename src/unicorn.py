@@ -14,13 +14,28 @@ class Unicorn(object):
     
     def __init__(self):
         self._class_dict = dict()
+        self._class_weight_dict = dict()
         self._freq_dict = dict()
         self._redis_instance = redis.StrictRedis(host=constants.REDIS_HOST,
                                                  port=constants.REDIS_PORT,
                                                  db=constants.REDIS_DB)
-        self.seg = SEG()
+        self._load_seg_dict()
         self._load_class_dict(constants.CLASS_LIST_PATH)
+        self._load_class_weight_dict(constants.CLASS_WEIGHT_LIST_PATH)
         self._load_common_freq(constants.COMMON_FREQ_PATH)
+    
+    def _cut_text(self, buff):
+        words = self._seg.cut(buff)
+        
+        return words
+        
+    
+    def _load_seg_dict(self):
+        print 'loading seg dict...',
+        self._seg = SEG()
+        print 'done!'
+        
+        return None
     
     def _load_class_dict(self, path):
         print 'loading class dict...',
@@ -32,6 +47,15 @@ class Unicorn(object):
         print 'done!'
         
         return None
+    
+    def _load_class_weight_dict(self, path):
+        print 'loading class weight dict...',
+        with open(path, 'rb') as f:
+            for line in f:
+                line = line.strip()
+                class_name, weight = line.split()
+                self._class_weight_dict[class_name] = float(weight)
+        print 'done!'
     
     def _load_common_freq(self, path):
         print 'loading word freq...',
@@ -49,7 +73,7 @@ class Unicorn(object):
                 except:
                     pass
                 else:
-                    self._freq_dict[word] = freq
+                    self._freq_dict[word] = int(freq)
         print 'done!'
     
     def feed_multi_text(self, path):
@@ -59,7 +83,7 @@ class Unicorn(object):
         with open(path, 'rb') as f:
             content = f.read()
         content = helper.unicodefy(content)
-        words = self.seg.cut(content)
+        words = self._cut_text(content)
         for word in words:
             self._incr_freq_count(class_name, word)
     
@@ -112,7 +136,7 @@ class Unicorn(object):
                 paths = [os.path.join(dirpath, filename).replace('\\', '/') for filename in filenames]
                 if callback:
                     for path in paths:
-                        print 'feeding %s' % path,
+                        print 'feeding %s ...' % path,
                         callback(class_name, path)
                         print 'done!'
     
@@ -123,18 +147,76 @@ class Unicorn(object):
         return self.tell_buff(content)
     
     def tell_buff(self, buff):
-        words = self.seg.cut(buff)
+        buff = helper.unicodefy(buff)
+        words = self._cut_text(buff)
+        factors_dict = dict()
         for class_name in self._class_dict:
             freqs_dict = self._get_freqs_dict_by_class(class_name, words)
-            multi_freq = 1
-            for word in words:
-                multi_freq *= self._get_freq_in_dict(freqs_dict, word)
-            print class_name, multi_freq
+            factors_dict[class_name] = self._get_factors(freqs_dict, words)
+        product_dict = self._factors_to_product(factors_dict)
+        product_dict = self._normalize_product_dict(product_dict)
+        class_result_list = product_dict.items()
+        class_result_list = sorted(class_result_list,
+                                   cmp=self._cmp_class_result_list,
+                                   reverse=True)
+        first_result = class_result_list[0]
+        
+        return first_result
+        
+    
+    def _cmp_class_result_list(self, x, y):
+        if x[1] < y[1]:
+            return -1
+        elif x[1] == y[1]:
+            return 0
+        else:
+            return 1
+    
+    def _normalize_product_dict(self, product_dict):
+        total = sum(product_dict.values())
+        for key in product_dict:
+            value = product_dict[key]
+            value /=  total
+            product_dict[key] = int(value * 1000 + 0.5) / 1000.0
+        
+        return product_dict
+        
+    
+    def _factors_to_product(self, factors_dict):
+        product_dict = dict()
+        if factors_dict:
+            factor_count = len(factors_dict.values()[0])
+            keys = factors_dict.keys()
+            for i in range(factor_count):
+                for key in keys:
+                    old_product = product_dict.get(key, None)
+                    if old_product:
+                        product_dict[key] *= factors_dict[key][i]
+                    else:
+                        # starting from a value of 1
+                        product_dict[key] = factors_dict[key][i]
+                total_product = 1.0
+                for key in keys:
+                    total_product *= product_dict[key]
+                average_product = total_product ** (1.0 / len(keys))
+                for key in keys:
+                    product_dict[key] /= average_product
+#                print product_dict
+                    
+        return product_dict
+    
+    def _get_factors(self, freqs_dict, words):
+        factors = []
+        for word in words:
+            factors.append(self._get_freq_in_dict(freqs_dict, word))
+        
+        return factors
             
         
     def clear_db(self):
         print 'clear db...',
-        self._redis_instance.flushdb()
+        keys = self._redis_instance.keys(constants.REDIS_PREFIX + '*')
+        self._redis_instance.delete(keys)
         print 'done!'
         
         return None
@@ -142,10 +224,10 @@ class Unicorn(object):
     
 def main():
     un= Unicorn()
-    un.clear_db()
-    un.feed_multi_text(constants.TEXT_PATH)
-    f = 'C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample/C000007/10.txt'
-    un.tell_file(f)
+#    un.clear_db()
+#    un.feed_multi_text(constants.TEXT_PATH)
+    f = 'C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample/C000010/10.txt'
+    print un.tell_file(f)
 
 
 if __name__ == '__main__':

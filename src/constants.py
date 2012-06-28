@@ -11,6 +11,8 @@ TEXT_PATH = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
                          'resource/SogouC.mini.20061102/Sample').replace('\\', '/')
 CLASS_LIST_PATH = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
                          'resource/SogouC.mini.20061102/ClassList.txt').replace('\\', '/')
+CLASS_WEIGHT_LIST_PATH = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
+                         'resource/SogouC.mini.20061102/ClassWeightList.txt').replace('\\', '/')                         
 COMMON_FREQ_PATH = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
                          'resource/SogouW/Freq/SogouLabDic.dic').replace('\\', '/')
 
@@ -21,4 +23,4 @@ REDIS_DB = 2
 REDIS_PREFIX = 'un_'
 
 WORD_FREQ_KEY = 'freq:%s'
-RARE_FREQ = 0.01
+RARE_FREQ = 0.1
