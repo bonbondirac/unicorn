@@ -1,0 +1,22 @@
+
+　　“英语已成为录取文学硕士的主要障碍！”2006考研分数线刚出炉，就有不少人惊呼。原来，今年国家文学硕士英语录取最低分数线为57分，比往年又提高2分，再创历史新高。这使得各高校的文学专业(除自主招生外)不得不面临这样一个困境，录取人数严重不足。
+　　3月25日，曲阜师范大学日照校区新闻传播学院的一名学生在采访中说：“文学类的英语分数国家定为57，正常吗？郁闷。”
+　　记者在调查中发现，有49.42%的人认为今年的国家线合理，41.01%的人认为今年的国家线不合理。如辽宁某重点高校的文学院，报考北京文学硕士的考生，因公共课分数无法达到国家最低分数线标准，竟无一人被录取，出现了“全军覆没”的败局。这些考生在报考院校的总分排名中不乏佼佼者，却最终失之交臂，使得极有培养潜力的文学人才，游弋在录取大门之外。
+　　考研队伍中，早就流传着“考研就是考英语”的定论。由于英语成绩的新高，文学专业不得不面临着“生源不懂文学，教师不愿教学，人才无法入学”的新的困境。业内人士认为，如果英语成绩继续阻碍优秀文学生源的录取，很多年之后，文学专业将无路可走。
+　　来源：日照网 
+
+
+
+
+你认为今年的国家线合理吗？
+
+很合理  高了  
+低了  
+
+你能过线吗？
+
+没问题  压线。。。  
+我挂了  
+
+     
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }

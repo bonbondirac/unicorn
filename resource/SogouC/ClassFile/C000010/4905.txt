@@ -1,0 +1,9 @@
+　　CNET科技资讯网4月17日国际报道 McAfee近期宣布推出McAfee IntruShield3.1 入侵防护解决方案和全新IntruShield Security Manager（ISM ）设备。ISM 是一个强大的、预置的、即插即用的设备，能够管理IntruShield IPS 的部署。
+　　IntruShield 3.1 拥有很多全新的功能，包括集中的、内嵌的Web 客户端保护、下一代DoS 防护和业界第一个基于风险的IPS 解决方案。IntruShield 3.1 技术大大提高了IntruShield 的安全功能，可以防护零日攻击、DoS/DdoS、SYN Flood 攻击、间谍软件、恶意软件、VoIP漏洞、网络钓鱼、僵尸网络、网络蠕虫、木马和端到端应用。
+　　McAfee ISM设备是一个全硬件、简单易用的企业级设备，为IntruShield IPS 解决方案提供了集中的、可扩展和实时的策略管理。ISM 预置了IntruShield 3.1 软件、许可证和策略管理，提供了对网络威胁和攻击的缺省IPS 阻断。
+　　McAfee IntruShield 3.1软件的功能包括：
+　　Risk-Aware入侵防护通过智能地检测、标识和阻断最相关的预警和攻击，提高工作效率。通过导入和交互McAfee Foundstone 风险评估信息以及Nessus的开放源漏洞信息，能够使企业锁定风险，并为风险管理进行优先排序。
+　　内置Web 客户端可以主动保护未打补丁的Web 浏览器和桌面机，免遭网络攻击、网络钓鱼、间谍软件、僵尸网络和其它恶意软件的侵害。它还能防止未预期程序的下载，同时防止未授权网络访问。McAfee是唯一能够主动阻止僵尸网络通信和安装的公司。
+　　下一代DoS 防护是业界最高的下一代DoS 防护技术。该技术提供了集中的、实时的防护DoS 攻击、网络攻击和网络欺诈的新功能。所有全新的加密SYN-cookie技术与IntruShield 多层阈值、基于概要（profile-based ）和虚拟IPS 功能结合在一起，提供了对DoS 、DdoS和SYN flood 攻击的细粒度保护。
+　　具备灾难恢复功能的实时管理利用对ISM 主动的管理服务技术，实现连续的和高可用管理。自动化Fail-Over （故障排除）和Fail-Back （故障后恢复）技术能够在失效事件中实现关键配置数据的灾难恢复。
+　　McAfee产品营销总监Vimal Solanki 说：" 作为业界网络IPS 技术、性能和功能的标准，McAfee正在改变人们对入侵防护的看法以及他们对入侵防护中的期待。这是对现有和将来客户的一种持续创新和革新行动，并且这种创新和革新已经有所收获-IntruShield继续提供主动防护的新方法，同时节省时间、降低成本以及保护企业投资。"

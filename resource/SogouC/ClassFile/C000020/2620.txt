@@ -1,0 +1,121 @@
+
+　　【来源：济南新东方学校】 【作者：赵晓栋】
+　　四级阅读理解难，难在长难句。如何破解长难句，是做好四级阅读理解的关键一环。破解长难句通常采用方法是找准主谓宾去除定状补，笔者认为，抓住长难句特点进行庖丁解牛是破解四级阅读理解长难句的又一制胜法宝。
+　　四级阅读理解长难句有以下六大特点：
+　　1、主语拉长
+　　一般来讲，汉语主语比较简短。相比之下，英语中主语一旦拉长，就会增加读者的理解难度。
+　　解决方法：有效分解主谓成分，断开之后各个击破。例如：
+　　The streams, lakes, meadows(草地), mountain ridges and forests that make the 
+Poconos an ideal place for balck bears have also attracted more people to the 
+region. （2005.6）
+　　首先，把原句子分解为两个简单独立的句子：
+　　（1）The streams, lakes, meadows(草地), mountain ridges and forests that make 
+the Poconos an ideal place for balck bears溪流、湖泊、草地、山脉、森林，使得Pocono成为黑熊理想的栖息地
+　　（2）have also attracted more people to the region. 吸引了越来越多的人们来到这里。
+　　其次，句子整合翻译：
+　　溪流、湖泊、草地、山脉、森林，这些不仅使得Pocono成为黑熊理想的栖息地，而且吸引了越来越多的人们来到这里。
+　　2、 分词短语打头，句子呈现三段（或三段以上）的长句式
+　　分词短语（包括现在分词和过去分词）做状语，这一句式比较常见，读者阅读时由于要区分短语和主语之间的逻辑关系，所以理解上有难度。并且分词短语本身往往由于掺入了插入语成分，理解上就更为困难。
+　　解决方法：理清主动和被动关系。一般来说现在分词与主语之间是主动关系；而过去分词与主语之间是被动关系。
+　　例如：
+　　Operating out of a century-old schoolhouse in the village of Long Pond, 
+Pennsylvanis, the Conservancy’s Bud Cook is working with local people and 
+business leaders to balance economic growth environmental protection. 
+（2005.6）
+　　翻译：在宾西法尼亚州的朗庞德村庄有一栋上百年历史的校舍，大自然保护协会的成员巴德-库克就在这里办公，他与当地人民和商业领导合作，以努力平衡好经济发展与环境保护之间的关系。
+　　☆注意：介词短语位于句首类似分词短语形式。例如：
+　　In a time of low academic achievement by children in the United States, 
+many Americans are turning to Japan, a country of high academic achievement and 
+economic success, for possible answers. （2005.1）
+　　翻译：有一段时间，美国的儿童学业表现不尽如人意，许多人于是转向日本，想从中寻求可能的解决办法，因为日本不仅经济实力强，而且学术成就也很高。
+　　☆特别注意不定式to位于句首表目的，一定是考试重点。例如：
+　　原文：To prepare children for successful careers in first grade and beyond, 
+Japanese schools do not teach reading, writing, and mathematics, but rather 
+skills such as persistence, concentration, and the ability to function as a 
+member of a group. (2005.1)
+　　翻译：为了使孩子能在一年级和以后有良好的表现，日本的学校并不教授阅读、写作、和算数，而是教孩子们诸如毅力、注意力和群体合作能力等技巧。
+　　考题：In Japan’s preshcool education, the focus is on
+　　A. preparing children academically B. developing children’s artistic 
+interests
+　　C. tapping children’s potential D. shaping children’s character
+　　3、 多个谓语动词连用
+　　简单句之所以简单是因为成分单一便于读者理解。而四级阅读理解中，出题人为增加阅读难度，就会把几个谓语动词放在一个句子当中。但是无论局势如何变化，英语句子本身就犹如一棵大树，只能有一个主干起支撑作用，其他起辅助作用。
+　　解决方法：遇到多个谓语动词连用情况要分清主句谓语动词和从句的谓语动词。剔除细枝末节之后，句子也就好理解了。例如：
+　　Scratchy throats, stuffy noses and body aches all spell misery, but being 
+able to tell if the cause is a cold or flu(流感) may make a difference in how long 
+the misery lasts. （2005.1）
+　　解析：此句是由but引导的并列句。前面一句话容易理解，谓语动词是spell,关键看后一句话。but引导的句子黑体下划线是主语，该句子真正谓语动词是may 
+make，如下面所示：
+　　but being able to tell if the cause is a cold or flu(流感) may make a 
+difference in how long the misery lasts.
+　　翻译：喉咙发痒、鼻塞、浑身酸痛都令人痛苦，但是能够确定造成这种痛苦的根源是普通感冒还是流感，对这种痛苦能折磨你多就会起关键作用。
+　　4、举例作为插入语（显著词such as; for example; including etc.）
+　　插入语主要起补充或说明的作用，我们在进行快速阅读的时候通常会把它省略，即忽略不看。但是，笔者在这里要提出的一点是，如果根据文章问题回原文定位句子时，如果定位的关键句子包含了以上插入语中的任何一种形式，则答案往往就在此处。例如：
+　　原文：Finally, other people may give us instrumental support—financial aid, 
+material resources, and needed services—that reduces stress by helping us 
+resolve and cope with our problems.
+　　考题： Helping a sick neighbor with some repair work is an example of
+　　A. instrumental support B. informational support
+　　C. social companionship D. the strengthening of self-respect
+　　（1）Cold symptoms such as stuffy nose, runny nose and scratchy throat 
+typically develop gradually, and adults and teens often do not get a fever. 
+（2005.1）
+　　翻译：普通感冒患者的一些典型症状，如鼻塞、流鼻涕、喉咙发痒，发作比较缓慢，成人和青少年患者一般不会有发热症状。
+　　（2）And in general, flu symptoms including fever and chills, sore throat and 
+body aches come on suddenly and are more severe than cold symptoms. （2005.1）
+　　翻译：一般来说，流感症状包括发烧、发冷、喉咙发痒、浑身疼痛，比普通感冒的症状来得突然和猛烈。
+　　☆注意：举例有时可以换成短语，如介词短语、不定式短语等等；还可以换成有两个破折号引起的插入语成分。例如：
+　　It is 37 years later. Stokoe—now devoting his time to writing and editing 
+books and jounals and to producing video materials on ASL and deaf culture—is 
+having lunch at a café near the Gallaudet campus and explaining how he started a 
+revolution.(2004.6)
+　　时间过了37年。现在Stoloe致力于撰写和编辑关于美国手语和聋哑人文化的书籍和杂志，以及制作相关的录像材料。
+　　5、并列句连用使得句子变长（主谓宾都可以并列）
+　　并列句是四级阅读理解中的主要句式。出题人会把几个成分相同的并列句子，通过剔除多余成分从而使其合并为一个很长的句子。
+　　解决方法：破解这样句子的关键是要弄清楚两个句子的逻辑关系，补全成分后重新还原为几个单独的句子即可。例如：
+　　To make matters worse for the government, it soon emerged that the 
+Princess’s trip had been approved by the Foreign Office, and that she was in 
+fact very well-informed about both the situation in Angola and the British 
+government’s policy regarding landmines. (2004.6)
+　　翻译：对政府来说，更糟糕的是，不久得知的消息是，王妃的安哥拉之行得到过外事办的批准，并且她事实上非常了解安哥拉的形势和英国政府关于地雷的政策。
+　　相当于拆分成三个句子：
+　　(1) To make matters worse for the government
+　　(2) It soon emerged that the Princess’s trip had been approved by the 
+Foreign Office.
+　　(3) It soon emerged that she was in fact very well-informed about both the 
+situation in Angola and the British government’s policy regarding landmines.
+　　6、多重复合句叠加
+　　所谓多重复合句叠加，就是说一个长句子当中可能包含了好几种句式（并列的定语从句、状语从句、介词短语等等）。
+　　解决方法：分清主从句，理清句子逻辑关系至关重要。通常采用图表法。例如：
+　　（1）Then there is the general, all covering apology, which avoids the 
+necessity of identifying a specific act that was particularly hurtful or 
+insulting, and which the person who is apologizing should promise never to do 
+again. (2006.1)
+　　结构图：
+　　★①——☆①
+　　○——○——
+　　★②——☆②
+　　说明：
+　　○——○=then there is the general, all covering apology
+　　★①=which avoids the necessity of identifying a specific act
+　　★②= and which the person should promise never to do again
+　　☆①= that was particularly hurtful or insulting
+　　☆②= Who is apologizing
+　　显然，原句子是由有there be引导做主句，后面跟了两个which 
+引导的定语从句，两者是并列的。比较特殊的是which定语从句中有各自有一个定语从句，像是一个连环套。
+　　分解为以下几个句子：
+　　1.Then there is the general, all covering apology
+　　2.Which avoids the necessity of identifying a specific act
+　　3.That was particularly hurtful or insulting
+　　4.And which the person
+　　5.Who is apologizing
+　　6.Should promise never to do again
+　　翻译：
+　　1.然后就有了一种一般意义的、无所不包的道歉
+　　2.这种道歉避免了一种指明特别行为的必要性
+　　3.特别是让人伤心或者令人委屈的行为
+　　4.这种道歉使得人们
+　　5.道歉的人们
+　　6.承诺以后不再犯类似的行为
+　　句子整合翻译：然后还有一种泛泛的无所不包的道歉，这种道歉避免了一种指明特别让人伤心、特别令人委屈的、道歉者应该保证以后不会再犯的具体行为。
+　　

@@ -1,0 +1,12 @@
+
+　　摘要：微软发布了5款软件升级包，修正了IE和Windows中的多个安全缺陷。
+　　天极网 4月12日消息 据外电报道，本周二，微软发布了数款补丁软件，修正了一个已经被黑客在利用的IE缺陷。
+　　微软发布了5款软件升级包，修正了IE和Windows中的多个安全缺陷。微软还发布了一款针对Outlook 
+Express的“重要的”补丁软件，以及一款针对Windows FrontPage Server Extensions和SharePoint Team 
+Services 2002的“中等的”补丁软件。
+　　本月最受用户期待的升级包是MS06-013升级包，它修正了包括CreateTextRange缺陷在内的10个IE缺陷。黑客已经在利用该缺陷兴风作浪，他们诱惑用户访问恶意网站，在用户的PC上安装恶意代码。eEye 
+Digital Security和Determina已经抢在微软之前发布了修正该问题的补丁软件。
+　　微软还修正了Windows Explorer处理Component Object 
+Model对象方式中的一个“危急”缺陷。通过诱惑用户访问一个恶意网站，黑客就能够在用户的PC上下载、执行代码，进而控制该PC。该缺陷影响所有微软支持的Windows版本。
+　　第三个危急补丁软件修正了名为RDS.Dataspace的ActiveX控件中的一个缺陷，该缺陷在Windows 98、Windows 
+2000、Windows XP上属于“危急”级别，在Windows Server 2003上的危险等级被评定为“中等”。

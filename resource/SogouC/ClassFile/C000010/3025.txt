@@ -1,0 +1,11 @@
+　　作者：Phoneme
+　　虽然现在许多苹果电脑销售商在销售的Mactel台式机和笔记本中都预装了Windows XP操作系统，但苹果公司一再重申公司并不希望发生此现象。
+　　分销商在售卖的Mactel中使用了苹果公司之前公布的Boot Camp 双启动的方法预安装了微软的Windows XP操作系统。ExperCom公司推出预装Windows XP Home系统的MacBook的价格为2029美金（仅比普通苹果笔记本售价高35美金）。ClubMac.com，MacMall.com和OnSale.com三间网上购物公司提供预装Windows XP操作系统的MacBook Pro，iMac和Mac mini。其中安装Windows XP Home和Windows XP Professional的价格分别比一般苹果电脑高上100美金和150美金。
+　　现在市场上Windows XP Home的零售价一般为190－198美金。
+　　MacMall的一位代表曾表示，用户在下订单的时候，还能够选择安装Windows XP操作系统的硬盘分区位置。
+　　但销售商对安装Windows XP的操作系统几乎不能提供任何支持。ExperCom在自己的网站上表示“苹果公司和我们公司都不会对Windows XP提供技术支持，我们仅能为客户预安装该系统，但我们不会回答任何关于Windows的问题。”在ClubMac，MacMall和OnSale的相关网站上也能发现类似的说明。
+　　与销售商相比，苹果公司对待Windows的态度依然冷漠。在苹果发布第二季度财政报告后的问答环节中，苹果的首席财务官（CFO）Peter Oppenheimer重申了苹果对待Windows的态度。
+　　他表示“我们并没有任何需要或者计划去销售或者支持Windows操作系统，但我们认为Boot Camp方法能让Mac更加吸引人。”
+　　JupiterMedia公司分析师Joe Wilcox表示，在Mac上安装Windows是必然所致。但他认为这种趋势不会大规模流传。他谈到“我认为有两种可能。其一，那些需要在Mac上运行Windows的用户，现在可以凭借Boot Camp方法来实现。但这些人并不会真正去购买Windows操作系统软件。其二，是需要在不备之需时使用Windows的用户。也许就是那些家里面夫妻两个一人喜欢Mac但另一个人需要使用Windows来办公的情况。”
+　　如果苹果在其零售店或者网上商店销售Windows将会带来灾难性的后果。Wilcox表示“苹果对宣传Windows并不感冒。”如果苹果真的在电脑中预装了Windows，就会像其它厂商（惠普，戴尔）一样，要承担起Windows技术支持的责任。
+　　Wilcox还指出，可以定制同时运行Mac OS X和Windows XP双操作系统的选项确实会引人关注。“苹果在2006年不会遇到什么销售障碍。Windows Vista不属于2006 ，Mac是2006年最新奇，新鲜，与众不同的新事物。那些对千篇一律的事情感到厌倦的用户，那些喜欢尝鲜的用户，会发现Windows系统遍地都是，他们会考虑选择Mac。”

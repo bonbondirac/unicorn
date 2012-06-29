@@ -1,0 +1,8 @@
+&nbsp&nbsp&nbsp&nbsp近日,信产部公布了2006年第一批通信行业标准项目计划,其中包括TD-SCDMA手机、TD-SCDMA与WCDMA之间的测试方法等一系列具体标准,甚至包括此前备受关注的TD-SCDMA直放站。
+&nbsp&nbsp&nbsp&nbspTD终端的行业标准为下一步研发重点
+&nbsp&nbsp&nbsp&nbsp根据信产部科技司公布的2006年第一批通信行业标准项目计划,共计105项,多数计划的研发起止时间为2006年5月至2007年5月。
+&nbsp&nbsp&nbsp&nbsp其中,涉及到TD-SCDMA行业标准的项目计划共有8个左右,涉及到WCDMA终端使用的USIM以及TD-SCDMA终端使用USIM的测试等。
+&nbsp&nbsp&nbsp&nbsp尤其值得关注的是,其中关于TD-SCDMA终端的一些具体行业标准位列其中,而关于TD-SCDMA系统设备的行业标准研发计划并不多。例如,信产部科技司的计划项目中包括明确支持HSDPA技术的TD-SCDMA终端设备的功能要求、性能要求、接口要求、机械和环境要求、电源要求等行业标准等。
+&nbsp&nbsp&nbsp&nbsp直放站标准也将出炉
+&nbsp&nbsp&nbsp&nbsp信产部的该批计划中也包含了TD-SCDMA直放站。此前,曾有报道称,TD-SCDMA直放站为系统设备中的薄弱环节,研发滞后,至今标准都未出。
+&nbsp&nbsp&nbsp&nbsp此次,信产部透露,2006年通信行业标准中列入了TD-SCDMA直放站的行业标准制定计划,规定了TD-SCDMA数字蜂窝移动通信网直放站的无线指标、操作维护、环境试验等技术要求和测试方法。

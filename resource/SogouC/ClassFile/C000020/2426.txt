@@ -1,0 +1,71 @@
+
+
+
+
+
+
+　　三、语义题
+　　如果在阅读中遇到了不熟悉的单词，或者尽管认识某单词却对某种特定语言环境下的意义或指代关系不理解，就需要运用一些语言知识和语法技能来猜测其含义。
+　　语义题的主要目的不是考察学生的词汇量，而是考察学生通过上下文的意思、结构及指代关系等来分析词语或句子的能力。题干中所考察的词语或句子有以下几种情况：（1）所考察的内容为学生熟悉的词语，只不过在此文中词义有所引申，或有所指代；（2）所考察的内容为学生的常用词，但往往考察的是该词比较生僻或容易被忽略的一项含义，需要充分理解上下文才可能找出正确答案；（3）测试的内容对应试者来说可能完全是一个生词，只有通过上下文所提供的信息或线索才可以找到正确答案；（4）题干中所要考察的是一个代词所指代的具体内容。这类题型是语义题中比较特殊的，关键是掌握好句与句之间的结构关系。
+　　在作语义题时要注意文章中出现的各种线索，只要方法得当，再难的问题也可以迎刃而解。下面是几种语义题解题方法：
+　　1. 定义
+　　如果一个单词或词组比较生僻难懂，后面往往会给出它的定义，其形式往往是判断句，同位语等。例如：
+　　Ecology， the relation of plants and living crea？鄄tures to each other and to 
+their surroundings， at？鄄tracts many experts.
+　　上句中“Ecology”是个生僻的单词，但我们从其后的同位语中很容易猜出它的词义为“生态学”。
+　　2. 类比
+　　阅读文章中有时会出现类比，利用熟悉的词通过类比关系来推测生词的含义，是解题的有效方法之一。如下例所示：
+　　As economist Thomas Schelling explains， “Everybody ranks himself high in 
+qualities he values：careful drivers give weight to care， skilled drivers give 
+weight to skill， and those who are polite give weight to courtesy，” This way 
+everyone ranks high on his own scale.
+　　解析：从经济学家Thomas 
+Schelling的话中我们可以看出：careful的司机注重care，skilled的司机注重skill，因此可以推断出polite的司机一定是注重politeness的，文章中没有出现politeness，而是出现了 
+courtesy，由此可以得出结论：politeness和courtesy一定是同义词。
+　　3.同义词和反义词
+　　在文章中经常在生词的同一句中或上下文会有同义词或反义词出现，只要知道其中一个词的含义，问题就迎刃而解了。例如：
+　　The incipient stage of disease can be treated more easily than the later 
+stages.
+　　上句中的“incipient stage”和“later stages”意思相反，因此很容易判断“incipient”的意思为“早期的”。
+　　4.相关信息
+　　有时，一个单词或词组的含义需要从上下文的相关信息来判断。上下文的相关信息越多越详细，就越容易准确地判断词义。例如：
+　　Can we pay too much attention to detail？ Absolutely.Perfectionists struggle 
+over little things at the cost of something larger than they work toward.“To 
+keep from losing the forest for the trees”， says Charles Garfield， associate 
+professor at the Universi？鄄ty of California， San Francisco， “we must constantly 
+ask ourselves how the details we‘re working on fit into the larger picture.If 
+they don’t，we should drop them and move to something else.”
+　　问题：
+　　The word perfectionists（para.3，Line 1）refers to those who ________.
+　　A） demand others to get everything absolutely right
+　　B）know how to adjust their goals according to the circumstances
+　　C）pay too much attention to details only to lose their major objectives
+　　D）are capable of achieving perfect results in whatever they do
+　　解析
+　　答案是C.文章在第三段第二句话中提到“perfectionists（完美主义者）”一词，我们可以通过文章的上下文，判断出该词的含义。文章在第三段第二句话提到该词后，立即指出了完美主义者的行为，即“在小事情上下工夫，而付出的代价远远超过了他们所从事的工作的价值。”与C项对该词的解释正好相符。第一句“pay 
+too much attention to detail”，也提供了对C项的佐证。
+　　四、推断题
+　　推断题要求学生具有根据已知信息进行推理和判断的能力。这类题从文章中找不到正确答案，需要读者从字里行间去体会作者的意图，因此难度较大。要正确解答此类题型，考生必须从作者明确叙述的观点和事实出发，推断作者的真正意图。
+　　在生活中我们时时刻刻都会遇到推理和判断，无论是阅读还是交谈，我们都在不停地推理和判断。例如，你正要出门，你的同伴对你说：“好象要下雨！”从他的话中你可以推断出他是在提醒你带把伞，或是改个时间出去。
+　　阅读文章进行的推理常常要比生活中的例子复杂得多，但也一定是建立在以下步骤的基础上：
+　　1.对文章字面文字的正确理解。
+　　2.根据上下文、常识和专业知识，对字面意思在具体环境中的含义做出正确理解。
+　　3.掌握文章中心思想，体会作者的意图，在此基础上，进行合理推断。
+　　阅读中常见问题　　一、读过文章后，感觉似乎看懂了，做题时却犹豫不决，无法选出正确答案。
+　　这种情况通常是考生的单词量不够、词义掌握不够扎实，或者语法结构掌握不到位，觉得自己看懂了，但具体到细节时，却无法做出正确选择。
+　　二、看到题目后感觉无从下手。
+　　这就要求考生熟悉本文所阐述的四种题型，针对不同的题型，采取不同的解题技巧。
+　　三、 阅读速度太慢。
+　　学生在做阅读理解题时，常常会出现如下不良习惯 ，严重影响阅读速度：
+　　1.指读。阅读者形成边读边用手指在所读内容下划过的不良习惯。
+　　2.唇读。读者在阅读时低声读出声音，或不出声的伴有唇部动作的默读。
+　　3.回读。阅读时遇到读不懂的地方反复回读，浪费了大量时间。在阅读过程中，有些难懂的词或词组可以在理解句子大意的情况下忽略过去。
+　　4.译读。有些考生在阅读的同时，习惯性地将英语翻译成汉语，浪费了大量时间。
+
+
+
+
+复习指南：成人英语三级考前重点抓阅读
+更多相关成考资料及评论
+　　来源：北京考试报
+　　&nbsp;&nbsp; 

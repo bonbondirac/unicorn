@@ -1,0 +1,15 @@
+　　一、错误以改动最少为原则
+　　这是指每行最多只能改动一处，即在一个词上进行改动。可以是增词、减词、改词，但无论是何种改动，只能是增加一词，减少一词或把一个词改成另一个词。没有错误的一行只需打勾表明正确而无需改动。
+　　二、实词以改变形式为原则
+　　在改错中，实词的处理一般只是改变它的形式，而不能改变其词义也不能改换成另一个实词，更不能随便给添删。例如：
+　　1.Would you mind do me a favour?
+　　[析]此处考查mind后面应该跟动词的V-ing形式。但有些学生把mind给删去了，使原句成为Would you do me a favour? 这样改虽然纠正了语法错误，但是句子的语气却变得很不委婉，故不是正确答案。
+　　2.I’m sure we’ll have a wonderfully time together.
+　　[析]把wonderfully改为wonderful。wonderfully是副词，不能作定语。有些学生把wonderfully改为good，这样虽然意思上对了，但是却削弱了语气。
+　　三、原意以保持不变为原则
+　　一般应遵循保持句子原意的原则，即不能改变文章或作者所表达的意思，包括其语气和上下文的逻辑关系。只对短文中的用词错误、语法错误、行文关系错误进行改正，且要小改而不大改。例如：
+　　1. Modern people know more about health, have better food, and to live in cleaner surroundings.
+　　[析]去掉to。因为and连接的是三个并列的谓语动词know，have和live。部分学生误将and去掉而保留了to，to live in cleaner surroundings成了目的状语。这样改，从语法角度看是正确的，但是句子的结构和意义却变了，故不是正确答案。
+　　2. That’s why Americans get uneasy when a listener is silence and shows no change of expression.
+　　[析] silence改为silent。学生对silence前加介词构成in silence短语很熟悉，所以一看此处silence前无介词in，即判断为少介词in，但忽略了介词短语in silence相当于副词silently，表示“安静地，无声地”，多用作状语，修饰动词。而此处应把silence改为相应的形容词silent，silent与前面的系动词is构成系表结构，表示状态。
+　　江苏如东高级中学　缪庭 

@@ -1,0 +1,216 @@
+
+
+
+
+
+2006年中国国际戒烟竞赛报名
+
+带 * 为必填项
+
+参加者须年满18岁，目前吸烟或消费其他烟草制品，在竞赛开始前至少吸烟1年。自愿参加2006年戒烟竞赛，保证采取积极行动戒烟，并遵守竞赛规则，配合调查，如实完整的回答与竞赛有关的问题
+
+您的姓名:  &nbsp;* 　您的性别  请选择 男 女 &nbsp;* 　　　　　　　　
+
+您的文化程度  请选择 没上过学 小学 初中 高中或中专 大专及以上 &nbsp;* 　 
+
+您的职业  请选择 机关单位负责人 专业技术人员 办事人员 商业服务人员 农林渔水利等从业人员 军人 生产、运输人员 其他 &nbsp;* 其它职业: 
+
+您的婚姻状况  请选择 独身未婚 已婚或同居 离婚或分居 丧偶 &nbsp;* 
+
+您的出生年月:  &nbsp;* 
+
+您的身份证号:  &nbsp;* (注：如有其它证件系统不能确认请发邮件至adeal@vip.sohu.net，邮件名称标明戒烟竞赛)
+
+您所在的省(区、市)、县(区、市):  &nbsp;* 
+
+您的通讯地址:  &nbsp;* 
+
+您的邮政编码:  &nbsp;* 
+
+您的电子邮件: 
+
+您常用的联系电话:  &nbsp;* 
+
+您每天吸多少支烟？:  &nbsp;* 或者吸多少支雪茄:  或者吸多少烟斗:  
+
+您吸烟多少年了？:  &nbsp;* 
+
+您以前是否戒过烟？  请选择 从未 1-2次 3次及以上 &nbsp;* 
+
+请填写两个证明人的资料 ，要求1、证明人必须年满18周岁，与参赛者经常见面；2、其中一个证明人是参赛者的亲戚 
+
+证明人1的资料：
+
+姓名:  &nbsp;* 
+
+性别  请选择 男 女 &nbsp;* 
+
+通讯地址:  &nbsp;* 
+
+邮政编码:  &nbsp;* 
+
+联系电话:  &nbsp;* 
+
+证明人2的资料：
+
+姓名:  &nbsp;* 
+
+性别  请选择 男 女 &nbsp;* 
+
+通讯地址:  &nbsp;* 
+
+邮政编码:  &nbsp;* 
+
+联系电话:  &nbsp;* 
+
+     
+
+function f_chkdata(form){
+if(form.menu1.options[0].selected){
+  alert("请选择参赛者的性别");
+  form.menu1.focus();
+  return false;
+}
+if(form.menu2.options[0].selected){
+  alert("请选择参赛者文化程度");
+  form.menu2.focus();
+  return false;
+}
+if(form.menu3.options[0].selected){
+  alert("请选择参赛者的职业");
+  form.menu3.focus();
+  return false;
+}
+if(form.menu4.options[0].selected){
+  alert("请选择参赛者的婚姻状况");
+  form.menu4.focus();
+  return false;
+}
+if(form.menu5.options[0].selected){
+  alert("请选择参赛者以前是否戒过烟？");
+  form.menu5.focus();
+  return false;
+}
+if(form.menu6.options[0].selected){
+  alert("请选择证明人1的性别");
+  form.menu6.focus();
+  return false;
+}
+if(form.menu7.options[0].selected){
+  alert("请选择证明人2的性别");
+  form.menu7.focus();
+  return false;
+}
+var strTemp=form.text1.value;
+if(strTemp.length==0){
+  alert("请输入参赛者所在的省(区、市)、县(区、市)");
+  form.text1.focus();
+  return false;
+}
+var strTemp=form.text2.value;
+if(strTemp.length==0){
+  alert("请输入参赛者的姓名");
+  form.text2.focus();
+  return false;
+}
+var strTemp=form.text3.value;
+if(strTemp.length==0){
+  alert("请输入参赛者的出生年月");
+  form.text3.focus();
+  return false;
+}
+var strTemp=form.text4.value;
+if(strTemp.length==0){
+  alert("请输入参赛者的身份证号");
+  form.text4.focus();
+  return false;
+}
+var strTemp=form.text4.value;
+if(strTemp.length>0 && F_Survey_IsPID(strTemp)==false){
+  alert("请输入正确的身份证号码");
+  form.text4.focus();
+  return false;
+}
+var strTemp=form.text5.value;
+if(strTemp.length==0){
+  alert("请输入参赛者的通讯地址");
+  form.text5.focus();
+  return false;
+}
+var strTemp=form.text6.value;
+if(strTemp.length==0){
+  alert("请输入参赛者的邮政编码");
+  form.text6.focus();
+  return false;
+}
+var strTemp=form.text8.value;
+if(strTemp.length==0){
+  alert("请输入参赛者常用联系电话");
+  form.text8.focus();
+  return false;
+}
+var strTemp=form.text9.value;
+if(strTemp.length==0){
+  alert("请输入参赛者每天吸多少支烟？");
+  form.text9.focus();
+  return false;
+}
+var strTemp=form.text12.value;
+if(strTemp.length==0){
+  alert("请输入参赛者吸烟多少年了？");
+  form.text12.focus();
+  return false;
+}
+var strTemp=form.text13.value;
+if(strTemp.length==0){
+  alert("请输入证明人1的姓名");
+  form.text13.focus();
+  return false;
+}
+var strTemp=form.text14.value;
+if(strTemp.length==0){
+  alert("请输入证明人1的通讯地址");
+  form.text14.focus();
+  return false;
+}
+var strTemp=form.text15.value;
+if(strTemp.length==0){
+  alert("请输入证明人1的邮政编码");
+  form.text15.focus();
+  return false;
+}
+var strTemp=form.text16.value;
+if(strTemp.length==0){
+  alert("请输入证明人1的联系电话");
+  form.text16.focus();
+  return false;
+}
+var strTemp=form.text17.value;
+if(strTemp.length==0){
+  alert("请输入证明人2的姓名");
+  form.text17.focus();
+  return false;
+}
+var strTemp=form.text18.value;
+if(strTemp.length==0){
+  alert("请输入证明人2的通讯地址");
+  form.text18.focus();
+  return false;
+}
+var strTemp=form.text19.value;
+if(strTemp.length==0){
+  alert("请输入证明人2的邮政编码");
+  form.text19.focus();
+  return false;
+}
+var strTemp=form.text20.value;
+if(strTemp.length==0){
+  alert("请输入证明人2的联系电话");
+  form.text20.focus();
+  return false;
+}
+return true;
+}
+
+
+

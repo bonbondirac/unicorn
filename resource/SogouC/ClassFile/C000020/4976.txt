@@ -1,0 +1,124 @@
+
+　　【来源：北京新东方大愚文化】
+　　&gt;&gt;《考研英语新题型快速突破》
+　　第二章选考题型之一——7选5题
+　　第一节 7选5题制胜方略
+　　一、7选5题概述
+　　该节分为两个部分： 主干部分和选项部分。主干部分的原文为500～600词， 其中有5段空白——空白处的位置可能在段首、段中、段末， 
+但不会是文章的第一句， 一般情况下也不会是最后一句。选项部分为6～7段文字， 每段可能是一个句子， 可能是两三个短句， 
+也有可能是完整的段落。其中有5段文字分属于主干部分的空白处。要求考生依据自己对文章的理解，从7个选项中选择出这5段文字放回文中相应的空白处。
+　　考生需要搞清楚主干内容和结构上的关系和布局， 从而分辨出选项部分从结构和内容上看是属于文章的哪个部分， 
+并可以与空白处的上下文有机地衔接起来。一般情况下不会有特别明显的词汇、句子等语言方面的提示， 也并不要求考生过分关注某一具体的细节； 而是要着眼于全文， 
+在理解全文内容、文章结构、逻辑关系（如并列关系、因果关系、从属关系等）的基础之上，做出正确选择。
+　　二、 7选5题常考题型
+　　（一） 主旨题
+　　主旨题是7选5题最常考题型之一， 突出体现在段首和段尾题上。考查文章主旨在一定程度上也是在考查考生的快速阅读力， 
+考查考生对文章的整体理解和把握。
+　　1. 主旨题题型举例
+　　During this period the Eastern and mid Western areas of the United States 
+were in the process of rapid industrialization. The population was rapidly 
+increasing and many Americans found themselves living in large cities. The West, 
+however, was still largely untouched and a frontier lifestyle persisted. There 
+were few social institutions and the role of government was limited.（41）.
+　　[D] Westerns are often thought to be crude and simple as they paint a 
+romanticized and unrealistic portrait of the American West of the time.
+　　[E] Because of the changes occurring in the more densely settled regions of 
+the United States, the lifestyle of the West was of considerable fascination to 
+both Americans and foreigners.
+　　题解：
+　　根据段落意思， 41题应为该段内容的总结性语句， 因此应当选择选项E。
+　　2. 主旨题应试技巧
+　　笔者建议考生在做主旨题题型时遵循这样的原则： 因为此类题干扰性最大， 难度也最大， 考生需读完全文才能准确把握文章主题， 所以考生拿到这种题时， 
+不要急于去找答案， 不论其出现在什么位置都把它作为最后一道题来做， 因为在做另外四道题时， 无疑有助于加深对整个文章的理解。而且， 事实上， 首先做主旨题， 
+考生往往还会回过头来核查答案， 这样耗时间， 做题效率低。
+　　3. 主旨题干扰项的特征
+　　(1) 以偏概全
+　　以偏概全是主旨题干扰选项最常见的特点， 它是指主旨题的选项只涉及文章中的细节：
+　　① 某个自然段中的细节， 如一句未展开论述的话；
+　　② 某自然段的大意。包含局部信息的选项不能成为主旨题的答案。包含自然段大意的选项干扰性很强， 做题时尤其应该留神。
+　　(2) 范围过宽
+　　这是指选项包含的内容超出或多于文章阐述的内容，过于笼统。
+　　(3) 陌生概念
+　　陌生概念是指从文章本身无法推断出来的信息， 即文章中未提到、找不到语言依据的信息。
+　　（二） 逻辑关系题
+　　1. 逻辑关系题题型举例
+　　(43）There were also crablike creatures， whose bodies were covered with a 
+horny substance. The body segments each had two pairs of legs， one pair for 
+walking on the sandy bottom， the other for swimming. The head was a kind of 
+shield with a pair of compound eyes， often with thousands of lenses. They were 
+usually an inch or two long but some were 2 feet.
+　　[E] The earliest animals whose remains have been found were all very simple 
+kinds and lived in the sea. Later forma are more complex， and among these are 
+the sealilies， relations of the starfishes， which had long arms and were 
+attached by a long stalk to the sea bed， or to rocks.
+　　[F] When an animal dies， the body， its bones， or shell， may often be 
+carried away by streams into lakes or the sea and there get covered up by mud.If 
+the animal lived in the sea its body would probably sink and be covered with 
+mud.More and more mud would fall upon it until the bones or shell become 
+embedded and preserved.
+　　题解：
+　　该题的解题关键是注意also所表达的并列关系， 所以该题选E。
+　　2. 逻辑关系题之因果条件题
+　　（1） 因果条件题题型举例
+　　Vegetables and chicken cost more when they have been cut into pieces by 
+someone other than the one who buys it. A family should expect to pay more when 
+several “TV dinners” are taken home from the store. These are fully cooked 
+meals， consisting of meat， vegetables， and sometimes desert， all arranged on a 
+metal dish. The dish is put into the oven and heated while the housewife is 
+doing something else. Such a convenience costs money. (44）
+　　[A] Thus， as economists point out： “Some of the basic reasons for widening 
+food price spreads are easily traceable to the increasing use of convenience 
+foods， which transfer much of the time and work of meal preparation from the 
+kitchen to the food processor’s plant.”
+　　[B] They are among the “middlemen” who stand between the farmer and the 
+people who buy and eat the food. Are middlemen the ones to blame for rising food 
+prices?
+　　题解：
+　　因果条件题是逻辑关系题中最常出现的一种类型。例如本题，根据段落意思， 可以判断44题是一道因果结论题， 所以选A。
+　　（2） 表达因果关系的词汇衔接手段
+　　表示因果关系的名词： basis （根据）， result， consequence， reason；
+　　表示因果关系的动词： result in （结果）， result from （由于， 由……）， follow from （……结果）， 
+base...on... （以……为基础）， be due to （由于）；
+　　表示因果关系的连词或介词： because， since， for， as， therefore， so， thus， why， with；
+　　表示因果关系的副词： as a result， consequently 等。
+　　（3） 表达条件关系的词汇衔接手段
+　　① 以when、if、as 等连词引导的条件从句；
+　　② 文章中细节性的条件关系——通常由一些表示条件关系的词汇手段表达： 如 depend upon （取决于）， determine 
+（决定）等。
+　　（三） 例证题
+　　1. 例证题题型举例
+　　As well， there are 2，000 transmitter towers around Australia， many in high 
+density residential areas. (43）
+　　[E] For example， Telstra， Optus and Vodaphone build their towers where it 
+is geographically suitable to them and disregard the need of the community. The 
+electromagnetic radiation emitted from these towers may have already produced 
+some harmful effects on the health of the residents nearby.
+　　[F] The conclusion is that mobile phones brings more harm than benefit.
+　　题解：
+　　根据towers的复现关系， 选择E为正确答案。这是一道典型的例证题。
+　　2. 例证题应试技巧
+　　例证题为7选5题型的常考点之一， 所以阅读时对于for example， for instance， such as， as 等引出的例子可以注意， 
+划下这几个提示词， 以便做题时查找。由于阅读文章大都是说明文和议论文， 所以文章中举出一些例子无非是为了说明一定的道理。无论例子在原文的何处出现， 
+这个例子之前或之后不远处通常都有一句总结说明性的话， 这句话是例子所说明的观点，因此是解题的关键， 要特别关注。
+　　3. 表达例证题的注意事项
+　　（1） 词汇衔接手段 illustrate （例证）， give an example （举例）， verify （证实）， for 
+instance（例如）， for example （例如）。
+　　（2） 注意例证所在段落的主题句。
+　　例证选项与例证所在段的概括段落思想的主题句具有一致性。因为举例的目的是为了说明观点， 而段落中的例子大多是说明段落主题思想的。
+　　（四） 定义题
+　　1. 定义题题型举例
+　　(44）Of these， the ammonites are very interesting and important.They have a 
+shell composed of many chambers， each representing a temporary home of the 
+animal.As the young grew larger it grew a new chamber and sealed off the 
+previous one.Thousands of these can be seen in the rocks on the Dorset 
+Coast.
+　　[A] The shellfish have a long history in the rock and many different kinds 
+are known.
+　　[B] Nevertheless， we know a great deal about many of them because their 
+bones and shells have been preserved in the rocks as fossils. From them we can 
+tell their size and shape， how they walked， the kind of food they ate.
+　　题解：
+　　给陌生概念下定义， 往往出现在文中或段落靠前的地方， 因此定义选项往往成为段首题的宠儿， 所以该题选A。
+　　2. 定义题应试技巧
+　　定义题的出现往往与文章结构有关系， 根据英文的写作习惯， 定义出现在段首的情况居多。因此， 如果出题点在段首， 则可以先考虑是否为定义题。
+　　

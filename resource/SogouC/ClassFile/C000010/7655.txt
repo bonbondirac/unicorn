@@ -1,0 +1,5 @@
+　　网界网消息 Red Hat计划收购JBoss可能会使IBM寻觅其他Linux发行版软件合作伙伴。
+　　分析师4月10日表示，Red Hat在4月10日宣布收购开源中间件供应商JBoss，可能导致Red Hat的合作伙伴，例如IBM，开始或扩大与其他Linux发行版软件厂商的合作关系，例如知名的Novell公司。
+　　RedMonk分析师James Governor表示：“Novell将可能与IBM联系，并会表示‘让我们一起做点什么。’Debian也可能会得到好处，也许IBM会向他们表露一些心怡之意。”Debian是另一家Linux发行版软件厂商。
+　　Governor认为Red Hat与JBoss在4月10日宣布联合，最受影响的是IBM。JBoss毫不掩饰它对IBM中间件WebSphere的竞争态势，同时分析师认为JBoss的这种态度很可能会持续下去。
+　　Interarbor Solutions的首席分析师Dana Gardner希望IBM能重新评估它与Red Hat的合作关系，并再仔细考虑其自身对开源软件的发展途径。他表示，通过在Novell SuSE Linux平台上开发竞争性开源软件，IBM的WebSphere Application Server Community Edition和一些Eclipse工具可在战略上弥补Red Hat/JBoss联手对IBM造成的影响。（网界网重庆森林编译）

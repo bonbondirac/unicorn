@@ -1,0 +1,300 @@
+
+
+自动滚动
+var theFloaters = new floaters();
+
+theFloaters.play();
+
+
+var formlist='';
+formlist=formlist+'';
+formlist=formlist+'自动滚动';
+theFloaters.addItem('formdiv2','document.body.clientWidth-106',0,formlist);
+
+theFloaters.play();
+
+TimeScrollCentAll();
+
+搜狐直播员: 2006年4月29日 10：30 NBA常规赛 
+湖人VS太阳 敬请留意！！ [0:0 ] 
+搜狐直播员: NBA季后赛分析-湖人VS太阳：得分王对垒助攻王 [0:0 ] 
+搜狐直播员: 前瞻：奇才用身体对抗詹姆斯 湖人靠整体打太阳 [0:0 ] 
+搜狐直播员: 比赛很快就开始了！！ [0:0 ]
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 欢迎网友点评火箭与姚明表现 
+搜狐直播员：独家文字比分直播NBA所有比赛(实时技术统计) 
+搜狐网友： 我喜欢湖人;也喜欢太阳,所以不管谁赢我都觉得nba比赛给我们带来了快乐，所以我们的业余生活才丰富多彩． 
+搜狐网友： 纳什是不错,可拿他和科比来比较对他不公平!如果科比能打90分的话,纳什最多打50分,将够一半! ． 
+搜狐直播员: 太阳首发阵容：托马斯，马里昂，迪奥，纳什，贝尔。 [0:0 ] 
+搜狐直播员: 湖人首发阵容：沃尔顿，奥多姆，布朗，帕克，科比。 [0:0 ] 
+搜狐直播员: 比赛很快就开始了！ [0:0 ] 
+搜狐网友： 些玩固不化因循守旧的家伙就知道拿以前乔丹的数局来压科比，大哥，以前的比赛能和现在比吗？？看看以前各队的得分，现在的太阳在那时也就是个中等货色吧 
+
+搜狐网友： 湖人会嬴太阳的。科比虽然不比乔丹，但是他们都有自己的特点，他是联盟里最有天分的篮球运动员，他没乔丹的成绩， 
+搜狐直播员： 欢迎网友湖人与太阳表现 
+搜狐网友： 我认为科比的湖人一定淘汰太阳，因为禅师给湖人带来了整体进攻和防守，湖人的战术很明确，充分利用身高欺负小个太阳，科比可以吸引包夹，把求球传进内线，一对一太阳内线狠吃亏。， 
+
+搜狐网友： 科比是球神。勒布朗是球圣 (我给他烧香) 
+搜狐直播员：独家文字比分直播NBA所有比赛(实时技术统计)
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007MenLeft","第一节：")
+
+SetCookie("sports007MenLeft","第一节：第二节")
+
+SetCookie("sports007MenLeft","第一节：第二节：第三节：")
+
+SetCookie("sports007MenLeft","第一节：第二节：第三节：第四节：")
+
+SetCookie("sports007MenRight","第一节：第二节：第三节：第四节：")
+ 
+搜狐直播员： 欢迎网友湖人与太阳表现 请大家注意使用文明语言，观点可以不一样，不能人身攻击啊 
+搜狐直播员：独家文字比分直播NBA所有比赛(实时技术统计) 
+搜狐直播员: 本场比赛需要在骑士VS奇才结束后才能直播，不便之处，敬请留意！！ [0:0 ] 
+搜狐直播员: 本场比赛需要在骑士VS奇才结束后才能直播，不便之处，敬请留意！！ [0:0 ] 
+搜狐直播员: 由于电视直播关系，本场比赛需要在骑士VS奇才结束后才能直播，不便之处，敬请留意！！ [0:0 ] 
+搜狐网友： 我喜欢纳什,也喜欢科比,但更喜欢太阳,太阳的进攻很漂亮,NBA其他球队没法跟它比. 
+搜狐直播员: 比赛开始了！！ [0:0 ] 
+搜狐直播员: 马里昂和奥多姆跳球，沃尔顿总经理未果。 [0:0 ] 
+搜狐直播员: 托马斯得到篮板。 [0:0 ] 
+搜狐直播员: 纠正一下，沃尔顿中距离未果。 [0:0 ] 
+搜狐直播员: 托马斯得到篮板，快步突破上篮未果。 [0:0 ]
+SetCookie("sports007centLeft","2");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 奥多姆得到篮板，转移科比，一记小天钩命中。 [2:0 ] 
+搜狐网友： 科比确实比乔丹拥有的要少一些，包括强力的队友，球迷的支持，但是拥有的少不代表就比乔丹差，我一直认为，乔丹的成功是时势造英雄，而科比的伟大是英雄在造就 
+
+搜狐网友： 科比确实比乔丹拥有的要少一些，包括强力的队友，球迷的支持，但是拥有的少不代表就比乔丹差，我一直认为，乔丹的成功是时势造英雄，而科比的伟大是英雄在造就 
+
+搜狐直播员: 这里沃尔顿干什么阿！推人犯规，吃到了一个恶意犯规（第一类），吃到了一个技术犯规。 [2:0 ] 实时技术统计:湖人－太阳
+SetCookie("sports007centLeft","3");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 科比罚入技术发球。 [3:0 ]
+SetCookie("sports007centLeft","3");SetCookie("sports007centRight","2");SetCookie("sports007centTime","第一节");
+ 实时技术统计:湖人－太阳 
+搜狐直播员: 托马斯中距离回敬2分。 [3:2 ] 
+搜狐直播员: 马里昂跳投未果。 [3:2 ] 欢迎网友湖人与太阳表现 
+搜狐网友： 季后赛不是常规赛，在防守更加凶狠的情况下，马里昂就会顾此失彼，上赛季对马刺就是很好的例子，毕竟身高才是大前的本钱。
+SetCookie("sports007centLeft","5");SetCookie("sports007centRight","2");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 布朗跳投命中。 [5:2 ] 
+搜狐直播员: 托马斯还打手犯规，布朗加罚未果。 [5:2 ] 
+搜狐直播员：独家文字比分直播NBA所有比赛(实时技术统计)
+SetCookie("sports007centLeft","5");SetCookie("sports007centRight","5");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 托马斯接应纳什分球，外围命中3分。 [5:5 ]
+SetCookie("sports007centLeft","7");SetCookie("sports007centRight","5");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 沃尔顿中距离命中。 [7:5 ] 
+搜狐直播员: 托马斯走步失误了。 [7:5 ] 
+搜狐直播员: 帕克外围三分落空。 [7:5 ] 欢迎网友湖人与太阳表现
+SetCookie("sports007centLeft","7");SetCookie("sports007centRight","7");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 马里昂突破上篮建功。 [7:7 ] 
+搜狐直播员: 奥多姆三分落空。 [7:7 ] 
+搜狐网友： 科比季后赛得分降低，但是却把整个湖人带动了起来，这才是领袖的精神。 
+搜狐直播员: 贝尔外围三分未果。 [7:7 ]
+SetCookie("sports007centLeft","9");SetCookie("sports007centRight","7");SetCookie("sports007centTime","第一节");
+ 实时技术统计:湖人－太阳 
+搜狐直播员: 帕克中距离命中。 [9:7 ] 
+搜狐直播员: 纳什突破上篮未果。 [9:7 ]
+SetCookie("sports007centLeft","11");SetCookie("sports007centRight","7");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 科比得到篮板，转移布朗中距离建功 [11:7 ] 
+搜狐网友： 乔丹当时有皮朋，罗得曼帮助，要是现在的湖人首发变成姚明，奥多姆，布朗，帕克，科比，多好啊。
+SetCookie("sports007centLeft","11");SetCookie("sports007centRight","10");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 贝尔外围命中3分。 [11:10 ]
+SetCookie("sports007centLeft","13");SetCookie("sports007centRight","12");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 奥多姆和迪奥各建一功。 [13:12 ] 
+搜狐直播员: 这里迪奥非法防守犯规，吃到一个技术犯规。 [13:12 ]
+SetCookie("sports007centLeft","14");SetCookie("sports007centRight","12");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 科比罚入技术罚球。 [14:12 ] 
+搜狐直播员: 沃尔顿的失误。 [14:12 ] 
+搜狐直播员: 马里昂中距离未果。 [14:12 ] 
+搜狐直播员: 奥多姆得到篮板。 [14:12 ]
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","12");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 帕克跳投命中！！ [16:12 ] 
+搜狐直播员: 纳什的走步失误。 [16:12 ]
+SetCookie("sports007centLeft","18");SetCookie("sports007centRight","12");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","18");SetCookie("sports007centRight","12");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 沃尔顿跳投命中。 [18:12 ] 正在直播NBA季后赛：奇才VS骑士 后卫之间对决 
+搜狐直播员: 纳什三分未果，湖人请求暂停，比赛还有6分22秒结束 本节。 [18:12 ] 
+搜狐直播员: 科比4分，奥多姆4分，沃尔顿4分。 [18:12 ] 实时技术统计:湖人－太阳 
+搜狐直播员: 纳什0分，马里昂2分！ [18:12 ] 欢迎网友湖人与太阳表现 
+搜狐直播员: 奥多姆跳投未果。 [18:12 ] 
+搜狐直播员: 马里昂得到篮板，科比断球了。 [18:12 ] 
+搜狐直播员: 沃尔顿跳投未果。 [18:12 ]
+SetCookie("sports007centLeft","20");SetCookie("sports007centRight","12");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 布朗补篮得分。 [20:12 ]
+SetCookie("sports007centLeft","20");SetCookie("sports007centRight","15");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 托马斯接应巴博萨，外围命中3分 [20:15 ] 
+搜狐直播员: 帕克突破上篮未果。 [20:15 ] 
+搜狐直播员: 巴博萨外围跳投未果。 [20:15 ] 
+搜狐直播员: 布朗得到篮板。 [20:15 ] 尼克斯期待掘金抛售马丁 莫宁成纽约老帅新猎物 
+搜狐直播员: 巴博萨的犯规。 [20:15 ] NBA直播实录:骑士胜奇才 阿里纳斯关键一投失手
+SetCookie("sports007centLeft","22");SetCookie("sports007centRight","15");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 沃尔顿突破上篮建功。 [22:15 ]
+SetCookie("sports007centLeft","22");SetCookie("sports007centRight","18");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 托马斯接应巴博萨分球，外围命中3分。 [22:18 ] 欢迎网友点评湖人与太阳表现
+SetCookie("sports007centLeft","24");SetCookie("sports007centRight","20");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 沃尔顿和纳什各建一功。 [24:20 ] 
+搜狐直播员: 巴博萨突破上篮未果。 [24:20 ] 
+搜狐直播员: 奥多姆得到篮板。 [24:20 ] 
+搜狐网友： 如果奥多姆正常发挥，那在大前位置上马里昂就没戏，我觉得奥多姆会慢慢成长起来的，在大前的位置上会成为加内特，诺韦斯基，邓肯的综合体和接班人。有支持的吗？ 
+。
+SetCookie("sports007centLeft","26");SetCookie("sports007centRight","20");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 帕克包括得分。 [26:20 ]
+SetCookie("sports007centLeft","26");SetCookie("sports007centRight","23");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 托马斯继续接应巴博萨分球，三分建功。 [26:23 ] 
+搜狐直播员: 托马斯断球，奥多姆回防犯规。 [26:23 ] 
+搜狐直播员: 比赛还有95秒结束本节比赛！ [26:23 ] 
+搜狐直播员: 科比4分，沃尔顿8分。 [26:23 ]
+SetCookie("sports007centLeft","26");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 马里昂上了罚球线，两罚两中。 [26:25 ] 
+搜狐直播员: 科比跳投未果。 [26:25 ]
+SetCookie("sports007centLeft","28");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 奥多姆突破上篮建功。 [28:25 ] 
+搜狐直播员: 科比断球，来自贝尔。 [28:25 ]
+SetCookie("sports007centLeft","31");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 库克外围跳投命中3分，来自科比的助攻。 [31:25 ] 
+搜狐直播员: 乔治的犯规。 [31:25 ]
+SetCookie("sports007centLeft","31");SetCookie("sports007centRight","27");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","31");SetCookie("sports007centRight","27");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 托马斯两罚两中。 [31:27 ] 
+搜狐直播员: 科比压哨三分未果，本节比赛结束！ [31:27 ] 
+搜狐直播员: 托马斯16分，5篮板，纳什0分4助攻。 [31:27 ] 
+搜狐直播员: 奥多姆4分8篮板2助攻。科比4分2篮板4助攻。 [31:27 ]
+SetCookie("sports007centLeft","31");SetCookie("sports007centRight","27");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007MenLeft","第一节：31分第二节：第三节：第四节：")
+
+SetCookie("sports007MenRight","第一节：27分第二节：第三节：第四节：")
+
+SetCookie("sports007centLeft","31");SetCookie("sports007centRight","27");SetCookie("sports007centTime","第二节");
+ 小皇帝41分骑士客场称雄 阿里纳斯错失终场决杀 
+搜狐直播员：独家文字比分直播NBA所有比赛(实时技术统计) 欢迎网友点评湖人与太阳表现 
+搜狐网友： 本场比赛有意思，科比似乎要和纳什争当助攻王。。 
+搜狐直播员: 比赛开始了！ [31:27 ] 
+搜狐直播员: 科比的犯规， [31:27 ]
+SetCookie("sports007centLeft","31");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 迪奥两罚1中。 [31:28 ] li class="white"&gt;搜狐直播员：蒂姆-托马斯拿了16分，大家看看他的资料， 
+搜狐直播员: 库克跳投未果 [31:28 ] 
+搜狐直播员: 琼斯得到篮板。 [31:28 ]
+SetCookie("sports007centLeft","31");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 迪奥突破上篮建功。 [31:30 ] 
+搜狐直播员: 贝尔跳投未果。 [31:30 ] 
+搜狐直播员: 乔治跳投三分未果。 [31:30 ] 
+搜狐直播员: 库克无球犯规。 [31:30 ] 
+搜狐直播员: 豪斯跳投未果。 [31:30 ] 
+搜狐直播员: 沃尔顿得到篮板。 [31:30 ] 
+搜狐网友： 太阳的三分球不会每节都这样准的,湖人会慢慢取得领先地位的。 
+搜狐网友： 感觉湖人还缺少一个强力的大个蓝领，内线和太阳打还行，跟马刺、活塞、热火就吃亏了。真希望拜努姆和米姆能挑上大梁。 
+搜狐直播员: 贝尔的犯规。 [31:30 ] 
+搜狐直播员: 库克突破上篮未果。 [31:30 ] 
+搜狐直播员：独家文字比分直播NBA所有比赛(实时技术统计) 
+搜狐网友： 朋友们想不想也来个什么“黄7奇迹”啊。 （台球都打得不错） 
+搜狐直播员: 库克 的犯规，现在是官方暂停时间！ [31:30 ] 
+搜狐直播员: 奥多姆4分8篮板2助攻。科比4分2篮板4助攻。 [31:30 ] 
+搜狐网友： 只要科比想,有什么是他做不到的呢? 正因为他那强大的攻击力,人们往往忽视了他的视野. 正如初期同样忽视了乔丹的防守一样 
+（视野？） 
+搜狐网友： 两队都是如此喜欢,但太阳今年没有小斯不会走远,还不如被湖人淘汰。太阳这几场都是个别点出采，赢得了战斗，赢不了战役。 
+搜狐网友： 湖人如果赢了太阳，肯定能进西部决赛，科比就是科比，独一无二！ 
+SetCookie("sports007centLeft","31");SetCookie("sports007centRight","33");SetCookie("sports007centTime","第二节");
+
+搜狐直播员: 琼斯外围命中命中3分。 [31:33 ]
+SetCookie("sports007centLeft","33");SetCookie("sports007centRight","33");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 沃尔顿跳投命中。 [33:33 ]
+SetCookie("sports007centLeft","33");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 豪斯左翼命中3分。 [33:36 ] 小皇帝41分骑士客场称雄 阿里纳斯错失终场决杀 
+搜狐网友： 太阳的打法让人匪夷所思，托马斯2米08却打小前锋，马里昂2米01却承担着大前篮板和盖冒重任。如此没有章法焉能不败，这里不是常规赛，更不是幼儿园 
+
+搜狐直播员: 豪斯的犯规。 [33:36 ] 
+搜狐直播员: 湖人请求暂停，比赛还有6分28秒结束上半场。 [33:36 ] 
+搜狐直播员: 托马斯16分5篮板 [33:36 ] 
+搜狐直播员: 纳什0分1篮板4助攻。 [33:36 ] 
+搜狐直播员: 纳什顶替了巴博萨。 [33:36 ] 
+ 
+ 
+ 
+骑士组图 欢迎网友点评湖人与太阳表现 
+搜狐直播员: 科比外围跳投未果，但自投自抢。 [33:36 ] 
+搜狐网友： 太我觉得今年的季后赛就是冷门迭报：西部第七湖人淘汰第二太阳，东部第七公牛淘汰第二热火。常规赛的升率不是季后赛取胜的砝码。有人支持吗？ 
+
+搜狐直播员：独家文字比分直播NBA所有比赛(实时技术统计) 实时技术统计:湖人－太阳
+SetCookie("sports007centLeft","35");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 科比补篮得分。 [35:36 ]
+SetCookie("sports007centLeft","35");SetCookie("sports007centRight","39");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 迪奥中距离命中，而且博到了布朗的犯规，加罚命中。 [35:39 ] 
+搜狐直播员: 马里昂的犯规 [35:39 ] 
+搜狐直播员: 科比中距离未果。 [35:39 ] 
+
+搜狐网友： 太阳的进攻真是令人眼花缭乱,赏心悦目,看篮球就应该看这样的比赛. 
+搜狐直播员: 纳什外围三分未果。 [35:39 ]
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","39");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 帕克突破上篮建功。 [37:39 ] 
+搜狐网友： 太阳永不落!温度达到82度,晒死湖人! 
+SetCookie("sports007centLeft","40");SetCookie("sports007centRight","39");SetCookie("sports007centTime","第二节");
+
+搜狐直播员: 维加西奇外围命中3分。 [40:39 ] 
+ 
+ 
+
+搜狐直播员: 纳什突破上篮未果。 [40:39 ]  
+
+SetCookie("sports007centLeft","42");SetCookie("sports007centRight","39");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 奥多姆突破上篮建功。 [42:39 ] 
+搜狐直播员: 纳什转移巴博萨跳投未果。 [42:39 ] 
+搜狐直播员: 科比外围命中3分。 [45:39 ] 欢迎网友点评湖人与太阳表现 实时技术统计:湖人－太阳 
+搜狐直播员: 纳什突破上篮未果未果，但得到进攻篮板。 [45:39 ] 
+搜狐网友： 湖水永不干，源源不断，熄灭太阳！！！湖人必胜！！！ 
+搜狐直播员: 现在太阳请求暂停。 [45:39 ] 尼克斯期待掘金抛售马丁 莫宁成纽约老帅新猎物 
+搜狐直播员: 比赛还有3分钟结束上半场比赛！ [45:39 ] 
+搜狐直播员: 奥多姆6分8篮板3助攻。科比6分3篮板5助攻。 [45:39 ] 
+搜狐直播员: 马里昂外围三分未果。 [45:39 ] 
+搜狐直播员: 布朗外围跳投未果。 [45:39 ] 
+搜狐直播员: 奥多姆补篮未果。 [45:39 ]
+SetCookie("sports007centLeft","47");SetCookie("sports007centRight","39");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 布朗补篮得分。 [47:39 ]
+SetCookie("sports007centLeft","47");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 纳什外围命中3分了。 [47:42 ] 小皇帝41分骑士客场称雄 阿里纳斯错失终场决杀 
+搜狐直播员: 托马斯的犯规了。 [47:42 ] 实时技术统计:湖人－太阳
+SetCookie("sports007centLeft","49");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 奥多姆突破博到了犯规，两罚两中。 [49:42 ] 
+搜狐直播员: 马里昂跳投未果。 [49:42 ] 
+现场图： 
+SetCookie("sports007centLeft","49");SetCookie("sports007centRight","44");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","49");SetCookie("sports007centRight","44");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 贝尔得到篮板，外围命中2分。 [49:44 ] 欢迎网友点评湖人与太阳表现 
+搜狐直播员：独家文字比分直播NBA所有比赛(实时技术统计) 
+搜狐直播员: 帕克压哨三分未果，上半场比赛结束拉！ [49:44 ]

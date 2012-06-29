@@ -1,0 +1,15 @@
+　　BEA系统有限公司近日发布了两款门户产品系列的新产品，这些新产品旨在帮助企业利用在Java和.NET平台方面的投资，更容易地使用基于.NET的应用和服务，从而进一步提高客户在微软技术方面的投资价值。两款新发布的产品分别是BEA AquaLogic交互SharePoint控制台（BEA AquaLogic Interaction SharePoint Console）和BEA门户.NET应用加速器（BEA Portal .NET Application Accelerator），前者用于支持在BEA门户部署环境中集成和管理Windows SharePoint 服务；后者是一个集成工具集，用于帮助ASP.NET开发人员利用面向远程门户组件的Web服务（WSRP）标准来构建和提供应用，这项标准用于BEA AquaLogic Interaction和BEA WebLogic Portal或符合WSRP标准的任何门户服务器。
+　　BEA营销和产品管理副总裁Shane Pearson说：“BEA在2005年12月发布了统一门户路线图，今天发布的新产品，标志着BEA统一门户路线图取得了重要的里程碑式发展。BEA 门户.NET应用加速器的推出，进一步增强了BEA作为可提供跨平台、面向服务并同时支持Java和.NET的产品的市场领导者的地位。BEA AquaLogic Interaction SharePoint Console产品旨在通过提供另一种途径，为客户的Windows SharePoint服务环境添加管理和治理功能，使其能够在具有一系列企业门户需求的环境中易于使用，从而为BEA客户提供更强大的功能。”
+　　可跨企业利用SharePoint服务的解决方案
+　　BEA AquaLogic Interaction SharePoint Console产品旨在帮助客户应对可能由广泛部署的微软Windows SharePoint Services（WSS）TeamSites引起的信息自然散乱现象。这款产品为希望管理和治理微软Windows SharePoint服务环境的客户提供了新的解决方案，它提供了能跨整个机构的企业信息和TeamSites统一视图。该产品的主要功能如下：
+　　面向SharePoint的内容服务：该功能提供了统一的信息视图，是一种集成的收集和索引服务，用于扫描分布式SharePoint站点网络，为相应项目编制索引，并对统一知识管理系统中的站点和项目进行组织。
+　　SharePoint跨站点搜索：能够从单一的集成界面跨分布式SharePoint站点网络进行联合搜索。
+　　SharePoint Console：这是面向SharePoint的预包装交互门户组件控制台，包括SharePoint搜索门户组件和最近使用的SharePoint项目门户组件，前者提供了跨多个SharePoint站点进行单一搜索的功能；后者提供一个清单，可清晰显示每个用户经常访问的内容；
+　　内容和访问控制镜像：能够自动镜像BEA门户知识管理体验中的SharePoint站点、文档文件夹结构和文档级访问控制。
+　　BEA Portal .NET Application Accelerator产品旨在为ASP.NET开发人员提供直接支持，帮助他们把新的或现有的.NET应用和服务集成到由BEA AquaLogic Interaction或BEA WebLogic Portal驱动的门户当中。利用该工具包，ASP.NET开发人员无论是使用AquaLogic Interaction还是使用WebLogic Portal，都能够创建可由门户服务器提供和使用的ASP 1.1或ASP 2.0应用。
+　　BEA Portal .NET Application Accelerator产品的主要功能包括：
+　　ASP.NET Portlet API，用于开发ASP .NET 1.1或2.0；
+　　Visual Studio 2005 IDE Integration，用于直接通过“文件”菜单中的“新建”功能，创建ASP .NET 2.0的门户组件；
+　　.NET Web Control Consumer，用于通过WSRP标准来使用ASP.NET工件；
+　　.NET WSRP Producer，用于通过WSRP标准来生成ASP.NET工件。
+　　这两款新发布的产品能够帮助客户把或由企业自己开发、或由合作伙伴提供、或伴随企业并购而获得的.NET应用和服务集成到功能更强大的门户框架当中，它们通过WSRP标准提供了在AquaLogic Interaction和WebLogic Portal产品之间的更多互用性，从而能够帮助客户更容易地创建应用、更有效地在SOA部署环境使用这些应用。

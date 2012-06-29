@@ -1,0 +1,53 @@
+　　计世网 上周，两家希望从虚拟技术中获利的新兴厂商于公布了新战略的细节。这表明虚拟技术虽然是热门话题，但并不意味着可以轻易获利。
+　　Virtual Iron和XenSource均改变了自己虚
+　　拟化产品的发展方向，这种软件可以让一台计算机同时运行多个操作系统实例。Virtual Iron公司放弃了自己的虚拟化软件，转而支持开源Xen项目。而该项目的领导者XenSource则将放弃管理工具，目标直指虚拟化技术领先厂商VMware。
+　　在上周的波士顿LinuxWorld Conference and Expo上，这两家公司将说明他们的新战略。VMware、微软虚拟服务集团和SWsoft也将推出自己的计划，这次大会也许可以改叫VirtualisationWorld。
+　　如果模仿是最真诚的奉承形式，那么VMware经理可能会对Virtual Iron和XenSource惊人相似的言语感到脸红。
+　　XenSource共同创建人、首席技术官Simon Crosby说：“市场的确需要一位VMware的竞争对手。”
+　　Virtual Iron首席执行官John Thibault 说：“现在到了有一家公司挺身而出的时候了，成为VMware真正的商业竞争对手。”
+　　竞争者谋取优势的原因并不让人感到吃惊。2月，Forrester公司调查了1,221家客户（每个至少有1千名员工），结果发现，41%的北美客户已经使用虚拟化技术或计划进行试验测试，60%的客户计划在未来12个月内在这项技术上花更多的钱。
+　　研究发现，VMware是市场领头羊，43%的客户在x86服务器虚拟化时经常想到它，相比之下，考虑选择Windows Virtual Server的客户只有24%。这份报告说，Xen“还没有进入客户的考虑范围。”
+　　虚拟化技术是目前讨论最广泛的话题，意味着一台计算机可以同时运行多个操作系统，这样管理员就可以用一台高效率的服务器代替几台基本上闲置的服务器。这项技术在运行时“哄骗”程序，相信自己运行在真正的硬件上，而实际上是在叫做hypervisor的虚拟层上运行。
+　　这种把戏意味着多个操作系统可以同时使用一个硬件，或者在一台计算机转移到另一台计算机对付硬件故障或新处理需要时，被移动。
+　　虚拟化是高端服务器中一种非常成熟的特性。目前，由于它采用Intel和AMD的x86芯片，成为主流模式，因此像Virtual Iron和XenSource等公司正试图把它作为一种独立技术，进而实现商品化。
+　　AMD和Intel的虚拟化支持带来大变革，这意味着现在虚拟技术公司可以绕过VMware使用的聪明工程技巧。AMD 虚拟化（将于几个月后推出，以前叫Pacifica）和Intel的对应VT（于2005年开始推出）使Xen可以运行未作任何修改的操作系统。实际上，这意味着Xen既可以运行Microsoft Windows，也可以运行Linux。
+　　副作用是，VMware将面临来自XenSource和Virtual Iron更直接的竞争。然而，这还不是全部：另一家名为Parallels的新兴厂商也将与VMware竞争。
+　　Parallels公司营销经理Benjamin Rudolph说，该公司50美元的基于虚拟管理器的Parallels Workstation 2.1产品目前运行在Windows和Linux桌面机上，计划于2006年中旬推出中档服务器产品，在2006年下半年推出高端服务器产品。
+　　LinuxWorld上的对垒
+　　VMware为了保持其领先地位，一方面开放控制虚拟机器的接口，另一方面免费提供基本的虚拟机软件。周一，公司计划在LinuxWorld 上宣布一项相关举措：公司免版税向所有来宾提供虚拟机磁盘格式规格。这种格式可以和Microsoft的VHD规格和Xen的XVM竞争。
+　　在LinuxWorld上，厂商预计将宣布多项有关虚拟化的举措。由于开放源代码软件日益增长的影响，LinuxWorld大会自90年代发生了巨大变化。
+　　大会年度关于East Coast的讨论将于周一至周四在波士顿举行。
+　　除了参展商宣传操作系统相关技术之外，来自开源数据库和中间件公司的代表也计划参加。会议和主题演讲还将涉及开源业务模型对整个软件行业的影响，包括一个标题为“企业软件业务模型之死”的主题演讲。
+　　IBM计划在LinuxWorld 上宣布推出一项服务，帮助客户设计、安装和配置虚拟机，整合Linux服务器的。这表明，大型机服务器虚拟化技术开拓者IBM公司也试图在这项技术成为主流时从它身上赢利。
+　　操作系统上的虚拟化是一条路子，但SWsoft选择了一种更高层次的实现方法，将一个操作系统划分为多个虚拟环境，每个虚拟环境都有自己独立的应用。SWsoft计划在LinuxWorld上宣布推出Datacentre Automation套件。这种基于Web的管理工具可以完成像启动新环境或用软件模板配置新环境等任务。
+　　Xen开始在Linux王国流行。实际上，它将在今年年底时，被内置到Novell和Red Hat的收费Linux产品中，破坏像独立产品这样的虚拟化技术。
+　　XenSource“搁置”XenOptimiser
+　　XenSource 改变方向，一部分是因为XenSource“搁置”了XenOptimiser。Crosby说：“我们在过去半年里和客户交流，发现他们希望使用Xen的方式是通过Red Hat Enterprise Linux或SuSE Linux。”
+　　这两家Linux销售商目前是XenSource业务合作伙伴。Crosby说，这种布局是XenSource业务战略的一个方面，另一方面是销售与VMware竞争的名为XenEnterprise独立产品。
+　　XenSource不再计划销售其Xen管理工具软件——XenOptimiser。Crosby说：“我们目前将把它搁置起来了。”他说，目前市场上已经有多家受到客户欢迎的管理工具公司，这些客户“不愿看到XenSource与那些厂商直接竞争。”
+　　据Crosby说，XenEnterprise目前正在进行beta测试，在今年晚些时候采用VT和AMD Virtualisation技术的处理器普及时发布。到那时，XenSource将公布价格。
+　　Virtual Iron计划推出管理工具
+　　Virtual Iron与XenSource不愿开发管理软件的态度不同。它将利用即将推出的3个软件版本，让Xen客户可以管理Xen虚拟机。例如，它可以将虚拟机从一台物理计算机转移到另一台，并在一台计算机发生故障时重新启动虚拟机。
+　　该公司计划推出产品的3种版本。社区版将像Xen本身那样，依照GPL免费提供，将包括基本的Virtual Iron扩展程序。
+　　专业版也是免费的，支持管理一台服务器。企业版将使客户可以管理运行在多台计算机上的虚拟机，起价为1,500美元。
+　　Virtual Iron 3在Linux上的beta测试将于7月开始，在Windows上的测试于9月开始。Thibault说，这两种版本都将会在年底前正式推出。
+　　这一战略标志着Virtual Iron一次巨大的改弦更张。以前，该公司宣称其软件提供了一种利用InfiniBand 高速链接，将几台低端服务器连接起来构成相当于单台多处理器系统的机器。
+　　Thibault说：“退一步说，尝试向企业数据中心销售InfiniBand是一个真正的挑战，比花在我们自己产品上的时间还多。迷失在这种转变中的东西是我们开发了一种特性非常全面的管理平台。”
+　　在Virtual Iron改变方向时，它的共同创建人、前首席技术官Scott Davis离开了公司。Thibault说：“去年11月，我们决定改变前进方向。Scott不再留在公司了。”
+　　微软免费提供Virtual Server R2
+　　4月3日，微软公司宣布将免费提供Virtual Server R2，这是该公司虚拟化王牌产品的第二次降价，被看作是对竞争激烈的虚拟化软件市场的反应。
+　　之前，虚拟化市场老牌领导者VMware Inc公司为了应对微软公司Virtual Server 2005在2004年的降价狂潮，于今年一月宣布该公司的GSX Server将免费提供。同时，XenSource Inc. 和Virtual Iron Software Inc.公司正准备推出他们虚拟化软件的更新版本。
+　　Windows Server部产品市场主管Zane Adam承认，微软此次提供免费R2，在某种程度上是为了应对其他公司促销活动，并称这将是个趋势。
+　　虚拟化软件市场正加快日用化步伐，微软在这方面也正积极研发。一年前，微软称计划在2009年推出hypervisor。建立在Linux 基础上的XenSource和Virtual Iron等软件商鼓吹他们的软件比VMware速度更快、效率更高，但Adam表示那样的速度在未来将不会吸引到什么顾客。
+　　相关链接：
+　　JBoss 提升中间件产品
+　　4月3日，JBoss公司在波士顿LinuxWorld会议上表示将要发布原本是商业交易服务器的JBoss版本，以支持开源中间件堆栈。该公司也将推出一种新型商业过程管理软件和规章引擎。
+　　可供下载的JBoss Enterprise Middleware Suite (JEMS)包括JBoss Transactions 4.2、JBoss Rules 3.0和JBoss jBPM 3.1 (Business Process Management)。
+　　JBoss Transactions 4.2是对Arjuna TS (Transaction Service)交易管理软件重新命名的品牌，去年从Hewlett-Packard a和 Arjuna Technologies购得。JBoss Rules 3.0是Drools开源商业规章引擎的JBoss补充，可以处理复杂的规章和决策指标。jBPM的3.1版本是JBoss商业过程管理工作流中间件，特点是更新的拉-降功能的视觉设计。
+　　JBoss新的中间件在有无JBoss核心应用服务器的情况下都可以工作。Forrester Research.的资深分析师Michael Goulde 说，JBoss在中间件方面正取得进展，但还缺少经验。
+　　JBoss在支持为基础的商业模式方面一直很成功，市场管理副总裁Connolly称，在2005年，公司商业规模翻番，但他拒绝透露公司的收益情况。
+　　Ingres公司新款软件工具年内发布
+　　Ingres公司计划今年晚些时候发布一款新的软件工具，将数据库软件与Linux操作系统结合起来。这款软件将起到“综合维护系统”的作用，减少用户参与的集成工作量。
+　　Ingres技术总监Dargo称：“我们已经在实验室里做成了这款软件的原型，期待今年夏天面向用户的软件将会完成。”今年年底，Ingres公司希望能够在他们的技术框架上开发出来一些第三方应用软件如电子邮件，来支持他们自己的产品。
+　　在开发该工具的过程中，Ingres与一家Linux操作系统公司合作，Dargo相信他们的新产品会方便用户在Linux上虚拟数据库。他同时也希望该工具能帮助Ingres公司成为开源市场上的领头羊。
+　　在11000名ingres的使用者中，大约有50％到60％集中在欧洲，法国、德国和英国。Dargo表示，新版本的OpenRoad中间件预计会在今年年末上市，将包含一些第三方制作的软件。

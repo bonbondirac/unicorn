@@ -1,0 +1,7 @@
+
+　　【赛迪网讯】4月14日消息，权威调研机构Gartner日前指出，Mac计算机安装Windows操作系统不会给Mac系统带来病毒。
+　　据路透社报道，Gartner调研副总裁Michael 
+Silver表示，IT管理员完全没有必要担心安装Windows操作系统将使Mac计算机染上更多的病毒。Silver说：“所有的苹果用户都无需担心，Mac软件将被安装在另一个分区的不同的文件系统下。因此，运行Windows不会招惹更多的病毒。”
+　　苹果不久前发布了Boot Camp软件，允许基于英特尔处理器的新型Mac计算机安装Windows XP系统。但Silver同时指出，如果Boot 
+Camp软件能够吸引更多的用户，使得Mac平台日益流行，那么Mac OS X将成为黑客的潜在攻击对象。
+　　但整体而言，Gartner认为，Boot Camp软件不会在很大程度上推动Mac计算机的进一步普及。Gartner称：“除了苹果的传统市场外，Boot Camp不会在很大程度上吸引更多的企业用户。” 

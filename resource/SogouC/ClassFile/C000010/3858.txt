@@ -1,0 +1,8 @@
+　　　SSA Global日前宣布其正在与 IBM 合作传输一个硬软件结合、端对端的解决方案，帮助中小型制造商以高成本效益快速配置经验证的、SOA 上的 ERP 解决方案。
+　　该解决方案的亮点之一是 SSA ERPLN——SSA Global 的旗舰 ERP 解决方案，它在 IBM 基于 AMD 产品的 BladeCenter Linux 平台上预载和整合。 这一捆绑式解决方案还包含 SSA 整合(Integration)，可用于实现与 SSA ERPLN、IBM WebSphere 企业服务总线(Enterprise Service Bus)、IBM WebSphere 应用服务器(Application Server)、IBM DB2 以及 Novell SUSE Linux 企业服务器(Enterprise Server)的连通性。
+　　“SSA Global、IBM 和我们的合作伙伴共同开发了这一硬软件结合的解决方案，帮助离散混合式制造商显著降低在最新式技术平台上实施 ERP 所需的时间和成本，”SSA Global 执行副总裁 Graeme Cooksley 称，“这尤其有利于中小型企业，他们可以获得同类最佳解决方案，以合理的价格享受 SOA 所带来的 IT 灵活性。”
+　　“SOA 提高了企业满足市场需要的能力，通过鼓励 IT 资产的重用、将业务系统的整合简易化，帮助客户降低成本，” IBM WebSphere 与 SOA 部门副总裁 Sandy Carter 称，“IBM 和 SSA Global 正在为中小企业提供一个建立在 WebSphere 之上的灵活的基础架构，提高其满足市场需要的能力。”
+　　中小企业可采用 SOA 提高其整体业务灵活性。利用Web 服务和行业标准，用户可以从软件投资中获得更多价值，更大程度地实现 IT 灵活性。这一捆绑式解决方案旨在实现一个容易随业务与 IT 需求变化而扩展的 SOA 基础，满足中小企业的长远需求。
+　　SSA ERPLN 基于 SSA 开放基础架构(Open Architecture)而构建，这是一种最新式、开放标准的技术架构，使客户能够按照演进式、基于成本效益的战略来采用 SOA 范式。SSA ERPLN 旨在提供关键的功能性，帮助以订单为导向、基于项目的离散混合式制造商赢得成功。
+　　通过将 AMD Opteron LS20 用于 IBM BladeCenter，客户可缩减50%的服务器占位空间，降低33%的电力成本。Novell SUSE Linux 平台和具有直连架构(Direct Connect Architecture)的 AMD Opteron 处理器能够实现行业领先的每瓦特性能和原生双核处理，支持较大的用户工作负载。
+　　该解决方案，即 IBM BladeCenter 上预载的 SSA ERPLN，已投放北美市场，现计划推广到其他地区。

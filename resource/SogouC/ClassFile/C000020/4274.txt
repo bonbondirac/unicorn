@@ -1,0 +1,69 @@
+
+　　Good一词，在英语中该算是最熟悉、最常用的了。它的搭配能力很强，而且也常见于科技文章中。一看到good,我们便自然而然得会想到“好的”这一词义。然而，在一些场合，
+　　good的译法却是颇费踌躇的。
+　　1，可译为“好的”，但概念模糊：如good fish（好鱼），是指品种，大小还是新鲜程度呢？
+　　2，勉强可译为“好的”，但不搭配：如Good fire若译为“很好的炉火”是可以理解的，但不如译为“旺盛的炉火”。
+　　3，译成“好的”反而错了：如good hard work不是指“一项好的但却艰巨的工作”，而是指“一项十分艰巨的工作”。
+　　为什么这样普通的词在翻译时却难处理呢？其原因有二：
+　　1，只知其一，不知其二、三
+　　有的词有一个义项，有的词有两个或两个以上义项。good 
+一词，在《现代高级英汉双解辞典》中就有十八项释义，如不能全面地掌握这些义项，翻译时就会遇到困难。
+　　2，不善举一反三，触类旁通
+　　从语言的发展来看，一个词总会有一个最原始的或最基本的词义（叫做本义），而其他的词义是由这个词发展或引申而来的（叫做引申义）。引申，就是由原义产生新义。选择词义难就难在这个“新”字上。一是英语单词本身已有引申义。这就要勤查字典，从诸多词义中去挑选最合适的词义。二是词典中所有词义都不贴切，要根据汉译的需要去创造新义，而新义又必须与本义相关联。如good一词在英语中已有引申义“strong, 
+vigorous（强健的，有力的）”。因此，His eyesight is still good. 
+一句应译为“他的视力仍然很强。”（good由“好的”引申为“强的”）。而在下面的例句中，good 可引申为“高度的”。To produce strong 
+X-rays the tube had to be made a very good vacuum. 
+管子要产生强的射线，就必须制成高度的真空。而“高度的”这一词义，在《现代高级英汉双解辞典》、《远东英汉大辞典》等的汉语释义中都是没有的，因而可算是新创的。现在，让我们以《现代高级英汉双解辞典》为据，列举good一词的几个义项来观察它在汉译时是如何引申和再引申的。为了节省篇幅，本文只探讨作为形容词用的而且常用于科技文章中的几个义项的译法，不涉及用于生活、口语和文学时的译法，也不涉及用于问候语、客气的称呼、赞扬之词以及片语和复合词的用法。为了方便，本文不再引用其英语的释义而用其对应的汉语译义，每一词义只举一例。
+　　一、美好的；良好的；令人满意的
+　　a good knife 一把好刀
+　　a good conductor 良导体
+　　汉译时引申：
+　　1.a good soil 肥沃的土壤
+　　2.good oil 提纯了的油
+　　3.a good money 真的货币
+　　4.a good river 畅通的河道
+　　5.good English 规范的英语
+　　6，Good switches move quickly. 优质开关动作灵活。（good引申为“优质的”）
+　　7.That engine sounds good. 那台发动机听起来很正常。（good 引申译为“正常”）
+　　8.the rocket travels better through vacuum than it des through the air.
+　　火箭穿过真空比穿过空气容易。（good引申译为“容易”）
+　　9.A good example of a case where electricity is changed to power is the
+　　electric streetcar. 电变为动力的典型例子是电车。（good example 引申译为“典型的例子”）
+　　10.In the absence of an outdoor aerial this telescopic aerial will give
+　　a good picture if the transmitter signal is sufficiently strong. 
+在无室外天线时，若发射机的信号很强，这种拉杆天线可产生清晰的图象（good
+　　picture引申译为“清晰的图象”）
+　　11.Laser possesses a series of remarkable properties, which make it a 
+better
+　　light source in a number of cases. 
+激光有许多显著的特性，这些特性使它在许多情况下成为一种更理想的光源。（good引申译为“理想的”）
+　　二、有益的
+　　Milk is good food for children. 牛奶对小孩是有益的。汉译时引申：
+　　1.good gradient 平缓的坡度
+　　2.It is no good heating the material to such a temperature. 
+把材料加热到这样的温度是不恰当的。（good引申为“恰当的”）
+　　三、能胜任的；有能力的；能干的
+　　汉译时引申：
+　　1.a good chess player 高明的棋手
+　　2.A good human translator can do perhaps 2000 to 3000 words a day. 
+一个熟练的翻译人员一天也许能翻译两千到三千个词。（good引申译为“熟练的”）
+　　四、彻底的；完全的
+　　The workers gave the machine a good checking. 工人们对机器进行了彻底的检查。汉译时引申：
+　　1.have a good drink 喝个痛快
+　　2.It has been thought of making good use of the sun's energy to serve 
+the
+　　well-being of the people. 我们早就设想过充分利用太阳能来为自己造福。（good引申译为“充分”）
+　　3.This set consumes so little power that a good 12 volt car battery can
+　　still start your car after you have been watching TV for 10 hours. 
+本机耗电极少，因而具有12伏足电的汽车蓄电池在你看电视十小时后仍能用于开车。（good引申为“充足的”）
+　　4.Rivers provide good sources of hydropower. 河流具有丰富的水力资源。 
+（good引申译为“丰富的”）
+　　5.The CE circuit is widely favored since it can be designed for good 
+voltage
+　　and current gains. 
+CE电路得到广泛的使用，因为它能获得高电压增益和高电流增益。（good...gains引申译为“高……增益”）
+　　五、可靠的；安全的；确实的
+　　a car with good brakes 刹车可靠的汽车
+　　a good investment 安全的投资
+　　good debts 确可偿还的债务
+　　

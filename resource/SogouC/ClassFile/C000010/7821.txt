@@ -1,0 +1,6 @@
+　　4月11日，老牌Unix技术供应商SCO将在北京发布OpenServer 6中文版操作系统，作为Unix家族近两年最重要的产品，SCO副总裁Tim Negris也亲临北京。虽然Tim Negris此前曾多次来过北京，不同的是，这是他首次代表SCO来到中国，这位曾在IBM、甲骨文工作过多年的悍将，两个月前才正式加盟SCO。
+　　加盟SCO后，Tim Negris主要负责销售和营销业务。上任不久即来到中国，也彰显了SCO对中国市场的重视。虽然Windows与Linux在中国的应用方兴未艾，但在Tim Negris看来，Unix在中国的市场仍然很大，突出表现在金融行业。
+　　据悉，此次发布的SCO OpenServer 6去年就曾在美国发布，面向经济型通用硬件，具有支持大文件和各种现代化应用的功能。是对SCO Unix操作系统旗舰产品，SCO OpenServer的重大升级。SCO OpenServer经历十余年的考验，在具有高度集成服务器需求的企业中，显现了良好的稳定性和可靠性。
+　　Tim Negris告诉记者：“SCO OpenServer 6为用户提供更高的安全性，以及更灵活的整合开放源码技术环境，同时提供对现有应用的向后兼容性，可以提高用户的生产力，保护用户的投资。目前已经有两家曾经把Unix系统迁移到Linux的客户，正从Linux迁回到Unix。”
+　　2003年，SCO指控IBM提供基于SCO源代码的开源软件。之后几年，双方陷入了“马拉松”的源代码专利争夺战。当问及SCO与IBM以及Novell的官司进展时，Tim Negris向eNet硅谷动力透露，SCO与IBM的官司将于2007年2月25日开庭审理，SCO主要控告IBM破坏了双方基于Unix平台派生产品的合同，并不仅仅是版权；与Novell的官司将与2007年6月开庭。
+　　曾经在IBM工作多年的Tim Negris坚定地说：“SCO是正确的，所以肯定能赢得官司。”

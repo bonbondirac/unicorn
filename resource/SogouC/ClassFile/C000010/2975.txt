@@ -1,0 +1,6 @@
+　　CNET科技资讯网4月24日国际报道 最近才成立的OpenDocument Format Alliance（OpenDocument格式联盟）表示有信心这种文件格式可在下月获得国际标准化组织（International Organization for Standardization）的认证。
+　　该联盟是在上月成立，宗旨是提倡政府组织采用OpenDocument标准，该联盟表示已经开始游说数个组织确保该标准能达成ISO认证。
+　　“ODF联盟目前正积极支持采用OpenDocument格式成为ISO与IEC的全球标准。”该组织在声明稿中表示。“ODF联盟已经联络多个国家投票机构投出赞成票，也对结果相当乐观。”
+　　一般认为，取得ISO认证将有助于该标准获得政府更广泛的采用。
+　　该联盟本周也宣布，自从上月成立后，成员已经暴增三倍，目前共有138个会员。
+　　支持OpenDocument格式的软件包括OpenOffice 2.0、SunStarOffice 8与IBM的Workplace软件。微软拒绝支持该标准，该公司自行以自家的Office Open XML文件格式申请ISO标准。

@@ -1,0 +1,129 @@
+
+　　近几年高考英语单项选择题难度逐年增大，试题呈现出语境理解要求高、内容跨度大、选项干扰性强、题干迷惑度高、一题涉及多个知识点等特点，给考生正确解题带来很大难度。
+　　掌握正确的应对方法是提高高考单选题型得分率的关键，以下是高考英语单项选择题难解原因及应对方法。
+　　■在不少高考英语单项选择题中，命题者通过中间插入、前置、后置等手段的加工使原本连在一起的句子结构出现了分离现象，解题时应通过分析结构弄清题干的来龙去脉。
+　　例1
+　　--Is　that　the　small　town　you　often　refer　to？
+　　--Right，just　the　one____you　know　I　used　to　work　for　years.
+　　A.that
+　　B.which
+　　C.where
+　　D.what
+　　(2005福建卷)
+　　分析：答案是C。由语境和句子结构可知，you　know为插入语，将其去掉更易看出the　one是指the　small　town，因此该空应该填where引导定语从句。
+　　例2
+　　The　managers　discussed　the　plan　that　they　would　like　to　see______the　next　year.(NMET2000)
+　　A.carried　out　B.carrying　out
+　　C.carry　outD.to　carry　out
+　　分析：答案是A。本题考查结构see　something　done用于定语从句中，something为关系代词that。
+　　例3
+　　---Each　of　the　students，working　hard　at　his　orher　lessons，______to　go　to　university.
+　　---So　do　I.
+　　A.hope
+　　B.hopes
+　　C.hoping
+　　D.hoped
+　　(1998上海卷)
+　　分析：答案是B。认真分析语境和句子结构，working　hard　at　his　orher　lessons为插入语，如果将其去掉，不难发现该空应填谓语动词形式hopes。
+　　例4
+　　The　home　improvements　have　taken　what　little　there　is______my　spare　time.
+　　A.from
+　　B.in
+　　C.of
+　　D.at
+　　(NMET2001)
+　　分析：答案是C。认真分析语境和句子结构可知，本题考查句型there　is　little　of　my　spare　time，但语序稍加变动为what引导的感叹句做宾语，而提前了little。“what　little”表示“那么少”。
+　　■命题者为了考查考生由此及彼、由表及里、去粗取精、去伪存真的能力，往往在单项选择题题干中设置多元结构，解题时一定要从多元成分中清理出题眼所考查的句子结构。
+　　例5
+　　Mom　is　coming.What　present_________for　your　birthday？
+　　A.you　expect　you　have　got
+　　B.you　expect　has　she　got
+　　C.do　you　expect　she　has　got
+　　D.do　you　expect　has　she　got
+　　(2005福建卷)
+　　分析：答案是C。由语境和句子结构得知，后一句为带插入语do　you　expect的特殊疑问句，插入语后面内容应视为宾语从句且采用陈述语序。
+　　例6
+　　It　is　what　you　do　rather　than　what　you　say______matters.
+　　A.that
+　　B.what
+　　C.which
+　　D.this
+　　(2005天津卷)
+　　分析：答案是A。由语境和句子结构可知，该句为强调句型，被强调部分是由rather　than连接的并列主语从句担当。
+　　例7
+　　The　old　couple　have　been　married　for　40　years　and　never　once_____with　each　other.
+　　A.they　had　quarreled
+　　B.they　have　quarreled
+　　C.have　they　quarreled
+　　D.had　they　quarreled
+　　(NMET2003)
+　　分析：答案是C。认真分析题干结构可知，本题考查and引导的并列句，第二句分句由never引导，解题时可将第一个分句及and视为不存在，这样整个句子就成为never开头引导的倒装句型。
+　　例8
+　　It　is　the　ability　to　do　the　job　______matters，not　where　you　come　from　or　what　you　are.
+　　A.one
+　　B.that
+　　C.what
+　　D.it
+　　(NMET2000)
+　　分析：答案是B。认真分析句子结构和语境可知，本题主干为It　is　A　(It　is)　not　B“是而不是”。这是两个并列的强调句。第二个强调句用的是省略结构，第一个强调句的被强调部分是空格所缺的词语，原句为The　ability　to　do　the　job　matters(做这件事的能力很重要)。
+　　■不少单项选择题考点为难度极小的简单句，但命题者为了考查考生应变能力，往往将简单句改为感叹句、强调句或省略句，解题时应通过句型分析弄清题干的来龙去脉，还原简单句其本来面目。
+　　例9
+　　_____role　she　played　in　the　film！No　wonder　she　has　won　an　Oscar.
+　　A.How　interesting
+　　B.How　an　interesting
+　　C.What　interesting
+　　D.What　an　interesting
+　　(2002春上海卷)
+　　分析：答案是D。本题的考点为简单句She　played　an　interesting　role　in　the　film.命题者将该句改为感叹句。
+　　例10
+　　--What　do　you　think　made　Mary　so　upset？
+　　--____her　new　bicycle.
+　　A.As　she　lost
+　　B.Lost
+　　C.Losing
+　　D.Because　of　losing
+　　(1997上海卷)
+　　分析：答案是C。本题的考点为简单句：--her　new　bicycle　made　her　soupset.命题者将该句略为省略句，将made　Mary　so　upset在答语中省略但在问句中体现。经过分析不难发现，该空格应填主语，应由动名词担当。
+　　例11
+　　It　was　only　with　the　help　of　the　local　guide______.
+　　A.was　the　mountain　climber　rescued
+　　B.that　the　mountain　climber　was　rescued
+　　C.when　the　mountain　climber　was　rescued
+　　D.then　the　mountain　climber　was　rescued
+　　(2004春上海卷)
+　　分析：答案是B。本题考点为简单句The　mountain　climber　was　rescued　only　with　the　help　of　the　local　guide.命题者将该句改为强调句型，被强调的部分为介词短语only　with　the　help　of　the　local　guide。
+　　■不少单项选择题题干结构和备选答案迷惑性强，他们以似曾相识的题干易使考生受思维定势影响而迅速做出错误判断。解题时应排除思维定势干扰，仔细分析每个被自己排除的答案的理由，同时认真分析似曾相识的题干是否有什么变化并尽可能弄清来龙去脉，从而成功破题。
+　　例12
+　　The　country　life　he　was　used　to______greatly　since　1992.
+　　(2005山东卷)
+　　A.change
+　　B.has　changed
+　　C.changing
+　　D.have　changed
+　　分析：答案是B。分析语境和句子结构可知，he　was　used　to为定语从句，修饰先行词the　country　life。此空格应填谓语动词。Since　1992为现在完成时的标志，因此该空格应填has　changed。考生易受he　was　used　to的影响而误选C。
+　　例13
+　　Mr.Reed　made　up　his　mind　to　devote　all　he　had　to______some　schools　for　poor　children.
+　　A.setup
+　　B.setting　up
+　　C.have　set　up
+　　D.having　set　up
+　　分析：答案是B。考生可能会抓住“he　had　to”而选择A，因为他们对had　to　do　something的结构太熟悉了。其实，句中had　to与set　up并不构成搭配，因为he　had为定语从句修饰先行词all，setup与devote　all　…　to构成搭配，即devote　all　to　setting　up(to为介词)，所以答案是B。
+　　例14
+　　--Who　is　Jerry　cooper？
+　　--____？I　saw　you　shaking　hands　with　him　at　the　meeting.
+　　A.Don’t　you　meet　him　yet
+　　B.Hadn’t　you　met　him　yet
+　　C.Didn’t　you　meet　him　yet
+　　D.Haven’t　you　met　him　yet
+　　(NMET1997)
+　　分析：答案是D。读完原句不难理解答语应用完成时态表示“你还没有见过他吗？”到底用现在完成时还是过去完成时？不少考生肯定会用标准对照时间点来区别，于是便从选项中找到“saw”并作为标准对照时间点来使用过去完成时，相对于过去某一时刻已经完成的动作，其实该句为对话题，其标准对照时间点应为现在，因此该空应用现在完成时。
+　　例15
+　　As　we　joined　the　big　crowd，I　got_______from　my　friends.
+　　A.separated
+　　B.spared
+　　C.lost
+　　D.missed
+　　(NMET2001)
+　　分析：答案是A。不少考生可能抓住空格前面的got而选择C，因为在他们的记忆中，能和get构成短语的只有get　lost(迷路)，如果将got改为was，选择答案A的可能性大大增加，因为一方面它构成了正确的语法结构———被动语态，另一方面，这样选也符合语境：当我们加入人群时，我和我的朋友分开了。其实本题改变之处在于将be　done换成了get　done来构成被动语态，这样A，B，C，D四个选项从语法结构上都讲得通，因为它们都构成了被动语态，但结合语境只能选A，表示“加入人群后，我和朋友分开”。
+　　张彦军，河北辛集中学高级教师，英语教研组长。
+　　

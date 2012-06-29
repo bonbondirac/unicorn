@@ -1,0 +1,92 @@
+　　全国2006年1月高等教育自学考试计算机网络管理试题
+　　课程代码：02379
+　　一、单项选择题(本大题共20小题，每小题2分，共40分)
+　　在每小题列出的四个备选项中只有一个是符合题目要求的，请将其代码填写在题后的括号内。错选、多选或未选均无分。
+　　1.ISO定义的系统管理功能域中，测试管理功能属于（　）
+　　A.配置管理 B.故障管理
+　　C.性能管理 D.安全管理
+　　2.网络管理软件包括管理专用软件，管理支持软件和（　）
+　　A.用户专用软件 B.用户支持软件
+　　C.用户管理软件 D.用户接口软件
+　　3.CMIS服务中，M-Action服务具有的功能是（　）
+　　A.取消以前的检索操作 B.管理站要求管理对象完成一个管理动作
+　　C.删除管理对象的实例 D.生成一个管理对象的实例
+　　4.Internet最初的网络管理框架由四个文件定义，RFC1212说明了（　）
+　　A.定义MIB模块的方法 B.定义了管理信息结构
+　　C.定义了MIB-2管理对象的核心集合 D.SNMPv1协议的规范文件
+　　5.如果系统提供应用层和传输层服务，则在MIB-2系统组中该系统的sysServices对象的值（以十进制表示）为（　）
+　　A.2 B.9
+　　C.72 D.75
+　　6.MIB结构中，Internet下面的包括由IAB批准的所有管理对象的节点是（　）
+　　A. directory(1) B. mgmt(2)
+　　C. experimental(3) D. private(4)
+　　7.如果团体成员的访问模式为read-only，则具有同一团体形象的管理站对视阈中所有对象能够进行的方式访问是（　）
+　　A. read-only B. read-write
+　　C. write-only D. not-accessible
+　　8.下面几种PDU中格式相同的是（　）
+　　A.GetRequestPDU,GetNextRequestPDU,SetRequestPDU,TrapPDU
+　　B.GetRequestPDU,GetNextRequestPDU,SetRequestPDU
+　　C.GetRequestPDU,GetNextRequestPDU,TrapPDU,GetResponsePDU
+　　D.GetRequestPDU,TrapPDU,SetRequestPDU,GetResponsePDU
+　　9.在SNMPv1的操作中，如果要删除表中的行，行的所有者发出SetRequestPDU，把行的状态对象置为（　）
+　　A. Invalid B. valid
+　　C. CreateRequest D. UnderCreation
+　　10.假设有一个LAN，每15min轮询所有被管理设备一次，管理报文的处理时间是50ms，网络延迟为1ms，单个轮询需要的时间为0.202s，则管理站最多可支持的设备数是（　）
+　　A.300 B.4500
+　　C.18000 D.150000
+　　11.使用Set命令设置多个变量时，若有一个变量的名字和要设置的值在类型、长度或实际值方面不匹配，则返回的错误条件是（　）
+　　A. tooBig B. noSuchName
+　　C. genError D. badValue
+　　12.RMON MIB事件组的事件表中的变量eventType表示事件类型，如果要表示事件出现时发送陷入报文，但事件不需要记录在log表中，那么eventType的值取（　）
+　　A. none(1) B. log(2)
+　　C. snmp-trap(3) D. log-and-snmp-trap(4)
+　　13.RMON2监视器配置组中，存储与管理站建立SLIP连接参数的是（　）
+　　A.串行配置表 B.网络配置表
+　　C.陷入定义表 D.串行连接表
+　　14.用到RMON　MIB有关以太网统计组中的变量etherStatsDropEvents, etherStatsCRCAlign Errors和etherStatsUndersizePKts的是（　）
+　　A.视图管理 B.故障管理
+　　C.记账管理 D.安全管理
+　　15.实现捕获组时，RMON　MIB必须实现的是（　）
+　　A.过滤组 B.历史组
+　　C.事件组 D.主机组
+　　16.为以最小的交换次数检索大量的管理信息，或者说管理站要求尽可能大的响应报文，SNMPv2增加的PDU是（　）
+　　A. GetRequestPDU B. InformRequestPDU
+　　C. GetBulkRequestPDU D. SetRequestPDU
+　　17.实体认证是通过识别通信对方的身份，防止假冒，可使用的方法是（　）
+　　A.消息认证 B.数字签名
+　　C.消息摘要 D.单向Hash变换
+　　18.SNMPv2的5种访问级别由小到大排列是（　）
+　　A. not-accessible, accessible-for-notify, read-only, read-write, read-create
+　　B. read-only, read-write, read-create, not-accessible, accessible-for-notify
+　　C. read-only, write-only, read-write, read-create, accessible-for-notify
+　　D. accessible-for-notify, not-accessible, read-only, read-write, read-create
+　　19.SNMPv2的管理站数据库不包括的表是（　）
+　　A. SnmpAlarmTable B. SnmpEvenTable
+　　C. SnmpEventNotifyTable D. SnmpContexts
+　　20.Microsoft SNMP扩展API函数中，根据扩展代理的需要，任选的是（　）
+　　A. SnmpExtensionInit B. SnmpExtensionInitEx
+　　C. SnmpExtensionQuery D. SnmpExtensionTrap
+　　二、填空题(本大题共10小题，每空1分，共10分)
+　　请在每小题的空格中填上正确答案。错填、不填均无分。
+　　21.RMON中过滤组定义了两种过滤器：数据过滤器和________________。
+　　22.网络中各节点的网络管理实体（NME）模块称为________________模块。
+　　23.说明了定义和构造MIB的总体框架、数据类型的表示和命名方法是________________。
+　　24.SNMP团体和SNMP团体形象的组合叫做________________。
+　　25.在RMON规范中增加了两种新的数据类型OwnerString和EntryStatus,其目的主要是________________。
+　　26.SNMP管理站为了要找出某个接口上最新出现的主机，应该查询RMON主机组中的________________表。
+　　27.RFC1513扩展了RMON　MIB，增加了有关IEEE802.5令牌环网的管理信息。首先是在统计组增加了两个表tokenRingMLStatsTable和________________，前者统计令牌环中各种MAC控制分组，后者统计各种数据分组。
+　　28.在计算机和网络安全性中，具有访问权限的用户在需要时可以利用计算机系统中的资源，这是指________________。
+　　29.SNMPv2的操作管理框架主要涉及4个基本概念：参加者、上下文、MIB视图和________________。
+　　30.SNMPv2有________________种PDU。
+　　三、简述题(本大题共6小题，每小题5分，共30分)
+　　31.SNMPv2报文的结构是什么？SNMPv2实体发送一个报文一般要经过的步骤有哪些？
+　　32.MIB-2包括多少个功能组？分别是什么？
+　　33.有RMON2　MIB定义的协议及其字符串：
+　　ether2——［0.0.0.1］,ip——［0.0.8.0］,udp——［0.0.0.17］,snmp——［0.0.0.161］。
+　　请写出协议标识符ether2,ether2.ip,ether2.ip.udp,ether2.ip.udp.snmp的协议参数串是什么？
+　　34.画出网络管理系统的层次结构图，并回答各种网络管理框架的共同特点是什么？
+　　35.简述对不支持TCP／IP的设备如何进行SNMP管理。
+　　36.在选择站管理产品时，对管理站应提出哪些选择标准？
+　　四、综合题(本大题共2小题，每小题10分，共20分) 
+
+　　37.表1是一个简化的路由表，图1是MIB-2 ip组。&nbsp;(1)请在表2中填入路由表对象及其实例的词典顺序。(2)使用GetNext命令检索表1　　38.下面是对Microsoft SNMP实用程序在应用中的一段定义：　　int nResult;　　UNIT dwa［］={1,3,4,3};　　UNIT dwb［］={1,3,4,2};　　AsnObjectIdentifier oida={sizeof(dwa)/sizeof(UNIT),dwa};　　AsnObjectIdentifier oidb={sizeof(dwb)/sizeof(UNIT),dwb};　　nResult=SnmpUti10idCmp(&amp;oida,&amp;oidb);问：　（1）nResult的值为多少？　（2）dwa、dwb分别被赋予如下各组值时，nResult的值分别为多少？　1.3.4.3和1.3.4.3　1.3.4.3和1.3.4.14　1.3.4.3和1.3.4　1.3.4.3和1.3.4.3.2.2.5　1.3.4.3和1.113.4.3　（3）如果修改nResult=SnmpUti10idNCmp(&amp;oida,&amp;oidb,3);　dwa、dwb分别被赋予如下各组值时，nResult的值分别为多少？　　1.3.4.3和1.3.4.3　1.113.4.3和1.3.4.14　1.3.4.3和1.3.4　1.3.4.3和1.3.4.3.2.2.5　1.3.4.3和1.113.4.3　　(来源：自考365)

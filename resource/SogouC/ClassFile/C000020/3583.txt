@@ -1,0 +1,278 @@
+
+　　众所周知GRE阅读文章中出现的句子相对于我们国内的四、六级考试和ETS的托福考试来说要复杂的多，难度也要大的多。而这个句子的问题也就成为了困扰许多参加GRE考试的考生的一个大难题。怎样去解决这样一个难题，怎样去摆脱这样一种困境(ambivalence) 
+呢？笔者认为首先我们应该就GRE阅读文章中理解起来比较难的句子做出分析，找出其难点之所在，接着再根据其难点找出其相应的对策，这样我们才能做到有的放矢。本文就是从这样的思路入手谈一谈笔者对于怎样突破GRE难句的一些认识。笔者通过对历年GRE真题阅读文章的详细分析之后发现所谓的GRE阅读句子难，其实主要是难在以下两个方面：
+　　首先GRE阅读中的句子之间存在着密切的逻辑关系，这是因为GRE阅读文章虽然题材千变万化但是归根到底讲的就是一个Logic 
+Development，所以这就要求其组成文章意思的基本单元---句子之间要有缜密的逻辑思路作为基础，可以这样说GRE阅读文章中的句子在逻辑上是层层递进的，这样的结果就造成我们在理解句子的时候更多地是从其对逻辑发展的作用去思考，而不是仅仅只是简简单单地从字面意思去想，也就是说GRE阅读句子难的关键就在于难在逻辑上。对于这样的问题要解决的话，我们只能从文章本身入手，通过抓住文章的Focus，找到文章的Main 
+Idea，然后在理解每一句话的意思的时候都要想清楚其与文章Focus和Main Idea之间的联系，这样我们才能洞晓每一句话它的真正意思之所在。
+　　第二个难点在于GRE阅读文章的作者，针对考试学本身的要求，故意通过四个办法来将本来意思非常清晰的句子改造成晦涩难懂的GRE难句：第一个办法是将若干个简单句整合在一起，形成具有复杂修饰关系的从句结构；第二个办法是将直截了当的明白说法变换成拐弯抹角的多重否定结构；第三个办法是故弄玄虚，人为地造出一些稀奇古怪的省略结构；最后一种办法就是大玩乾坤大挪移，设计出种种匪夷所思的倒装结构。那么，针对这样的难点笔者认为借用佛家的一句谒语“色即是空，空即是色”来表明其解决之道。当然色在梵语中念rupa，而空在梵语中念sunya，它们各自代表干扰人们注意的噱头和真正本质的东西。以上所给出的考试设计者的四种办法其实玩的就是这样的“色”，而我们就应该做到心中空明地牢牢抓住那个“空”。相信看过金庸小说《天龙八部》的同学对书中所描写的扫地僧印象一定十分深刻，这位高人之所以牛，关键就在于他的内功深厚，能够以不变应万变。同样我们要想成为破解GRE难句的牛人，我们也需要这样深厚的内功，而这里的内功其实就是指扎实的语法知识。当然我们不可能将张道真老先生或者是薄冰老先生所写的厚厚的语法辞典内每一条语法掌握，这样做不太现实，而且我们也没有时间和精力能够做到，况且我们要应付的只是考试而已，没必要“我把青春献给你---GRE”。换句话说我们在准备语法知识的时候同样也要有的放矢，这样才能四两拨千斤。下面笔者就GRE阅读文章中句子的特点给出了有针对性的十种语法结构，帮助考生牵一发而动全身，彻底解决GRE句子难的问题。
+　　一、定语从句结构
+　　定语从句结构是阅读文章中常见的句式结构，但是由于出题者有意地将几个简单的句子，通过定语从句这种结构来构成一个复杂的长句，使得定语从句所修饰的对象变得不是非常明朗，这就使得找准其修饰的对象成了一个常常遇到却又难以把握的问题，更令人讨厌的是阅读文章的考点又往往在这里，如2004年6月、10月的阅读考题就出了不少这样的找定语从句修饰对象的题目。一般而言，找准其修饰的对象，一是要靠扎实的阅读功底，而就是要根据上下文进行的逻辑来判断。定语从句有限定性和非限定性的区别，所谓限定性就是说从句部分是主句意义中不可或缺的部分，如:There 
+is one point where I’d like your 
+advice.(有一点想征求你的意见.)这类从句如果拿掉剩下的部分就会意义不明.如上句将变为:There is a 
+point.使人不明其意.在译成汉语时这类从句一般译为从句(如上句).而非限定性是说从句部分只是对主句部分起到附加说明的作用,拿掉之后其他部分仍然可以成立.如:I 
+have many friends, some of whom can play guitar very 
+well.(我有很多朋友,其中有些能弹一手好吉他.)这类从句译为汉语时可译为一个并列的句子(如上句)。记住定语从句和主句之间还存在着状语关系，所以其最为重要的作用就是用来表达原因、让步、目的、假设、定义等某一种关系。所以在遇到这样的句子结构，不妨慢下速度来仔细分析一下其含义，这对把握句子所在的段落的大意是非常重要的，因为定语从句所表示的状语关系，很有可能是作者要表达的行文意图。
+　　While this boundary does not mark the outer limit of a State’s territory, 
+since in international law the territorial sea forms part of a State’s 
+territory, it does represent the demarcation between that maritime area（internal 
+waters）where other States enjoy no general rights, and those maritime areas（the 
+territorial sea and other zones）where other States do enjoy certain general 
+rights.
+　　句子解析：在这个句子中有四个从句，第一个是由while引导的让步状语从句；第二个是由since引导的表示原因的状语从句，并且它是属于由while引导的让步状语从句的，即它是其从句；第三个和第四个都是由where引导的定语从句并且用法也都是一样的，都是对不同的maritime 
+area的进一步说明解释。
+　　句子翻译：尽管这条分界线并不算是国家领土的外缘边界，但是，因为在国际法中领海也是国家领土的组成部分，它的确是其他国家在其内不享有一般权利的海区（内水域）与其他国家在其中享有某些一般权利的那些海区（领海及其他区域）之间的分界线。
+　　二、倒装句结构
+　　倒装句的产生是为了平衡句子结构，或者是为了强调句子的某一部分特意将其提前，让其放置在引人注目的首要地方。倒装结构可分为主谓倒装和非主谓倒装。而主谓倒装又可分为完全倒装和部分倒装,完全倒装顾名思义指整个谓语全部放在主语的前面，而部分倒装通常指只将谓语的一部分，通常是助动词,系动词或情态动词放置于主语之前。
+　　From each of books goes out its own voice, as inaudible as the streams of 
+sound conveyed by electric waves beyond the range of our hearing, and just as 
+the touch of a button on our stereo will fill the room with music, so by opening 
+one of these volumes, one can call into range a voice far distant in time and 
+space, and hear it speaking, mind to mind, heart to heart.
+　　句子解析：From each of books goes out its own voice这是一个完全的倒装句其正常的语序是its own 
+voice goes out from each of books，而as…as引导的部分用于修饰its own voice。
+　　句子翻译：每本书发出好像无线电波传出的声音，由于超出我们的听觉范围而无法听见；正如我们按一下立体音响上的按钮，整个房间立即回荡着乐曲声一样，我们翻阅其中一本书就仿佛步入了一个遥远时空的音域。我们听见一个声音在侃侃而谈，那么倾心，那么坦诚。
+　　三、分割结构
+　　在英语中常常出现这样的现象：语法关系密切的两个句子成分被其他句子成分所分割开来，而有这种现象的句子结构我们称之为分割结构。它的种类十分繁多，但我们常常遇到这样的情况，即在主语与谓语之间插入介词短语或是从句等比较长的结构用于描述一个状态，或是修饰说明主语，在这种情况下，其目的往往是为了保持语义的严密，结构的紧凑。
+　　例如：
+　　Most novelists and historians writing in the early to mid-twentieth century 
+who considered women in the West, when they considered women at all, fell under 
+Turner’s 
+spell.这句话的中文意思是从本世纪初到本世纪中叶从事写作的小说家和历史学家只要描写妇女，就会描述西部妇女，而且都被特纳迷住。这句话的主干是Most 
+novelists and historians fell under Turner’s 
+spell.其主语和谓语间被writing引导的修饰用的短语，一个由who引导的用于修饰Most novelists and 
+historians的定语从句，和在这个由who引导的定语从句中的状语从句所分割开来。
+　　当然有时还会存在这样的情况，即同位语或同位语从句与先行词的分割是为了照顾句子结构平衡或突出强调的需要。
+　　例如：
+　　After Galileo’s work the feeling grew that there were universal laws 
+governing the motion of bodies and that these laws might apply to motion in the 
+heavens as well as on 
+earth.这句话的中文意思是在伽利略著作之后，这样的认识加强了，即认为存在着支配物体运动的普遍规律，这些规律不仅支配着地球上的而且也支配着天体上的物体的运动。在这句话中the 
+feeling和that引导的从句被分割。
+　　此外，还有定语（或定语从句）与中心词被分割；某些词与其所要求的介词被分割；动词与其宾语被分割等等许多情况。总之，英语的分割遵循的是尾重原则，即将长而复杂的成分放在句末，从而使结构平衡均匀，以避免主语部分太长，谓语部分太短），和句尾信息焦点原则，即把新信息（往往是语义的重点）放在句子末尾。所以阅读时一定要注意先找出句子主干来，再来分析句子的其他部分。
+　　A contiguous zone is an area extending seaward from the territorial sea in 
+which the coastal or island nation may exercise the control necessary to prevent 
+or punish infringement of its customs, along with its fiscal, immigration, and 
+sanitary laws and regulations that occur within its territory or territorial sea 
+(but not for so-called security purposes).
+　　句子解析：这句话的主干部分十分简单就是A contiguous zone is an 
+area。后面的extending引导的短语是用来定义和解释area的，而再后面的in 
+which引导的定语从句部分也是用来修饰它的，而在这个定语从句中还有一个由that引导的定语从句，用于修饰其前面的infringement但它被一起修饰作用的介词短语所分割。
+　　句子翻译：毗连区是从领海向外海一侧伸延的一片海区，沿海国或岛国在这一海区内可行使必要的管制，以防止或惩罚在其领土或领海内违反其海关、财政、移民和卫生法律与规章的行为（而不是所谓的安全目的）。
+　　Anyone considering taking part in a work of transformation of those forms 
+of older art which seem to us in many ways unsatisfactory, so that they should 
+be more in turn with the changing timers, and anyone who does not quail at the 
+prospect of seeking out new forms of expression for new materials and new 
+building function, will find spiritual kinship, observing Borromini’s 
+buildings.
+　　句子解析：这句话很长但这句话的主干很简单就是Anyone and anyone will find spiritual 
+kinship，在两个并列的主语之间加入了一大段的用于解释说明第一个anyone，并且在这一大段中还有which引导的定语从句用于修饰those forms 
+of older art，而在第二个主语同谓语部分之间还被一个由who引导的用于修饰第二个anyone的定语从句所分割，observing 
+Borromini’s buildings只是这个主干部分的状语部分用于进一步说明。
+　　句子翻译：旧艺术形式在许多方面似乎不能令我们满意，这就有待于我们去变革这些形式以更好地跟上变化多端的时代步伐，任何考虑参加这项工作的人，任何勇于为新材料和新建筑功能探索新表现形式的人，观察一下博罗里尼的建筑，都会发现精神上的类似。
+　　四、省略结构
+　　在英语的行文中，大家常常被其中的词的省略造成的麻烦所困扰。其实这种困扰主要出自我们对其英文行文表达习惯和修辞手法的不了解。一般说来，英语文中的省略需遵守两个原则：一是这个词可有可无，或者是多余的，总之就是少了它之后不会改变原文的意思，二是省略的词义已经在上下文中得到了充分的体现。这里举个简单的例子让大家，先吃个开胃餐：
+　　Someone traveling alone, if hungry, injured, or ill, often had nowhere to 
+turn except to the nearest cabin or 
+settlement.这句话的中文意思是独自旅行的人，要是饿了、受伤了或者生病了，除了最近的小木屋或居民点，常常无处求援。这个句子在if后面省略了he 
+is，这是因为在时间，地点，条件，让步，方式状语从句中，如果从句的主语与主句的主语相同（或为it），而从句的谓语又含有be（包括联系动词be和助动词be），则可把“主语+be”省略掉。但要注意有一类句子和省略句有相似的地方,如:You 
+must get out of the city, and that 
+quickly.(你得出城,而且得快.)这样的句子并不是省略句,因为后一句中有that代表了要表示的意思。
+　　He believes, although perhaps he does not know he believe it, that the more 
+extensive verifications are, that the more frequently experiments have been made 
+and results of the same kind arrived at, that the more varied the conditions 
+under which the same results have been attained, the more certain is the 
+ultimate conclusion, and he disputes the question no further.
+　　句子解析：在这句子由and连接的两部分构成，第一部分中although引导的其让步作用的状语从句将believes与其宾语部分分割开来，believe后面的宾语部分包括三个that引导的从句，和后面and前的部分，需要注意的是这里用了the 
+more…the more…的结构，其中第二个the more子句中，arrived at省略了have been，而第三个the 
+more子句中包含了一个由which引导的定语从句。
+　　句子翻译：他相信，尽管他或许不知道自己相信，验证范围越广泛，试验做得越多且得出的结果相同，而且得出同一结果的条件越是多样化，则最终的结论就越肯定无疑，他再也不对这个问题提出质疑了。
+　　What is questioned is whether a country like Britain has a chance, assuming 
+it has the will, to succeed where so many have failed, and even assuming that it 
+has, should make the tremendous effort and take substantial financial risk of 
+trying to leap-frog into leadership in entirely new technology, or whether it 
+should take the softer option of merely catching up with the rest of the 
+industrialized world.
+　　句子解析：这是一个主系表结构。What is 
+questioned是主语从句。表语是两个以whether引导的从句。第一个whether从句的主干结构是a country has a chance to 
+succeed and should make the tremendous effort and take substantial financial 
+risk of trying to leap-frog into leadership in entirely new 
+technology，而两个assuming引导的从句用来表示假设，此外where引导的状语从句是为了做一对比，并且在第二个assuming从句的it 
+has后面省略了the chance；第二个whether从句结构比较简单不再仔细讨论。
+　　句子翻译：现在提出的问题是，像英国这样的国家，假如愿意的话，是否有可能在很多国家已经失败的方面获得成功。假如有这种可能，英国是否应尽最大的努力，冒最大的财政风险，一步进入全新技术的前列，或者应该采取比较稳妥地选择，只是赶上其他工业国的步伐。
+　　五、并列平行结构
+　　英语常用并列连词来连接两个或两个以上的同等成分，而这种结构我们称之为并列平行结构，而比较常用的连词有：and, but, so, yet, for, 
+nor, or , not only…but also, 
+either…or,以及neither…nor等等。一般说来连接的同等成分可以是两个或几个动词，两个或几个动词的宾语，两个或几个名词的定语，两个或几个介词短语等。如果并列连词连接的是两个或几个简单句，就构成了一个并列句。这里举几个小的例子：
+　　In fact, privatization has not only rescued individual industries and a 
+whole economy headed for disaster, but has also raised the level of performance 
+in every 
+area.这句话的中文意思是：事实上，私有化不仅挽救了个别企业和走向毁灭的整个经济，而且还提高了各行业的运作水平。在这个句子中，用and连接了individual 
+industries和a whole economy这两个作为动词rescued的宾语，并且还使用了not only…but 
+also连接了rescued和raised这两个动词引导的平行的谓语成分。
+　　但是需要注意的是并不是每个and简单的认为它只有连接作用，其实它的用法在英语中十分丰富，它在句子中可以表示许多不同的目的。例如：We were 
+singing and dancing.我们又唱又跳。The old lady fell down in the street and broke her 
+leg.老妇人跌倒在街上，腿都摔断了（表示结果）。Fix the bicycle and I’ll pay you 
+$6.修理这辆自行车，我就付给你6美元（表示条件）。He finished his homework and made for the dining 
+room.他作完家庭作业后去了食堂（表示连续）。The girl grows up and still knows nothing about her 
+family.这女孩长大了，对家里的事还是一无所知（表示对比）。
+　　此外其他的并列连词都各表示不同的意义：but，yet表示对比；either…or…, 
+neither…nor…表示选择；so表示结果；for表示原因等等。
+　　But since the consequences of poverty are related to powerlessness, not to 
+the absolute supply of money available to the poor, and since the amount of 
+power purchasable with a given supply of money decreases as a society acquires a 
+larger supply of goods and services, the solution of raising the incomes of the 
+poor is likely, unless accompanied by other measures, to be ineffective in a 
+wealthy society.
+　　句子解析：这个句子的两个since引导的处于并列关系的原因状语从句，在主句中unless accompanied by other 
+measures作为插入语表示让步分割了谓语部分。
+　　句子翻译：但是，既然贫穷与穷人可得到的货币绝对供应量无关，而是无权利所造成的，既然用一定量的货币所能购买的权力量随着一个社会获得的商品和服务量的增加而下降，那么提高穷人收入的解决办法在一个富裕社会很可能不会奏效，除非同时采取其他的措施。
+　　The time has long since arrived to recognize commercial representation as a 
+profession per se, the successful exercise of which is positively correlated 
+with careful initial selection of commercial representatives, the level and 
+content of their formal education and specialized training, the 
+length and variety of their pertinent experience, and the quality of support 
+they receive from the trade promotion or ministry at home.
+　　句子解析：这句话的主干部分十分短小：The time has long. 
+Since引导的状语从句部分都是为了说明驻外商务代表成为专门的业务时其相关的一些情况，在exercise of后面的which代表的是commercial 
+representation，后面有几个用and连接的与选择好驻外商务代表相关的要考虑的东西: the level and content of their 
+formal education and specialized training; the length and variety of their 
+pertinent experience和the quality of support。
+　　句子翻译：驻外商务代表的工作实际上是一种专门的业务---早就应该这样看待这个问题。要把这项工作做好，首先是要选择好驻外商务代表。要考虑他们所受的正规教育和专门培训的程度和内容，他们过去有哪些和有多少相关的经验，以及他们能够从国内的贸易促进机构和贸易部得到什么样的支持。
+　　六、同位语结构
+　　同位语是用来对名词或者是名词代词作进一步的解释，一般说来它有单词、短语和从句三种形式。同位语从句是名词从句的一种，置于某些名词之后，如fact, 
+doubt, idea, news, hope, indication, decision, possibility, assumption, 
+suggestion, question等等。这种从句通常是由that引导的，有时也会用到如what, why, whether, when等来引导。
+　　同位语从句和定语从句在句子结构上有一定的相似,容易使人混淆.要注意在同位语从句中that, what, 
+who等连接代（副）词在句中并不充当句子成分。
+　　在进行英文阅读时，要注意同位语与本位语分割的现象，这种现象常常会造成阅读理解上的困难，特别是发生在句子结构本身十分复杂的时候。例如：
+　　The word radar, coined as a code name in World War II, was derived from the 
+phrase Radio Detection And 
+Ranging.这句话的中文意思是radar（雷达）这个词，是第二次世界大战期间作为一个代号而造出来的，是Radio Detection And 
+Ranging（无线电探测和定位）这个词组的缩写。本句的radar是word的同位语。同位语常常表示本位语的另一种说法，指出本位语的具体内容或者列举、突出本位语的一部分内容。同位语一般置于本位语之后，可以不用标点符号隔开，也可以用逗号、冒号或破折号隔开，例如：The 
+thought came to him that maybe the enemy had fled the 
+city.这里thought就和它的由that引导的同位语从句被谓语部分came to him所分割。
+　　There is a growing realization that had Saddam Hussein focused his 
+missile-development programs on this sort of hardware rather than developing the 
+Scud, Desert Storm could have seen targets in Saudi Arabia and Israel bombarded 
+by weapons whose miss distance might have been measured in terms of tens or 
+hundreds of meters rather than kilometers.
+　　句子解析：这个句子的主干部分十分简短，即There is a growing realization. 
+That引导的是虚拟的关于realization的同位语从句，并且在这个从句中还有一个whose引导的定语从句用于修饰weapons。
+　　句子翻译：现在人们越来越认识到，如果沙达姆 
+.侯赛因当初将其导弹发展计划集中在这种硬件而不是发展“飞毛腿”导弹，那么“沙漠风暴”行动中，轰炸沙特阿拉伯和以色列的导弹发射的误差距离恐怕就不会以千米而是以几十或几百米测算了。
+　　七、分词作状语结构
+　　分词通常有现在分词和过去分词两种，他们在文中，不仅可以作为形用词，而且还能像副词短语那样，说明动词或表达某个整句要表达的概念。例如：Then, 
+having ensured that their species will survive, the shrimp die as the last of 
+the water evaporates.然后，在确保其物种能生存下去之后，虾子就会随着最后一点水蒸发掉而死去。这个句子的having ensured that 
+their species will survive相当于when或者是after，即分词短语可以用来做表示时间的状语部分。又如：Used 
+economically, one bottle of kerosene will last for at least one 
+month.用的节省的话，一瓶煤油至少可以用一个月。这时的分词又可以用来表示条件和原因。再如：Granting the achievement to be 
+great, there is still something to be 
+desired.即使成就是巨大的，仍有一些有待改进的地方。这时可见分词短语在这里又可以表示让步。此外分词做状语还可以表示伴随等情况。
+　　此外，需要注意的是分词的两种用法和结构：
+　　1）分词的逻辑主语必须与主句的主语一致，如果不一致，要用独立主格结构。如：All the money having been spent, they 
+had to look for a part-time job.钱花光之后，他们不得不找零活干。
+　　2）with+名词（或代词宾格）+分词（短语）作状语，表示伴随情况。
+　　如：With oil expected to be scarce by the end of the century, the European 
+Community has set aside 36 million dollars for hydrogen research over the past 
+four years.预期本世纪末石油将紧缺，在过去四年里，欧洲共同体已储备了3,600万美元进行氢气的研究工作。
+　　Then, maneuvering that iron stove through that doorway, with another mighty 
+grunt Pete just heaved it forward and outward, and it smashed down against her 
+little grassy-patched dirt back yard, the sounds of the crash and the iron 
+cracking open sending her little spotted feist dog and her few any-breed 
+chichens all yelping and squawking and flying.
+　　句子解析：maneuvering that iron stove through that doorway是现在分词短语作状语，表示时间。the 
+iron cracking open是独立分词结构，而sending her little spotted feist dog and her few 
+any-breed chichens all yelping and squawking and 
+flying的sending是分词独立结构，而后面的三个现在分词是作为宾语spotted feist dog and her few any-breed 
+chichens的宾语补语。
+　　句子翻译：然后，彼特搬着铁炉走出门口，又大喝了一声，举起铁炉向前往外抛去，顿时落在她乱草丛生的小后院，摔成碎片。撞击声和生铁的破裂声把她的小花狗和几只小鸡吓得咯咯大叫，四散飞逃。
+　　If you haven’t actively sought a job in the past week and aren’t available 
+for an immediate start, you are moved from the ranks of the “unemployed” to one 
+of a number of other categories—--so those who throw up their hands after a 
+period of looking vanish into a one-line column, becoming just blips in the 
+statistician’s computer, along with those who haven’t been able to get out and 
+look for work, or aren’t in areas where jobs exist, or who don’t fulfill the 
+other stringent guidelines to be classed as actively looking for work.
+　　句子解析：这个句子很长，但其真正的主句在破折号之前。其主句中if引导了一个表示条件的从句，而破折号之后的内容用于进一步解释one of a 
+number of other categories，who引导的是those的定语从句，becoming just blips in the 
+statistician’s computer这个现在分词作为状语用于表示结果，和接下来的伴随状况，along with those 
+who…是一复杂的短语用于状语，用以进一步说明和对比。
+　　句子翻译：如果你在过去的一周里没有积极寻找工作，并且不能马上开始上班，那他们就会把你从“失业者”群转到许多其他类别中的一类，所以那些找了一段时间以后感到绝望的人和那些没能出去找工作或不在有工作的地区或是因不符合其他一些严格标准而没能算在积极寻找工作之列的人一道统统消失掉，变成了统计学家电脑屏幕上的区区亮点而已。
+　　八、否定句结构
+　　英语的否定句的否定范围具有不同的情况，也就具有不同的语义，所以在遇到否定句时，一定要分清其否定的范围，找准否定的对象。例如，The 
+ambassador did not leave London to take up an appointment in 
+Africa.可以翻译为：1)大使没有离开伦敦到非洲去就职。2)大使不是为了到非洲就职而离开了伦敦的。发生这种情况时，只能根据上下文才能得出正确的理解，排除歧义。此外从语法来看，not与动词谓语连用时，是否定谓语动词的，no与名词连用时，是否定名词的。但从否定重心来看有时却并非如此。如，Don’t 
+give up because it is difficult.只能理解为：不要因为困难就放弃。此外，不定代词中的every, all, 
+both以及副词always, quite,与否定词结合时，不是全部否定，而是部分否定，不是“全不是”而是“不全是”。这些都是必须要注意的问题。
+　　But we can hardly guess what the world will look like to men and women with 
+several generations of communism behind them, who take the brotherhood of man 
+for granted, not as an ideal to be aimed at, but a fact of life, and yet know 
+that this brotherhood was only achieved by ghastly struggles.
+　　句子解析：hardly表示不完全的否定，what引导的是guess的宾语从句，而who引导的是them的定语从句，not as an ideal to 
+be aimed at, but a fact of 
+life这里用到了not…but…不是…而是…的结构，yet表示轻微的转折，在know后的that引导的是其宾语从句。
+　　句子翻译：但对曾有过几代共产主义思想的人们来说，将来的世界看上去将是什么样子，人们还很难作出推测。现在人们总是把他们之间的手足之情看作是理所当然的事，认为生活本身就是这样，而不是当作理想的目标来看待。然而他们知道这种手足之情只有通过巨大的努力才能得到。
+　　九、比较结构
+　　在英语语法中，有几种结构是可以表示比较的。
+　　1）如果要表达人与人，事与事等之间是相似的，可以用as或like。例如：From this motive I began to think 
+seriously of matrimony, and choose my wife, as she did her wedding gown, not for 
+a fine glossy surface, but such qualities as would wear 
+well.出于这一动机，我开始认真考虑结婚的事。我选择妻子就如同她挑选结婚礼服一样，不是求外表光滑细腻，而是经久耐用。as she did her 
+wedding gown,就是用as表示相似。如此的用法还有so do I, so am I, neither/nor do I。
+　　2）当要表达事物之间在某一方面一样时，可用as…as…（后接形用词或副词）和as much/many…as…（后接名词或动词）结构如:Learn as 
+much as you can about what to expect in the press 
+conference.对于在记者招待会上预料会发生的事要尽量多做准备。
+　　3）表达事物之间差别的结构可采用more (…than)或less (…than)，后可接形容词、副词、动词或名词。例如：A 
+general-purpose computer is regarded less as an electric calculating machine 
+than as a capable assistant to human 
+beings.通用电子计算机，与其说是电动计算器，不如说是人的得力助手。需要注意的是在这种结构中more+形容词或副词并不构成比较级。因此，不能以形容词或副词比较级的后缀形式出现。此外这种结构后面还跟介词短语，如：To 
+some, this may sound more like medieval magic than modern 
+science.在一些人听来，这与其说是现代科学，不如说像中世纪的魔术。
+　　The mathematician will usually be greeted with some polite incredulity when 
+he insists that Einstein was a very great physicist who never pretended to prove 
+mathematical results of any significance; or when he states that he will very 
+seldom have to write down any numerical operation in his professional life; or 
+when he points out that dozens of fat books on mathematics never use explicitly 
+any number greater than 4.
+　　句子解析：that引导的是insists的宾语从句，在这个句子中有三个when引导的状语从句表示时间在那时，who引导的是关于great 
+physicist的定语从句，states后的that引导的是它的宾语从句，points out后面的that引导的是它的宾语从句, greater 
+than这是个比较级。
+　　句子翻译：当数学家坚持认为爱因斯坦是一位伟大的物理学家，他从未自称论证过任何重要的数学成果时；或者当他声称他很少需要在一生中进行任何数学运算时；或者当他指出一大堆数学书从未直接用过大于4的数目时，这个数学家通常会受到某种有礼貌的怀疑。
+　　十、it的用法
+　　在英语中，it在句子中除了常常用来表示气候、天气、温度、时间、地点和距离等外，还可用于强调句型中。强调的部分可以是主语、宾语或副词短语等等。例如：It 
+was the Minister of Education that my mother threw an egg at 
+yesterday.我母亲昨天向教育大臣扔了一个臭鸡蛋。但是其一般不强调谓语。
+　　此外，it还可以在句子中充当形式主语或形式宾语。例如：It was very generous of you to lend them your 
+new car for their holiday.你把新车借给他们去度假，真是慷慨大方。这个例句中，用it代替不定式短语to lend them your 
+new car for their 
+holiday作形式主语。并且从这个例句可以看出，当it充当形式主语或宾语时，后面被代替的真正主语或宾语通常是不定式短语、动名词短语或名词性从句。不定式短语作为主语时，特别是主语较长而谓语较短时，常用it作形式主语，而把真正的主语放在谓语后面。“it+连系动词（多为be）+表语（形容词、名词等）+to 
+do sth.”是it作形式主语常用的结构之一。有时若需要给出不定式的逻辑主语，则可以使用“for+名词（或代词宾格）+to do sth.”的结构。
+　　而对于主语从句这种情况，尤其是其主语从句比较长时，常常是将it作为形式主语，而把主语从句置于句子的后部，尤其是当从句由that引导或宾语较短时。“it+连系动词（多为be）+that从句”是常见用it作形式主语代替主语从句的结构之一。而在“it+连系动词（多为be）+形容词+that从句”的结构中，需要注意的是有些形容词要求主语从句使用虚拟语气，亦即主语从句的谓语采用“should+动词原形”的形式，当然在美国英语中，常常省去should，而直接用动词原形。这类形容词一般有：imperative, 
+advisable, desirable, essential, important, natural, necessary, preferable, 
+urgent等等。此外对主语从句作实际的主语用it作形式主语的还有一种结构是“it+连系动词（多为be）+过去分词+ that从句。”
+　　This is nonsense but with it some organs of the popular Press played upon 
+the emotions of their readers so successfully that many candidates for 
+Parliament were afraid to support abolition for fear of losing votes and the 
+result was the muddle-headed Homicide Act of 1957 which made murder with robbery 
+a capital crime and allowed the poisoner to escape the gallows.
+　　句子解析：with it 
+这个介宾短语中的it指的是this指代的内容，so…that的结构表示如此的怎么样以至于怎么样了，即that引导的句子是结果状语，which引导的定语从句是用于修饰Homicide 
+Act of 1957的。
+　　句子翻译：这是一派胡言，但是有些受人欢迎的报刊以次来玩弄读者的感情，以至于不少国会候选人不敢支持废除死刑以免失去选票，结果通过了愚蠢不堪的1957年杀人罪法案，这一法案把抢劫杀人定位死刑，而让放毒者逃脱绞刑。
+　　以上就是笔者精心选择和讲解的十种语法结构，通过熟练地掌握这十种语法结构，我们就能够修炼好突破GRE难句的内功。当然笔者还得再补充一点，那就是我们在读句子的时候除了要内功深厚，还应该聪明一些，做到张弛有道。换句话说，那就是我们在读句子的时候应该学会把我们的精力重点放在作者真正要表达的意思上面，例如以下就是在GRE阅读中最为常见的七类句型：
+　　(1) as well as
+　　(2) not only…..but also
+　　(3) not….but
+　　(4) rather than
+　　(5) while, although, though, albeit
+　　(6) do may have it is true that
+　　(7) far less ， no less than
+　　显然as well as的阅读重心应该放在as well as之前，因为作者真正想要强调的意思在其前面；而碰到not only….but 
+also以及not…but这样的句型时，我们却应该将阅读的聚焦点放在but之后；rather 
+than它表明的是一种强对比，所以我们读的时候重点在于读出前后对比事物的不同特征；while, although, though, albeit, do, 
+may, have, it is true that, 
+这样的句型都是表明的它们有让步作用，所以我们应该迅速scan过让步的内容将我们的意焦放到转折后的内容上面；最后对于far less，no less 
+than的句型我们没有必要在less这样的多少问题上纠缠，只要知道far less表示否定，而no less than表示肯定就可以了。
+　　在本文的最后，献上一句话给漫漫考G路上的考生，让我们与之共勉“Nothing more than diligence can predict your 
+success! ”　

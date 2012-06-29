@@ -1,0 +1,54 @@
+
+&nbsp;
+　　The purpose of new technologies is to make life easier，_____it more 
+difficult.
+　　　A.not make　B.not to make　C.not making　D.do not make
+　　在解这道题之前，我们先来探讨以下三个问题：
+　　一、对称原则及其在高考试题中的应用
+　　并列连词and.or，but，while等连接的前后两个部分有某种对称性，或曰前后的词形要一致。比如说前面是动词，后面也要是动词；前面是过去式，后面也要是过去式；前面是主动语态，后面也要用主动语态，如此等等。掌握这种对称原则，对解单项填空和短文改错有很大用处。下面举数例高考试题佐证。
+　　例1：My brother ______while he ______his bicycle and hurt 
+himself．(MET'89)
+　　A.fell，was riding　B.fell were riding
+　　C.had fallen，rode　D.had fallen，was riding
+　　[分析]答案A。根据对称原则，and连接的并列谓语时态要一致，后面hurt是过去式，前面也应用过去式fell。while从句表示fell动作发生的时间是“在骑自行车时”，应用过去进行时。
+　　例2：On saturday afternoon，Mr Green went to the market，_____some bananas 
+and
+　　　visited her cousin．(MET'91)
+　　A.boughtB.buying　C.to buyD.buy
+　　[分析]答案A。此题是含and连接的三个并列谓语,第一,三个动词用了过去式(went，visited),第二个必然要用过去式。
+　　例3：Playing football not only makes up grow up tall and strong but also give 
+us a sense of fair play and team spirit．(NMET'98)
+　　[分析]　not only … but also … 
+在这里连接并列谓语，根据对称原则,前面用的是一般现在时单数第三人称形式makes，后面一个应是一般现在时单数第三人称，故这行give应改为gives.
+　　例4：They eager to know everything about 93.______China and asked me lots of 
+questions．(NMET'96)
+　　[分析]在这道改错题中这句话的主语是they，and连接的并列谓语第二个是过去式asked，根据对称原则，第一个也应是过去式。但eager是形容词，前面须加be的过去形式were.
+　　二、对称原则中的省略现象
+　　两个（或更多）作用相同的词，词组并列使用，后面一个为了避免重复而将与前面一个相同的情态动词，助动词、不定式前面的to和名词前面的冠词等省略。高考试题中并列结构第二个省略某些词语现象时有出现。又如：
+　　例5：The police found that the house______and a lot of things 
+______．(MET'91)
+　　A.has broken into，has been stolen　B.had broken into，had been stolen
+　　C.has been broken into，stolen　D.had been broken into，stolen
+　　[分析]答案D。主句谓语动词found后有两个并列的宾语从句，因为其主语the house和a lot of 
+things是物，谓语动词应用过去完成时被动语态。为避免重复第二省略了相同的助动词had been.
+　　例6：The car was quite old but in excellent condition.
+　　　这部车子相当旧，但机器性能还非常好。
+　　[分析]but后省略了相同的连系动词were．
+　　例7：The noun is the name of a person or thing．名词是人或物的名称。
+　　[分析]thing前省略了相同的冠词a．
+　　例8：It was very kind of them to meet me at the railway station and drove me 
+to their home．(NMET'96)89._____．
+　　[分析]此题it是形式主语，and连接两个不定式to meet me 和to drive me 
+是真正的主语。为避免重复第二个不定式要省略to，所以drove要改成drive．
+　　三、具有对比意义时，第二个不定式不省略to
+　　To be or not to be ——that is the question．是生是死，就是问题所在。
+　　I came not to scold，but to praise you．我来不是骂你，而是夸你的。
+　　To try anf fail is better than not to try at all．尝试失败总比不尝试好。
+　　两个不定式相距较远，即使中间没有对比关系，为避免意思上的含混，后面不定式to也不省略。如：
+　　We are to take the train to Hancow and after that to travel up the 
+Changjiang River by ship．我们将坐火车到汉口，然后再坐船沿长江往上行。
+　　现在回到本文开头的那道高考题，它含有用逗号分开的两个不定式短语，to make life easier 和not tomake it more 
+difficulet，句中并列作连系动词be(is)的表语，因为有强烈的对比意义，不定式符号to不省略，所以B为其正确答案。
+　　
+&nbsp;
+来源:搜狐教育社区

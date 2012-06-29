@@ -1,0 +1,17 @@
+　　CNET科技资讯网4月17日国际报道 Linux程序设计师逐渐接纳一种改变，可能让VMware的虚拟化软件在更平等的立足点上与开放源代码软件Xen竞争。
+　　Xen可望与Linux的核心(kernel)更密切地融合，但Linux领导人Linus Torvalds的副手Andrew Morton正提倡在Linux核心中加入一种界面，让Linux与任一种虚拟化基础兼容。
+　　虚拟化(virtualization)通常指的是让一台电脑同时执行多重操作系统的软、硬件。这种功能很有用，因为可让服务器的效率提升，并且把桌面型应用程序孤立成互不干扰的分割区(partitions)，或称虚拟机器(virtual machine)。
+　　Xen、微软和VMware都在着手开发一种称为“hypervisor”的软件，用来管理这类虚拟机器对硬件资源的存取。
+　　Morton表示，他偏好采用一种中立的、可与任一种hypervisor搭配的界面，而不愿只独钟Xen一种。
+　　他说：“长久以来，有人认为我们只要跟Xen补钉结合，就很满意了。但是，那么一来，Linux就只能在Xen平台上执行。”
+　　Morton指出，VMware程序设计师建议在Linux核心与hypervisor之间采用一种稳定的界面--而且，他们的确在着上开发这样的界面。
+　　Morton说：“从高端设计的观点来看，我认为VMware的观点不错，而通用型的核心-虚拟机器界面要胜过只限与Xen搭配的界面。”
+　　XenSource和VMware都表示对这种改变无异议，VMware更取得以往欠缺的一席之地。
+　　EMC子公司VMware的资深产品开发经理Dan Chu说：“任何让竞争环境公平化的举动，对每个人而言都是好事，当然也包括本公司在内。”
+　　新一代的准虚拟化(paravirtualization)技术兴起，提供比VMware目前的作法更优越的性能，但条件是必须改变操作系统。
+　　VMware资深研发经理Jack Lo说，如果软件公司采用这种核心界面，这些公司及其客户就不需担心软件、虚拟机器或hypervisor版本不同的问题。
+　　Morton说，Xen程序设计师在界面设计上并不积极。但Xen创始者Ian Pratt声称，Xen也采用一种类似VMware界面的作法，称为VMI，而两者正朝同一方向聚合。
+　　他说：“约75%到80%的程序结构都是雷同的。这是共同点，希望很快就能进驻Linus和Andrew的核心。关于这些的讨论尚未开始。”
+　　Pratt指出，问题在于商标问题。他说：“他们反对在Linux采用的补钉上冠上Xen的字首。而我们也不愿它被称为VMI，毕竟在界面和定义补钉上我们费了很多心血。”
+　　Lo则表示，VMware无意把VMI局限于VMware的代称。他指出，VMI只是虚拟机器界面(Virtual Machine Interface)的缩写罢了，如有必要更改名称，该公乐观其成。
+　　Morton说，在把Xen的补钉纳入Linux核心之前，Xen的程序设计师还需要加把劲。Pratt表示，希望在9月前，一切都能就绪。

@@ -1,0 +1,6 @@
+　　【eNet硅谷动力消息】本周三，MySQL总裁Martin Mickos对甲骨文大加赞赏并表示将与之再次合作，而在不久前他曾把甲骨文的某个产品称作“残品”。Mickos在MySQL用户会议上称赞甲骨文，称与之合作是由于其软件产品原理不同与别人。
+　　事实上形成鲜明对照的是，一方面，MySQL依赖于甲骨文在2005年收购的InnoDB软件，另一方面，MySQL自崛起以来一直发布自由的入门版本软件，甲骨文和IBM视其为对手。仍是开源软件的InnoDB，被Mickos肯定地加入计划之列。他称：“我们与甲骨文重签了几年的合同。”进行削减的是没有成本的数据库产品，像甲骨文的Express Edition或者IBM的DB2社区版本。
+　　Mickos表示：“Express Editions不是自由的。如果公司出版自由支配的软件但其资料不对外开放，他们没有利润但当你升级至其非常昂贵的版本时就会获利。”相反，开源数据库公司比如MySQL就受益于自由版，但没有向上促销消费者、获得社区支持和其它团体行动。
+　　开源挑战所有权的软件对手没有新成效，但Mickos 表示，2005年MySQL营收4000万美元，软件产品在Google、雅虎和 PokerRoom的销售数字比较突出。
+　　本周，MySQL宣布与惠普再次合作3年。惠普开源和Linux部门的副总裁Christine Martino表示公司将转售其软件、提供支持、进入联合的市场和培训活动。
+　　Mickos现在对甲骨文的InnoDB非常乐观。但MySQL努力使自己不只依赖InnoDB，它转移至插件程序体系，可以使不同的机器插入MySQL。MySQL在展示会上宣布将对这些设备进行授权。MySQL正努力打造自己的Falcon和与Solid Information Technology 合作的SolidDB。 SolidDB 和 InnoDB都将进行鉴定。

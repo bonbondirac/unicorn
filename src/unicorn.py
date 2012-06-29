@@ -10,8 +10,6 @@ import redis
 import helper
 import math
 from smallseg.smallseg import SEG
-from readability.readability import Document
-import urllib2
 
 class Unicorn(object):
     
@@ -285,7 +283,7 @@ def self_test():
 #    un.feed_multi_text(constants.TEXT_PATH_REDUCED)
     fs = []
 #    path = 'C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample'
-    path = constants.TEXT_PATH_REDUCED
+    path = constants.TEXT_PATH_MINI
     for dirpath, dirnames, filenames in os.walk(os.path.abspath(path)):
             if dirnames == []:
                 fs.extend([os.path.join(dirpath, filename).replace('\\', '/') for filename in filenames if filename.endswith('.txt')])

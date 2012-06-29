@@ -1,0 +1,182 @@
+&nbsp;
+　　完型填空的基本解题原则是从已知信息中寻找定位出所有与未知填空相关联的信息线索，通过综合分析这些线索推测未知填空的答案。因此，我们在这里总结一些具有普遍性的寻找定位相关已知线索的方法和规律。这些方法更多地适用于动词、名词、形容词和副词等实词。
+　　1.无关词排除法
+　　完型文章一般都有非常明确的中心主线，且整个文章很紧凑，就是紧紧围绕着中心主线展开。因此，理论上正确的选项一定是紧扣文章的主题和中心主线的。故而，一些看上去明显和文章主题和中心主线毫无关系的选项基本上可以排除在正确答案之外。
+　　例如：2001年考研完型试题的第35题
+　　"bill that will propose making payments to witnesses(34 illegal)and will 
+strictly control the amount of35that can be given to a case"
+　　［A］publicity［B］penalty［C］popularity［D］peculiarity
+　　答案:［A］publicity
+　　分析:此题可以应用"无关词排除法"。本题所考查的名词处于这样一个句子结构中：作为control的宾语；后边还受到一个定语从句的限制。根据文章的主题，可以发现3个选项［B］penalty(惩罚)、［C］popularity(流行度)、［D］peculiarity(古怪度)与文章的主题根本无关，政府不可能去控制这些东西。政府要控制的是选项［A］publicity(公开度)。
+　　2.同现
+　　同现是一种词汇的衔接手段。完型文章由于常常有明确的中心主线，所以作者往往会使用一些重点词汇围绕着中心主线贯穿全文。同现实际上就是一组具有相同倾向性的词语，这些词语所表现的倾向性往往与中心主线中的导向一致，或者说这些同现词语的任务就是对文章的导向进行展开支持。因此，文章的整体导向这个已知线索可以成为解出这些同现词语的关键信息。
+　　例如：1995年考研完型试题的43题
+　　"Sleep is dividedsintosperiods of so-called REM sleep, characterized by 
+rapid eye movements and dreaming, and longer periods of non-REM sleep. (41 
+Neither)kind of sleep is at all well-understood , but REM sleep is 42 to serve 
+some restorative function of the brain. The purpose of non-REM sleep is even 
+more 43 ."
+　　(A) subtle (B)obvious (C)mysterious (D)doubtful
+　　答案: (C) mysterious
+　　分析:此篇文章有非常明确的中心主线。文章首句-Sleep is dividedsintosperiods of so-called REM 
+sleep, characterized by rapid eye movements and dreaming, and longer periods of 
+non-REM sleep.(睡眠分为两种：REM sleep和非REM sleep)，探讨两种睡眠就是本文的主题。下一句- 41(答案：Neither) 
+kind of sleep is at all well-understood(两种睡眠都没有被很好地理解)，这就是文章的基本导向。
+　　中心主线(FOCUS主题：有关两种睡眠的问题。文章导向：两种睡眠都没有被很好地理解。)
+　　本题考查形容词的辨析，需要考生从4个形容词中挑出一个最佳的修饰non-REM 
+sleep的目的。但如果仅根据本题所在句子的已知信息是不足以解出题的，还需要在本句之外寻找其他与本题相关的已知信息才可以。这个信息就在本文的总述句所表现的文章导向中：两种睡眠都都没有被很好地理解，后面的分述要服从这个导向。所以，本题的non-REM 
+sleep既然是两种睡眠中的一种，其目的当然应该不被理解，即(C) mysterious(神秘的)。本题是很常见的"同现"现象。
+　　3.复现
+　　复现是完型文章中词汇的另一种衔接手段，即表达相同意思的词汇在文章的不同地方出现。复现可以是相同的词重复出现，也可以是用不同的词表达相同的意思。复现的解题意义在于：如果判断出一个未知填空与上下文的那些已知词汇有复现关系，只要从选项中选出与那些词汇意义相同的就是正确答案。
+　　4.关联
+　　关联是完型文章中经常出现的一种结构，即将两个或两个以上的同类别词语，比如两个动词、两个形容词以连续排比的结构出现。在这种情况下，两个关联词汇在句子中的语法地位一样，且常常起一样的语法作用，之间又明显具有某种逻辑关系。关联的解题意义在于：出题人一般会将一个关联词语设置成已知信息，另一个是未知的，这样那个已知的词语便成为破解未知词语的关键线索。
+　　例如：1999年完型试题的42题
+　　"Companies (41with) low accident rates plan their safety programs, work 
+hard to organize them, and continue working to keep them 42 and active."
+　　［A］alive［B］vivid［C］mobile［D］diverse
+　　答案:［A］alive
+　　分析:从本题所处的句子结构来看，to keep them 42 and 
+active，本题的选项受到两个已知信息点的控制：一个是对them起修饰作用；再有是与后边的另一个形容词active之间形成并列的关联关系，而且形容词active同样也是修饰them。从这两个信息点来看，能够同时满足这两点的选项是［A］alive，表示them(safety 
+programs安全制度)是既alive(有效)又active(被广泛执行)。选项［B］vivid(栩栩如生的)和［C］mobile(移动的)与被修饰成份them(safety 
+programs安全制度)之间根本就没有同质性，构不成修饰关系；而［D］diverse(多种多样的)虽然可以修饰them，但与active没有关联关系。
+　　例如：2002年完型试题的33题
+　　"As time went by, computers became smaller and more powerful, and they 
+became "personal" too, as well as 33 "
+　　［A］institutional［B］universal［C］fundamental［D］instrumenta
+　　答案:［A］institutional分析:本题所考查的形容词用来修饰they即computers，而在本题之前文章中已经有下列3个形容词修饰了computers，本题只是前面3个形容词的延续：
+　　实际上前边3个已知的形容词就是33题的关联成分，通过分析这3个已知形容词的特征就可以确定本题的答案。smaller / powerful / 
+personal这3个词首先都是修饰计算机本身的变化，而且其导向都是指计算机变得越来越容易使用(easier to use);因此, 
+33题我们也要挑选一个具有此特征的词.选项［C］fundamental 
+(根本的,本质上的)和［B］universal(普遍的)不能用来修饰computers,两者没有同质性.选项［D］instrumental 
+(仪器的)不具有前3个形容词的特征,没有表述出计算机变得好用这个概念.只有选项［A］institutional 
+(制度化的)在此处形容计算机变得模块化了,因而有统一的装配和操作标准,也就意味着computers became easier to use.
+　　5.时间线索
+　　若完型文章中出现的时间信息一般都是非常有用的线索，因为只要通过分析这些时间线索就可以很快把握与这些时间线索联系在一起的信息之间的关系。
+　　例如：1998年完型试题的46题
+　　"But they insisted that its(指工业革命) 43 results during the period from 1750 
+to 1850 were widespread poverty and misery for the 44 of the English population. 
+45 contrast, they saw in the preceding hundred years from 1650 to 1750, when 
+England was still a 46 agricultural country, a period of great abundance and 
+prosperity."
+　　43. A)momentary B)prompt C)instant D)immediate
+　　46. A)broadly B)thoroughly C)generally D)completely
+　　43.答案: D) immediate
+　　分析:本题考查形容词的词义辨析，关键要注意的已知信息点是后边的一个时间段-during the period from 1750 to 
+1850。正是这个时间段决定了不可能选择A)momentary、B)prompt以及C)instant这三个均表示"时间短"的词。而immediate除了立即的含义外，还包括逻辑上的"直接"的意思，本题在这里就是要表达工业革命"直接的结果"这个意思，所以D) 
+immediate为最佳选项。
+　　46.答案: D) completely
+　　分析:本题考查副词的词义辨析，主要是在表示绝对性的B)thoroughly(彻底地)、D)completely(完全地)和表示相对性的C)generally(通常地，总体上地)之间做一个选择。解出本题的关键是要根据文章的已知信息分析出"英国是完全的农业国还是总体上的农业国"。做这个分析的关键信息是时间线索。文章给出了两个时间段：
+
+
+
+
+
+　　根据上述分析，应该选择表示"英国是完全的农业国"的选项。B)thoroughly是指细节上的彻底，而D)completely是指整体上的完全，显然D)completely更为合适。
+　　例如：2002年完型试题的30题
+　　"It is generally recognized, ( 29 however ) , that the introduction of the 
+computer in the early 20th century, 30 by the invention of the integrated 
+circuit during the 1960s, radically changed the process"
+　　［A］brought［B］followed［C］stimulated［D］characterized
+　　答案:［B］followed分析:正确解出本题的关键是把握清楚本填空所连接的前后两部分的逻辑关系，而且由于前后两部分的信息都配有明确的时间线索，时间就成为最方便利用的已知信息：
+
+
+
+
+
+　　通过时间线索马上明确了"计算机的发明"早于"集成电路的发明"，4个选项中只有［B］followed能够正确表达这种时间关系，其他3个选项都将"集成电路的发明"表达成早于"计算机的发明"。
+　　6.总分结构对照分析法
+　　由于总分之间的基本关系是互相支持，互相印证的对照关系，而且总述是对分述的总结和概括，而分述是对总述的展开。当一些未知填空出现在总述句时，解出这些填空的相关联已知线索往往可以在与其对应的分述部分找到。
+　　例如：2000年完型试题的47题-应用于形容词的例子
+　　"If no surplus is available, a farmer cannot be 47 . He must either sell 
+some of his property or (48 seek)extra funds in form of loans. Naturally he will 
+try to borrow money at a low (49 rate)of interest, but loans of this kind are 
+not 50 obtainable."
+　　［A］self-confident［B］self-sufficient［C］self-satisfied［D］self-restrained
+　　答案：［B］self-sufficient
+　　分析:本题处在一个总述句中：If no surplus is available, a farmer cannot be 
+47.在此句话之前，文章都是在讲If surplus is 
+available(有赢余的情况下),农民的生活如何；实际上，从文章结构来看，从本题开始出现了另一个意群，而If no surplus is 
+available, a farmer cannot be 
+47为这个意群的总述句，即如果没有赢余，农民会怎样？所以，仅仅看本题所在的句子所包含的已知信息是不够的，还要看其他地方的相关已知信息，这个关键的相关已知信息就在分述部分；因为总述部分是对分述部分的高度概括，只要总结出分述部分，本题答案就迎刃而解。
+　　总结一下分述部分很容易判断出47题的答案一定是［B］self-sufficient,因为总述句中的not be 
+self-sufficient恰恰是对分述的最佳概括.
+　　例如：1999年完型试题的45题-应用于动词的例子
+　　"Successful safety programs may 45 greatly in the emphasis placed on 
+certain aspects of the program. Some place great emphasis on mechanical 
+guarding. Others stress safe work practices by (46 observing)rules or 
+regulations. (47 Still) others depend on an emotional appeal to the worker. But, 
+there are certain basic ideas that must be used in every program if maximum 
+results are to be obtained."
+　　［A］alter［B］differ［C］shift［D］distinguish
+　　答案：［B］differ分析：45题所考查的动词处于本段的总述句中，既然分述所做的是"秉承总述的旨意"，我们通过分析分述的内容就可以倒推出总述的意思。
+
+
+
+
+
+　　通过分述可以总结出"3种都是成功的安全项目(主语)"做的动作都是"将重点放置于(谓语)"，"但所放置的点不同(宾语)"。由此分述总结出总述句的主语Successful 
+safety programs所要做的动作(46题)就是"differ"。
+　　例如：2002年完型试题的21题-甚至可以应用于介词
+　　"Comparisons were drawn between the development of television in the 20th 
+century and the diffusion of printing in the 15th and 16th centuries. Yet much 
+had happened 21 . As was discussed before, it was not ( 22 ) the 19th century 
+that the newspaper became the dominant pre-electronic ( 23 ) , following in the 
+wake of the pamphlet and the book and in the ( 24 ) of the periodical. It was 
+during the same time that the communications revolution ( 25 ) up, beginning 
+with transport, the railway, and leading ( 26 ) through the telegraph, the 
+telephone, radio, and motion pictures ( 27 ) the 20th-century world of the motor 
+car and the air plane. Not everyone sees that process in ( 28 ) . It is 
+important to do so.
+　　［A］between［B］before［C］since［D］later
+　　答案：between分析：解除本题所考查的介词处于文章的总述部分- 
+"作者要在两个时间阶段之间做比较。然后说：但是很多事情发生了"。再去总结分述部分-"文章首段讲19世纪出现了许多信息产品"，正好支持总述的much had 
+happened，19世纪处于两个时间段之间，答案一定是between。
+
+
+
+
+　　
+　　7.对应成分分析法
+　　由于完型文章的上下文之间以及句子内部之间往往有着一定的逻辑关系，句子的各个成分之间便形成一定的对应关系，考生可以根据这种逻辑关系找出与未知填空相对应的已知成分作为线索，通过对应的已知成分推断出未知填空的答案。
+　　(1)应用于句子内部
+　　例如：1996年完型试题的第45题
+　　"Vitamins are similar because they are made of the same elements- usually 
+carbon, hydrogen , oxygen , and 45 nitrogen."
+　　(A) mostly (B) partially (C) sometimes (D) rarely
+　　答案: (C) sometimes分析:本题是一个典型的可以应用"对应成份分析法"解出的题：
+
+
+
+
+　　
+　　从上述分析可以看出，45题与usually形成对应关系：因为usually是频度副词，所以45题起码要选择频度副词，可以马上排除不是频度副词的选项(A) 
+mostly和(B) partially。(D) 
+rarely(很少)虽然是频度副词，但由于45题与usually之间是and并列的逻辑关系，而rarely与usually是转折对立的关系，所以不对。只有(C) 
+sometimes，既是频度副词，又可以与usually形成并列的逻辑关系。
+　　(2)应用于上下句之间
+　　例如：1996年完型试题的第46题
+　　"Vitamins are similar because they are
+　　made of the same elements--usually carbon, hydrogen , oxygen , and 45 
+nitrogen. They are different 46 their elements are arranged differently"
+　　46. (A) in that (B) so that (C) such that (D) except that
+　　答案: (A) in that分析:本题应用"对应成份分析法"，分析如下：本题所在的这句话的句子结构与本段的第一句的结构一模一样：
+
+
+
+
+
+　　通过上述分析，可以非常明确地看出46题与上句中的because形成对应，也就是说46题再选出一个表示because的选项，答案为(A) in 
+that。例如：1996年完型试题的第49题
+　　"(48 Getting)enough vitamins is essential to life, although the body has no 
+nutritional use for 49 vitamins."
+　　49. (A) exceptional (B) exceeding (C) excess (D) external
+　　答案: (C) excess
+　　分析:本题可应用"对应成份分析法"，分析如下：本题需要选出一个修饰vitamins的形容词，我们发现前边的从句中也有一个修饰vitamins的形容词enough，而且前后两句有着明确的逻辑关系-让步关系的主从句。
+
+
+
+
+
+　　通过上述分析，可以非常明确地看出49题与上句中的enough形成对应成份，而且两者为对立的关系，所以本题的答案就是去4个选项中找一个与enough对立的选项即可，(C) 
+excess是enough的对立选项，故为正确答案。
+　　2&nbsp;

@@ -1,0 +1,4 @@
+&nbsp;&nbsp;&nbsp; 作者:KING
+　　计世网4月12日消息 本周二，Skype宣布以2700万美元的eBay股票价格收购VoIP新创公司Sonorit股份公司及其下属的子公司Camino Networks。
+　　此举，旨在进一步增强Skype公司的在线语音技术实力，壮大技术队伍。收购后，该公司的技术专家将为Skype设计和开发VoIP未来版本的产品。
+　　Skype称，Sonorit和Camino主要从事网络语音处理、解码和传输业务。据Camino公司的总裁和CEO onathan Christensen称，公司的语音产品可以连接移动IP网络。去年12月，全球IP语音公司指控Sonorit和Camino公司违犯商业机密规定。2005年，eBay公司以25亿美元的价格收购Skype，帮助买主与卖主通过在线拍卖网站轻松实现语音通话。 

@@ -1,0 +1,564 @@
+
+
+自动滚动
+var theFloaters = new floaters();
+
+theFloaters.play();
+
+
+var formlist='';
+formlist=formlist+'';
+formlist=formlist+'自动滚动';
+theFloaters.addItem('formdiv2','document.body.clientWidth-106',0,formlist);
+
+theFloaters.play();
+
+TimeScrollCentAll();
+
+搜狐直播员: 朋友们，大家晚上好 [0:0 ] 
+搜狐直播员: 北京时间5月4号8:00将为大家带来的是NBA季后赛骑士与奇才的第五场较量，欢迎大家届时收看 [0:0 ] 
+搜狐直播员: 双方在前四场比赛中战成2:2平，支球队都希望能够获得裁判的“偏袒”，以赢下关键的第五场。 [0:0 ] 
+搜狐直播员: 预计奇才首发：巴特勒 贾米森 海伍德 阿里纳斯 杰弗里斯 [0:0 ] 
+搜狐直播员: 预计骑士队首发：詹姆斯 古登 伊尔戈斯卡斯 斯诺 休斯 [0:0 ] 
+搜狐直播员: 前瞻：活塞再战雄鹿晋级在望 奇才骑士争抢赛点 [0:0 ]
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 奇才首发：巴特勒 贾米森 海伍德 阿里纳斯 杰弗里斯 [0:0 ] 
+搜狐直播员: 骑士首发：詹姆斯 古登 伊尔戈斯卡斯 斯诺 休斯 [0:0 ] 
+搜狐直播员: 第一节比赛开始 [0:0 ] 
+搜狐直播员: 杰弗里斯与伊尔戈斯卡斯跳球 [0:0 ]
+SetCookie("sports007centLeft","2");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 斯诺中投命中 [2:0 ]
+SetCookie("sports007centLeft","2");SetCookie("sports007centRight","2");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 巴特勒右侧18尺处投篮命中 [2:2 ] 
+搜狐直播员: 伊尔戈斯卡斯左侧跳投偏出，巴特勒得到篮板 [2:2 ]
+SetCookie("sports007centLeft","2");SetCookie("sports007centRight","4");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 贾米森右侧投三分不中，杰弗里斯得到进攻篮板妙传贾米森，后者投篮命中 [2:4 ]
+SetCookie("sports007centLeft","4");SetCookie("sports007centRight","4");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 海伍德打手犯规把詹姆斯送上了罚球线，两罚全中 [4:4 ] 
+搜狐直播员: 巴特勒左侧跳投不中 [4:4 ]
+SetCookie("sports007centLeft","4");SetCookie("sports007centRight","6");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 贾米森抢到进攻篮板补投得手 [4:6 ] 
+搜狐直播员: 休斯右侧15尺处投篮不中，杰弗里斯得到后场篮板 [4:6 ] 
+搜狐直播员: 阿里纳斯左侧19尺处飞身投篮不中 [4:6 ]
+SetCookie("sports007centLeft","6");SetCookie("sports007centRight","6");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 休斯强行突破投篮命中 [6:6 ] 
+搜狐直播员: 贾米森右侧25尺处远投三分未分 [6:6 ] 
+搜狐直播员: 伊尔戈斯卡斯得到后场篮板 [6:6 ] 
+搜狐直播员: 古登投篮偏出，海伍德摘下篮板 [6:6 ] 
+搜狐直播员: 阿里纳斯投篮不中，伊尔戈斯卡斯保护下后场篮板 [6:6 ]
+SetCookie("sports007centLeft","8");SetCookie("sports007centRight","6");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 休斯接斯诺助攻左侧零度角投篮命中 [8:6 ] 
+搜狐直播员: 伊尔戈斯卡斯防守犯规了 [8:6 ]
+SetCookie("sports007centLeft","8");SetCookie("sports007centRight","8");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 阿里纳斯中投得手 [8:8 ]
+SetCookie("sports007centLeft","10");SetCookie("sports007centRight","8");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 贾米森投篮命中回敬二分 [10:8 ] 
+搜狐直播员: 海伍德投篮不中 [10:8 ] 
+搜狐直播员: 伊尔戈斯卡斯左侧投篮不中 [10:8 ] 
+搜狐直播员: 古登打手犯规 [10:8 ]
+SetCookie("sports007centLeft","10");SetCookie("sports007centRight","9");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 阿里纳斯第一罚命中 [10:9 ] 
+搜狐直播员: 阿里纳斯第二罚命中 [10:10 ]
+SetCookie("sports007centLeft","12");SetCookie("sports007centRight","10");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 詹姆斯助攻，斯诺右侧溜底线投篮命中 [12:10 ]
+SetCookie("sports007centLeft","12");SetCookie("sports007centRight","13");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 贾米森助攻，阿里纳斯左侧25尺处投三分命中 [12:13 ] 
+搜狐直播员: 巴特勒从斯诺手中断球 [12:13 ]
+SetCookie("sports007centLeft","12");SetCookie("sports007centRight","15");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 贾米森接巴特勒分球投篮命中 [12:15 ] 
+搜狐直播员: 海伍德打手犯规 [12:15 ] 
+搜狐直播员: 骑士队叫暂停，第一节比赛还有5分钟41秒 [12:15 ] 
+搜狐直播员: 伊尔戈斯卡斯两罚不中 [12:15 ] 
+搜狐直播员: 贾米森得到后场篮板 [12:15 ] 
+搜狐直播员: 古登打手犯规了 [12:15 ]
+SetCookie("sports007centLeft","12");SetCookie("sports007centRight","16");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 巴特勒两罚中一 [12:16 ] 
+搜狐直播员: 托马斯上场换下了海伍德 [12:16 ] 
+搜狐直播员: 马绍尔上场换下古登 [12:16 ] 
+搜狐直播员: 詹姆斯投篮不中 [12:16 ]
+SetCookie("sports007centLeft","12");SetCookie("sports007centRight","18");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 阿里纳斯助攻，杰弗里斯投篮命中 [12:18 ]
+SetCookie("sports007centLeft","14");SetCookie("sports007centRight","18");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 休斯圈顶跳投回敬二分 [14:18 ] 
+搜狐直播员: 阿里纳斯中投未果 [14:18 ] 
+搜狐直播员: 马绍尔得到篮板 [14:18 ]
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","18");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 休斯接詹姆斯助攻左侧17尺处投篮命中 [16:18 ]
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","20");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 阿里纳斯接贾米森分球投篮命中回敬二分 [16:20 ]
+SetCookie("sports007centLeft","18");SetCookie("sports007centRight","20");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 詹姆斯右侧溜底线投篮命中 [18:20 ]
+SetCookie("sports007centLeft","18");SetCookie("sports007centRight","22");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 贾米森左侧14尺处跑投回敬二分 [18:22 ] 
+搜狐直播员: 马绍尔内线勾手投篮不中，马绍尔抢到进攻篮板 [18:22 ] 
+搜狐直播员: 杰弗里斯打手犯规 [18:22 ] 
+搜狐直播员: 奇才叫了暂停，第一节比赛还有2分钟18秒 [18:22 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [18:22 ] 
+搜狐直播员: 瓦莱乔上场换下斯诺 [18:22 ] 
+搜狐直播员: 默里上场换下伊尔戈斯卡斯 [18:22 ]
+SetCookie("sports007centLeft","19");SetCookie("sports007centRight","22");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 马绍尔第一罚命中 [19:22 ]
+SetCookie("sports007centLeft","20");SetCookie("sports007centRight","22");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 马绍尔第二罚命中 [20:22 ] 
+搜狐直播员: 詹姆斯从贾米森手中断球 [20:22 ] 
+搜狐直播员: 伊坦-托马斯犯规 [20:22 ] 
+搜狐直播员: 休斯罚球不中 [20:22 ]
+SetCookie("sports007centLeft","22");SetCookie("sports007centRight","22");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 休斯投篮命中 [22:22 ] 
+搜狐直播员: 贾米森打手犯规，詹姆斯两罚一中 [23:22 ] 
+搜狐直播员: 阿里纳斯打手犯规 [23:22 ]
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","22");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 休斯两罚全中 [25:22 ]
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 阿里纳斯接巴特勒助攻弧顶投三分命中 [25:25 ] 
+搜狐直播员: 伊坦-托马斯防守犯规 [25:25 ] 
+搜狐直播员: 瓦莱乔第一罚不中 [25:25 ] 
+搜狐直播员: 丹尼尔斯上场换下杰弗里斯 [25:25 ] 
+搜狐直播员: 鲁芬上场换下伊坦-托马斯 [25:25 ] 
+搜狐直播员: 瓦莱乔第二罚不中 [25:25 ] 
+搜狐直播员: 贾米森得到后场篮板 [25:25 ] 
+搜狐直播员: 贾米森左侧零度角投篮不中，鲁芬得到篮板 [25:25 ]
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","27");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 贾米森接巴特勒助攻内线勾手投篮命中 [25:27 ] 
+搜狐直播员: 詹姆斯左侧溜底线投篮不中 [25:27 ] 
+搜狐直播员: 第一节比赛结束，奇才27：25落后骑士队 [25:27 ]
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","27");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 丹尼尔斯左侧21尺处跳投不中，詹姆斯得到篮板 [25:27 ] 
+搜狐直播员: 马绍尔接詹姆斯助攻右侧零度角投篮命中 [27:27 ]
+SetCookie("sports007centLeft","27");SetCookie("sports007centRight","29");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 阿里纳斯投篮命中 [27:29 ] 
+搜狐直播员: 詹姆斯走步违例 [27:29 ] 
+搜狐直播员: 巴特勒右侧21尺处跳投不中 [27:29 ] 
+搜狐直播员: 默里助攻，詹姆斯投篮不中 [27:29 ] 
+搜狐直播员: 巴特勒打手犯规 [27:29 ]
+SetCookie("sports007centLeft","30");SetCookie("sports007centRight","29");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 詹姆斯加罚命中 [30:29 ] 
+搜狐直播员: 瓦莱乔防守犯规了 [30:29 ] 
+搜狐直播员: 鲁芬进攻犯规 [30:29 ] 
+搜狐直播员: 休斯右侧跳投不中，巴特勒得到篮板 [30:29 ]
+SetCookie("sports007centLeft","30");SetCookie("sports007centRight","32");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 阿里纳斯左侧投中三分 [30:32 ] 
+搜狐直播员: 詹姆斯右侧26尺处投三分不中，丹尼尔斯得到篮板 [30:32 ]
+SetCookie("sports007centLeft","30");SetCookie("sports007centRight","34");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 詹姆斯接巴特勒助攻左侧跳投得手再添二分 [30:34 ] 
+搜狐直播员: 巴特勒防守犯规了 [30:34 ] 
+搜狐直播员: 比赛进入官方暂停，第二节比赛还有8分钟52秒 [30:34 ]
+SetCookie("sports007centLeft","32");SetCookie("sports007centRight","34");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 休斯投篮不中，瓦莱乔得到进攻篮板补投命中 [32:34 ]
+SetCookie("sports007centLeft","32");SetCookie("sports007centRight","37");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 阿里纳斯接鲁芬助攻右侧零度角投三分命中 [32:37 ]
+SetCookie("sports007centLeft","33");SetCookie("sports007centRight","37");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 贾米森打手犯规，瓦莱乔两罚不一 [33:37 ] 
+搜狐直播员: 杰弗里斯上场换下贾米森 [33:37 ] 
+搜狐直播员: 杰弗里斯左侧25尺处投三分不中，瓦莱乔得到后场篮板 [33:37 ]
+SetCookie("sports007centLeft","35");SetCookie("sports007centRight","37");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 詹姆斯强行突破投篮命中 [35:37 ] 
+搜狐直播员: 马绍尔防守犯规 [35:37 ]
+SetCookie("sports007centLeft","35");SetCookie("sports007centRight","39");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 丹尼尔斯左侧16尺处跳投得手 [35:39 ] 
+搜狐直播员: 杰弗里斯打手犯规 [35:39 ]
+SetCookie("sports007centLeft","36");SetCookie("sports007centRight","39");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 瓦莱乔两罚中一 [36:39 ] 
+搜狐直播员: 巴特勒右侧跳投不中，休斯得到篮板 [36:39 ] 
+搜狐直播员: 休斯传球失误 [36:39 ] 
+搜狐直播员: 阿里纳斯右侧26尺处投三分不中，杰弗里斯得到篮板 [36:39 ] 
+搜狐直播员: 奇才进攻24秒违例 [36:39 ] 
+搜狐直播员: 伊尔戈斯卡斯上场换下马绍尔 [36:39 ] 
+搜狐直播员: 鲁芬打手犯规 [36:39 ] 
+搜狐直播员: 贾米森上场换下巴特勒 [36:39 ] 
+搜狐直播员: 海伍德上场换下鲁芬 [36:39 ] 
+搜狐直播员: 斯诺上场换下休斯 [36:39 ]
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","39");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 詹姆斯第一罚命中 [37:39 ]
+SetCookie("sports007centLeft","38");SetCookie("sports007centRight","39");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 詹姆斯第二罚命中 [38:39 ]
+SetCookie("sports007centLeft","38");SetCookie("sports007centRight","41");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 杰弗里斯接丹尼尔斯助攻投篮命中 [38:41 ]
+SetCookie("sports007centLeft","40");SetCookie("sports007centRight","41");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 斯诺接詹姆斯助攻投篮命中回敬二分 [40:41 ]
+SetCookie("sports007centLeft","40");SetCookie("sports007centRight","43");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 贾米森投篮命中 [40:43 ]
+SetCookie("sports007centLeft","42");SetCookie("sports007centRight","43");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 詹姆斯右侧溜底线投篮命中 [42:43 ]
+SetCookie("sports007centLeft","42");SetCookie("sports007centRight","46");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 丹尼尔斯助攻，贾米森左侧投三分命中 [42:46 ] 
+搜狐直播员: 骑士队叫了暂停，第二节比赛还有4分钟18秒 [42:46 ] 
+搜狐直播员: 古登上场换下瓦莱乔 [42:46 ] 
+搜狐直播员: 伊尔戈斯卡斯进攻犯规了 [42:46 ] 
+搜狐直播员: 詹姆斯打手犯规 [42:46 ] 
+搜狐直播员: 贾米森第一罚不中 [42:46 ] 
+搜狐直播员: 休斯上场换下默里 [42:46 ]
+SetCookie("sports007centLeft","42");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 贾米森第二罚命中 [42:47 ] 
+搜狐直播员: 海伍德打手犯规 [42:47 ] 
+搜狐直播员: 伊坦-托马斯上场换下海伍德 [42:47 ] 
+搜狐直播员: 詹姆斯第一罚命中 [42:47 ]
+SetCookie("sports007centLeft","43");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 詹姆斯第二罚命中 [44:47 ] 
+搜狐直播员: 丹尼尔斯左侧溜底线投篮不中，伊坦-托马斯得到进攻篮板补投不中 [44:47 ] 
+搜狐直播员: 伊尔戈斯卡斯得到篮板 [44:47 ]
+SetCookie("sports007centLeft","46");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 古登强行突破投篮命中 [46:47 ] 
+搜狐直播员: 杰弗里斯右侧零度角投篮不中 [46:47 ] 
+搜狐直播员: 斯诺保护下后场篮板 [46:47 ]
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 詹姆斯助攻，伊尔戈斯卡斯投篮命中 [48:47 ] 
+搜狐直播员: 奇才叫了暂停，第二节比赛还有 [48:47 ] 
+搜狐直播员: 第二节比赛还有2分钟26秒 [48:47 ] 
+搜狐直播员: 丹尼尔斯左侧25尺处投三分不中 [48:47 ] 
+搜狐直播员: 休斯得到篮板 [48:47 ] 
+搜狐直播员: 伊坦-托马斯从古登手中断球 [48:47 ] 
+搜狐直播员: 古登回防犯规了 [48:47 ]
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","48");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 伊坦-托马斯获得罚球机会，第一罚命中 [48:48 ] 
+搜狐直播员: 瓦莱乔上场换下古登 [48:48 ]
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","49");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 伊坦-托马斯第二罚命中 [48:49 ] 
+搜狐直播员: 伊尔戈斯卡斯进攻犯规 [48:49 ]
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 巴特勒助攻，贾米森中投命中 [48:51 ] 
+搜狐直播员: 詹姆斯右侧19尺处跳投不中 [48:51 ]
+SetCookie("sports007centLeft","50");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 瓦莱乔助攻，詹姆斯投篮命中 [50:51 ] 
+搜狐直播员: 丹尼尔斯走步违例 [50:51 ] 
+搜狐直播员: 骑士队叫了暂停，第二节比赛还有6.4秒 [50:51 ] 
+搜狐直播员: 鲁芬上场换下巴特勒 [50:51 ] 
+搜狐直播员: 杰弗里斯犯规了 [50:51 ]
+SetCookie("sports007centLeft","52");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 詹姆斯两罚全中 [52:51 ] 
+搜狐直播员: 默里上场换下休斯 [52:51 ] 
+搜狐直播员: 阿里纳斯左侧零度角投篮不中 [52:51 ] 
+搜狐直播员: 詹姆斯得到后场篮板 [52:51 ] 
+搜狐直播员: 第二节比赛结束，骑士52：51奇才 [52:51 ] 
+搜狐直播员: 稍事休息，下半场比赛见 [52:51 ]
+SetCookie("sports007MenLeft","第一节25")
+
+SetCookie("sports007MenRight","27")
+
+SetCookie("sports007MenLeft","第一节25第二节27")
+
+SetCookie("sports007MenRight","2724")
+
+SetCookie("sports007centLeft","52");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 第三节比赛开始 [52:51 ]
+SetCookie("sports007centLeft","52");SetCookie("sports007centRight","53");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 巴特勒投篮命中 [52:53 ]
+SetCookie("sports007centLeft","54");SetCookie("sports007centRight","53");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 贾米森打手犯规，休斯两罚全中 [54:53 ]
+SetCookie("sports007centLeft","54");SetCookie("sports007centRight","54");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 詹姆斯打手犯规，海伍德两罚中一 [54:54 ]
+SetCookie("sports007centLeft","56");SetCookie("sports007centRight","54");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 休斯助攻，伊尔戈斯卡斯投篮命中 [56:54 ] 
+搜狐直播员: 阿里纳斯投篮不中，斯诺得到篮板 [56:54 ]
+SetCookie("sports007centLeft","58");SetCookie("sports007centRight","54");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 詹姆斯投篮命中 [58:54 ] 
+搜狐直播员: 海伍德走步违例 [58:54 ]
+SetCookie("sports007centLeft","60");SetCookie("sports007centRight","54");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 休斯助攻，古登圈顶跳投命中 [60:54 ] 
+搜狐直播员: 奇才叫了暂停 [60:54 ] 
+搜狐直播员: 第三节比赛还有9分钟03秒 [60:54 ]
+SetCookie("sports007centLeft","60");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 阿里纳斯助攻，杰弗里斯扣篮命中 [60:56 ]
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 休斯强打造成了对方的犯规，罚球两罚中一 [61:56 ]
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 伊尔戈斯卡斯投篮命中 [61:58 ]
+SetCookie("sports007centLeft","63");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 伊尔戈斯卡斯技术犯规，阿里纳斯罚球命中 [63:58 ]
+SetCookie("sports007centLeft","63");SetCookie("sports007centRight","59");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 丹尼尔斯从海伍德手中断球反击，阿里纳斯投篮再添二分 [63:59 ]
+SetCookie("sports007centLeft","63");SetCookie("sports007centRight","61");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 骑士队进攻未果，杰弗里斯投篮命中 [63:61 ]
+SetCookie("sports007centLeft","65");SetCookie("sports007centRight","63");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 贾米森接阿里纳斯助攻投篮命中，斯诺投篮命中 [65:63 ] 
+搜狐直播员: 默里接斯诺助攻投篮命中 [67:63 ]
+SetCookie("sports007centLeft","67");SetCookie("sports007centRight","66");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 阿里纳斯弧顶投三分命中 [67:66 ]
+SetCookie("sports007centLeft","69");SetCookie("sports007centRight","66");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","69");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 默里接斯诺助攻投篮命中，阿里纳斯投中三分 [69:69 ]
+SetCookie("sports007centLeft","71");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 马绍尔投篮命中 [71:69 ] 
+搜狐直播员: 马绍尔从贾米森手中断球反击 [71:69 ]
+SetCookie("sports007centLeft","71");SetCookie("sports007centRight","71");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 丹尼尔斯强打造成了斯诺的打手犯规，两罚全中 [71:71 ]
+SetCookie("sports007centLeft","71");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 阿里纳斯接鲁芬助攻右侧25尺处投三分不中 [71:74 ] 
+搜狐直播员: 骑士队叫了暂停，第三节比赛还有4分钟01秒 [71:74 ] 
+搜狐直播员: 斯诺接休斯助攻左侧零度角投篮命中，巴特勒内线跳投不中，斯诺得到后场篮板 [71:74 ] 
+搜狐直播员: 比利-托马斯打手犯规把休斯送上了罚球线，第一罚命中 [71:74 ]
+SetCookie("sports007centLeft","74");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 休斯第二罚不中 [74:74 ] 
+搜狐直播员: 瓦莱乔得到进攻篮板 [74:74 ]
+SetCookie("sports007centLeft","76");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 阿里纳斯打手犯规，默里两罚全中 [76:74 ] 
+搜狐直播员: 默里防守犯规 [76:74 ] 
+搜狐直播员: 贾米森上场换下比利-托马斯 [76:74 ] 
+搜狐直播员: 巴特勒右侧溜底线投篮不中，瓦莱乔得到篮板 [76:74 ]
+SetCookie("sports007centLeft","78");SetCookie("sports007centRight","76");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 默里中投命中，丹尼尔斯快攻回敬二分 [78:76 ]
+SetCookie("sports007centLeft","81");SetCookie("sports007centRight","76");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 默里助攻，休斯左侧投三分命中 [81:76 ] 
+搜狐直播员: 丹尼尔斯左侧零度角投三分不中 [81:76 ]
+SetCookie("sports007centLeft","81");SetCookie("sports007centRight","78");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 鲁芬抢到进攻篮板妙传贾米森，后者投篮命中 [81:78 ]
+SetCookie("sports007centLeft","83");SetCookie("sports007centRight","78");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 休斯左侧25尺处投三分不中，瓦莱乔抢到进攻篮板，默里内线跳投命中 [83:78 ]
+SetCookie("sports007centLeft","83");SetCookie("sports007centRight","80");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 瓦莱乔打手犯规，阿里纳斯两罚全中 [83:80 ] 
+搜狐直播员: 斯诺内线跳投不中 [83:80 ]
+SetCookie("sports007centLeft","83");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 瓦莱乔打手犯规，贾米森两罚中一 [83:81 ]
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 默里强行突破投篮命中 [85:81 ] 
+搜狐直播员: 第三节比赛结束 [85:81 ]
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 第四节比赛开始 [85:81 ] 
+搜狐直播员: 古登投篮不中，他自己抢到进攻篮板 [85:81 ]
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 斯诺投篮命中 [87:81 ]
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 贾米森投篮不中，奇才抢到进攻篮板，丹尼尔斯接阿里纳斯助攻左侧投篮命中 [87:83 ]
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 詹姆斯右侧溜底线投篮命中 [89:83 ]
+SetCookie("sports007centLeft","91");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 杰弗里斯打手犯规送给了詹姆斯加罚的机会，加罚不中，贾米森得到篮板 [91:83 ]
+SetCookie("sports007centLeft","93");SetCookie("sports007centRight","85");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 杰弗里斯助攻，阿里纳斯投篮命中，詹姆斯投篮命中回敬二分 [93:85 ]
+SetCookie("sports007centLeft","93");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 贾米森接丹尼尔斯助攻弧顶投中三分 [93:88 ] 
+搜狐直播员: 杰弗里斯防守犯规 [93:88 ] 
+搜狐直播员: 休斯上场换下马绍尔 [93:88 ] 
+搜狐直播员: 詹姆斯投篮不中，骑士队得到进攻篮板 [93:88 ] 
+搜狐直播员: 比赛进入官方暂停，第四节比赛还有8分钟48秒 [93:88 ] 
+搜狐直播员: 海伍德上场换下杰弗里斯 [93:88 ]
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 詹姆斯从阿里纳斯手中断球反击，休斯圈顶跳投命中，巴特勒接丹尼尔斯助攻投篮命中回敬二分 [95:90 ] 
+搜狐直播员: 骑士队叫了暂停，第四节比赛还有7分钟28秒 [95:90 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [95:90 ]
+SetCookie("sports007centLeft","97");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 詹姆斯投篮命中 [97:90 ] 
+搜狐直播员: 贾米森右侧溜底线投篮不中 [97:90 ] 
+搜狐直播员: 休斯内线跑投不中，骑士队抢到进攻篮板二次进攻24秒违例了 [97:90 ] 
+搜狐直播员: 阿里纳斯右侧25尺处投三分不中，默里得到后场篮板 [97:90 ] 
+搜狐直播员: 休斯左侧投三分不中 [97:90 ]
+SetCookie("sports007centLeft","97");SetCookie("sports007centRight","92");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 巴特勒投篮命中，还造成了古登的打手犯规 [97:92 ] 
+搜狐直播员: 杰弗里斯上场换下海伍德 [97:92 ]
+SetCookie("sports007centLeft","99");SetCookie("sports007centRight","93");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 巴特勒加罚命中，休斯圈顶跳投得手 [99:93 ] 
+搜狐直播员: 巴特勒进攻犯规 [99:93 ]
+SetCookie("sports007centLeft","101");SetCookie("sports007centRight","93");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 詹姆斯投篮命中 [101:93 ] 
+搜狐直播员: 奇才叫了暂停，第四节比赛还有4分钟18秒 [101:93 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [101:93 ]
+SetCookie("sports007centLeft","101");SetCookie("sports007centRight","95");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 丹尼尔斯投篮命中 [101:95 ] 
+搜狐直播员: 巴特勒从休斯手中断球 [101:95 ]
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","95");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 斯诺助攻，詹姆斯投篮命中 [103:95 ]
+SetCookie("sports007centLeft","105");SetCookie("sports007centRight","95");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 休斯从阿里纳斯手中断球反击，斯诺投篮不中，詹姆斯抢到进攻篮板补投命中 [105:95 ]
+SetCookie("sports007centLeft","105");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 詹姆斯外线投三分命中 [105:98 ] 
+搜狐直播员: 詹姆斯技术犯规了 [105:98 ]
+SetCookie("sports007centLeft","105");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 巴特勒强行突破投篮命中 [105:100 ] 
+搜狐直播员: 詹姆斯投篮不中，他自己抢到进攻篮板，杰弗里斯防守犯规 [105:100 ] 
+搜狐直播员: 鲁芬上场换下杰弗里斯 [105:100 ]
+SetCookie("sports007centLeft","107");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 詹姆斯两罚全中 [107:100 ] 
+搜狐直播员: 奇才叫了暂停，第四节比赛还有1分钟17秒 [107:100 ]
+SetCookie("sports007centLeft","107");SetCookie("sports007centRight","103");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 丹尼尔斯投篮命中还造成了古登的打手犯规，加罚命中 [107:103 ] 
+搜狐直播员: 斯诺左侧溜底线跳投不中 [107:103 ]
+SetCookie("sports007centLeft","107");SetCookie("sports007centRight","105");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 贾米森内线跑投不中，巴特勒得到进攻篮板补投命中 [107:105 ] 
+搜狐直播员: 骑士队叫了暂停，第四节比赛还有35.5秒 [107:105 ]
+SetCookie("sports007centLeft","107");SetCookie("sports007centRight","107");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 巴特勒从詹姆斯手中断球反击，丹尼尔斯助攻，巴特勒投篮命中 [107:107 ] 
+搜狐直播员: 骑士队叫了暂停，全场比赛还有7.5秒 [107:107 ] 
+搜狐直播员: 伊尔戈斯卡斯上场换下古登 马绍尔上场换下斯诺 海伍德上场换下鲁芬 [107:107 ] 
+搜狐直播员: 詹姆斯最后一投不中，第四节比赛结束 [107:107 ] 
+搜狐直播员: 第四节比赛结束，双方战成107平 [107:107 ]
+SetCookie("sports007MenLeft","第一节25第二节27第三节33")
+
+SetCookie("sports007MenRight","272430")
+
+SetCookie("sports007MenLeft","第一节25第二节27第三节33第四节22")
+
+SetCookie("sports007MenRight","27243026")
+
+SetCookie("sports007centLeft","108");SetCookie("sports007centRight","107");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 海伍德犯规，斯诺两罚中一 [108:107 ] 
+搜狐直播员: 阿里纳斯投篮命中，斯诺快攻回敬二分 [110:109 ] 
+搜狐直播员: 斯诺的投篮还造成了贾米森的打手犯规 [110:109 ]
+SetCookie("sports007centLeft","111");SetCookie("sports007centRight","109");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 斯诺加罚命中 [111:109 ] 
+搜狐直播员: 阿里纳斯左侧溜底线投篮不中，默里得到篮板 [111:109 ]
+SetCookie("sports007centLeft","113");SetCookie("sports007centRight","109");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 斯诺强行突破投篮命中再添二分 [113:109 ] 
+搜狐直播员: 奇才队叫了暂停，加时赛还有3分钟44秒 [113:109 ] 
+搜狐直播员: 斯诺防守犯规 [113:109 ]
+SetCookie("sports007centLeft","113");SetCookie("sports007centRight","111");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 阿里纳斯投篮命中工侧溜底线投篮不中，阿里纳斯得到篮板 [113:111 ]
+SetCookie("sports007centLeft","113");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","113");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 巴特勒接丹尼尔斯助攻右侧投篮命中还造成了斯诺的打手犯规，巴特勒加罚不中 [113:113 ] 
+搜狐直播员: 默里左侧跳投不中，巴特勒得到篮板 [113:113 ] 
+搜狐直播员: 詹姆斯打手犯规 [113:113 ] 
+搜狐直播员: 骑士队叫了暂停，加时赛还有2分钟15秒 [113:113 ] 
+搜狐直播员: 古登上场换下伊尔戈斯卡斯 [113:113 ]
+SetCookie("sports007centLeft","113");SetCookie("sports007centRight","114");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 贾米森两罚中一 [113:114 ]
+SetCookie("sports007centLeft","115");SetCookie("sports007centRight","114");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 默里接詹姆斯助攻投篮命中 [115:114 ] 
+搜狐直播员: 丹尼尔斯左侧26尺处投三分不中，古登抢到后场篮板 [115:114 ] 
+搜狐直播员: 海伍德打手犯规 [115:114 ]
+SetCookie("sports007centLeft","117");SetCookie("sports007centRight","114");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 詹姆斯两罚全中 [117:114 ] 
+搜狐直播员: 鲁芬上场换下海伍德 [117:114 ] 
+搜狐直播员: 贾米森右侧溜底线投篮不中 [117:114 ] 
+搜狐直播员: 巴特勒得到后场篮板 [117:114 ] 
+搜狐直播员: 巴特勒抢到进攻篮板 [117:114 ] 
+搜狐直播员: 古登打手犯规 [117:114 ] 
+搜狐直播员: 伊尔戈斯卡斯上场换下古登 [117:114 ] 
+搜狐直播员: 古登六次规离场 [117:114 ]
+SetCookie("sports007centLeft","117");SetCookie("sports007centRight","116");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 巴特勒两罚全中 [117:116 ] 
+搜狐直播员: 骑士队叫了暂停，第四节比赛还有57.3秒 [117:116 ]
+SetCookie("sports007centLeft","117");SetCookie("sports007centRight","118");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 阿里纳斯投篮命中 [117:118 ] 
+搜狐直播员: 伊尔戈斯卡斯上场换下斯诺 [117:118 ]
+SetCookie("sports007centLeft","119");SetCookie("sports007centRight","118");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 巴特勒打手犯规，詹姆斯两罚全中 [119:118 ] 
+搜狐直播员: 奇才叫了暂人这，加时赛还有25.1秒 [119:118 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [119:118 ]
+SetCookie("sports007centLeft","121");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 默里犯规，阿里纳斯两罚全中 [121:120 ] 
+搜狐直播员: 詹姆斯强行突破投篮命中 [121:120 ] 
+搜狐直播员: 阿里纳斯远投三分不中 [121:120 ] 
+搜狐直播员: 全场比赛结束，骑士最终凭借加时以121:129险胜奇才 
+[121:120 ] 
+搜狐直播员: 总比分骑士队3:2领先奇才 [121:120 ] 

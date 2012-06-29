@@ -1,0 +1,100 @@
+
+　　所谓猜测词义,是指在阅读过程中根据对语篇的信息、逻辑、背景知识及语言结构等的综合理解去猜测或推断某一生词、难词、关键词的词义,它是一种非常有用的阅读技巧,获得这种技巧之后,读者在阅读过程中能很快通过上下文提供的线索或生词本身的结构特点推断出词义来,从而提高阅读速度和阅读能力.
+　　猜词技巧也是一种很重要的应试技巧.在诸多的英语测试中,几乎都包含有判断生词或关键词词义的题目.如:
+　　1) In Line...the word"..."could best be replaced by which of the 
+following?
+　　2) According to the author the word "..."means __________.
+　　3) By word "..." the author means __________.
+　　4) Which of the following is nearest/ closest in meaning to "..." ?
+　　那么,怎样来猜测和推断生词的词义呢?这种技巧大体可分为两大类:一类是通过上下文推测词义,另一类是根据生词本身的特点推测词义.本文着重介绍通过上下文猜测词义的技巧.通过上下文猜词就是根据一个词所处的具体的语言环境,运用有关线索,如同义词﹑反义词﹑举例﹑重述或定义等推测词义,也可以运用逻辑推理和其他的知识,如生活经验、普通常识等推断词义.
+　　1. 以定义为线索猜测词义
+　　根据上下文以生词的定义为线索猜测词义是进行快速阅读时最常见、最直接的一种猜词方法.
+　　(1) 以to be(是),mean(意指),refer to(指的是)为线索猜测词义.
+　　[例] Ventilation, as you know , is a system or means of providing fresh air 
+. It plays a very important part in the field of engineering.
+　　此句中 "ventilation" 可能是个生词,但 is后面是对该词的明确定义.是什么东西或什么手段才能提供新鲜空气呢?所以不难看出 
+"ventilation" 这个词的意思是"通风".
+　　(2) 以"be defined as "(被定义为),"be known as "(被称为),"be called "(被称为),"be 
+termed "(被定义为)等结构为线索猜测生词词义.
+　　在这些结构中,主语与主语补足语相互提供生词的词义,读者可以通过已知部分推断出未知部分的意思来.
+　　[例] A person or thing beyond comparison, a model of excellence, is known as 
+a paragon.
+　　在此句中,"paragon"一词的词义由句子的主语给提供出来了.一个人或物是无与伦比的,即优秀的典范,这不就是"模范、优秀的人或物"吗?很明显"be 
+known as"前面的主语给出了后面"paragon"的词义.
+　　(3) 以定语从句为线索猜测词义.
+　　在很多情况下,定语从句直接给出了某一生词的定义,所以,以定语从句为线索猜测词义也是一个行之有效的猜词方法.
+　　[例] He was a prestidigitator who entertained the children by pulling 
+rabbits out of hats, swallowing fire, and other similar tricks.
+　　此句中,who引导的定语从句对生词"prestidigitator"的词义给出了非常清楚的定义.根据这一定义,读者就不难猜测出prestidigitator的词义.能从帽子里拉出兔子、吞火和玩其他类似的把戏的人不就是变戏法的人吗?因此,"prestidigitator"一词的词义就应是"变戏法者".
+　　(4) 以标点符号为线索猜测词义.
+　　作者有时利用标点符号,如括号、冒号、破折号等为一些生词直接提供定义或解释,这些符号无疑为读者理解或猜测生词词义提供了很好的线索.
+　　[例] Tornadoes (violent and destructive whirl wind)normally occur on hot, 
+humid (a little wet)day, but not necessarily in the summer.
+　　此句中,"tornado"和"humid"两词的词义都在括弧里被清楚地表述出来."tornado"即一种非常剧烈的、破坏性很大的旋转的风.很明显,这是"旋风﹑飓风";humid即有点湿,其词义很清楚是"潮湿的"意思.在这种情况下,利用括号作为猜词线索,在一瞬间就能猜出其词义来,阅读可继续进行,不会因生词而影响阅读速度.
+　　2. 以同义词、近义词为线索猜测词义
+　　有时作者为了使他的意思表达得更清楚明白,通常用一个同义词或近义词来解释另一个比较难的词或关键词,这些同义词或近义词为读者推断生词词义提供了线索.另外有些作者在表达同一概念时喜欢用两个或更多的同义词或近义词,其中必定有读者所熟悉的词,根据已知的词语,就不难推断出生词的词义来.
+　　(1)or有时可作为识别同义词或近义词的信号词.
+　　[例] The new tax law supersedes, or replaces, the law that was in effect 
+last year.
+　　此句中,作者考虑到"supersede"一词可能是生词,紧接着用or引出该词的同义词"replace",此词是一比较常用的词,读者可根据"replace"一词的词义能很容易地推断出"supersede"一词的大概意思来,即"取代,接替".
+　　(2)like(像……一样), as...as(如同……一样),the same as 
+(与……相同)等也可作为识别生词的同义词或近义词的信号词,以这些词为线索,有时也可推断出生词的词义来.
+　　[例] Mother was tall, fat and middle-aged. The principal of the school was 
+an older woman, almost as plump as mother, and much shorter.
+　　此句中,作者把学校的校长和他的母亲相比,有相同之处和不同之处.校长比母亲年纪大些,个子矮些,但有一点是相同的,并用"as...as"结构表示出来.从这一对比中,可以看出fat和plump是近义词.fat是读者熟悉的词即"肥胖的",那么,plump一词的意思就能猜个大概了.
+　　3. 以反义词和对比关系为线索猜测词义
+　　有时作者运用对比的手法来表现事物之间的差异.在进行对比的过程中,作者必然会用一些互为对应、互为反义的词语,使不同事物的特点更为突出.通过上下文的逻辑关系,从对两种事物或现象进行对比的描述中,读者可以根据其中一个熟悉的词推断出另一个生词的词义来.
+　　另外,在表示这种对比关系时,作者通常会用一些信号词来表明另一个词语与前面的词语互为反义.这些信号词无疑为读者理解和猜测生词词义提供了非常好的线索.常用来表示对应关系和提供相反信息的信号词有:
+　　but, yet, however, while, whereas, otherwise, in spite of, despite, even 
+though, although, though, unlike, instead(of),rather than, nevertheless, 
+nonetheless ,on the other hand, still, none the less, by contrast, on the 
+contrary, in the end, compared to
+　　[例] In the past the world seemed to run in an orderly way. Now, however, 
+everything seems to be in a state of turmoil.
+　　此句中,以信号词however为线索,可以看出作者把现在的事情与过去相比.过去是"in an orderly way",而现在是"in a state 
+of turmoil",过去是秩序井然,那么现在则是相反,那就是一片混乱.
+　　4. 以列举的句子为线索猜测词义
+　　为了阐明某一种重要观念或者讲清某一抽象概念,作者往往采取举例的方式对这一观点或概念进行具体的说明和解释,从而使读者理解得更具体些.那么文中的例子自然也就成了读者理解文章生词的线索.表示列举关系的信号词有:
+　　like,for example,for instance,such as, especially, include, consist of, 
+specially
+　　[例] Defined most broadly, folklore includes all the customs, belief and 
+tradition that people have handed down from generation to generation.
+　　此句中,includes后面的例子基本上表示出了"folklore"的内容范围,即人们一代传一代的那些风俗、习惯、信仰和传统的东西.这些东西都属于通常所说的"民俗学,民俗传统",这也就是"folklore"一词的基本含义.
+　　5. 以重述为线索猜测词义
+　　有时作者在阐述某个概念或某一事情时,为了把它讲述得更清楚,他可能采取另一种方式重述一下前面的内容.这种重述往往用比前面一种表达更为简单易懂的词语.后面这种简单易懂的词语无疑为前面较难的词语提供了猜测的线索.因此,读者在阅读的过程中如遇到生词时,不要停下来,不妨看一下该生词后面是否有另一种阐述或解释.表达重述,作者也经常使用一些信号词,这些信号词有:
+　　in other words, to put it another way, that is to say,or ,that is,i.e. ,to 
+be precise
+　　[例] Before the main business of a conference begins the chairman usually 
+makes a short preliminary(i. e. introductory)speech, or make a few preliminary 
+remarks. In other words, he says a few things by way of introduction.
+　　在阅读此句时,如果对"preliminary speech"的意思不是十分清楚,只要接着往下读,意思就会逐渐明朗起来,"or"和"in other 
+words"后面的部分都是对"preliminary speech"的重述,由此可以推断出"preliminary 
+speech"的意思是在开会之前主席所做的一些简单的介绍,或者说是"开场白".
+　　6. 以因果关系为线索猜测词义
+　　因果关系是一种常见的、行之有效的、能提供生词词义信息的逻辑关系.一定的原因会导致一定的结果;某一结果是由某种原因所引起的,作者在叙述原因的过程中,必然会把词或句子置于一种因果关系的逻辑之中,这无疑为读者推断生词词义提供了很好的线索.作者通常会用一些信号词表示句子之间的因果关系,这些信号词有:
+　　since, as, because, for, so,thus, consequently, therefore, hence, due to, 
+result in,result from, as a result,for this reason,accordingly,so that, 
+so...that,such...that
+　　[例] Since I could not afford to purchase the original painting, I bought a 
+replica. An inexperienced eye could not tell the difference.
+　　从信号词since以及相关信息,可以看出生词所处的上下文存在很明显的因果关系.since引出的从句是原因(即因为我买不起那张原画),主句是结果.生词"replica"后一句又进一步解释了另一种原因,即没有经验的人看不出来差别.根据这之间的逻辑关系,就很容易推断:既然不是原画,那么"replica"应是一张"复制品".
+　　7. 以生词所在的前后文提供的解释或说明为线索猜测词义
+　　有时作者在阐述某人、某物或某一现象的特点时,先是一般地或概括性地说一下,然后再作具体的说明或解释;或者反过来,先作具体的阐述,然后再进行归纳、总结.如果读者能抓住作者的思路就能从那些具体说明、解释或归纳中找出猜词的线索来.
+　　[例] Another habit which can slow your reading is called "subvocalization". 
+In this case your lips do not move, but you still "hear" each word in your head 
+as you read silently.
+　　此句中,"subvocalization"一词可能是生词.虽然在它的上下文中没有提供很明显的线索,但读者如果继续往下读,就不难推断出它的词义来,因为后面的句子是对"subvocalization"一词的解释.可以想象一下,虽然在阅读时你的嘴唇没有动,但你的脑子仍能听出你在读每一个词,这种阅读不就是我们通常所说的"默读"吗?由此,可以推断出"subvocalization"一词是"默读"的意思.
+　　8. 根据普通常识、生活经验和逻辑推理推测生词词义
+　　⑴ 根据普通常识,生活经验推测词义
+　　在阅读的过程中,如遇到生词,读者有时可以根据自身的直接或间接的经验,或运用自己已有的常识将其推测出来.比如了解一些英美国家的天文地理、风俗习惯、宗教信仰、政治结构、社会制度等,可以帮助加深对文章的理解,遇到生词时,猜测词义的能力自然就增强.
+　　[例] When a doctor performs an operation on a patient, he usually gives an 
+anaesthetic to make him unconscious, because he does not want his patient to 
+feel pain or to know what is happening to him.
+　　根据直接或间接的经验,一般具有一点医学常识的人都知道医生在给病人动手术之前,为了减轻病人的痛苦,往往给病人注射麻醉剂使病人失去知觉后再动手术.所以根据这一常识,通过上下文就能比较准确地确定"anaesthetic"一词的意思应该是"麻醉剂".
+　　⑵ 根据逻辑推理推测词义
+　　作者在写作时,要把一些分散的、复杂的信息组织在一起,使他们之间有密切的内在联系,使之成为结构严谨、层次分明、形式与内容一致的语言整体.如果读者按照上下文,顺着作者的思路,通过询问关系、语境对生词进行合乎逻辑的推断,是可以推测出生词的大概意思的.
+　　[例] If you are capable of working twelve hours a day without a rest, and if 
+you can engage in physical exercise for hours without seeming to get tired, then 
+you are indefatigable.
+　　根据上下文分析,如果一个人能连续工作12个小时,能进行体育锻炼数小时而不知疲倦,那么,我们就可以作出符合逻辑的推断,这个人一定是一个"不知疲倦的"人.将这个词义代入原句中,很合乎逻辑,那么这种推理很可能是正确的.
+　　来源：中国英语网

@@ -1,0 +1,32 @@
+
+　　boxing 拳击
+　　boxer 拳击运动员
+　　boxing glove 拳击手套
+　　boxing shoe 拳击鞋
+　　infighting 近战
+　　straight punch 直拳
+　　uppercut 上钩拳
+　　right hook 右钩拳
+　　foul 犯规
+　　punch bag 沙袋
+　　punch ball 沙球
+　　boxing match 拳击比赛
+　　referee 裁判员
+　　boxing ring 拳击台
+　　rope 围绳
+　　winner 胜利者
+　　loser by a knockout 被击败出局者
+　　timekeeper 计时员
+　　boxing weights 拳击体重级别
+　　light flyweight 48公斤级, 次特轻量级
+　　flyweight 51公斤级, 特轻量级
+　　bantamweight 54公斤级, 最轻量级
+　　featherweight 57公斤级, 次轻量级
+　　lightweight 60公斤级, 轻量级
+　　light welterweight 63.5公斤级, 轻中量级
+　　welterweight 67公斤级, 次中量级
+　　light middleweight 71公斤级, 中量级
+　　middleweight 75公斤级, 次重量级
+　　light heavyweight 81公斤级, 重量级
+　　heavyweight 81以上公斤级, 最重量级
+　

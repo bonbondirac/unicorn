@@ -1,0 +1,144 @@
+
+
+function processForm(form){
+var zf=hd=0;
+
+//搜狐健康　兰红起
+		if (form.c1[0].checked==1) zf=zf+1;
+		if (form.c2[0].checked==1) zf=zf+1;
+		if (form.c3[0].checked==1) zf=zf+1;
+		if (form.c4[0].checked==1) zf=zf+1;
+		if (form.c5[0].checked==1) zf=zf+1;
+		if (form.c6[0].checked==1) zf=zf+1;
+		if (form.c7[0].checked==1) zf=zf+1;
+		if (form.c8[0].checked==1) zf=zf+1;
+		if (form.c9[0].checked==1) zf=zf+1;
+		if (form.c10[0].checked==1) zf=zf+1;
+		if (form.c11[0].checked==1) zf=zf+1;
+		if (form.c12[0].checked==1) zf=zf+1;
+		if (form.c13[0].checked==1) zf=zf+1;
+		if (form.c14[0].checked==1) zf=zf+1;
+		if (form.c15[0].checked==1) zf=zf+1;
+		if (form.c16[0].checked==1) zf=zf+1;
+		if (form.c17[0].checked==1) zf=zf+1;
+		if (form.c18[0].checked==1) zf=zf+1;
+		if (form.c19[0].checked==1) zf=zf+1;
+		if (form.c20[0].checked==1) zf=zf+1;
+
+		if (form.c1[0].checked==1) hd=hd+1;
+		if (form.c2[0].checked==1) hd=hd+1;
+		if (form.c3[0].checked==1) hd=hd+1;
+		if (form.c4[0].checked==1) hd=hd+1;
+		if (form.c5[0].checked==1) hd=hd+1;
+		if (form.c6[0].checked==1) hd=hd+1;
+		if (form.c7[0].checked==1) hd=hd+1;
+		if (form.c8[0].checked==1) hd=hd+1;
+		if (form.c9[0].checked==1) hd=hd+1;
+		if (form.c10[0].checked==1) hd=hd+1;
+		if (form.c11[0].checked==1) hd=hd+1;
+		if (form.c12[0].checked==1) hd=hd+1;
+		if (form.c13[0].checked==1) hd=hd+1;
+		if (form.c14[0].checked==1) hd=hd+1;
+		if (form.c15[0].checked==1) hd=hd+1;
+		if (form.c16[0].checked==1) hd=hd+1;
+		if (form.c17[0].checked==1) hd=hd+1;
+		if (form.c18[0].checked==1) hd=hd+1;
+		if (form.c19[0].checked==1) hd=hd+1;
+		if (form.c20[0].checked==1) hd=hd+1;
+
+		if (form.c1[1].checked==1) hd=hd+1;
+		if (form.c2[1].checked==1) hd=hd+1;
+		if (form.c3[1].checked==1) hd=hd+1;
+		if (form.c4[1].checked==1) hd=hd+1;
+		if (form.c5[1].checked==1) hd=hd+1;
+		if (form.c6[1].checked==1) hd=hd+1;
+		if (form.c7[1].checked==1) hd=hd+1;
+		if (form.c8[1].checked==1) hd=hd+1;
+		if (form.c9[1].checked==1) hd=hd+1;
+		if (form.c10[1].checked==1) hd=hd+1;
+		if (form.c11[1].checked==1) hd=hd+1;
+		if (form.c12[1].checked==1) hd=hd+1;
+		if (form.c13[1].checked==1) hd=hd+1;
+		if (form.c14[1].checked==1) hd=hd+1;
+		if (form.c15[1].checked==1) hd=hd+1;
+		if (form.c16[1].checked==1) hd=hd+1;
+		if (form.c17[1].checked==1) hd=hd+1;
+		if (form.c18[1].checked==1) hd=hd+1;
+		if (form.c19[1].checked==1) hd=hd+1;
+		if (form.c20[1].checked==1) hd=hd+1;
+
+
+form.answer.value="您的得分是： " + zf + "分"
+
+if (hd 
+
+　　你了解自己的健康状况吗？花一分钟时间做一下下面的测试：
+
+
+
+
+
+你每日是否至少三餐，其中包括一顿固定的早餐　　  是　　　　  不是这样的
+
+
+你是否限定饮食中脂肪的摄入量低于食物总量的20%―30%　　  是　　　　  不是这样的
+
+
+你每天的膳食中是否包含30克的纤维素（富含于蔬果、糙米谷物、干豆类食物中）　　  是　　　　  不是这样的
+
+
+你是否每日吃水果蔬菜（如橙子、草莓、西兰花、西红柿），以补充胡萝卜素和维生素　　  是　　　　  不是这样的
+
+
+你每日是否摄入15毫克的铁（从麦片面包、肉禽类、干豆类、蔬菜、豌豆干果中摄取）　　  是　　　　  不是这样的
+
+
+你是否每日吃三次富钙低脂的食物配餐，如酸奶、牛奶与奶酪　　  是　　　　  不是这样的
+
+
+你是否吸烟，或者间接吸烟　　  我不吸烟，也不间接吸烟　　  吸烟或者间接吸烟
+
+
+你是否保证每周三次，每次至少20―30分钟的有氧运动　　  是　　　　  不是这样的
+
+
+你在训练中因是否包含提高柔韧性的内容　　  是　　　　  不是这样的
+
+
+你每日是否饮用八杯或者更多的水 　　  是　　　　  不是这样的
+
+
+你是否定期进行体检与口腔检查　　  是　　　　  不是这样的
+
+
+你是否在月经期后的一周时间进行乳房自查　　&gt;&gt;&gt;&gt;如何自查？　　  是　　　　  不是这样的
+
+
+你是否在半年到一年内做一次宫颈刮片 　　&gt;&gt;&gt;&gt;宫颈刮片　　  是　　　　  不是这样的
+
+
+你若大于35岁，是否接受医生的建议已定期做乳房检查　　  是　　　　  不是这样的
+
+
+你是否饮酒适度，每周少于五次　　  是　　　　  不是这样的
+
+
+你的性生活是否规律　　  是　　　　  不是这样的
+
+
+你每天是否有充足的体育运动与睡眠　　  是　　　　  不是这样的
+
+
+你的腰围除以臀围是否小于0.8　　  是　　　　  不是这样的
+
+
+你是否经常放慢节奏、调整身心　　  是　　　　  不是这样的
+
+
+你是否适应生活中的压力，特别是工作中人际关系的压力　　  是　　　　  不是这样的
+
+
+ 　  
+
+　　若得15―20分，则非常好；　　若得10―15分，则需要改变你的生活习惯；　　若得10分以下，说明你的生活方式对健康极不为利。
+搜狐健康杂谈&nbsp;&nbsp; 

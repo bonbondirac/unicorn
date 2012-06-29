@@ -11,6 +11,8 @@ TEXT_PATH_MINI = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
                               'resource/SogouC.mini.20061102/Sample').replace('\\', '/')
 TEXT_PATH_REDUCED = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
                                  'resource/SogouC.reduced.20061102/Reduced').replace('\\', '/')
+TEXT_PATH_FULL = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
+                                 'resource/SogouC/ClassFile').replace('\\', '/')
 CLASS_LIST_PATH = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
                                'resource/SogouC.mini.20061102/ClassList.txt').replace('\\', '/')
 CLASS_WEIGHT_LIST_PATH = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),

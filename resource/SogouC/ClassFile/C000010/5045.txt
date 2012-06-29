@@ -1,0 +1,12 @@
+　　CDMA2000 1xEV-DO版本A将于2006年实现商用；版本C标准将于2007年上半年发布
+　　拉斯维加斯，内华达州，2006年4月5日—— CDMA发展组织(CDG) (www.cdg.org)今天公布了详细的CDMA2000 演进路线图，推动CDMA2000步入未来十年。重点包括：CDMA2000 1xEV-DO版本A网络将于2006年晚些时候实现商用部署，版本C标准将于2007年第二季度发布。这些发展使CDMA2000运营商可以率先引入全IP和下一代多媒体技术。
+　　“随着版本A的商用产品在今年上市，以及针对版本C的工作也在顺利进行，CDMA2000已经拥有了未来10年内的一条清晰的演进路线。” CDG执行董事佩里拉法格说，“这一路线图为CDMA2000运营商和设备制造商带来了快速上市的巨大优势，因为他们现在就可以制定长期的计划并开始执行。”
+　　CDMA2000演进将包括以下里程碑：
+　　CDMA2000 1xEV-DO 版本A — 2006年底，CDMA2000 1xEV-DO 版本A将在亚洲和北美实现商用并展开首次部署，并将于2007年进行广泛部署。版本A可以利用CDMA的IP功能，并能加强支持对延迟敏感并需要高带宽的应用，如IP语音 (VOIP)和即时多媒体信息(IMM)，这使得运营商能以更低的成本跨网络提供集成的语音、数据和视频服务。KDDI、LG电信、Sprint Nextel、新西兰电信公司和Verizon Wireless等运营商都已承诺部署或已经开始部署版本A。
+　　CDMA2000 1xEV-DO 版本B — 3GPP2 TSG-C于2006年3月批准发布版本B标准，该标准在多运营商和64-正交振幅调制模式上将下、下行链路吞吐量分别提高到了73.5Mbps和27Mbps。
+　　CDMA2000 1xEV-DO 版本C — 这一先进的接口将提供更高的数据传输速率、频谱效率以及低延迟，从而成为了丰富多媒体服务的理想方案。版本C将支持从1.25 MHz到20MHz的，灵活、动态的信道带宽延展，并后向兼容版本A 和版本B。目前，3GPP2正在评估各项提案，其中包括OFDM、MIMO、SDMA 和干扰消除技术，并将于今年6月完成这些提案的协调。版本C不仅可以将下行链路的峰值数据传输速率提高到200Mbps，还能大大提高扇区吞吐量，这对经济高效地同时支持多个宽带用户至关重要。预计该标准将于2007年第二季度发布，其商用产品将于2008年下半年上市。
+　　在本周于拉斯维加斯举行的2006年美国无线通信展上，许多制造商展示了具有CDMA2000下一代功能的产品。
+　　当天，CDG还宣布，在过去的5个月中，CDMA发展组织又新增加了15个成员，其中包括来自世界各地的运营商和系统设备供应商以及测试设备制造商。
+　　“CDMA2000运营商和制造商在很多新兴地区为市场带来了创新性的3G解决方案，促进了CDG的发展壮大。”CDG执行董事佩里拉法格说。“CDG欢迎新成员的加入，我们期待着与他们合作，共同推动先进的CDMA技术的发展。”
+　　新加入CDG的成员包括Alvarion, Inc.、Bahamas Telecommunications Company, Ltd、Caribbean Cellular Telephone、CDMA Mobile Phone Center (S-Telecom)、Elektrobit, Inc.、EOCG, LLC、Guamcell、Oceanic Digital Jamaica, Ltd.（小蜜蜂视频聊天）、PT Bakrie Telecom、PulseWave RF、SaskTel、Telecommunications Services of Trinidad and Tobago, Ltd. (TSTT)、Telecommunication Systems, Inc. (TCS)、TenXc和Terracom SAR。
+　　CDG为各家公司提供了一个共同发展和推广CDMA2000产品及服务的独特论坛。成员公司除了发展和部署最先进的CDMA2000技术之外，还参与CDG的技术及商业活动，比如国际漫游和CDMA全球手机需求等。“CDG将继续努力，保证用户可以获得最佳的CDMA2000无线服务。”佩里拉法格补充道。

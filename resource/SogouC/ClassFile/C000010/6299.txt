@@ -1,0 +1,9 @@
+　　第一个通用版本，在MacBook Pro上的运行速度可达2.5倍
+　　【eNet硅谷动力消息】近日，苹果电脑公司推出其Final Cut Studio视频制作套装软件的第一个通用版本，在MacBook Pro*笔记本电脑上的运行速度提高了2.5倍。Final Cut Studio配备了补充Final Cut Pro 5的最新工具，包括Soundtrack Pro——让视频项目获得同样完美声音和视觉效果的创新音频编辑与声音设计软件；Motion 2——世界第一个具备GPU加速32位浮点渲染功能的实时动画软件；以及用于专业DVD制作的DVD Studio Pro 4。
+　　“Final Cut Studio继续设定高清制作新时代的标准，”苹果电脑公司应用市场副总裁Rob Schoeben说，“现在，凭借Final Cut Studio在MacBook Pro上的惊人性能，用户可以更加高效地进行工作，而不管他们身在何地。”
+　　2月份，苹果电脑公司发布了Logic Pro 7.2音乐创作与音频制作软件，这是苹果电脑公司第一个提供通用版本的应用软件，可同时在基于英特尔和基于PowerPC的Mac电脑上运行。在MacBook Pro上，Logic Pro 7.2每个会话最多支持4.5倍的特效插件和2倍的软件乐器，同时集成了对Apogee Ensemble FireWire接口的支持，并与Pro Tools HD 7 DAE兼容。
+　　Aperture 1.1将在4月份面市，是专为摄影师而设计的创新一体化后期制作工具的第一个通用版本，可同时在基于英特尔和基于PowerPC的Mac电脑上提供大大改进的RAW质量和让人心动的性能。
+　　价格和上市时间
+　　通用版Final Cut Studio现在通过苹果授权经销商向用户发售，建议零售价为人民币14,500元。Final Cut Studio注册用户可以跨代升级到通用版本，升级价格为人民币500元。现有的Final Cut Pro、Soundtrack Pro、Motion或 DVD Studio Pro独立版用户也可以升级到Final Cut Studio通用版本，起价只有人民币1,000元。
+　　* 在采用2.16 GHz英特尔酷睿 双核处理器的MacBook Pro上，从时间线进行DV和HDV渲染的速度比采用1.67 GHz PowerPC处理器的15英寸PowerBook G4提高了两倍。在采用2.16 GHz英特尔酷睿 双核处理器的MacBook Pro上，从DV和 HDV进行MPEG-2编码以制作DVD的速度比采用1.67 GHz PowerPC处理器的15英寸 PowerBook G4提高了2.5倍。
+　　**在采用2.16 GHz英特尔酷睿 双核处理器的MacBook Pro上，Logic 7.2在一个 Logic会话中能够同时处理多达135个PlatinumVerb插件和8个Sculpture软乐器，而在采用1.67 GHz PowerPC处理器的15英寸PowerBook G4上，最多只能处理30个PlatinumVerb插件和4个Sculpture软乐器。

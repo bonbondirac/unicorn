@@ -1,0 +1,519 @@
+&nbsp; 
+　　感谢未来教育教学与研究中心提供的考前密卷，欲知更多计算机等级考试信息可访问未来教育考试网！
+　　全国计算机等级考试2006年4月考前冲刺密卷　二级C
+　　一、选择题（1~10每小题2分，11~50每小题1分，共60分）
+　　下列各题A）、B）、C）、D）四个选项中，只有一个选项是正确的。请将正确选项填涂在答题卡相应位置上，答在试卷上不得分。
+　　（1）算法的时间复杂度是指（）。
+　　A）执行算法程序所需要的时间
+　　B）算法程序的长度
+　　C）算法执行过程中所需要的基本运算次数
+　　D）算法程序中的指令条数
+　　（2）用链表表示线性表的优点是（）。
+　　A）便于随机存取 B）花费的存储空间较顺序存储少
+　　C）便于插入和删除操作 D）数据元素的物理顺序与逻辑顺序相同
+　　（3）栈底至栈顶依次存放元素A、B、C、D，在第五个元素E入栈前，栈中元素可以出栈，则出栈序列可能是（）。
+　　A）ABCED B）DCBEA C）DBCEA D）CDABE 
+　　(4) 在待排序的元素序列基本有序的前提下，效率最高的排序方法是（）。
+　　A）冒泡排序 B）选择排序 C）快速排序 D）归并排序
+　　（5）在设计程序时，应采纳的原则之一是
+　　A）不限制goto语句的使用 B）减少或取消注解行
+　　C）程序越短越好 D）程序结构应有助于读者理解
+　　（6）下列不属于软件工程的3个要素的是（ ）。
+　　Ａ）工具 Ｂ）过程 Ｃ）方法 Ｄ）环境
+　　（7） 在软件工程中，白箱测试法可用于测试程序的内部结构。此方法将程序看做是（）。
+　　A）路径的集合B）循环的集合
+　　C）目标的集合D）地址的集合
+　　（8）下列数据模型中，具有坚实理论基础的是（）。
+　　A)层次模型 B）网状模型 C）关系模型 D）以上3个都是
+　　（9）下列有关数据库的描述，正确的是（）。
+　　A）数据库是一个DBF文件 B）数据库是一个关系
+　　C）数据库是一个结构化的数据集合 D）数据库是一组文件
+　　10）下列说法中，不属于数据模型所描述的内容的是（）。
+　　A）数据结构 B）数据操作
+　　C)数据查询 D）数据约束
+　　（11）一个C语言程序是由
+　　A）一个主程序和若干子程序组成
+　　B）函数组成
+　　C）若干过程组成
+　　D）若干子程序组成
+　　（12）下列数据中，不合法的C语言实型数据是
+　　A）0.123 B）123e3 C）2.1e3.5 D）789.0
+　　（13）已知
+　　int t=0；
+　　while （t=1）
+　　{...}
+　　则以下叙述正确的是
+　　A）循环控制表达式的值为0
+　　B）循环控制表达式的值为1
+　　C）循环控制表达式不合法
+　　D）以上说法都不对
+　　（14）有以下定义语句
+　　double a,b;int w; long c;
+　　若各变量已正确赋值，则下列选择中正确的表达式是
+　　A） a=a+b=b++ B）w%((int)a+b) C）(c+w)%(int)a D）w=a==b
+　　（15）以下程序的输出结果是
+　　main()
+　　{inti;
+　　for(i=0;i&lt;3;i++)
+　　switch(i){
+　　case 0:printf("%d",i);
+　　case 2:printf("%d",i);
+　　default:printf("%d",i);
+　　}
+　　}
+　　A） 022111B）021021C）000122D）012
+　　（16）设有以下程序段：
+　　int x=0,s=0;
+　　while（!x!=0）s+=++x;
+　　printf（"%d",s）;
+　　则
+　　A）运行程序段后输出0
+　　B）运行程序段后输出1
+　　C）程序段中的控制表达式是非法的
+　　D）程序段执行无限次
+　　（17）以下正确的说法是
+　　A）定义函数时，形参的类型说明可以放在函数体内
+　　B）return后边的值不能为表达式
+　　C）如果函数值的类型与返回值类型不一致，以函数值类型为准
+　　D）如果形参与实参类型不一致，以实参类型为准
+　　（18）以下叙述中不正确的是
+　　A）在不同的函数中可以使用相同的名字的变量
+　　B）函数中的形式参数是局部变量
+　　C）在一个函数内定义的变量只在本函数范围内有效
+　　D）在一个函数内的复合语句中定义的变量在本函数范围内有效
+　　（19）以下程序的输出结果是
+　　main()
+　　{inta=3,b=4,c=5,d=2;
+　　if(a&gt;b)
+　　if(b&gt;c)
+　　printf("%d",d+++1);
+　　else
+　　printf("%d",++d+1);
+　　printf("%d＼n",d);
+　　}
+　　A） 2 B）3 C）43 D）44
+　　（20）有以下语句，则对a数组元素的引用不正确的是（0≤i≤9）
+　　int a［10］={0,1,2,3,4,5,6,7,8,9},*p=a;
+　　A） a［p-a］ B）*（&amp;a［i］） C）p［i］ D）*（*（a+i））
+　　（21）有如下程序
+　　int a［10］={1,2,3,4,5,6,7,8,9,10}；
+　　int *p=&amp;a［3］,b;b=p［5］;
+　　则b的值是
+　　A）5 B）6
+　　C）9 D）8
+　　（22）设有以下说明语句
+　　struct stu
+　　{int a;
+　　float b;
+　　}stutype;
+　　则下面的叙述不正确的是
+　　A）struct是结构体类型的关键字
+　　B）struct stu是用户定义的结构体类型
+　　C）stutype是用户定义的结构体类型名
+　　D）a和b都是结构体成员名
+　　（23）执行以下程序后，a,b的值分别为
+　　main（）
+　　{ int a,b,k=4,m=6,*p1=&amp;k,*p2=&amp;m;
+　　a=p1==&amp;m;
+　　b=（*p1）/（*p2）+7;
+　　printf（"a=%d＼n",a）;
+　　printf（"b=%d＼n",b）;
+　　}
+　　A）-1,5 B）1,6 C）0,7 D）4,10
+　　（24） 以下程序的输出结果是
+　　main()
+　　{inta=7,b=8,*p,*q,*r;
+　　p=&amp;a;q=&amp;b;
+　　r=p;p=q;q=r;
+　　printf("%d,%d,%d,%d＼n",*p,*q,a,b);
+　　}
+　　A） 8,7,8,7 B）7,8,7,8 C）8,7,7,8 D）7,8,8,7
+　　（25）有如下程序
+　　long fib（int n）
+　　{ if（n&gt;2）return（fib（n-1）+fib（n-2））;
+　　else return（2）;
+　　}
+　　main（）
+　　{ printf（"%d＼n",fib（3））;}
+　　该程序的输出结果是
+　　A）2 B）4
+　　C）6 D）8
+　　（26） 程序中对fun函数有如下说明：
+　　void*fun();
+　　此说明的含义是
+　　A）fun函数无返回值
+　　B）fun函数的返回值可以是任意的数据类型
+　　C）fun函数的返回值是无值型的指针类型
+　　D）指针fun指向一个函数，该函数无返回值
+　　（27）有以下程序：
+　　fun（int x,int y,int z）
+　　{ z=x*y;}
+　　main（）
+　　{
+　　int a=4,b=2,c=6;
+　　fun（a,b,c）;
+　　printf（"%d",c）;
+　　}
+　　程序运行后的输出结果是
+　　A） 16 B）6 C）8 D）12
+　　（28）下列程序执行后的输出结果是
+　　main（）
+　　{ int a［3］［3］, *p,i;
+　　p=&amp;a［0］［0］;
+　　for（i=1; i&lt;9; i++）p［i］=i+1;
+　　printf（"%d＼n",a［1］［2］）;
+　　}
+　　A） 3 B）6 C）9 D）随机数
+　　（29） 以下程序的输出结果是
+　　void fun(int *a,int i,int j)
+　　{int t;
+　　if(i 
+　　{t=a［i］;a［i］=a［j］;a［j］=t;
+　　i++;j--;
+　　fun(a,i,j);
+　　}
+　　}
+　　main()
+　　{int x［］={2,6,1,8},i;
+　　fun(x,0,3);
+　　for(i=0;i&lt;4;i++)printf("%2d",x［i］);
+　　printf("＼n");
+　　}
+　　A）1 2 6 8 B）8 6 2 1 C）8 1 6 2 D）8 6 1 2
+　　（30）下列程序的运行结果是
+　　void fun（int *a, int *b）
+　　{ int *k;
+　　k=a; a=b; b=k;
+　　}
+　　main（）
+　　{ int a=3, b=6, *x=&amp;a, *y=&amp;b;
+　　fun（x,y）;
+　　printf（"%d %d", a,b）;
+　　}
+　　A）6 3 B）3 6
+　　C）编译出错 D）0 0
+　　（31） 以下叙述中正确的是
+　　A）局部变量说明为static的存储类，其生存期将得到延长
+　　B）全局变量说明为static存储类，其作用域将被扩大
+　　C）任何存储类的变量在未赋初值时，其值都是不确定的
+　　D）形参可以使用的存储类说明符与局部变量完全相同
+　　（32） 以下程序的运行结果是
+　　#include "stdio.h"
+　　main（）
+　　{struct date
+　　{int year,month,day;}today;
+　　printf（"%d＼n",sizeof（struct date））;
+　　}
+　　A）6 B）8 C）10 D）12
+　　（33）若执行下述程序时，若从键盘输入6和8时，结果为
+　　main（）
+　　{int a,b,s;
+　　scanf（"%d%d",&amp;a,&amp;b）;
+　　s=a
+　　if（a 
+　　s=b;
+　　s*=s;
+　　printf（"%d",s）;
+　　}
+　　A） 36 B）64 C）48 D）以上都不对
+　　（34）有如下程序段
+　　int a=14,b=15,x;
+　　char c=′A′;
+　　x=（a&amp;&amp;b）&amp;&amp;（c&lt;′B′）;
+　　执行该程序段后，x的值为
+　　A）ture B）false
+　　C）0 D）1
+　　（35） 设有以下定义和语句inta［3］［2］={1,2,3,4,5,6},*p［3］;
+　　p［0］=a［1］;
+　　则*（p［0］+1）所代表的数组元素是
+　　A） a［0］［1］ B）a［1］［0］ C）a［1］［1］ D）a［1］［2］
+　　（36）以下叙述中不正确的是
+　　A）预处理命令行都必须以#号开始
+　　B）在程序中凡是以#号开始的语句行都是预处理命令行
+　　C）宏替换不占用运行时间，只占编译时间
+　　D）以下定义是正确的： ＃define PI 3.1415926;
+　　（37）有一堆零件（100到200之间），如果分成4个零件一组的若干组，则多2个零件;若分成7个零件一组，则多3个零件；若分成9个零件一组，则多5个零件。
+　　下面程序是求这堆零件总数，在划线处应填入的选项是
+　　#include 
+　　main（）
+　　{
+　　int i;
+　　for（i=100;i&lt;200;i++）
+　　if（（i–2）%4==0）
+　　if（!（（i–3）%7））
+　　if（）
+　　printf（"%d",i）;
+　　}
+　　A）i%9=5 B）i%9!=5
+　　C）（i–5）%9!=0 D）（i–5）%9==0
+　　（38）若有以下定义，则能使值为3的表达式是int k=7,x=12;
+　　A）x%=（k%=5） B）x%=（k-k%5）
+　　C）x%=k-k%5 D）（x%=k）-（k%=5）
+　　（39）有如下定义：
+　　struct person{char name［9］;int age;};
+　　struct person class［10］={"John",17,"paul",19,"Mary",18,"Adam",16,};
+　　根据上述定义，能输出字母M的语句是
+　　A）printf（"%c＼n",class［3］.name）;
+　　B）printf（"%c＼n",class［3］.name［1］）;
+　　C）printf（"%c＼n",class［2］.name［1］）;
+　　D）printf（"%c＼n",class［2］.name［0］）;
+　　（40）下列程序执行后的输出结果是
+　　main（）
+　　{ char arr［2］［4］;
+　　strcpy（arr,"you"）; strcpy（arr［1］,"me"）;
+　　arr［0］［3］=′&amp;′;
+　　printf（"%s＼n",arr）;
+　　}
+　　A）you&amp;me B）you C）me D）err
+　　（41）有以下程序：
+　　int f（int n）
+　　{ if（n==1）return 1;
+　　else return f（n-1）+1;
+　　}
+　　main（）
+　　{ int i,j=0;
+　　for（i=1;i&lt;3;i++）j+=f（i）;
+　　printf（"%d＼n",j）;
+　　}
+　　程序运行后的输出结果是
+　　A）4 B）3 C）2 D）1
+　　（42） 以下程序的输出结果是
+　　main( )
+　　{intx［］={1,3,5,7,2,4,6,0},i,j,k;
+　　for(i=0;i&lt;3;i++)
+　　for(j=2;j&gt;=i;j--)
+　　if(x［j+1］&gt;x［j］){k=x［j］;x［j］=x［j+1］;x［j+1］=k;}
+　　for(i=0;i&lt;3;i++)
+　　for(j=4;j&lt;7-i;j++)
+　　if(x［j］&gt;x［j+1］){k=x［j］;x［j］=x［j+1］;x［j+1］=k;}
+　　for(i=0;i&lt;8;i++)printf("%d",x［i］);
+　　printf("＼n");
+　　}
+　　A） 75310246 B）01234567 C）76310462 D）13570246
+　　（43）下面程序的输出是
+　　int b=3;
+　　fun（int *k）
+　　{
+　　int b=2;
+　　b=*（k++）*b;
+　　return（b）;
+　　}
+　　main（）
+　　{
+　　int a[]={11,12,13,14,15,16};
+　　b=fun（&amp;a[1]）*b;
+　　printf（"%d＼n",b）;
+　　}
+　　A）24 B）72
+　　C）11 D）33
+　　（44）若有以下程序：
+　　#include 
+　　void f（int n）;
+　　main（）
+　　{ void f（int n）;
+　　f（5）;
+　　}
+　　void f（int n）
+　　{ printf（"%d＼n",n）; }
+　　则以下叙述中不正确的是
+　　A）若只在主函数中对函数f进行说明，则只能在主函数中正确调用函数f
+　　B）若在主函数前对函数f进行说明，则在主函数和其后的其他函数中都可以正确调用函数f
+　　C）对于以上程序，编译时系统会提示出错信息：对f函数重复说明
+　　D）函数f无返回值，所以可用void将其类型定义为无返回值型
+　　（45） 有如下程序：
+　　#include
+　　main()
+　　{FILE*fp1;
+　　fp1=fopen("f1.txt","w");
+　　fprintf(fp1,"abc");
+　　fclose(fp1);
+　　}
+　　若文本文件f1.txt中原有内容为:good，则运行以上程序后文件f1.txt中的内容为
+　　A） goodabc B）abcd C）abc D）abcgood
+　　（46）有如下程序：
+　　#define N2
+　　#define MN+1
+　　#define NUM2*M+1
+　　main（）
+　　{
+　　int i;
+　　for（i=1;i&lt;=NUM;i++）printf（"%d＼n",i）;
+　　}
+　　该程序中的for循环执行的次数是
+　　A） 5 B）6 C）7 D）8
+　　（47）下面程序的运行结果是
+　　#include 
+　　main（）
+　　{ int a=1,b=10;
+　　do
+　　{b-=a;a++;}while（b--&lt;0）;
+　　printf（"a=%d,b=%d＼n",a,b）;
+　　}
+　　A） a=3,b=11 B）a=2,b=8 C）a=1,b=-1 D）a=4,b=9
+　　（48）有如下程序
+　　#define N2
+　　#define MN+1
+　　#define NUM2*M+1
+　　main（）
+　　{
+　　int i;
+　　for（i=1;i&lt;=NUM;i++）printf（"%d＼n",i）;
+　　}
+　　该程序中的for循环执行的次数是
+　　A）5 B）6
+　　C）7 D）8
+　　（49）有以下程序：
+　　void ss（char *s,char t）
+　　{while（*s）
+　　{if（*s==t）*s=t-′a′+′A′;
+　　s++;
+　　}
+　　}
+　　main（）
+　　{char str1［100］="abcddfefdbd",c=′d′;
+　　ss（str1,c）; printf（"%s＼n",str1）;
+　　}
+　　程序运行后的输出结果是
+　　A）ABCDDEFEDBD B）abcDDfefDbD
+　　C）abcAAfefAbA D）Abcddfefdbd
+　　（50）有以下程序
+　　#include 
+　　struct NODE
+　　{ int num; struct NODE *next; };
+　　main（）
+　　{
+　　struct NODE *p,*q,*r;
+　　p=（struct NODE*）malloc（sizeof（struct NODE））;
+　　q=（struct NODE*）malloc（sizeof（struct NODE））;
+　　r=（struct NODE*）malloc（sizeof（struct NODE））;
+　　p-&gt;num=10; q-&gt;num=20; r-&gt;num=30;
+　　p-&gt;next=q;q-&gt;next=r;
+　　printf（"%d＼n ",p-&gt;num+q-&gt;next-&gt;num）;
+　　}
+　　程序运行后的输出结果是
+　　A）10 B）20
+　　C）30 D）40
+　　二、填空题（每空2分，共40分）
+　　请将每一个空的正确答案写在答题卡【1】至【20】序号的横线上，答在试卷上不得分。
+　　(1) 数据结构分为逻辑结构与存储结构，线性链表属于 【1】
+　　(2) 在树形结构中，树根节点没有 【2】 。
+　　（3）一个类可以从直接或间接的祖先中继承所有属性和方法。采用这个方法提高了软件的【3】 。
+　　（4）软件设计模块化的目的是 【4】
+　　（5）数据库管理系统常见的数据模型有层次模型、网状模型和 【5】 3种
+　　（6）以下程序段的输出结果是【6】
+　　main （）
+　　{
+　　int a=2，b＝3，c=4;
+　　a*=16+（b++）-（++c）;
+　　printf（"%d",a）;
+　　}
+　　（7）若变量n中的值为24，则print（）函数共输出【7】行，最后一行有【8】个数。
+　　void print （int n,int aa［］）
+　　{
+　　int i;
+　　for （i=1; i 
+　　{
+　　printf （"%6d", aa［i］）；
+　　if（!（i%5）） printf （"＼n"）;
+　　}
+　　printf （"＼n"）；
+　　}
+　　（8）设在主函数中有以下定义和函数调用语句，且fun函数为void类型；请写出fun函数的首部【9】。要求形参名为b。
+　　main（）
+　　{double s［10］［22］;
+　　int n; …
+　　…
+　　fun（s）;
+　　…
+　　}
+　　（9）以下程序运行后的输出结果是【10】。
+　　main()
+　　{inta,b,c;
+　　a=25;
+　　b=025;
+　　c=0x25;
+　　printf("%d%d%d＼n",a,b,c);
+　　}
+　　（10）以下程序运行后的输出结果是【11】。
+　　main（）
+　　{intp［7］={11,13,14,15,16,17,18};
+　　inti=0,j=0;
+　　while(i&lt;7&amp;&amp;p［i］%2==1)j+=p［i++］;
+　　printf("%d＼n",j);
+　　}
+　　（11）以下程序运行后的输出结果是【12】。
+　　main（）
+　　{intx=1, y=0, a=0,b=0;
+　　switch(x)
+　　{case 1:switch(y)
+　　{case 0:a++;break;
+　　case 1:b++;break;
+　　}
+　　case2:a++;b++;break;
+　　}
+　　printf("%d%d＼n",a,b);
+　　}
+　　（12）设i，j，k均为int型变量，则执行完下面的for语句后，k的值为 【13】 。
+　　for（i=0, j=10; i&lt;=j; i++, j--）k=i+j;
+　　（13）以下程序的输出结果是【14】 。
+　　#define MAX（x,y）（x）&gt;（y）?（x）:（y）
+　　main（）
+　　{
+　　int a=5,b=2,c=3,d=3,t;
+　　t=MAX（a+b,c+d）*10;
+　　printf（"%d＼n",t）;
+　　}
+　　（14）设有以下定义和语句，则*（*（p+2）+1）的值为 【15】 。
+　　int a［3］［2］={10, 20, 30, 40, 50, 60}, （*p）［2］；
+　　p=a；
+　　（15）下面程序的运行结果是【16】。
+　　#define N 10
+　　#define s（x）x*x
+　　#define f（x）（x*x）
+　　main（）
+　　{ int i1,i2;
+　　i1=1000/s（N）; i2=1000/f（N）;
+　　printf（"%d %d＼n",i1,i2）;
+　　}
+　　
+　　（16）以下程序的输出结果是【17】。
+　　unsigned fun6（unsigned num）
+　　{ unsigned k=1;
+　　do{k *=num%10;num/=10;} while （num）;
+　　return k;
+　　}
+　　main（）
+　　{ unsigned n=26;
+　　printf（"%d＼n", fun6（n））;
+　　}
+　　（17）函数 void fun（float *sn, int n）的功能是根据以下公式计算S,计算结果通过形参指针sn传回;
+　　n通过形参传入,n的值大于等于0，请填空。
+　　S=ni=0（-f）i2×i+1
+　　void fun（float *sn, int n）
+　　{ float s=0.0, w, f=-1.0;
+　　int i=0;
+　　for（i=0; i&lt;=n; i++）
+　　{ f=【18】* f;
+　　w=f/（2*i+1）;
+　　s+=w;
+　　}
+　　【19】 =s;
+　　（18）下列程序的功能是求出ss所指字符串中指定字符的个数，并返回此值。
+　　例如，若输入字符串123412132，输入字符1，则输出3，请填空。
+　　#include 
+　　#include 
+　　#define M81
+　　int fun（char *ss, char c）
+　　{ int i=0;
+　　for（;【20】;ss++）
+　　if（*ss==c）i++;
+　　return i;
+　　}
+　　main（）
+　　{ char a［M］, ch;
+　　clrscr（）;
+　　printf（"＼nPlease enter a string: "）; gets（a）;
+　　printf（"＼nPlease enter a char: "）; ch=getchar（）;
+　　printf（"＼nThe number of the char is: %d＼n", fun（a,ch））;
+　　}
+　　1&nbsp; 

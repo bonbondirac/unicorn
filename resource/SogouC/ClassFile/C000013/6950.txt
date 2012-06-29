@@ -1,0 +1,284 @@
+&nbsp;乙肝防治指南 
+　　慢性乙型肝炎是我国常见的慢性传染病之一，严重危害人民健康。为进一步规范慢性乙型肝炎的预防、诊断和治疗，中华医学会肝病学分会和中华医学会感染病学分会组织国内有关专家，在参考国内外最新研究成果的基础上，按照循证医学的原则，制订了《慢性乙型肝炎防治指南》（以下简称《指南》）。其中推荐意见所依据的证据共分为3个级别5个等次[1] ，文中以括号内斜体罗马数字表示。
+　　本《指南》只是帮助医生对乙型肝炎诊疗和预防作出正确决策，不是强制性标准；也不可能包括或解决慢性乙型肝炎诊治中的所有问题。因此，临床医生在针对某一具体患者时，应充分了解本病的最佳临床证据和现有医疗资源，并在全面考虑患者的具体病情及其意愿的基础上，根据自己的知识和经验，制定合理的诊疗方案。由于慢性乙型肝炎的研究进展迅速，本《指南》将根据需要不断更新和完善。
+　　一、病原学
+　　乙型肝炎病毒 (HBV) 属嗜肝DNA病毒科 (hepadnaviridae)，基因组长约3.2kb，为部分双链环状DNA。
+　　HBV侵入人体后，与肝细胞膜上的受体结合，脱去包膜，穿入肝细胞质内，然后脱去衣壳，部分双链环状HBV DNA进入肝细胞核内，在宿主酶的作用下，以负链DNA为模板延长正链，修补正链中的裂隙区，形成共价闭合环状DNA (cccDNA)，然后以cccDNA为模板，在宿主RNA聚合酶II的作用下，转录成几种不同长短的mRNA，其中3.5kb的mRNA含有HBV DNA序列上全部遗传信息，称为前基因组RNA。后者进入肝细胞质作为模板，在HBV 逆转录酶作用下，合成负链DNA；再以负链DNA为模板，在HBV DNA聚合酶作用下，合成正链DNA，形成子代的部分双链环状DNA，最后装配成完整的HBV，释放至肝细胞外。胞质中的子代部分双链环状DNA也可进入肝细胞核内，再形成cccDNA并继续复制。cccDNA半寿 (衰) 期长，很难从体内彻底清除[1, 2]。
+　　HBV含４个部分重叠的开放读码框 (ORF)，即前S／S区、前C／C区、P区和X区。前S/S区编码大 (前S1、前S2及S)、中 (前S2及S)、小 (S) 3种包膜蛋白；前C/C区编码HBeAg及HBcAg；P区编码聚合酶；X区编码X蛋白。
+　　前C区和基本核心启动子 (BCP) 的变异可产生HBeAg阴性变异株。前C区最常见的变异为G1896A点突变，形成终止密码子 (TAG)，不表达HBeAg。BCP区最常见的变异是A1762T/G1764A联合点突变，选择性地抑制前C mRNA的转录，降低HBeAg合成[3]。
+　　P基因变异主要见于POL/RT基因片段 (349~692 aa，即rt1~rt344)。在拉米夫定治疗中，最常见的是酪氨酸-蛋氨酸-天门冬氨酸-天门冬氨酸 (YMDD) 变异，即由YMDD变异为YIDD (rtM204I) 或YVDD (rtM204V)，并常伴有rtL180M变异，且受药物选择而逐渐成为对拉米夫定耐药的优势株[4] (Ⅰ)。
+　　S基因变异可导致隐匿性HBV感染 (occult HBV infection)，表现为血清HBsAg阴性，但仍可有HBV低水平复制 (血清HBV DNA常 &lt; 104拷贝/ml)[5]。
+　　根据HBV全基因序列差异≥8%或S区基因序列差异≥4%，目前HBV分为A~H 8个基因型。各基因型又可分为不同基因亚型。A基因型慢性乙型肝炎患者对干扰素治疗的应答率高于D基因型，B基因型高于C基因型；A和D基因型又高于B和C基因型[6] (Ⅰ)。基因型是否影响核苷 (酸) 类似物的疗效尚未确定。
+　　HBV易发生变异。在HBV感染者体内，常形成以一个优势株为主的相关突变株病毒群，称为准种 (quasispecies)，其确切的临床意义有待进一步证实。
+　　HBV的抵抗力较强，但65℃10 h、煮沸10 min或高压蒸气均可灭活HBV。含氯制剂、环氧乙烷、戊二醛、过氧乙酸和碘伏等也有较好的灭活效果。流行病学 
+　　二、流行病学
+　　HBV感染呈世界性流行，但不同地区HBV感染的流行强度差异很大。据世界卫生组织报道，全球约20亿人曾感染过HBV，其中3.5亿人为慢性HBV感染者，每年约有100万人死于HBV感染所致的肝衰竭、肝硬化和原发性肝细胞癌 (HCC) [7]。
+　　我国属HBV感染高流行区，一般人群的HBsAg阳性率为9.09%。接种与未接种乙型肝炎疫苗人群的HBsAg阳性率分别为4.51%和9.51%[8] (Ⅲ)。我国流行的HBV血清型主要是adrq+和adw2，少数为ayw3 (主要见于新疆、西藏和内蒙古自治区)；基因型主要为C型和B型[9]。
+　　HBV主要经血和血制品、母婴、破损的皮肤和黏膜及性接触传播[7]。围生 (产) 期传播是母婴传播的主要方式，多为在分娩时接触HBV阳性母亲的血液和体液传播 (Ⅰ)。经皮肤黏膜传播主要发生于使用未经严格消毒的医疗器械、注射器、侵入性诊疗操作和手术[1, 10] (Ⅱ-2)，以及静脉内滥用毒品等 (Ⅰ)。其他如修足、纹身、扎耳环孔、医务人员工作中的意外暴露、共用剃须刀和牙刷等也可传播 (Ⅲ)。与HBV阳性者性接触，特别是有多个性伴侣者，其感染HBV的危险性明显增高 (Ⅰ)。由于对献血员实施严格的HBsAg筛查，经输血或血液制品引起的HBV感染已较少发生。
+　　日常工作或生活接触，如同一办公室工作 (包括共用计算机等办公用品)、握手、拥抱、同住一宿舍、同一餐厅用餐和共用厕所等无血液暴露的接触，一般不会传染HBV。经吸血昆虫 (蚊、臭虫等) 传播未被证实。
+　　三、自然史
+　　人感染HBV后，病毒持续6个月仍未被清除者称为慢性HBV感染。感染时的年龄是影响慢性化的最主要因素。在围生 (产) 期和婴幼儿时期感染HBV者中，分别有90%和25%~30%将发展成慢性感染[11] (Ⅰ)。其HBV感染的自然史一般可分为3个期，即免疫耐受期、免疫清除期和非活动或低（非）复制期[12]。免疫耐受期的特点是HBV复制活跃，血清HBsAg和HBeAg阳性，HBV DNA滴度较高 (&gt;105拷贝/ml)，血清丙氨酸氨基转移酶 (ALT) 水平正常，肝组织学无明显异常。免疫清除期表现为血清HBV DNA滴度 &gt;105拷贝/ml， 但一般低于免疫耐受期，ALT/天门冬氨酸氨基转移酶 (AST) 持续或间歇升高，肝组织学有坏死炎症等表现。非活动或低 (非) 复制期表现为HBeAg阴性，抗-HBe阳性，HBV DNA检测不到 (PCR法) 或低于检测下限，ALT／AST水平正常，肝组织学无明显炎症。
+　　在青少年和成人期感染HBV者中，仅5%~10%发展成慢性，一般无免疫耐受期。早期即为免疫清除期，表现为活动性慢性乙型肝炎；后期可为非活动或低 (非) 复制期，肝脏疾病缓解。无论是围生 (产) 期和婴幼儿时期，或是在青少年和成人期感染HBV者，在其非活动或低 (非) 复制期的HBV感染者中，部分患者又可再活动，出现HBeAg阳转；或发生前C或C区启动子变异，HBV再度活动，但HBeAg阴性，两者均表现为活动性慢性乙型肝炎。
+　　儿童和成人HBeAg阳性慢性乙型肝炎患者中，于5和10年后发展为非活动或低 (非) 复制期的比例分别为50%和70%[13,14] (Ⅱ-3,Ⅱ-2)。在我国和亚太地区对非活动或低 (非) 复制期慢性HBV感染者自然史的研究尚不充分，但有资料表明，这些患者可有肝炎反复发作[8]。对一项684例慢性乙型肝炎患者的前瞻性研究表明，慢性乙型肝炎患者发展为肝硬化的估计年发生率为2.1%[15]。另一项对HBeAg阴性慢性乙型肝炎患者进行平均9年 (1~18.4年) 随访，进展为肝硬化和HCC的发生率分别为23%和4.4%[16,17]。发生肝硬化的高危因素包括病毒载量高、HBeAg持续阳性、ALT水平高或反复波动、嗜酒、合并HCV、HDV或HIV感染等[18-20] (I)。HBeAg阳性患者的肝硬化发生率高于HBeAg阴性者[1,10, 15] (Ⅱ-2)。
+　　慢性乙型肝炎患者中，肝硬化失代偿的年发生率约3%，5年累计发生率约16%[10] (Ⅰ)。慢性乙型肝炎、代偿期和失代偿期肝硬化的5年病死率分别为0%~2%、14%~20%和70%~86%。其影响因素包括年龄、血清白蛋白和胆红素水平、血小板计数和脾肿大等[10] (Ⅱ-2)。自发性或经抗病毒治疗后HBeAg血清学转换，且HBV DNA持续转阴和ALT持续正常者的生存率较高[10, 21] (Ⅰ,Ⅱ-3,)。
+　　HBV感染是HCC的重要相关因素，HBsAg和HBeAg均阳性者的HCC发生率显著高于单纯HBsAg阳性者[22] (Ⅱ-2)。肝硬化患者发生HCC的高危因素包括男性、年龄、嗜酒、黄曲霉素、合并HCV或HDV感染、持续的肝脏炎症、持续HBeAg阳性及HBV DNA持续高水平 (≥105拷贝/ml )等[10] (Ⅰ)。在6岁以前受感染的人群中，约25%在成年时将发展成肝硬化和HCC[23]（Ⅱ-2）。但有少部分与HBV感染相关的HCC患者无肝硬化证据。HCC家族史也是相关因素，但在同样的遗传背景下，HBV病毒载量更为重要[24] (Ⅱ-3)。乙型肝炎疫苗预防 
+　　四、预防
+　　（一）乙型肝炎疫苗预防
+　　接种乙型肝炎疫苗是预防HBV感染的最有效方法。我国卫生部于1992年将乙型肝炎疫苗纳入计划免疫管理，对所有新生儿接种乙型肝炎疫苗，但疫苗及其接种费用需由家长支付；自2002年起正式纳入计划免疫，对所有新生儿免费接种乙型肝炎疫苗，但需支付接种费；自2005年6月1日起改为全部免费。
+　　乙型肝炎疫苗的接种对象主要是新生儿[25]，其次为婴幼儿和高危人群 (如医务人员、经常接触血液的人员、托幼机构工作人员、器官移植患者、经常接受输血或血液制品者、免疫功能低下者、易发生外伤者、HBsAg阳性者的家庭成员、男性同性恋或有多个性伴侣和静脉内注射毒品者等)。乙型肝炎疫苗全程接种共3针，按照0、1、6个月程序，即接种第1针疫苗后，间隔1及6个月注射第2及第3针疫苗。新生儿接种乙型肝炎疫苗越早越好，要求在出生后24 h内接种。新生儿的接种部位为大腿前部外侧肌肉内，儿童和成人为上臂三角肌中部肌肉内注射。单用乙型肝炎疫苗阻断母婴传播的保护率为87.8% [26] (Ⅱ-3)。
+　　对HBsAg阳性母亲的新生儿，应在出生后24 h内尽早注射乙型肝炎免疫球蛋白 (HBIG)，最好在出生后12 h内，剂量应≥100 IU，同时在不同部位接种10 μg重组酵母或20μg中国仓鼠卵母细胞 (CHO) 乙型肝炎疫苗，可显著提高阻断母婴传播的效果[10, 26, 27] (Ⅱ-3)。也可在出生后12 h内先注射1针HBIG，1个月后再注射第2针HBIG，并同时在不同部位接种一针10 μg重组酵母或20μg CHO乙型肝炎疫苗，间隔1和6个月分别接种第2和第3针乙型肝炎疫苗 (各10 μg重组酵母或20μg CHO乙型肝炎疫苗) [28]。后者不如前者方便，但其保护率高于前者。新生儿在出生12 h内注射HBIG和乙型肝炎疫苗后，可接受HBsAg阳性母亲的哺乳[29] (III)。
+　　对HBsAg阴性母亲的新生儿可用5μg重组酵母或10μg CHO乙型肝炎疫苗免疫；对新生儿时期未接种乙型肝炎疫苗的儿童应进行补种，剂量为5μg重组酵母或10μg CHO乙型肝炎疫苗；对成人建议接种20μg重组酵母或20μg CHO乙型肝炎疫苗。对免疫功能低下或无应答者，应增加疫苗的接种剂量和针次；对3针免疫程序无应答者可再接种3针，并于第2次接种3针乙型肝炎疫苗后1~2个月检测血清中抗-HBs。
+　　接种乙型肝炎疫苗后有抗体应答者的保护效果一般至少可持续12年，因此，一般人群不需要进行抗-HBs监测或加强免疫。但对高危人群可进行抗-HBs监测，如抗-HBs&lt; 10 mIU/ml，可给予加强免疫[30] (Ⅲ)。
+　　(二) 传播途径预防
+　　大力推广安全注射 (包括针刺的针具)，对牙科器械、内镜等医疗器具应严格消毒。医务人员应按照医院感染管理中标准预防的原则，在接触患者的血液、体液及分泌物时，均应戴手套，严格防止医源性传播。服务行业中的理发、刮脸、修脚、穿刺和纹身等用具也应严格消毒。注意个人卫生，不共用剃须刀和牙具等用品。进行正确的性教育，若性伴侣为HBsAg阳性者，应接种乙型肝炎疫苗；对有多个性伴侣者应定期检查，加强管理，性交时应用安全套。对HBsAg阳性的孕妇，应避免羊膜腔穿刺，并缩短分娩时间，保证胎盘的完整性，尽量减少新生儿暴露于母血的机会。
+　　(三)意外暴露HBV后预防[31]
+　　在意外接触HBV感染者的血液和体液后，可按照以下方法处理：
+　　1．血清学检测 应立即检测HBsAg、抗-HBs、ALT等，并在3和6个月内复查。
+　　2．主动和被动免疫 如已接种过乙型肝炎疫苗，且已知抗-HBs ≥10 mIU/ml者，可不进行特殊处理。如未接种过乙型肝炎疫苗，或虽接种过乙型肝炎疫苗，但抗-HBs &lt;10 mIU/ml或抗-HBs水平不详，应立即注射HBIG 200~400 IU，并同时在不同部位接种一针乙型肝炎疫苗 (20mg)，于1和6个月后分别接种第2和第3针乙型肝炎疫苗 (各20mg)。
+　　(四) 对患者和携带者的管理
+　　各级医务人员诊断急性或慢性乙型肝炎患者时，应按照中华人民共和国传染病防治法，及时向当地疾病预防控制中心 (CDC) 报告，并应注明是急性乙型肝炎或慢性乙型肝炎。建议对患者的家庭成员及其他密切接触者进行血清HBsAg、抗-HBc和抗-HBs检测，并对其中的易感者 (该3种标志物均阴性者) 接种乙型肝炎疫苗。
+　　对急性或慢性乙型肝炎患者，可根据其病情确定是否住院或在家治疗。患者用过的医疗器械及用具 (如采血针、针灸针、手术器械、划痕针、探针、各种内镜及口腔科钻头等) 应严格消毒，尤其应加强对带血污染物的消毒处理。
+　　对慢性HBV携带者及HBsAg携带者 (见本《指南》“五、临床诊断”)，除不能献血及从事国家法律规定的特殊职业 (如服兵役等) 外，可照常生活、学习和工作，但要加强随访。
+　　乙型肝炎患者和携带者的传染性高低，主要取决于血液中HBV DNA水平，而与血清ALT、AST或胆红素水平无关。对乙型肝炎患者和携带者的随访见本《指南》“二十一、患者的随访”。临床诊断 
+　　五、临床诊断
+　　有乙型肝炎或HBsAg阳性史超过6个月，现HBsAg和 (或) HBV DNA仍为阳性者，可诊断为慢性HBV感染。根据HBV感染者的血清学、病毒学、生化学试验及其他临床和辅助检查结果，可将慢性HBV感染分为：
+　　(一) 慢性乙型肝炎
+　　1．HBeAg阳性慢性乙型肝炎 血清HBsAg、HBV DNA和HBeAg阳性，抗-HBe阴性，血清ALT持续或反复升高，或肝组织学检查有肝炎病变。
+　　2．HBeAg阴性慢性乙型肝炎 血清HBsAg和HBV DNA阳性，HBeAg持续阴性，抗-HBe阳性或阴性，血清ALT持续或反复异常，或肝组织学检查有肝炎病变。
+　　根据生化学试验及其他临床和辅助检查结果，上述两型慢性乙型肝炎也可进一步分为轻度、中度和重度 (见2000年《病毒性肝炎防治方案》[32])
+　　(二) 乙型肝炎肝硬化
+　　乙型肝炎肝硬化是慢性乙型肝炎发展的结果，肝组织学表现为弥漫性纤维化及假小叶形成，两者必须同时具备才能作出肝硬化病理诊断。
+　　1．代偿期肝硬化 一般属Child-Pugh A级。可有轻度乏力、食欲减退或腹胀症状，ALT和AST可异常，但尚无明显肝功能失代偿表现。可有门静脉高压征，如脾功能亢进及轻度食管胃底静脉曲张，但无食管胃底静脉曲张破裂出血、无腹水和肝性脑病等。
+　　2．失代偿期肝硬化 一般属Child-Pugh B、C级。患者常发生食管胃底静脉曲张破裂出血、肝性脑病、腹水等严重并发症。多有明显的肝功能失代偿，如血清白蛋白＜35g/L，胆红素＞35μmol/L，ALT和AST不同程度升高，凝血酶原活动度 (PTA) &lt;60%。
+　　亦可参照2001年《病毒性肝炎防治方案》将代偿期和失代偿期肝硬化再分为活动期或静止期[32]。
+　　(三) 携带者
+　　1．慢性HBV携带者 血清HBsAg和HBV DNA阳性，HBeAg或抗-HBe阳性，但1年内连续随访3次以上，血清ALT和AST均在正常范围，肝组织学检查一般无明显异常。对血清HBV DNA阳性者，应动员其做肝穿刺检查，以便进一步确诊和进行相应治疗。
+　　2．非活动性HBsAg携带者 血清HBsAg阳性、HBeAg阴性、抗-HBe阳性或阴性，HBV DNA检测不到 (PCR法) 或低于最低检测限，1年内连续随访3次以上，ALT均在正常范围。肝组织学检查显示：Knodell 肝炎活动指数 ( HAI) &lt;4或其他的半定量计分系统病变轻微。
+　　(四) 隐匿性慢性乙型肝炎
+　　血清HBsAg阴性，但血清和 (或) 肝组织中HBV DNA阳性，并有慢性乙型肝炎的临床表现。患者可伴有血清抗-HBs、抗-HBe和 (或) 抗-HBc阳性。另约20%隐匿性慢性乙型肝炎患者除HBV DNA阳性外，其余HBV血清学标志均为阴性。诊断需排除其他病毒及非病毒因素引起的肝损伤。实验室检查 
+　　六、实验室检查
+　　(一) 生化学检查
+　　1．ALT和AST 血清ALT和AST水平一般可反映肝细胞损伤程度，最为常用。
+　　2．胆红素 通常血清胆红素水平与肝细胞坏死程度有关，但需与肝内和肝外胆汁淤积所引起的胆红素升高鉴别。肝衰竭患者血清胆红素常较高，且呈进行性升高，每天上升&sup3;1倍正常值上限 (ULN)，可≥10×ULN；也可出现胆红素与ALT和AST分离现象。
+　　3．凝血酶原时间 (PT) 及 PTA PT是反映肝脏凝血因子合成功能的重要指标， PTA是PT测定值的常用表示方法，对判断疾病进展及预后有较大价值，近期内PTA进行性降至40%以下为肝衰竭的重要诊断标准之一，&lt;20%者提示预后不良。亦有用国际标准化比值 (INR) 来表示此项指标者，INR值的升高同PTA值的下降有同样意义。
+　　4．胆碱酯酶 可反映肝脏合成功能，对了解病情轻重和监测肝病发展有参考价值。
+　　5．血清白蛋白 反映肝脏合成功能，慢性乙型肝炎、肝硬化和肝衰竭患者的血清白蛋白下降或球蛋白升高，表现为血清白蛋白／球蛋白比值降低。
+　　6．甲胎蛋白 (AFP) 明显升高往往提示HCC，可用于监测HCC的发生；AFP升高也可提示大量肝细胞坏死后的肝细胞再生，可能有助于判断预后。但应注意AFP升高的幅度、持续时间、动态变化及其与ALT、AST的关系，并结合患者的临床表现和B超等影像学检查结果进行综合分析。
+　　(二) HBV血清学检测
+　　HBV血清学标志包括HBsAg、抗-HBs、HBeAg、抗-HBe、抗-HBc和抗-HBc Ig M，目前常采用酶免疫法 (EIA)、放射免疫法 (RIA)、微粒子酶免分析法 (MEIA) 或化学发光法等检测。HBsAg阳性表示HBV感染；抗-HBs为保护性抗体，其阳性表示对HBV有免疫力，见于乙型肝炎康复及接种乙型肝炎疫苗者；HBsAg转阴而抗-HBs转阳，称为HBsAg血清学转换；HBeAg阳性可作为HBV复制和传染性高的指标；抗-HBe阳性表示HBV复制水平低 (但有前C区突变者例外)；HBeAg转阴而抗-HBe转阳，称为HBeAg血清学转换；抗-HBc IgM阳性提示HBV复制，多见于乙型肝炎急性期；抗-HBc 总抗体主要是抗-HBc IgG, 只要感染过HBV，无论病毒是否被清除，此抗体均为阳性。
+　　为了解有无HBV与丁型肝炎病毒 (HDV) 同时或重叠感染，可测定HDAg、抗-HDV、抗-HDV IgM和HDV RNA。
+　　(三) HBV DNA、基因型和变异检测
+　　1．HBV DNA定性和定量检测 反映病毒复制情况或水平，主要用于慢性HBV 感染的诊断、血清HBV DNA及其水平的监测，以及抗病毒疗效。
+　　2．HBV基因分型 常用的方法有：(1) 基因型特异性引物PCR法；(2) 限制性片段长度多态性分析法 (RFLP)；(3) 线性探针反向杂交法 (INNO-LiPA)；(4) PCR微量板核酸杂交酶联免疫法；(5) 基因序列测定法等。但目前国内尚无经国家食品药品监督管理局 (SFDA) 正式批准的HBV基因分型试剂盒。
+　　3．HBV 耐药突变株检测[33, 34] 常用的方法有：(1) HBV聚合酶区基因序列分析法；(2) 限制性片段长度多态性分析法 (RFLP)；(3) 荧光实时PCR法；(4) 线性探针反向杂交法等。
+　　七、影像学诊断
+　　可对肝脏、胆囊、脾脏进行B超、电子计算机断层扫描 (CT) 和磁共振成像 (MRI) 等检查。影像学检查的主要目的是鉴别诊断和监测慢性乙型肝炎的病情进展及发现肝脏的占位性病变如HCC等。
+　　八、病理学诊断
+　　慢性乙型肝炎的肝组织病理学特点是：明显的汇管区炎症，浸润的炎症细胞主要为淋巴细胞，少数为浆细胞和巨噬细胞；炎症细胞聚集常引起汇管区扩大，并可破坏界板引起界面肝炎 (interface hepatitis )，又称碎屑样坏死 (piecemeal necrosis)。汇管区炎症及其界面肝炎是慢性乙型肝炎病变活动及进展的特征性病变。小叶内肝细胞变性、坏死，包括融合性坏死和桥形坏死等，随病变加重而日趋显著。肝细胞炎症坏死、汇管区及界面肝炎可导致肝内胶原过度沉积，肝纤维化及纤维间隔形成。如进一步加重，可引起肝小叶结构紊乱，形成假小叶并进展为肝硬化。
+　　免疫组织化学法检测可显示肝细胞中有无HBsAg和HBcAg表达。HBsAg胞浆弥漫型和胞膜型，以及HBcAg胞浆型和胞膜型表达提示HBV复制活跃；HBsAg包涵体型和周边型及HBcAg核型表达则提示肝细胞内存在HBV。
+　　慢性乙型肝炎肝组织炎症坏死的分级 (G)、纤维化程度的分期 (S)，可参照 2001年《病毒性肝炎防治方案》[32]。目前国际上常用Knodell HAI 评分系统，亦可采用Ishak、Scheuer和Chevallier等评分系统或半定量计分方案，了解肝脏炎症坏死和纤维化程度，以及评价药物疗效[35-38]。治疗的总体目标 
+　　九、治疗的总体目标
+　　慢性乙型肝炎治疗的总体目标是：最大限度地长期抑制或消除HBV，减轻肝细胞炎症坏死及肝纤维化，延缓和阻止疾病进展，减少和防止肝脏失代偿、肝硬化、HCC及其并发症的发生，从而改善生活质量和延长存活时间。
+　　慢性乙型肝炎治疗主要包括抗病毒、免疫调节、抗炎保肝、抗纤维化和对症治疗，其中抗病毒治疗是关键，只要有适应证，且条件允许，就应进行规范的抗病毒治疗。
+　　十、抗病毒治疗的一般适应证[39-42]
+　　一般适应证包括：(1) HBV DNA ≥105 拷贝/m l (HBeAg阴性者为 ≥104 拷贝/ml)；(2) ALT ≥2×ULN；如用干扰素治疗，ALT应≤10×ULN，血总胆红素水平应&lt;2×ULN；(3) 如ALT &lt;2 ×ULN，但肝组织学显示Knodell HAI ≥4，或≥G2炎症坏死。
+　　具有(1)并有(2) 或 (3) 的患者应进行抗病毒治疗；对达不到上述治疗标准者，应监测病情变化，如持续HBV DNA阳性，且ALT异常，也应考虑抗病毒治疗 (III)。
+　　应注意排除由药物、酒精和其他因素所致的ALT升高，也应排除因应用降酶药物后ALT暂时性正常。在一些特殊病例如肝硬化，其AST水平可高于ALT，对此种患者可参考AST水平。
+　　十一、抗病毒治疗应答[39-42]
+　　治疗应答包含多项内容，有多种分类方法。
+　　(一) 单项应答
+　　1．病毒学应答 (virological response) 指血清HBV DNA检测不到 (PCR法) 或低于检测下限，或较基线下降≥2 log10。
+　　2．血清学应答 (serological response) 指血清HBeAg转阴或HBeAg血清学转换或HBsAg转阴或HBsAg血清学转换。
+　　3．生化学应答 (biochemical response) 指血清ALT和AST恢复正常。
+　　4．组织学应答 (histological response) 指肝脏组织学炎症坏死或纤维化程度改善达到某一规定值。
+　　(二) 时间顺序应答
+　　1. 初始或早期应答 (initial or early response) 治疗12周时的应答。
+　　2．治疗结束时应答 (end-of-treatment response) 治疗结束时应答。
+　　3．持久应答 (sustained response) 治疗结束后随访6个月或12个月以上，疗效维持不变，无复发。
+　　4．维持应答 (maintained response) 在抗病毒治疗期间表现为HBV DNA检测不到 (PCR法) 或低于检测下限，或ALT正常。
+　　5．反弹 (breakthrough) 达到了初始应答，但在未更改治疗的情况下，HBV DNA水平重新升高，或一度转阴后又转为阳性，可有或无ALT升高。有时也指ALT和AST复常后，在未更改治疗的情况下再度升高，但应排除由其他因素引起的ALT和AST升高。
+　　6．复发 (relapse) 达到了治疗结束时应答，但停药后HBV DNA重新升高或阳转，有时亦指ALT和AST在停药后的再度升高，但应排除由其他因素引起的ALT和AST升高。
+　　（三）联合应答 (combined response)
+　　1．完全应答 (complete response, CR) HBeAg阳性慢性乙型肝炎患者，治疗后ALT恢复正常， HBV DNA 检测不出 (PCR法) 和HBeAg血清学转换； HBeAg阴性慢性乙型肝炎患者，治疗后ALT恢复正常， HBV DNA检测不出 (PCR法)。
+　　2．部分应答 (partial response, PR) 介于完全应答与无应答之间。如HBeAg阳性慢性乙型肝炎患者，治疗后ALT恢复正常， HBV DNA &lt;105 拷贝/ml，但无HBeAg血清学转换。
+　　3．无应答 (non- response, NR) 未达到以上应答者。
+　　十二、干扰素治疗
+　　荟萃分析表明，HBeAg阳性患者经普通干扰素a (普通IFN a) 治疗4~6个月后，治疗组和未治疗组HBV DNA转阴率 (杂交法) 分别为37%和17%，HBeAg转阴率分别为33%和12%，HBsAg转阴率分别为7.8%和1.8%，其疗效与基线血清ALT水平和肝组织学病变程度呈正相关[39] (Ⅱ)。有关HBeAg阴性患者的4次随机对照试验表明，治疗结束时应答率为38%~90%， 但持久应答率仅为10%~47% (平均24%) [40, 41] (Ⅰ)。 有人报道，普通IFNa 疗程至少1年才能获得较好的疗效[42-44]（Ⅱ）。普通IFN a (5MU 皮下注射，每日1次) 治疗慢性乙型肝炎患者，其中部分患者可出现ALT升高，少数患者甚至出现黄疸。治疗代偿期乙型肝炎肝硬化患者时，肝功能失代偿的发生率为&lt;1%[45] (Ⅱ) 。
+　　国际多中心随机对照临床试验显示，用聚乙二醇化干扰素a-2a (PegIFNa-2a) (40 KD) 治疗HBeAg阳性慢性乙型肝炎 (87%为亚洲人) 48周并停药随访24周， HBeAg血清学转换率为32%[46, 47]；HBeAg阴性患者 (60%为亚洲人) 治疗48周后随访24周，HBV DNA &lt;2&acute;104拷贝/ml的患者为43%[48]，随访48周时为42%。 亚太地区一项II期临床研究显示，每周1次PegIFN a-2a (40 KD) 治疗24周，随访24周时的HBeAg血清学转换率高于普通IFNα (32%:25%，P&lt;0.05)[49]。单用PegIFN a-2b (12 KD) 或与拉米夫定联合应用治疗HBeAg阳性慢性乙型肝炎52周，停药后随访26周，两组HBeAg血清学转换率均为29%[6]。PegIFN a-2a (40 KD) 在我国已被批准用于治疗慢性乙型肝炎。
+　　对普通IFNα治疗后复发的患者，再用普通IFNα治疗仍可获得疗效[42, 50] (Ⅱ)，亦可换用其他普通干扰素a亚型、PegIFNa-2a或核苷 (酸) 类似物治疗 (III)。
+　　(一) 干扰素抗病毒疗效的预测因素
+　　有下列因素者常可取得较好的疗效：(1) 治疗前高ALT水平；(2) HBV DNA&lt; 2&acute;108 拷贝／ml；(3) 女性； (4) 病程短；(5) 非母婴传播；(6) 肝脏纤维化程度轻；(7) 对治疗的依从性好； (8) 无HCV、HDV或HIV合并感染者。其中治疗前HBV DNA、ALT水平及患者的性别是预测疗效的主要因素[51-54]（II）。 治疗12周时的早期病毒学应答对预测疗效也很重要。
+　　(二) 干扰素治疗的监测和随访
+　　治疗前应检查：(1) 生化学指标，包括ALT、AST、胆红素、白蛋白及肾功能；(2) 血常规、甲状腺功能、血糖及尿常规；(3) 病毒学标志，包括HBsAg、HBeAg、抗-HBe和HBV DNA的基线状态或水平；(4) 对于中年以上患者，应作心电图检查和测血压；(5) 排除自身免疫性疾病；(6) 尿人绒毛膜促性腺激素 (HCG) 检测以排除妊娠。
+　　治疗过程中应检查：(1) 开始治疗后的第1个月，应每1~2周检查1次血常规，以后每月检查1次，直至治疗结束；(2) 生化学指标，包括ALT、AST等，治疗开始后每月1次，连续3次，以后随病情改善可每3个月1次；(3) 病毒学标志，治疗开始后每3个月检测1次HBsAg、HBeAg、抗-HBe和HBV DNA；(4) 其他，每3个月检测1次甲状腺功能、血糖和尿常规等指标；如治疗前就已存在甲状腺功能异常，最好先用药物控制甲状腺功能异常，然后再开始干扰素治疗，同时应每月检查甲状腺功能；治疗前已患糖尿病者，也应先用药物控制糖尿病，然后再开始干扰素治疗；(5) 应定期评估精神状态，尤其是对出现明显抑郁症和有自杀倾向的患者，应立即停药并密切监护。
+　　(三) 干扰素的不良反应及其处理[53]干扰素的不良反应 
+　　干扰素的主要不良反应包括：
+　　1．流感样症候群 表现为发热、寒战、头痛、肌肉酸痛和乏力等，可在睡前注射IFN a，或在注射干扰素同时服用解热镇痛药，以减轻流感样症状 (III)。随疗程进展，此类症状可逐渐减轻或消失。
+　　2．一过性骨髓抑制 主要表现为外周血白细胞 (中性粒细胞) 和血小板减少。如中性粒细胞绝对计数 ≤1.0×109/L，血小板 &lt; 50×109/L，应降低IFN α剂量；1~2周后复查，如恢复，则逐渐增加至原量。如中性粒细胞绝对计数 ≤0.75×109/L，血小板 &lt; 30×109/L，则应停药。对中性粒细胞明显降低者，可试用粒细胞集落刺激因子 (G-CSF) 或粒细胞巨噬细胞集落刺激因子 (GM-CSF) 治疗 (Ⅲ)。
+　　3．精神异常 可表现为抑郁、妄想症、重度焦虑等精神病症状。因此，使用干扰素前应评估患者的精神状况，治疗过程中也应密切观察。抗抑郁药可缓解此类不良反应 (III)，但对症状严重者，应及时停用IFN a。
+　　4．干扰素可诱导产生自身抗体和自身免疫性疾病 包括抗甲状腺抗体、抗核抗体和抗胰岛素抗体。多数情况下无明显临床表现，部分患者可出现甲状腺疾病 (甲状腺功能减退或亢进)、糖尿病、血小板减少、银屑病、白斑、类风湿性关节炎和系统性红斑狼疮样综合征等，严重者应停药。
+　　5．其他少见的不良反应 包括肾脏损害 (间质性肾炎、肾病综合征和急性肾衰竭等)、心血管并发症 (心律失常、缺血性心脏病和心肌病等)、视网膜病变、听力下降和间质性肺炎等，发生上述反应时，应停止干扰素治疗。
+　　(四) 干扰素治疗的禁忌证
+　　干扰素治疗的绝对禁忌证包括：妊娠、精神病史 (如严重抑郁症)、未能控制的癫痫、未戒断的酗酒/吸毒者、未经控制的自身免疫性疾病、失代偿期肝硬化、有症状的心脏病、治疗前中性粒细胞计数 &lt;1.0 &acute; 109/L和治疗前血小板计数 &lt;50 &acute; 109/L。
+　　干扰素治疗的相对禁忌证包括：甲状腺疾病、视网膜病、银屑病、既往抑郁症史、未控制的糖尿病、未控制的高血压、总胆红素&gt;51 mmol/L特别是以间接胆红素为主者。
+　　十三、核苷（酸）类似物治疗
+　　(一) 拉米夫定 (lamivudine)
+　　国内外随机对照临床试验表明，每日口服100 mg可明显抑制HBV DNA水平， HBeAg血清学转换率随治疗时间延长而提高，治疗1、2、3、4和5年后HBeAg血清转换率分别为16%、17%、23%、28％和35％[55]；治疗前ALT水平较高者，一般HBeAg血清学转换率也较高[56-60]。长期治疗可以减轻炎症，降低肝纤维化和肝硬化的发生率[1, 2]。随机对照临床试验表明，本药可降低肝功能失代偿和HCC发生率[21]。在失代偿期肝硬化患者也能改善肝功能，延长生存期[61-63]。国外研究结果显示，拉米夫定治疗儿童慢性乙型肝炎的疗效与成人相似，安全性良好[64, 65]。
+　　对乙型肝炎肝移植患者，移植前用拉米夫定；移植后，拉米夫定与HBIG联用，可明显降低肝移植后HBV再感染，并可减少HBIG剂量。
+　　随用药时间的延长患者发生病毒耐药变异的比例增高 (第1、2、3、4年分别为14%、38%、49%和66%)[55, 66, 67], 从而限制其长期应用。部分病例在发生病毒耐药变异后会出现病情加重，少数甚至发生肝功能失代偿[68]。另外，部分患者在停用本药后，会出现HBV DNA和ALT水平升高[69]，个别患者甚至可发生肝功能失代偿。我国SFDA已批准拉米夫定用于肝功能代偿的成年慢性乙型肝炎患者。
+　　(二) 阿德福韦酯 (adefovir dipivoxil)
+　　目前临床应用的阿德福韦酯是阿德福韦的前体，在体内水解为阿德福韦发挥抗病毒作用。阿德福韦酯是5’-单磷酸脱氧阿糖腺苷的无环类似物。随机双盲安慰剂对照的临床试验表明，在HBeAg阳性慢性乙型肝炎患者，口服阿德福韦酯可明显抑制HBV DNA复制[70], 应用1、2、3年时的HBV DNA转阴率 (&lt;1000 拷贝/ml) 分别为28%、45%和56%，HBeAg血清学转换率分别为12%、29%和43%；其耐药发生率分别为0%、1.6%和3.1% [71]；治疗HBeAg阴性者1、2、3年的耐药发生率分别为0%、3.0%和5.9%~11% [72- 74] 。本药对拉米夫定耐药变异的代偿期和失代偿期肝硬化患者均有效[75, 76]。在较大剂量时有一定肾毒性，主要表现为血清肌酐的升高和血磷的下降，但每日10 mg剂量对肾功能影响较小[77]，每日10 mg，治疗48~96周，约有2%~3%患者血清肌酐较基线值上升 &gt;0.5mg /dl (44.2 mmol/L)。因此，对应用阿徳福韦酯治疗者，应定期监测血淸肌酐和血磷。
+　　阿德福韦酯已获我国SFDA批准用于治疗慢性乙型肝炎，其适应证为肝功能代偿的成年慢性乙型肝炎患者。本药尤其适合于需长期用药或已发生拉米夫定耐药者。
+　　(三) 恩替卡韦 (entecavir)
+　　恩替卡韦是环戊酰鸟苷类似物。II/III期临床研究表明，成人每日口服0.5 mg能有效抑制HBV DNA复制，疗效优于拉米夫定[78, 79]；III期临床研究表明，对发生YMDD变异者将剂量提高至每日1mg 能有效抑制HBV DNA复制[80]。对初治患者治疗1年时的耐药发生率为0，但对已发生YMDD变异患者治疗1年时的耐药发生率为5.8%[81]。我国SFDA也已批准用于治疗慢性乙型肝炎患者。
+　　(四) 应用核苷 (酸) 类似物治疗时的监测和随访
+　　治疗前检查：(1) 生化学指标包括ALT、AST、胆红素、白蛋白等；(2) 病毒学标志包括HBeAg、抗-HBe和HBV DNA的基线状态或水平；(3) 根据病情需要，检测血常规、磷酸肌酸激酶和血清肌酐等。另外，有条件的单位治疗前后可行肝组织学检查。
+　　治疗过程中应对相关指标定期监测和随访，以评价疗效和提高依从性：(1) 生化学指标治疗开始后每月1次，连续3次，以后随病情改善可每3个月1次；(2) 病毒学标志治疗开始后每3个月检测1次HBsAg、HBeAg、抗-HBe和HBV DNA；(3) 根据病情需要，检测血常规、血清磷酸肌酸激酶和肌酐等指标。
+　　无论治疗前HBeAg阳性或阴性患者，于治疗1年时仍可检测到HBV DNA，或HBV DNA下降&lt;2 log10者，应改用其他抗病毒药治疗 (可先重叠用药1~3个月)。但对肝硬化或肝功能失代偿患者，不可轻易停药。免疫调节治疗,关于联合治疗 
+　　十四、免疫调节治疗
+　　免疫调节治疗是慢性乙型肝炎治疗的重要手段之一，但目前尚缺乏乙型肝炎特异性免疫治疗方法。胸腺肽α1可增强非特异性免疫功能，不良反应小，使用安全，对于有抗病毒适应证，但不能耐受或不愿接受干扰素和核苷 (酸) 类似物治疗的患者，有条件可用胸腺肽α1 1.6mg，每周2次，皮下注射，疗程6个月 (II-3)。
+　　十五、其他抗病毒药物及中药治疗
+　　苦参素 (氧化苦参碱) 系我国学者从中药苦豆子中提取，已制成静脉内和肌肉内注射剂及口服制剂。我国的临床研究表明，本药具有改善肝脏生化学指标及一定的抗HBV作用[82-84] 。但其抗HBV的确切疗效尚需进一步扩大病例数，进行严格的多中心随机对照临床试验加以验证。
+　　中医中药治疗慢性乙型肝炎在我国应用广泛，但多数药物缺乏严格随机对照研究，其抗病毒疗效尚需进一步验证。
+　　十六、关于联合治疗
+　　1．不推荐干扰素联合拉米夫定治疗HBeAg阳性或阴性慢性乙型肝炎 (I)。对IFN a、拉米夫定序贯治疗的效果尚需进一步研究 (Ⅱ-2)。
+　　2．不推荐拉米夫定联合阿德福韦酯用于初治或未发生拉米夫定耐药突变的慢性乙型肝炎患者(I)。
+　　3．有研究报道，拉米夫定和胸腺肽α1的联合治疗可提高持久应答率，但尚需进一步证实。
+　　4．干扰素或拉米夫定与其他药物 (包括中草药) 联合治疗慢性乙型肝炎的疗效也需进一步证实。
+　　十七、抗病毒治疗的推荐意见
+　　(一) 慢性HBV携带者和非活动性HBsAg携带者
+　　对慢性HBV携带者，应动员其做肝组织学检查，如肝组织学显示Knodell HAI ≥4，或≥G2炎症坏死者，需进行抗病毒治疗。如肝炎病变不明显或未做肝组织学检查者，建议暂不进行治疗。非活动性HBsAg携带者一般不需治疗。上述两类携带者均应每3~6个月进行生化学、病毒学、甲胎蛋白和影像学检查，一旦出现ALT &sup3;2×ULN，且同时HBV DNA阳性，可用IFN a 或核苷 (酸) 类似物治疗 (Ⅱ-2)。
+　　(二) HBeAg阳性慢性乙型肝炎患者
+　　对于HBV DNA 定量 &sup3; 1&acute;105拷贝/ml，ALT水平≥2×ULN者，或ALT&lt;2×ULN，但肝组织学显示Knodell HAI ≥4，或≥G2炎症坏死者，应进行抗病毒治疗。可根据具体情况和患者的意愿，选用IFN a (ALT水平应&lt;10×ULN) 或核苷 (酸) 类似物治疗。 对HBV DNA阳性但低于1&acute;105拷贝/ml者，经监测病情3个月，HBV DNA仍未转阴，且ALT异常，则应抗病毒治疗 (III)。
+　　1．普通IFN a 5 MU (可根据患者的耐受情况适当调整剂量)，每周3次或隔日1次，皮下或肌肉内注射，一般疗程为6个月 (I)。如有应答，为提高疗效亦可延长疗程至1年或更长[52] (II)。应注意剂量及疗程的个体化。如治疗6个月无应答者，可改用其他抗病毒药物。
+　　2．PegIFN a-2a 180 mg，每周1次，皮下注射，疗程1年 (I)。剂量应根据患者耐受性等因素决定。
+　　3． 拉米夫定 100 mg，每日1次口服。治疗1年时，如HBV DNA检测不到 (PCR法) 或低于检测下限，ALT复常，HBeAg转阴但未出现抗-HBe者，建议继续用药，直至HBeAg血清学转换，经监测2次 (每次至少间隔6个月)，仍保持不变者可以停药[85] (II)，但停药后需密切监测肝脏生化学和病毒学指标。
+　　4．阿德福韦酯 10 mg，每日1次口服。疗程可参照拉米夫定 [85] (II)。
+　　5．恩替卡韦 0.5mg (对拉米夫定耐药患者为1mg)，每日1次口服。疗程可参照拉米夫定。
+　　(三) HBeAg阴性慢性乙型肝炎患者
+　　HBV DNA 定量 ≥1&acute;104拷贝/ml，ALT水平≥2×ULN者，或ALT&lt;2ULN，但肝组织学检查显示Knodell HAI ≥4，或G2炎症坏死者，应进行抗病毒治疗。由于难以确定治疗终点，因此，应治疗至检测不出HBV DNA (PCR法)，ALT复常。此类患者复发率高，疗程宜长，至少为1年 (I)。因需要较长期治疗，最好选用IFN a (ALT水平应&lt;10×ULN) 或阿德福韦酯或恩替卡韦等耐药发生率低的核苷 (酸) 类似物治疗。对达不到上述推荐治疗标准者，则应监测病情变化，如持续HBV DNA阳性，且ALT异常，也应考虑抗病毒治疗 (III)。
+　　1．普通IFN a 5MU，每周3次或隔日1次，皮下或肌肉内注射，疗程至少1年 (I)。
+　　2．PegIFN a-2a 180mg，每周1次，皮下注射，疗程至少1年 (I)。
+　　3．阿德福韦酯 10 mg，每日1次口服，疗程至少1年。 当监测3次 (每次至少间隔6个月) HBV DNA检测不到 (PCR法) 或低于检测下限和ALT正常时可以停药[87]（II）。
+　　4．拉米夫定 100 mg，每日1次口服，疗程至少1年。治疗终点同阿德福韦酯[87] (II)。
+　　5．恩替卡韦 0.5mg (对拉米夫定耐药患者为1mg)，每日1次口服。疗程可参照阿德福韦酯。
+　　(四) 代偿期乙型肝炎肝硬化患者
+　　HBeAg阳性者的治疗指征为HBV DNA ≥105拷贝/ml，HBeAg阴性者为HBV DNA ≥104拷贝/ml，ALT正常或升高。治疗目标是延缓和降低肝功能失代偿和HCC的发生。
+　　1．拉米夫定 100 mg，每日1次口服。无固定疗程，需长期应用。
+　　2．阿德福韦酯 10 mg，每日1次口服。无固定疗程，需长期应用。
+　　3．干扰素 因其有导致肝功能失代偿等并发症的可能，应十分慎重。如认为有必要，宜从小剂量开始，根据患者的耐受情况逐渐增加到预定的治疗剂量 (III)。
+　　(五) 失代偿期乙型肝炎肝硬化患者
+　　治疗指征为HBV DNA阳性，ALT正常或升高。治疗目标是通过抑制病毒复制，改善肝功能，以延缓或减少肝移植的需求，抗病毒治疗只能延缓疾病进展，但本身不能改变终末期肝硬化的最终结局。干扰素治疗可导致肝衰竭，因此，属禁忌证 (Ⅱ)。
+　　对于病毒复制活跃和炎症活动的失代偿期肝硬化患者，在其知情同意的基础上，可给予拉米夫定治疗，以改善肝功能，但不可随意停药。一旦发生耐药变异，应及时加用其他已批准的能治疗耐药变异的核苷 (酸) 类似物 (II－2)。
+　　(六) 应用化疗和免疫抑制剂治疗的患者
+　　对于因其他疾病而接受化疗、免疫抑制剂 (特别是肾上腺糖皮质激素) 治疗的HBsAg阳性者，即使HBV DNA阴性和ALT正常，也应在治疗前1周开始服用拉米夫定，每日100 mg，化疗和免疫抑制剂治疗停止后，应根据患者病情决定拉米夫定停药时间 (II-1, II-3)。对拉米夫定耐药者，可改用其他已批准的能治疗耐药变异的核苷 (酸) 类似物。核苷 (酸) 类似物停用后可出现复发，甚至病情恶化，应十分注意。
+　　(七) 肝移植患者
+　　对于拟接受肝移植手术的HBV感染相关疾病患者，应于肝移植术前1~3个月开始服用拉米夫定，每日 100 mg口服，术中无肝期加用HBIG，术后长期使用拉米夫定和小剂量HBIG (第1周每日800 IU，以后每周800 IU)，并根据抗-HBs水平调整HBIG剂量和用药间隔 (一般抗-HBs谷值浓度至少大于100~150 mIU/ml，术后半年内最好大于500 mIU/ml)，但理想的疗程有待进一步确定 (II-1)。对于发生拉米夫定耐药者可选用其他已批准的能治疗耐药变异的核苷 (酸) 类似物。
+　　(八) 其他特殊情况的处理
+　　1．普通IFNα治疗无应答患者 经过规范的普通IFNα治疗无应答患者，再次应用普通IFN a治疗的疗效很低 (Ⅱ)。可试用PegIFNa-2a或核苷 (酸) 类似物治疗 (III)。
+　　2．强化治疗 指在治疗初始阶段每日应用普通IFN a，连续2~3周后改为隔日或每周3次的治疗。目前对此疗法意见不一，因此不予推荐 (Ⅲ)。
+　　3. 应用核苷 (酸) 类似物发生耐药突变后的治疗 拉米夫定治疗期间可发生耐药突变，出现“反弹”， 建议加用其他已批准的能治疗耐药变异的核苷 (酸) 类似物 (I) 并重叠1~3个月或根据HBV DNA检测阴性后撤换拉米夫定；也可使用IFN-a (建议重叠用药1~3个月)。
+　　4．停用核苷 (酸) 类似物后复发者的治疗 如停药前无拉米夫定耐药，可再用拉米夫定治疗，或其他核苷 (酸) 类似物治疗。如无禁忌证，亦可用IFNa治疗 (III)。
+　　(九) 儿童患者
+　　12岁以上慢性乙型肝炎患儿，其普通IFNa 治疗的适应证、疗效及安全性与成人相似[53]，剂量为3~6 MU/m2，最大剂量不超过10 MU/m2 (Ⅱ)。在知情同意的基础上，也可按成人的剂量和疗程用拉米夫定治疗 (I)。抗炎保肝治疗,抗纤维化治疗 
+　　十八、抗炎保肝治疗
+　　肝脏炎症坏死及其所致的肝纤维化是疾病进展的主要病理学基础，因而如能有效抑制肝组织炎症，有可能减少肝细胞破坏和延缓肝纤维化的发展。甘草酸制剂、水飞蓟素类等制剂活性成分比较明确，有不同程度的抗炎、抗氧化、保护肝细胞膜及细胞器等作用，临床应用这些制剂可改善肝脏生化学指标 (Ⅱ-2，II-3)。联苯双酯和双环醇等也可降低血清氨基转移酶特别是ALT水平。
+　　抗炎保肝治疗只是综合治疗的一部分，并不能取代抗病毒治疗。对于ALT明显升高者或肝组织学明显炎症坏死者，在抗病毒治疗的基础上可适当选用抗炎和保肝药物。不宜同时应用多种抗炎保肝药物，以免加重肝脏负担及因药物间相互作用而引起不良效应。
+　　十九、抗纤维化治疗
+　　有研究表明，经IFNa或核苷 (酸) 类似物抗病毒治疗后，肝组织病理学可见纤维化甚至肝硬化有所减轻，因此，抗病毒治疗是抗纤维化治疗的基础。
+　　根据中医学理论和临床经验，肝纤维化和肝硬化属正虚血瘀证范畴，因此，对慢性乙型肝炎肝纤维化及早期肝硬化的治疗，多以益气养阴、活血化瘀为主，兼以养血柔肝或滋补肝肾。据报道，国内多家单位所拟定的多个抗肝纤维化中药方剂均有一定疗效。今后应根据循证医学原理，按照新药临床研究管理规范 (GCP) 进行大样本、随机、双盲临床试验，并重视肝组织学检查结果，以进一步验证各种中药方剂的抗肝纤维化疗效。
+　　二十、抗病毒治疗的药物选择和流程
+　　目前国内外公认有效的抗HBV药物主要包括干扰素类和核苷 (酸) 类似物，并各有其优缺点。前者的优点是疗程相对固定，HBeAg血清学转换率较高，疗效相对持久，耐药变异较少，其缺点是需要注射给药，不良反应较明显，不适于肝功能失代偿者。后者的优点是口服给药，抑制病毒作用强，不良反应少而轻微，可用于肝功能失代偿者，其缺点是疗程相对不固定，HBeAg血清学转换率低，疗效不够持久，长期应用可产生耐药变异，停药后可出现病情恶化等。临床医生应根据自己的专业知识和临床经验，在综合考虑患者具体病情及其个人意愿的基础上，在本《指南》的原则框架下确定个体化的治疗方案 (见流程图)。
+　　二十一、患者随访
+　　治疗结束后，不论有无治疗应答，停药后半年内至少每2个月检测1次ALT、AST、血清胆红素 (必要时)、HBV血清学标志和HBV DNA，以后每3~6个月检测1次，至少随访12个月。随访中如有病情变化，应缩短随访间隔。
+　　对于持续ALT正常且HBV DNA阴性者，建议每6个月进行HBV DNA、ALT、AFP和B超检查。对于ALT正常但HBV DNA阳性者，建议每3个月检测1次HBV DNA和ALT，每6个月进行AFP和B超检查；如有可能，应作肝穿刺检查。
+　　对于慢性乙型肝炎、肝硬化患者，特别是HCC高危患者 (＞40岁，男性、嗜酒、肝功能不全或已有AFP增高)，应每3~6个月检测AFP和腹部B超 (必要时作CT或MRI)，以早期发现HCC。对肝硬化患者还应每1~2年进行胃镜检查或上消化道X线造影，以观察有无食管胃底静脉曲张及其进展情况。　　
+　　慢性乙型肝炎的抗病毒治疗流程图参考文献 
+
+　　参考文献
+　　1 Strader DB, Wright T, Thomas DL, and Seeff LB. Diagnosis, management, and treatment of hepatitis C. Hepatology, 2004, 39: 1147-1171.
+　　2 Seeger C, Mason W. Hepatitis B virus biology. Microbiol Mol Biol Rev, 2000, 64:51-68.
+　　3 Scaglioni PP, Melegari M, Wands JR. Biologic properities of hepatitis B viral genomes with mutations in the precore promoter and precore open reading frame. Virology, 1997, 233:374-381.
+　　4 Lai CL, Dienstag J, Schiff E, et al. Prevalence and clinical correlates of YMDD variants during lamivudine therapy for patients with chronic hepatitis B. Clin Infect Dis, 2003, 36:687-696.
+　　5 Hu KQ. Occult hepatitis B virus infection and its clinical implications. J Viral Hepat, 2002, 9: 243-257.
+　　6 Janssen HL, van Zonneveld M, Senturk H, et al. Pegylated interferon alfa-2b alone or in combination with lamivudine for HBeAg-positive chronic hepatitis B: a randomised trial. Lancet, 2005, 365:123-129.
+　　7 World Health Organization. Hepatitis B. World Health Organization Fact Sheet 204 dex. (Revised October 2000). WHO Web site .http://www.who.int/mediacentre/ factsheets/fs204/en/ in html.
+　　8梁晓峰, 陈园生, 王晓军, 等. 中国3岁以上人群乙型肝炎血清流行病学研究. 中华流行病学杂志, 2005, 26:655-658.
+　　9 范金水, 庄辉, 李远贵, 等. 我国8城市HBsAg阳性和阴性乙型肝炎患者的病毒血清型和基因型分析. 中华微生物学和免疫学杂志, 1998, 18:88-91.
+　　10 EASL International Consensus Conference on Hepatitis B. J Hepatol，2003, 39 (Suppl):S3-S25.
+　　11 Lok ASF, Heathcote EJ, Hoofnagle JH. Management of hepatitis B: 2000 summary of a workshop. Gastroenterology, 2001,120:1828-1853.
+　　12 McMahon BJ, Alward WL, Hall DB, et al. Acute hepatitis B virus infection: relation of age to the clinical expression of disease and subsequent development of the carrier state. J Infect Dis, 1985, 151:599-603.
+　　13 Bortolotti F, Cadrobbi P, Crivellaro C, et al. Long-term outcome of chronic type B hepatitis in patients who acquire hepatitis B virus infection in childhood. Gastroenterology, 1990, 99:805-810.
+　　14 McMahon BJ, Holck P, Bulkow L, et al. Serologic and clinical outcomes of 1536 Alaska Natives chronically infected with hepatitis B virus. Ann Intern Med, 2001,135:759-768.
+　　15 Liaw YF, Tai DI, Chu CW, et al. The development of cirrhosis in patients with chronic type B hepatitis: a prospective study. Hepatology, 1988, 8:493-496.
+　　16 Hsu YS, Chien RN, Yeh CT, et al. Long-term outcome after spontaneous HBeAg serocoversion in patients with chronic hepatitis B. Hepatology, 2002, 35:1522-1527.
+　　17 Liaw YF, Tai DI, Chu CW, et al. Natural course after the development of cirrhosis in patients with chronic type B hepatitis: a prospective study. Liver, 1989, 9:235-241.
+　　18 Di Marco V, Lo Lacono O, Camma C, et al. The long-term course of chronic hepatitis B. Hepatology, 1999, 30:257-264.
+　　19 Brunetto MR, Oliveri F, Rocca G, et al. Natural course and response to interferon of chronic hepatitis B accompanied by antibody to hepatitis B e antigen. Hepatology, 1989,10:198-202.
+　　20 Fattovich G, Brollo L, Alberti A, et al. Long-term follow-up of anti-HBe-positive chronic active hepatitis B. Hepatology, 1988, 8:1651-1654.
+　　21 Liaw YF, Sung JJ, Chow WC, et al. Lamivudine for patients with chronic hepatitis B and advanced liver disease. N Engl J Med, 2004, 351:1521-1531.
+　　22 Yang HI, Lu SN, Liaw YF, et al. Hepatitis B e antigen and the risk of hepatocellular carcinoma. N Engl J Med, 2002, 347:168-174.
+　　23 Lavanchy D. Hepatitis B virus epidemiology, disease burden, treatment, and current and emerging prevention and control measures. J Viral Hepat, 2004, 11:97-107.
+　　24 Tai DI, Chen CH, Chang TT, et al. Eight-year nationwide survival analysis in relatives of patients with hepatocellular carcinoma: role of viral infection. J Gastroenterol Hepatol, 2002, 17:682-689.
+　　25 中国疾病预防控制中心. 乙型肝炎疫苗儿童计划免疫技术管理规程 (试行). 2002.
+　　26 夏国良, 龚健, 王继杰, 等. 重组乙型肝炎疫苗阻断乙型肝炎病毒母婴传播方案的保护效果评价. 中华流行病学杂志, 2003, 24:362-365.
+　　27 Hepatitis B. http://www.who.int/csr/disease/hepatitis/whocdscsrlyo2002 2./ou/.
+　　28 邢玉兰, 龚晓红, 周绍莲, 等. 阻断围产期母婴传播最佳免疫方案的研究. 中华实验和临床病毒学杂志, 1990, 4:485-488.
+　　29 World Health Organization. Hepatitis B and breastfeeding. http://www.who.int /child-adolescent -health/New_Publications /NUTRITION/updt –22.htm (online on Oct 23, 2005)
+　　30 John T J，Cooksley G . Hepatitis B vaccine boosters: Is there a clinical need in high endemicity populations? J Gastroenterol Hepatol, 2005, 20:5-10.
+　　31 Updated U.S. public health service guidelines for the management of occupational exposures to HBV, HCV and HIV and recommendations for postexposure prophylaxis. MMWR Recomm Rep, 2001, 50 (RR-11):1-52..
+　　32 中华医学会传染病与寄生虫病学分会、肝病学分会. 病毒性肝炎防治方案. 中华肝脏病杂志, 2000, 8:342-329.
+　　33 Roque-Afonse AM, Ferey MP, Mackiewicz V, et al. Monitoring the emergence of hepatitis B virus polymerase gene variants during lamivudine therapy in human immunodeficiency virus coinfected patients, performance of CLIP sequencing and line probe assay. Antivir Ther, 2003, 8:627-634.
+　　34 Whalley SA, Brown D, Teo CG, et al. Monitoring the emergence of hepatitis B virus polymerase gene variants during lamivudine therapy using LightCycler. J Clin Microbiol, 2001, 39:1456-1459.
+　　35 Ishak KG. Pathologic features of chronic hepatitis. A review and update. Am J Clin Pathol, 2000, 113:40-45.
+　　36 Knodell RG, Ishak KG, Black WC, et al. Formulation and application of a numerical scoring system for assessing histological activity in asymptomatic chronic active hepatitis. Hepatology, 1998, 11:431-435.
+　　37 Scheuer PJ. Standish RA. Dhillon AP. Scoring of chronic hepatitis. Clin Liver Dis, 2002, 2002, 6:335-347.
+　　38 Chevallier M, Guerret S, Chossegros P, et al. A histological semiquantitative scoring system for evaluation of hepatic fibrosis in needle liver biopsy specimens: comparison with morphometric studies. Hepatology, 1994, 20:349-355.
+　　39 Wong DK,Cheung AM, O’Rourke K, et al. Effect of alpha-interferon treatment in patients with hepatitis B e antigen-positive chronic hepatitis B: a meta-analysis. Ann Intern Med, 1993, 119:312-323.
+　　40 Lampertico P, Del Ninno E, Manzin A，et al. A randomized, controlled trial of a 24-month course of interferon alpha 2b in patients with chronic hepatitis B who had hepatitis B virus DNA without hepatitis e antigen in serum. Hepatology, 1997, 26:1621-1625.
+　　41 Fattovich G, Farci P, Rugge M, et al. A randomized controlled trial of lymphoblastoid interferon-alpha in patients with chronic hepatitis B lacking HBeAg. Hepatology, 1992, 15:584-589.
+　　42 Manesis EK, Hadziyannis SJ. Interferon alpha treatment and retreatment of hepatitis B e antigen-negative chronic hepatitis B. Gastroenterology, 2001, 121: 101-109.
+　　43 马为民，陆坚，蒋小玲，等. 干扰素α-1b治疗慢性乙型肝炎的疗效及其预测因素的分析.中华传染病杂志, 2001, 19:148-151.
+　　44 毛乾国，骆抗先，傅群芳，等. 干扰素α对慢性乙型肝炎e抗原阴性患者的疗效及影响因素. 中华肝脏病杂志, 2004, 12:582-584.
+　　45 Hoofnagle JH, DiBisceglie AM, Waggoner JG, et al. Interferon alfa for patients with clinically apparent cirrhosis due to chronic hepatitis B. Gastroenterology, 1993, 104:1116-1121.
+　　46 Harris JM, Martin NE, Modi M. Pegylation: a novel process for modifying pharmacokinetics. Clin Pharmacokinet, 2001, 40:539-551.
+　　47 Lau GK, Piratvisuth T, Luo KX, et al. Peginterferon Alfa-2a, lamivudine, and the combination for HBeAg-positive chronic hepatitis B. N Engl J Med, 2005, 352:2682-2695.
+　　48 Marcellin P, Lau GKK, Bonino F, et al. Peginterferon Alfa-2a alone, lamivudine alone, and the two in combination in patients with HBeAg-negative chronic hepatitis B. N Engl J Med, 2004, 351:1206-
+　　1217.
+　　49 Cooksley WGF, Piratvisuth T, Lee SD, et al. Peginterferon alpha 2a (40 kDa): an advance in the treatment of hepatitis B e antigen-positive chronic hepatitis B. J Viral Hepat, 2003, 10:298-305.
+　　50 Carreno V, Marcellin P, Hadziyannis S, et al. Retreatment of chronic hepatitis B e antigen-positive patients with recombinant interferon alfa-2a. The European Concerted Action on Viral Hepatitis（EUROHEP）. Hepatology, 1999, 30:277-282.
+　　51 Janssen HL, Gerken G, Carreno V, et al. Interferon alfa for chronic hepatitis B infection: increased efficacy of prolonged treatment. The European Concerted Action on Viral Hepatitis（EUROHEP）. Hepatology, 1999, 30:238-243.
+　　52 Sokal R. Drug treatment of paediatric chronic hepatitis B. Peadiatr Drugs, 2002, 4: 361-369.
+　　53 Hoofnagle JH, Dibisceglie AM. The treatment of chronic viral hepatitis. N Engl J Med, 1997,5336:347-356.
+　　54 Brook MG, Karayiannis P, Thomas HC. Which patients with chronic hepatitis B virus infection will respond to alpha-interferon therapy? Hepatology, 1989, 10:761-763.
+　　55 Lok AS, Lai CL, Leung N, et al. Long-term safety of lamivudine treatment in patients with chronic hepatitis B. Gastroenterology, 2003, 125:1714-1722.
+　　56 Lai CL, Chien RN, Leung NW, et al. A one-year trial of lamivudine for chronic hepatitis B. Asia Hepatitis Lamivudine Study Group. N Engl J Med, 1998, 339:61-68.
+　　57 Liaw YF, Leung NW, Chang TT, et al. Effects of extended lamivudine therapy in Asian patients with chronic hepatitis B. Asia Hepatitis Lamivudine Study Group. Gastroenterology, 2000, 119:172-180.
+　　58 Dienstag JL, Schiff ER, Wright TL, et al. Lamivudine as initial treatment for chronic hepatitis B in the United States. N Engl J Med, 1999, 341:1256-1263.
+　　59 Chien RN, Liaw YF, Atkins M. Pretherapy alanine transaminase level as a determinant for hepatitis B e antigen seroconversion during lamivudine therapy in patients with chronic hepatitis B. Asian Hepatitis Lamivudine Trial Group. Hepatology, 1999, 30:770-774.
+　　60 Dienstag JL, Goldin RD, Heathcote EJ, et al. Histological outcome during long-term lamivudine therapy. Gastroenterology, 2003,124:105-117.
+　　61 Villeneuve JP, Condreay LD, Willems B, et al. Lamivudine treatment for decompensated cirrhosis resulting from chronic hepatitis B. Hepatology, 2000, 31:207-210.
+　　62 Perrillo RP, Wright T, Rakela J, et al. A multicenter United States-Canadian trial to assess lamivudine monotherapy before and after liver transplantation for chronic hepatitis B. Hepatology, 2001, 33:424-432.
+　　63 Hann HW, Fontana RJ, Wright T, et al. A United States compassionate use study of lamivudine treatment in nontransplantation candidates with decompensated hepatitis B virus-related cirrhosis. Liver Transpl, 2003, 9:49-56.
+　　64 Jonas MM, Mizerski J, Badia IB, et al. Clinical trial of lamivudine in children with chronic hepatitis B. N Engl J Med, 2002, 346:1706-1713.
+　　65 Figlerowicz M, Kowala-Piaskowska A, Filipowicz M, et al. Efficacy of lamivudine in the treatment of children with chronic hepatitis B. Hepatol Res, 2005, 31:217-222.
+　　66 姚光弼，王宝恩，崔振宇，等. 拉米夫定治疗慢性乙型肝炎三年疗效观察. 中华内科杂志, 2003, 42:382-387.
+　　67 姚光弼, 崔振宇, 姚集鲁, 等. 国产拉米夫定治疗2200例慢性乙型肝炎的Ⅳ期临床试验. 中华肝脏病杂志, 2003, 11:103-108.
+　　68 Liaw YF, Chien RN, Yeh CT, et al. Acute exacerbation and hepatitis B virus clearance after emergence of YMDD motif mutation during lamivudine therapy. Hepatology, 1999, 30:567-572.
+　　69 Liu CJ, Huang WL, Chen PJ, et al. End-of-treatment virologic response does not predict relapse after lamivudine treatment for chronic hepatitis B. World J Gastroenterol, 2004, 10:3574-3578.
+　　70 Marcellin P, Chang TT, Lim SG, et al. Adefovir dipivoxil for the treatment of hepatitis B e antigen-positive chronic hepatitis B. N Engl J Med, 2003, 348:808-816.
+　　71 Macellin P, Chang TT, Lim S, et al. Long term efficacy and safety of adefovir dipivoxil 10 mg in HBeAg + chronic hepatitis B patients: increasing serologic, virologic and biochemical response over time. Hepatology, 2004, 40 (4, suppl ):655A.
+　　72 Hadziyannis SJ, Tassopoulos NC, Heathcote EJ, et al. Adefovir dipivoxil for the treatment of hepatitis B e antigen-negative chronic hepatitis B. N Engl J Med, 2003, 348:800-807.
+　　73 Locarnini S, Shaw T, Sozzi T, et al. HBV mutants associated with clinical resistance to adefovir dipivoxil display only small decreases in antiviral sensitivity in vitro. Hepatology, 2004, 40 (4 suppl): 244A.
+　　74 Hadziyannis SJ, Tassopoulos NC, Heathcote EJ, et al. Long-term therapy with adefovir dipivoxil for HBeAg-negative chronic hepatitis B. N Engl J Med, 2005, 352:2673-2681.
+　　75 Peters MG, Hann HW, Martin P, et al. Adefovir dipivoxil alone or in combination with lamivudine in patients with lamivudine-resistant chronic hepatitis B. Gastroenterology, 2004, 126:91-101.
+　　76 Perrillo R, Hann HW, Mutimer D, et al. Adefovir dipivoxil added to ongoing lamivudine in chronic hepatitis B with YMDD mutant hepatitis B virus. Gastroenterology, 2004, 126:81-90.
+　　77 Izzedine H, Hulot JS, Launay-Vacher V, et al. Renal safety of adefovir dipivoxil in patients with chronic hepatitis B: two double-blind, randomized, placebo-controlled studies. Kidney Int, 2004, 66:1153- 1158.
+　　78 Lai CL, Rosmawati M, Lao J, et al. Entecavir is superior to lamivudine in reducing hepatitis B virus DNA in patients with chronic hepatitis B infection. Gastroenterology, 2002, 123:1831-1838.
+　　79 姚光弼, 张定凤, 王宝恩, 等. 恩替卡韦抗乙型肝炎病毒剂量和疗效的研究. 中华肝脏病杂志, 2005, 13:484-487.
+　　80 姚光弼, 任红, 王宝恩, 等, 恩替卡韦治疗拉米夫定失效的慢性乙型肝炎患者多中心随机双盲对照临床研究. 肝脏, 2005, 10:2-4.
+　　81 Colonno RJ, Rose R, Levine SM, et al. Emergence of entecavir resistant hepatitis B virus after one year of therapy in phase II &amp; III studies is only observed in lamivudine refractory patients. Hepatology, 2004, 40(4, suppl 1) :661A.
+　　82 陆伦根, 曾民德, 茅益民, 等. 氧化苦参碱胶囊治疗慢性乙型病毒性肝炎的随机双盲、安慰剂对照多中心临床研究. 肝脏, 2002, 7:218-221.
+　　83 于岩岩, 王勤环, 朱理珉, 等.苦参素治疗慢性乙型肝炎的临床研究. 中华肝脏病杂志，2002, 10:280-282.
+　　84 于岩岩，斯崇文，曾争，等. 苦参素制剂治疗慢性乙型肝炎的临床实验，中华内科杂志，2001, 40:843-846.
+　　85 Liaw YF, Leung N, Guan R, et al. Asian-Pacific consensus statement on the management of chronic hepatitis B: a 2005 update. Liver International, 2005, 25:472-489.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 来源：中国肝炎防治基金会网站http://www.cfhpc.net2&nbsp; 

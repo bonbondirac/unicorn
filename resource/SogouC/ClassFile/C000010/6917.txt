@@ -1,0 +1,7 @@
+　　【赛迪网讯】苹果电脑日前推出了可让基于英特尔处理器的Mac电脑运行Windows XP操作系统的公共测试版软件Boot Camp。Boot Camp从今天开始可以下载，它能让用户使用Microsoft Windows XP安装盘在基于英特尔处理器的Mac上安装Windows XP，安装完成之后，用户即可重新启动他们的电脑，选择运行Mac OS X或是Windows XP。Boot Camp功能将整合到Mac OS X的下一个重要版本“Leopard”之中，Leopard将在8月份举行的苹果电脑公司全球开发商大会（Apple’s Worldwide Developer Conference）上进行预演。
+　　“苹果电脑公司不希望也没有计划销售或支持Windows，但是鉴于我们采用了英特尔处理器，许多用户表现出了对在苹果公司卓越的硬件上运行Windows的浓厚兴趣，”苹果电脑公司全球产品市场高级副总裁Philip Schiller说，“我们认为Boot Camp会使Mac对那些正在考虑转换到Mac的Windows用户更具吸引力。”
+　　Boot Camp提供了一个简捷的图示化安装辅助程序，可在硬盘上为Windows创建一个动态分区，刻录一张安装Windows所需的驱动程序光盘，用Windows XP安装光盘安装Windows，因而简化在了基于英特尔处理器的Mac上安装Windows的过程。安装完成后，在重新启动电脑时，用户既可以选择运行Mac OS X，也可以选择运行Windows。
+　　价格和上市时间
+　　Boot Camp 公共测试版可以即刻登录www.apple.com/macosx/bootcamp站点下载，它是一个仅供在有限时间内试用的预览软件。Boot Camp最终版将作为即将推出的Mac OS X版本10.5“Leopard”中的一项功能提供。苹果电脑公司不提供安装或运行Boot Camp方面的支持服务，不销售或不对 Microsoft Windows软件提供支持与服务。苹果欢迎用户对Boot Camp Assistant提出任何反馈意见：bootcamp@apple.com
+　　系统要求
+　　Boot Camp 需要配有USB键盘和鼠标或内置键盘和滚屏触控板的基于英特尔处理器的Mac电脑；Mac OS X版本10.4.6或更高版本；最新固件(BIOS)更新；启动磁盘上至少10GB自由空间；一张可记录的空白CD或DVD；带有Service Pack 2或更高版本的Windows XP家庭版或专业版单光盘版本。

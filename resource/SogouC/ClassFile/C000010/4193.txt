@@ -1,0 +1,5 @@
+　　【搜狐IT消息】据外电消息，Google周三将推出企业信息搜索工具( Google Search Appliance)升级版，同时推出的还有Google mini下一版本。
+　　升级版本Google Search Appliance将体现Google核心网页搜索服务的特点，使企业员工可以更容易地搜索到庞杂的企业应用软件（比如甲骨文公司(Oracle Corp.)发布的数据库软件）中包含的信息。同时Google宣称升级版本提高了系统安全性以及整体性能，定价将不低于30，000美元。而下一版本的Google mini除了提高搜索速度外还将减小体积降低重量，目前售价低于2，000美元。
+　　Goolge于2002年9月推出Search Appliance，并将这款集硬件与软件于一体的产品以捆绑式的方式销售给企业。此次升级不会对Google产生革命性影响，但可以拓宽搜索工具的使用用途，为员工提供一条获取企业数据的通道。由于Google确定的价格在同类产品中最低，升级版的推出还可能加大其他企业信息搜索工具提供商的定价压力。
+　　相关资料：
+　　Google mini 与Google Search Appliance 同是Google针对企业用户推出的搜索解决方案。Google mini主要面向小企业,帮助他们利用Google的搜索服务来管理企业信息。Google Search Appliance则主要面对大中型企业。

@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+　主题：我说英语国家分数线 涨幅7分左右 
+
+
+
+
+
+
+
+
+
+
+
+
+ show_item(nickname_221497,nicknamelink_221497,"nick"); 
+噢娅 [
+ document.write(cn_221497); 
+ oya_sohu@sohu] 发表于
+ document.write(inputdate_221497); 
+ 2006-03-10 10:00:14 
+[回复]
+
+		if(readCookie()){
+			document.write("[编辑] ");
+			show_item(draft_221497,"http://club.sohu.com/draft/add_draft_form.php?b=master&a=221497&back=http%3A%2F%2Fclub.learning.sohu.com%2Fr-master-221497-0-0-0.html","draft");
+		}
+		
+ [编辑]
+ show_item("",smslink_221497,"sms"); 
+ [发留言]
+ show_item("",giftlink_221497,"gift"); 
+ [送礼物]
+ show_item("",bloglink_221497,"blog"); 
+ [此贴发送手机] 
+
+
+
+
+
+
+
+
+
+
+
+
+ document.write(body_221497); 
+最近看到坛子里大家心急火燎的询问分数线到底是多少，于是在北大、清华、人大、南开的研究生院网站逛了逛,初步预测是50分-53分。因清华分数排名的保密性，我只随即抽查了北大和南开的几个院系(北大：数学科学学院、力学与工程科学系、中国语言文学系、国际关系学院、经济学院、光华管理学院；南开：物理科学院、数学研究所。)是随机的查了几个报考人数较多的院系，这样基数大，有代表性。16-39分的成绩可以忽略不计，这种成绩已经自动被淘汰掉了，有竞争的成绩应当在40分以上。但是由于今年的成绩普遍偏高，60、70的高分放眼望去成群结队。去年的60分可能只占到30%，今年估计有40%左右。分数线自然水涨船高。但是毕竟是国家线，不能太离谱，去年工科英语分数线是44，我预计今年在49、50的样子其他也都在50-53分徘徊。个人观点，仅供大家参考。欢迎讨论。
+ document.write(body1_221497); 
+
+ document.write(sign_221497); 
+[狐摘本文] 原贴地址：http://club.learning.sohu.com/r-master-221497-0-0-0.html
+　　&gt;&gt;&gt;&gt;一起探讨英语国家线

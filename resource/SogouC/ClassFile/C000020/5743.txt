@@ -1,0 +1,22 @@
+
+　　快报讯(记者谢静娴)昨天，2006年全国考研复试最低分数线公布，和去年相比，分数线有所提高。4月上旬将陆续进行复试工作。和去年相比，今年不少专业的复试分数线有所提高。以包括江苏在内的北京、天津、上海等A类地区18省(市)的考生为例，其中，工商管理硕士(MBA)、经济学、管理学、艺术学等比去年提高5分，法律硕士提高9分，工学(不含照顾专业)比去年提高15分，军事学则高出20分，照顾专业(一级学科)提高10分。
+　　&gt;&gt;上线的考生报道啦！&nbsp;&nbsp;2005考研复试国家线&nbsp; 你认同这个分数吗？&lt;&lt;
+
+
+
+
+你认为今年的国家线合理吗？
+
+很合理  高了  
+低了  
+
+你能过线吗？
+
+没问题  压线。。。  
+我挂了  
+
+     
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }
+
+&nbsp;
+　　来源：安徽日报

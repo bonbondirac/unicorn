@@ -1,0 +1,52 @@
+
+　　Hourly wages for tech professionals hit a record high during the fourth 
+quarter of 2005, according to a report released Monday.
+　　According to the Yoh Index of Technology Wages, hourly pay increased by 3.1 
+percent to an average of $30.27 per hour between October 10, 2005 and November 
+6, 2005. Since the fourth quarter of 2001, wages for "high-impact technology 
+professionals" have rise nearly 11 percent, the frm found.
+　　The positions in the most demand include SAP functional consultants, who 
+commanded an average of $75.09 pr hour. Data warehouse architects, CRM managers, 
+hardware/firmware engineers and a generic project manager classification rounded 
+out the top five.
+　　"Ending 2005 with the highest wages for skilled technology professionals 
+recorded in five years is a high water mark for the industry," said Jim 
+Lanzalotto, vice president of strategy and marketing for Yoh, in a statement. 
+"Despite major economic setbacks during the year, the technology industry has 
+demonstrated its strength and confirmed its power to propel the employment 
+market in a positive direction."
+　　The Yoh data is culled from actual employment activity of over 5,000 
+technology professionals outsourced on short- and long-term projects by over 
+1,000 of the nation's top employers in aviation, engineering, information 
+technology, manufacturing, scientific, telecommunications, and utility 
+industries, according to the company. It is used to determine salaries in 
+Fortune 500 companies.
+　　According to Yoh, the top ten jobs with the highest demand by employers in 
+the fourth quarter of 2005, together with their average hourly wages, were:
+　　Clinical Research Associate - $38.52
+　　Data Manager - $45.06
+　　CRM Project Manager - $62.01
+　　Data Warehouse Architect - $69.03
+　　Hardware/Firmware engineer - $59.34
+　　NET Developer - $45.77
+　　Oracle Database Administrator - $55.82
+　　Project Manager - $57.07
+　　SAP Functional Consultant - $75.09
+　　Senior Scientist - $43.76
+　　日前，美国最新公布的一份统计数据表明，在2005年的第4季度里，高科技专业人员每小时的薪水创下了新高。
+　　据《美国电脑杂志》2月6日报道，根据美国Yoh技术薪水指数公司的最新统计数据表明，2005年10月10日至11月6日，高效科技专业人员的时薪又上涨了3.1％，平均高达30.27美元。自2001年第4季度以来，“高科技专业人员”薪水在5年的时间里已经上涨了近11％。
+　　在这些高薪职位中，时薪最高的是卫星自动控制系统资讯顾问，平均时薪已高达75.09美元。排在其后的分别是数据库架构师、客户关系管理经理、软硬件工程师和项目经理等。
+　　Yoh公司市场营销和策略副总裁兰扎洛特指出：“2005年底，娴熟的科技专业人员的薪水创下5年来的新高。尽管2005年经济整体受挫，但科技行业还是展现了强劲的势头，且有能力带动就业市场向积极的方向发展。”
+　　报道说，Yoh公司公布的数据来自对美国航空、工程、信息、制造、科学、电讯和公用事业等1000家顶尖企业的5000多名技术专业人员的薪水的统计结果。据悉，这些数据通常用来决定全球500强企业的薪水标准。
+　　根据Yoh公司公布的数据，2005年第4季度，时薪最高的10种高效科技专业人员分别是：
+　　卫星自动控制系统资讯顾问——75.09美元
+　　数据库架构师——69.03美元
+　　客户关系管理经理——62.01美元
+　　软硬件工程师——59.34美元
+　　项目经理——57.07美元
+　　Oracle数据库管理员——55.82美元
+　　网络开发人员——45.77美元
+　　电脑数据管理人员——45.06美元
+　　高级科学家——43.76美元
+　　临床研究专员——38.52美元
+　　

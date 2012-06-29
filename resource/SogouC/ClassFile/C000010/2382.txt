@@ -1,0 +1,11 @@
+
+　　微软和英特尔的Wintel联盟仍然一如既往地牢固，但是中国市场可能在扮演第三者的角色。
+　　这幕好戏的序幕是“提高发展中市场的教育水平”，这显然需要对英特尔平台进行投资，但是并不一定买微软产品，那样就太贵了。因此产生了“Intel加Linux走进学校”的创意，目的是建立有创意的教育生态环境，这种创意主要在于 
+Windows方面，另外就是性价比较好的解决方案。其中的关键部分在于一整套桌面劳动生产率软件、互联网软件、多媒体 软件和安全软件，而且并不需要付费获取软件授权。
+　　这种电脑采用中文Red Flag Linux系统以及随机软件，个人电脑平台采用低价Intel处理器。具体组成包括：学习管理系统（Moodle）、管理工具（包括中心学生信息系统和SQL 
+Ledger）、劳动生产率应用软件（Mozilla、Open Office、 
+Gaim、Evolution和Gnomemeeting）、数码媒体工具（RealPlayer、xine、gimp、kino、dvgrab和xcdroast）、浏览器插 
+件（Macromedia Flash和Real Player）、管理（Yum、Open Country、Red Hat 
+Network）和安全应用软件（ClamAV、 CensorNet、Astaro Gateway、Kaspersky）
+　　这种电脑名为“中国乡村个人电脑”，所以可能不仅限于学校，甚至可能通过加强而成为中国城市电脑。如果这种电脑性能良好，并能抵御无穷无尽的针对windows的恶意软件，就能成为信用卡支付等重要用途下的电脑。而且，这种电脑的发布时间正好是中国承诺所有个人电脑必须预装合法操作系统的时候。(编译：搜狐IT 
+Unifytruth）

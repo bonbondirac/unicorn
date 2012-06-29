@@ -1,0 +1,120 @@
+
+搜狐直播员: 第三节比赛开始了 [38:53 ] 
+搜狐直播员: 帕克跳投不中，马里昂抢到篮板球 [38:53 ] 
+搜狐直播员: 沃顿从纳什手里断球 [38:53 ] 搜狐网友：至于太阳，我很尊敬这个队，纳什和太阳队的队员们将成为，科比湖人王朝的第一批见证人。 
+SetCookie("sports007centLeft","38");SetCookie("sports007centRight","55");SetCookie("sports007centTime","第三节");
+
+搜狐直播员: 布莱恩特跳投球进 [38:55 ]
+SetCookie("sports007centLeft","40");SetCookie("sports007centRight","55");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 蒂姆-托马斯跳投球进 [40:55 ] 
+搜狐直播员: 帕克跳投不中，马里昂抢到篮板球 [40:55 ] 
+搜狐直播员: 纳什跳投偏出，夸梅-布朗抢到篮板球 [40:55 ] 
+搜狐直播员: 沃顿进攻犯规 [40:55 ] 
+SetCookie("sports007centLeft","43");SetCookie("sports007centRight","55");SetCookie("sports007centTime","第三节");
+
+搜狐直播员: 纳什接蒂姆-托马斯的传球，三分远投命中 [43:55 ]
+SetCookie("sports007centLeft","43");SetCookie("sports007centRight","57");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 奥多姆突破上篮球进 [43:57 ]
+SetCookie("sports007centLeft","45");SetCookie("sports007centRight","57");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 纳什跳投命中 [45:57 ] 
+搜狐直播员: 沃顿上篮不中，蒂姆-托马斯得球反击 [45:57 ]
+SetCookie("sports007centLeft","47");SetCookie("sports007centRight","57");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 迪奥上篮球进 [47:57 ] 
+搜狐直播员: 沃顿上篮不中，马里昂抢到篮板球反击 [47:57 ] 
+搜狐直播员: 纳什失误，帕克断球反击 [47:57 ] 
+搜狐直播员: 夸梅-布朗跳投不中，迪奥得球反击 [47:57 ]
+SetCookie("sports007centLeft","49");SetCookie("sports007centRight","57");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 纳什突破上篮球进 [49:57 ] 
+搜狐网友：呵呵,太夸张了吧..以湖人现在这帮人想成为王朝好象还不大现实哦...别说那么多了..看看太阳怎么赢这场比赛吧.. 
+ 现场组图 
+搜狐直播员: 湖人队叫了暂停 [49:57 ] 
+搜狐直播员: 第三节比赛还有7分45秒 [49:57 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [49:57 ]
+SetCookie("sports007centLeft","49");SetCookie("sports007centRight","59");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 布莱恩特接沃顿传球，跳投球进 [49:59 ] 
+搜狐直播员: 马里昂跳投不中，奥多姆抢到篮板球 [49:59 ] 
+搜狐直播员: 奥多姆上篮不中 [49:59 ] 
+搜狐直播员: 蒂姆-托马斯抢到篮板球反周 [49:59 ] 
+搜狐直播员: 帕克从马里昂手里断球 [49:59 ]
+SetCookie("sports007centLeft","49");SetCookie("sports007centRight","61");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 夸梅-布朗接布莱恩特传球，上篮球进 [49:61 ]
+SetCookie("sports007centLeft","51");SetCookie("sports007centRight","61");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 纳什突破上篮球进 [51:61 ] 
+搜狐直播员: 同时造成了帕克犯规 [51:61 ]
+SetCookie("sports007centLeft","52");SetCookie("sports007centRight","61");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 纳什加罚球进 [52:61 ] 
+搜狐直播员: 贝尔抢球时犯规 [52:61 ] 搜狐网友：呵呵,太夸张了吧..以湖人现在这帮人想成为王朝好象还不大现实哦...别说那么多了..看看太阳怎么赢这场比赛吧.. 
+
+搜狐直播员: 沃顿跳投三分不中，马里昂抢到篮板球反击 [52:61 ]
+SetCookie("sports007centLeft","55");SetCookie("sports007centRight","61");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 纳什分球，马里昂三分远投命中 [55:61 ] 
+搜狐直播员: 布莱恩特跳投偏出，迪奥抢到篮板球 [55:61 ] 搜狐网友：纳仕的助攻来的都很单一，十有八九，都是突破分外线，这种靠队友3分球命中率的助攻在中国篮坛里也有都是
+SetCookie("sports007centLeft","58");SetCookie("sports007centRight","61");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 蒂姆-托马斯接迪奥传球，三分远投命中 [58:61 ]
+SetCookie("sports007centLeft","58");SetCookie("sports007centRight","63");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 布莱恩特突破上篮球直 [58:63 ] 
+搜狐直播员: 马里昂跳投不中，布莱恩特抢到篮板球 [58:63 ]
+SetCookie("sports007centLeft","58");SetCookie("sports007centRight","65");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 沃顿接奥多姆传球，上篮球进 [58:65 ] 
+搜狐直播员: 纳什跳投三分偏出 [58:65 ] 搜狐网友：加上姚明就可以成就湖人皇朝 
+搜狐直播员: 帕克抢到篮板球反击 [58:65 ] 
+搜狐直播员: 布莱恩特跳投不中，纳什得球反击，纳什跳投三分也不中，沃顿抢到篮板球 [58:65 ]  现场组图
+SetCookie("sports007centLeft","58");SetCookie("sports007centRight","67");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 布莱恩特跳投命中 [58:67 ] 
+搜狐直播员: 迪奥跳投储藏出，帕克抢下篮板球 [58:67 ] 
+搜狐直播员: 夸梅-布朗三秒违例 [58:67 ] 
+搜狐直播员: 巴博萨换下了迪奥 [58:67 ] 
+搜狐直播员: 库克换下了夸梅-布朗 [58:67 ] 
+搜狐直播员: 太阳队叫了暂停， [58:67 ] 
+搜狐直播员: 第三节比赛还有3分10秒 [58:67 ] 搜狐网友：加上姚明就可以成就湖人皇朝 搜狐网友：不要诋毁别人了,至少这些NBA的球员每一个人所达到的高度都不是你们能达到的高度,你们有什么资格批评和诋毁他们呢,要批评别人先想想自己吧 
+搜狐网友：科比今天一打太阳5人足够拉 
+搜狐直播员: 暂停时间到，比赛继续进行 [58:67 ] 
+搜狐直播员: 乔治换下了沃顿 [58:67 ] 
+搜狐直播员: 蒂姆-托马斯跳投三分偏出 [58:67 ] 
+搜狐直播员: 乔治抢到篮板球反击 [58:67 ]
+SetCookie("sports007centLeft","58");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 布莱恩特跳投命中 [58:69 ] 
+搜狐直播员: 贝尔跳投偏出，奥多姆抢下篮板球 [58:69 ] 
+搜狐直播员: 布莱恩特跳投不中，乔治补篮也不中 [58:69 ] 
+搜狐直播员: 蒂姆-托马斯抢下篮板球 [58:69 ] 
+搜狐直播员: 库克抢球时犯规 [58:69 ]  现场组图 
+搜狐直播员: 詹姆斯-琼斯换下了蒂姆-托马斯 [58:69 ] 
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+
+搜狐直播员: 贝尔接纳什传球三分远投命中 [61:69 ]
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","72");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 帕克分球，奥多姆三分远投命中，回敬一球 [61:72 ] 
+搜狐直播员: 奥多姆防守犯规 [61:72 ]
+SetCookie("sports007centLeft","63");SetCookie("sports007centRight","72");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 纳什突破上篮球进 [63:72 ] 
+搜狐直播员: 布莱恩特跳投偏出 [63:72 ] 
+搜狐直播员: 库克防守犯规 [63:72 ]
+SetCookie("sports007centLeft","65");SetCookie("sports007centRight","72");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 詹姆斯-琼斯罚球两罚全中 [65:72 ] 搜狐网友：湖人今天还是打得不错的!看他们一直领先就知道了!不过赢球还是靠团体的!一个人是肯定不行的! 
+搜狐直播员: 布莱恩特上篮不中，贝尔抢到篮板球 [65:72 ] 
+搜狐直播员: 库克防守犯规 [65:72 ] 
+SetCookie("sports007centLeft","67");SetCookie("sports007centRight","72");SetCookie("sports007centTime","第三节");
+
+搜狐直播员: 马里昂罚球两罚两中 [67:72 ]
+SetCookie("sports007centLeft","67");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 布莱恩特上篮球进 [67:74 ] 
+搜狐直播员: 马里昂超远距离投篮没能投中 [67:74 ] 

@@ -1,0 +1,3 @@
+　　国外消息 日前，无线芯片制造商Qualcomm宣布公司正在研发下一代3G技术，据悉该技术可以使美国Sprint Nextel和Verizon无线网络的用户体验到三倍的上传和下载速度。
+　　据Qualcomm方面表示将于2007年底为下一代CDMA技术EV-DORevision B建成数据调制解调器。目前，北美两家最大的移动运营商Sprint Nextel和Verizon通信公司已经建立了其采用EV-DO的3G无线网络。
+　　据了解，采用EV-DO Rev. B技术的首款产品预计于2007年底推出，并于2008年推广。由于Sprint和Verizon已经在使用EV-DO技术的早期版本，因此如果要改用更快的版本，只需对现有的网络设备进行软件升级即可。

@@ -1,0 +1,8 @@
+&nbsp;&nbsp;&nbsp; 作者:winkie song
+　　网界网消息 无线芯片制造商Qualcomm正在筹划下一代3G无线技术，这种技术可使美国Sprint Nextel和Verizon无线网络的无线宽带用户获得三倍的上传和下载速度。
+　　4月7日，Qualcomm表示将于2007年底为下一代CDMA（码分多址）技术EV-DO（进展数据优化）Revision B建成数据调制解调器。如今，北美两家最大的移动运营商Sprint Nextel和Verizon通信公司已经建立了其采用EV-DO的3G无线网络。
+　　这些运营商已经部署了EV-DO Revision Zero，它可以支持400kbps至700kbps之间的平均下载速度和50kbps至70kbps之间的平均上传速度。现在，他们正处于部署EV-DO Revision A的初级阶段，这可以将平均下载速度增加大约30%，上传速度几乎加倍。Sprint Nextel表示其EV-DO Rev. A网络提供450kbps至800kbps的平均下载速度和70kbps至144kbps的平均上传速度。
+　　现在，Qualcomm表示其将引进支持EV-DO Rev. B的PC卡和数据调制解调器芯片集。Qualcomm负责CDMA产品管理的副总裁Cristiano Amon认为，EV-DO Rev. B技术预计可以使下载和上传速度增至以前的三倍。这意味着用户有望享用1.3mbps和2.4mbps之间的平均下载速度和210kbps和432kbps之间的平均上传速度。凭借这种速度提升，无线宽带将能获得与DSL服务同等的地位，后者提供差不多的速度。
+　　Amon说，“我相信随着我们采用EV-DO Rev. A并进而采用Rev. B，我们开始拥有和固定宽带相匹配的速度”。“但用户是否决定选用无线宽带，而不选用DSL服务，取决于运营商的商业模式。”
+　　采用EV-DO Rev. B技术的首款产品预计于2007年底推出，并于2008年推广。由于Sprint和Verizon已经在使用EV-DO技术的早期版本，因此如果要改用更快的版本，只需对现有的网络设备进行软件升级即可。
+　　营运商也可以逐步升级覆盖城市或区域。支持EV-DO Rev. B的新芯片集与Revision Zero和Rev. A向后兼容。这意味着，如果用户的膝上型电脑上安装了EV-DO Rev. B卡，但唯一的有效信号只适用EV-DO Rev. A网络，那么这种卡会自动默认为较低网络设置。（网界网winkie song编译）

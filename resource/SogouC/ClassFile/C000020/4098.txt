@@ -1,0 +1,181 @@
+&nbsp; 
+¡¡¡¡¡¾À´Ô´£ºÖÐ¹úÓ¢ÓïÍø¡¿
+¡¡¡¡&gt;&gt;2006Äê5ÔÂËÄ¡¢Áù¼¶¿¼ÊÔ¿ÚÓï¿¼ÊÔ±¨ÃûÍ¨Öª
+¡¡¡¡¿¼Éú¿ÉÒÔ¸ù¾ÝÏÂÁÐÕâÐ©ÎÊÌâ£¬½áºÏ¸öÈËÇé¿ö£¬·´¸´Á·Ï°£¬¾¡¿ìÕÆÎÕÌá¸ß¡£
+¡¡¡¡1.¡¡What¡¯s¡¡your¡¡name?
+¡¡¡¡2.¡¡Does¡¡your¡¡name¡¡have¡¡any¡¡special¡¡meaning?
+¡¡¡¡3.¡¡Where¡¡were¡¡you¡¡come¡¡from?
+¡¡¡¡4.¡¡What¡¡kind¡¡of¡¡landscape¡¡surrounds¡¡your¡¡hometown?
+¡¡¡¡5.¡¡What¡¡is¡¡the¡¡main¡¡crop¡¡in¡¡your¡¡hometown?
+¡¡¡¡6.¡¡What¡¡is¡¡the¡¡difference¡¡between¡¡Beijing¡¡and¡¡your¡¡hometown?
+¡¡¡¡7.¡¡What¡¡are¡¡the¡¡main¡¡places¡¡of¡¡interest¡¡in¡¡your¡¡hometown?
+¡¡¡¡8.¡¡What¡¡is¡¡the¡¡climate¡¡like¡¡in¡¡your¡¡hometown?
+¡¡¡¡9.¡¡What¡¡is¡¡the¡¡character¡¡of¡¡the¡¡people¡¡like¡¡in¡¡the¡¡region¡¡where¡¡you¡¡live?
+¡¡¡¡10.¡¡What¡¡are¡¡the¡¡differences¡¡in¡¡accent¡¡between¡¡the¡¡people¡¡of¡¡your¡¡hometown¡¡and¡¡Beijing?
+¡¡¡¡11.¡¡What¡¡is¡¡people¡¯s¡¡favorite¡¡food¡¡in¡¡your¡¡region?
+¡¡¡¡12.¡¡How¡¡do¡¡you¡¡make¡¡dumplings?
+¡¡¡¡13.¡¡What¡¡do¡¡you¡¡do¡¡during¡¡the¡¡Spring¡¡Festival?
+¡¡¡¡14.¡¡Why¡¡is¡¡the¡¡Spring¡¡Festival¡¡so¡¡important¡¡to¡¡Chinese¡¡people?
+¡¡¡¡15.¡¡Can¡¡you¡¡describe¡¡one¡¡of¡¡the¡¡main¡¡festivals¡¡celebrated¡¡in¡¡your¡¡country?
+¡¡¡¡16.¡¡Tell¡¡me¡¡something¡¡about¡¡the¡¡Lantern¡¡Festival.
+¡¡¡¡17.¡¡Tell¡¡me¡¡something¡¡about¡¡the¡¡Qing¡¡Ming¡¡Festival.
+¡¡¡¡18.¡¡Tell¡¡me¡¡something¡¡about¡¡the¡¡customs¡¡of¡¡your¡¡country.
+¡¡¡¡19.¡¡How¡¡long¡¡have¡¡you¡¡lived¡¡in¡¡Beijing?
+¡¡¡¡20.¡¡What¡¡is¡¡the¡¡weather¡¡like¡¡in¡¡Beijing?
+¡¡¡¡21.¡¡How¡¡do¡¡you¡¡compare¡¡the¡¡climate¡¡in¡¡Beijing¡¡with¡¡that¡¡in¡¡your¡¡hometown?
+¡¡¡¡22.¡¡What¡¡place¡¡in¡¡Beijing¡¡do¡¡you¡¡like¡¡best?¡¡Why¡¡?
+¡¡¡¡23.¡¡Which¡¡is¡¡the¡¡worst¡¡place¡¡you¡¯ve¡¡been¡¡to¡¡China?
+¡¡¡¡24.¡¡Which¡¡is¡¡the¡¡best¡¡place¡¡you¡¯ve¡¡been¡¡to¡¡China?
+¡¡¡¡25.¡¡What¡¡places¡¡in¡¡Beijing¡¡should¡¡a¡¡foreigner¡¡visit?¡¡Why?
+¡¡¡¡26.¡¡What¡¡are¡¡the¡¡major¡¡social¡¡problems¡¡in¡¡Beijing?¡¡How¡¡can¡¡they¡¡be¡¡solved?
+¡¡¡¡27.¡¡What¡¡is¡¡the¡¡biggest¡¡problem¡¡China¡¡faces?
+¡¡¡¡28.¡¡What¡¡places¡¡in¡¡Beijing¡¡should¡¡a¡¡foreigner¡¡visit?¡¡Why?
+¡¡¡¡29.¡¡Could¡¡you¡¡tell¡¡me¡¡something¡¡about¡¡your¡¡family?
+¡¡¡¡30.¡¡Have¡¡you¡¡any¡¡children?
+¡¡¡¡31.¡¡What¡¡is¡¡your¡¡child¡¯s¡¡name?¡¡Does¡¡his¡¡name¡¡have¡¡a¡¡meaning?
+¡¡¡¡32.¡¡What¡¡does¡¡your¡¡wife/husband¡¡do?
+¡¡¡¡33.¡¡When¡¡did¡¡you¡¡get¡¡married?
+¡¡¡¡34.¡¡Describe¡¡your¡¡wedding.
+¡¡¡¡35.¡¡How¡¡have¡¡weddings¡¡changed¡¡in¡¡recent¡¡years?
+¡¡¡¡36.¡¡Are¡¡there¡¡any¡¡special¡¡customs¡¡about¡¡wedding¡¡in¡¡your¡¡region?
+¡¡¡¡37.¡¡Describe¡¡a¡¡traditional¡¡wedding¡¡ceremony.
+¡¡¡¡38.¡¡Where¡¡did¡¡you¡¡go¡¡for¡¡your¡¡honeymoon?
+¡¡¡¡39.¡¡Did¡¡you¡¡have¡¡to¡¡ask¡¡for¡¡permission¡¡from¡¡your¡¡parents¡¡before¡¡you¡¡got¡¡married?
+¡¡¡¡40.¡¡Is¡¡it¡¡acceptable¡¡for¡¡couples¡¡to¡¡live¡¡together¡¡without¡¡marrying?
+¡¡¡¡ÎÞÂÛÄãÓÐÑ§Ï°ËÄÁù¼¶µÄ¾­Ñé¡¢ÒÉÎÊ»¹ÊÇÀÎÉ§£¬ËÄÁù¼¶´³¹Ø¶¼ÆÚ´ýÄãµÄ¼ÓÈë£¡
+¡¡¡¡±¸¿¼ËÄÁù¼¶ÈÕ¼Ç£¬ÉêÇëËÑºü²©¿Í£¬µãÕâÀï¸øÎÒÃÇÁôÏÂµØÖ·£¬ËæÊ±¹Ø×¢²¢¼à¶½ÄãµÄÑ§Ï°½ø³Ì£¡
+¡¡¡¡41.¡¡Where¡¡do¡¡you¡¡think¡¡a¡¡newly¡¡couple¡¡should¡¡live?¡¡Living¡¡with¡¡their¡¡parents¡¡or¡¡on¡¡their¡¡own?
+¡¡¡¡42.¡¡What¡¡responsibilities¡¡should¡¡a¡¡couple¡¡take?
+¡¡¡¡43.¡¡How¡¡do¡¡Chinese¡¡usually¡¡celebrate¡¡birthdays?
+¡¡¡¡44.¡¡Are¡¡there¡¡any¡¡traditions¡¡concerning¡¡the¡¡birth¡¡of¡¡a¡¡baby?
+¡¡¡¡45.¡¡What¡¡kind¡¡of¡¡parent¡¡do¡¡you¡¡intend¡¡to¡¡be?
+¡¡¡¡46.¡¡What¡¡do¡¡you¡¡think¡¡of¡¡One-Child¡¡Policy¡¡in¡¡China?
+¡¡¡¡47.¡¡Why¡¡do¡¡people¡¡in¡¡China¡¡traditionally¡¡want¡¡to¡¡have¡¡a¡¡son?
+¡¡¡¡48.¡¡What¡¡difficulties¡¡do¡¡Chinese¡¡farmers¡¡have¡¡concerning¡¡their¡¡old¡¡age?
+¡¡¡¡49.¡¡What¡¡do¡¡you¡¡think¡¡needs¡¡to¡¡be¡¡done¡¡in¡¡order¡¡to¡¡relieve¡¡the¡¡farmer¡¯s¡¡worries?
+¡¡¡¡50.¡¡What¡¡hope¡¡or¡¡fears¡¡do¡¡you¡¡have¡¡for¡¡your¡¡children?
+¡¡¡¡51.¡¡What¡¡sort¡¡of¡¡culture¡¡do¡¡you¡¡hope¡¡your¡¡child¡¡will¡¡grow¡¡up¡¡in?
+¡¡¡¡52.¡¡Are¡¡you¡¡going¡¡to¡¡bring¡¡up¡¡your¡¡child¡¡differently¡¡from¡¡the¡¡way¡¡you¡¡were¡¡brought¡¡up?¡¡How?
+¡¡¡¡53.¡¡Do¡¡you¡¡enjoy¡¡shopping?
+¡¡¡¡54.¡¡Who¡¡does¡¡most¡¡of¡¡the¡¡shopping¡¡in¡¡your¡¡family?
+¡¡¡¡55.¡¡What¡¡are¡¡you¡¡good¡¡at¡¡cooking?¡¡What¡¡is¡¡your¡¡favorite¡¡dish?
+¡¡¡¡56.¡¡Who¡¡does¡¡most¡¡of¡¡cooking¡¡in¡¡your¡¡family?
+¡¡¡¡57.¡¡Is¡¡there¡¡sex¡¡discrimination¡¡in¡¡China?
+¡¡¡¡58.¡¡How¡¡do¡¡you¡¡sum¡¡up¡¡women¡¯s¡¡conditions¡¡in¡¡China?
+¡¡¡¡59.¡¡What¡¡are¡¡the¡¡causes¡¡of¡¡sex¡¡discrimination?
+¡¡¡¡60.¡¡Should¡¡government¡¡pay¡¡certain¡¡salaries¡¡to¡¡those¡¡housewives?¡¡Why¡¡or¡¡why¡¡not?
+¡¡¡¡61.¡¡Would¡¡you¡¡want¡¡your¡¡wife¡¡to¡¡continue¡¡with¡¡her¡¡career¡¡or¡¡to¡¡stay¡¡at¡¡home¡¡taking¡¡care¡¡of¡¡the¡¡household¡¡after¡¡you¡¡get¡¡married?
+¡¡¡¡62.¡¡Have¡¡you¡¡ever¡¡wished¡¡to¡¡be¡¡one¡¡of¡¡the¡¡opposite¡¡sex?¡¡Why¡¡(why¡¡not)?
+¡¡¡¡63.¡¡What¡¡would¡¡you¡¡do¡¡if¡¡your¡¡next-door¡¡neighbour¡¡were¡¡noisy¡¡nearly¡¡all¡¡the¡¡time?
+¡¡¡¡64.¡¡Do¡¡you¡¡have¡¡a¡¡lot¡¡of¡¡friend?
+¡¡¡¡65.¡¡What¡¡does¡¡friendship¡¡mean¡¡to¡¡you?¡¡What¡¡kind¡¡of¡¡people¡¡do¡¡you¡¡make¡¡friend¡¡with?
+¡¡¡¡66.¡¡What¡¡is¡¡your¡¡major?
+¡¡¡¡67.¡¡How¡¡do¡¡you¡¡like¡¡your¡¡major?
+¡¡¡¡68.¡¡When¡¡and¡¡where¡¡did¡¡you¡¡graduate?¡¡What¡¡qualifications¡¡have¡¡you¡¡obtained?
+¡¡¡¡69.¡¡Do¡¡you¡¡still¡¡remember¡¡your¡¡school¡¡days?
+¡¡¡¡70.¡¡What¡¡impressed¡¡you¡¡most¡¡when¡¡you¡¡were¡¡at¡¡university?
+¡¡¡¡71.¡¡Which¡¡is¡¡the¡¡best¡¡university¡¡in¡¡your¡¡country?
+¡¡¡¡72.¡¡Could¡¡you¡¡sum¡¡up¡¡your¡¡own¡¡study¡¡habits¡¡in¡¡a¡¡few¡¡points?
+¡¡¡¡73.¡¡What¡¡do¡¡you¡¡think¡¡of¡¡the¡¡practice¡¡of¡¡setting¡¡up¡¡key¡¡schools¡¡in¡¡primary¡¡and¡¡secondary¡¡school¡¡education¡¡in¡¡China?
+¡¡¡¡74.¡¡Do¡¡you¡¡think¡¡the¡¡subjects¡¡you¡¡are¡¡studying¡¡today¡¡are¡¡relevant¡¡to¡¡present-day¡¡society?¡¡Why¡¡?
+¡¡¡¡75.¡¡What¡¡do¡¡you¡¡think¡¡education¡¡should¡¡be?¡¡Should¡¡it¡¡be¡¡a¡¡process¡¡of¡¡learning¡¡what¡¡is¡¡useful¡¡for¡¡your¡¡future¡¡life¡¡or¡¡should¡¡it¡¡be¡¡simply¡¡learning¡¡for¡¡enjoyment?¡¡Why?
+¡¡¡¡76.¡¡What¡¡do¡¡you¡¡do¡¡for¡¡a¡¡living?
+¡¡¡¡77.¡¡What¡¡do¡¡you¡¡do¡¡in¡¡the¡¡office¡¡every¡¡day?
+¡¡¡¡78.¡¡Since¡¡your¡¡job¡¡seems¡¡too¡¡professional¡¡to¡¡me,¡¡could¡¡you¡¡explain¡¡it¡¡in¡¡detail?
+¡¡¡¡79.¡¡What¡¡are¡¡your¡¡job¡¡prospects?
+¡¡¡¡80.¡¡If¡¡you¡¡had¡¡the¡¡opportunity¡¡to¡¡change¡¡your¡¡job,¡¡what¡¡would¡¡you¡¡do¡¡with¡¡it?
+¡¡¡¡ÎÞÂÛÄãÓÐÑ§Ï°ËÄÁù¼¶µÄ¾­Ñé¡¢ÒÉÎÊ»¹ÊÇÀÎÉ§£¬ËÄÁù¼¶´³¹Ø¶¼ÆÚ´ýÄãµÄ¼ÓÈë£¡
+¡¡¡¡±¸¿¼ËÄÁù¼¶ÈÕ¼Ç£¬ÉêÇëËÑºü²©¿Í£¬µãÕâÀï¸øÎÒÃÇÁôÏÂµØÖ·£¬ËæÊ±¹Ø×¢²¢¼à¶½ÄãµÄÑ§Ï°½ø³Ì£¡
+¡¡¡¡81.¡¡Do¡¡you¡¡have¡¡any¡¡ambitious?
+¡¡¡¡82.¡¡Will¡¡any¡¡possible¡¡future¡¡changes¡¡affect¡¡your¡¡job¡¡in¡¡any¡¡way?
+¡¡¡¡83.¡¡What¡¡are¡¡your¡¡spare¡¡time¡¡interests?
+¡¡¡¡84.¡¡How¡¡do¡¡you¡¡spend¡¡your¡¡weekends?
+¡¡¡¡85.¡¡What¡¡is¡¡your¡¡favorite¡¡sport?¡¡What¡¡are¡¡the¡¡rules?
+¡¡¡¡86.¡¡What¡¡is¡¡the¡¡most¡¡popular¡¡sport¡¡in¡¡your¡¡country?
+¡¡¡¡87.¡¡What¡¡are¡¡the¡¡sporting¡¡facilities¡¡like¡¡in¡¡your¡¡university/Beijing?
+¡¡¡¡88.¡¡What¡¡do¡¡you¡¡know¡¡about¡¡Qigong?¡¡Do¡¡you¡¡believe¡¡in¡¡Qigong?
+¡¡¡¡89.¡¡What¡¡do¡¡you¡¡do¡¡in¡¡your¡¡spare¡¡time?
+¡¡¡¡90.¡¡Do¡¡you¡¡often¡¡read¡¡newspapers?¡¡If¡¡not,¡¡why¡¡ones¡¡do¡¡you¡¡read?
+¡¡¡¡91.¡¡What¡¡do¡¡you¡¡think¡¡of¡¡computer?
+¡¡¡¡92.¡¡Do¡¡you¡¡think¡¡computer¡¡has¡¡changed¡¡our¡¡life¡¡so¡¡much?
+¡¡¡¡93.¡¡Do¡¡you¡¡often¡¡go¡¡to¡¡the¡¡cinema/theatre?
+¡¡¡¡94.¡¡What¡¡kind¡¡of¡¡films¡¡do¡¡you¡¡like¡¡best?
+¡¡¡¡95.¡¡Do¡¡you¡¡often¡¡watch¡¡TV?¡¡What¡¡is¡¡your¡¡favorite¡¡program?
+¡¡¡¡96.¡¡Do¡¡you¡¡think¡¡watching¡¡TV¡¡too¡¡much¡¡is¡¡a¡¡waste¡¡of¡¡time?
+¡¡¡¡97.¡¡What¡¡kind¡¡of¡¡music¡¡do¡¡you¡¡enjoy?
+¡¡¡¡98.¡¡Who¡¡is¡¡your¡¡favorite¡¡film¡¡star?¡¡Will¡¡you¡¡describe¡¡him/her¡¡to¡¡me?
+¡¡¡¡99.¡¡Do¡¡you¡¡enjoy¡¡travelling?
+¡¡¡¡100.¡¡Where¡¡have¡¡you¡¡been¡¡travelling¡¡to?¡¡Which¡¡place¡¡interested¡¡you¡¡most?
+¡¡¡¡101.¡¡Do¡¡you¡¡smoking?
+¡¡¡¡102.¡¡Do¡¡you¡¡think¡¡smoking¡¡is¡¡a¡¡problem¡¡that¡¡needs¡¡special¡¡attention¡¡and¡¡has¡¡to¡¡be¡¡solved?¡¡If¡¡so,¡¡why?
+¡¡¡¡103.¡¡What¡¡do¡¡you¡¡know¡¡about¡¡XXX?
+¡¡¡¡104.¡¡What¡¡problem¡¡do¡¡you¡¡think¡¡you¡¡will¡¡have¡¡in¡¡XXX?
+¡¡¡¡105.¡¡How¡¡will¡¡you¡¡overcome¡¡the¡¡difficulties?
+¡¡¡¡106.¡¡Do¡¡you¡¡think¡¡you¡¡will¡¡be¡¡able¡¡to¡¡cope¡¡with¡¡English-demands¡¡of¡¡your¡¡intended¡¡study¡¡program¡¡in¡¡XXX?
+¡¡¡¡107.¡¡What¡¡difficulties¡¡do¡¡you¡¡think¡¡you¡¯ll¡¡encounter¡¡in¡¡your¡¡studies¡¡in¡¡XXX¡¡?
+¡¡¡¡108.¡¡Can¡¡you¡¡imagine¡¡what¡¡life¡¡in¡¡Britain/Canada/Australia/London,¡¡etc.¡¡would¡¡be¡¡like?
+¡¡¡¡109.¡¡How¡¡will¡¡you¡¡fare¡¡in¡¡Britain/Canada/Australia,¡¡etc.¡¡without¡¡your¡¡family?
+¡¡¡¡110.¡¡What¡¡do¡¡you¡¡intend¡¡to¡¡study?
+¡¡¡¡111.¡¡Which¡¡university¡¡are¡¡you¡¡going¡¡to¡¡study¡¡at?
+¡¡¡¡112.¡¡Why¡¡did¡¡you¡¡choose¡¡this¡¡university?
+¡¡¡¡113.¡¡Where¡¡are¡¡you¡¡going¡¡to¡¡study¡¡in¡¡XXX?
+¡¡¡¡114.¡¡What¡¡are¡¡you¡¡plans¡¡in¡¡XXX?
+¡¡¡¡115.¡¡What¡¡is¡¡your¡¡research¡¡proposal¡¡all¡¡about?
+¡¡¡¡116.¡¡What¡¡do¡¡you¡¡hope¡¡for¡¡most¡¡from¡¡your¡¡study¡¡abroad?
+¡¡¡¡117.¡¡Will¡¡your¡¡study¡¡abroad¡¡help¡¡your¡¡job¡¡prospects¡¡after¡¡come¡¡back¡¡to¡¡China?
+¡¡¡¡118.¡¡Should¡¡you¡¡study¡¡more¡¡theory¡¡or¡¡do¡¡more¡¡practice?¡¡Give¡¡your¡¡reasons,¡¡please.
+¡¡¡¡119.¡¡What¡¡kind¡¡of¡¡differences¡¡in¡¡the¡¡cultures¡¡are¡¡you¡¡expecting¡¡between¡¡China¡¡and¡¡the¡¡XX?
+¡¡¡¡120.¡¡How¡¡will¡¡your¡¡study¡¡in¡¡Britain¡¡benefit¡¡your¡¡work¡¡in¡¡China¡¡when¡¡you¡¡come¡¡back¡¡to¡¡China?
+¡¡¡¡ÎÞÂÛÄãÓÐÑ§Ï°ËÄÁù¼¶µÄ¾­Ñé¡¢ÒÉÎÊ»¹ÊÇÀÎÉ§£¬ËÄÁù¼¶´³¹Ø¶¼ÆÚ´ýÄãµÄ¼ÓÈë£¡
+¡¡¡¡±¸¿¼ËÄÁù¼¶ÈÕ¼Ç£¬ÉêÇëËÑºü²©¿Í£¬µãÕâÀï¸øÎÒÃÇÁôÏÂµØÖ·£¬ËæÊ±¹Ø×¢²¢¼à¶½ÄãµÄÑ§Ï°½ø³Ì£¡
+¡¡¡¡121.¡¡What¡¡do¡¡you¡¡intend¡¡to¡¡do¡¡after¡¡you¡¡finish¡¡studying?
+¡¡¡¡122.¡¡What¡¡will¡¡be¡¡your¡¡main¡¡problem¡¡when¡¡you¡¡are¡¡study¡¡in¡¡a¡¡foreign¡¡country?
+¡¡¡¡123.¡¡What¡¡problem¡¡can¡¡you¡¡foresee¡¡in¡¡the¡¡future¡¡when¡¡you¡¡come¡¡back¡¡to¡¡China?
+¡¡¡¡124.¡¡Will¡¡there¡¡be¡¡any¡¡adjustment¡¡problems¡¡in¡¡your¡¡life¡¡when¡¡you¡¡come¡¡back¡¡to¡¡China?¡¡If¡¡so,¡¡what¡¡are¡¡they?
+¡¡¡¡125.¡¡Will¡¡you¡¡have¡¡to¡¡make¡¡any¡¡changes¡¡in¡¡your¡¡work/life¡¡when¡¡you¡¡come¡¡back¡¡to¡¡China?
+¡¡¡¡126.¡¡Do¡¡you¡¡think¡¡there¡¡will¡¡be¡¡a¡¡gap¡¡between¡¡your¡¡knowledge¡¡gained¡¡in¡¡China¡¡and¡¡the¡¡level¡¡of¡¡knowledge¡¡you¡¡are¡¡going¡¡to¡¡encounter¡¡on¡¡arrival?¡¡If¡¡so,¡¡what¡¡will¡¡it¡¡be?
+¡¡¡¡127.¡¡What¡¡do¡¡you¡¡think¡¡of¡¡the¡¡future¡¡of¡¡China¡¡keeps¡¡an¡¡open¡¡policy?
+¡¡¡¡128.¡¡What¡¡do¡¡you¡¡regard¡¡as¡¡the¡¡most¡¡significant¡¡events¡¡in¡¡your¡¡country¡¯s¡¡recent¡¡history?
+¡¡¡¡129.¡¡Are¡¡there¡¡any¡¡special¡¡places¡¡you¡¡want¡¡to¡¡see¡¡in¡¡Canada?¡¡What¡¡are¡¡they?
+¡¡¡¡130.¡¡What¡¡do¡¡you¡¡especially¡¡want¡¡to¡¡do¡¡in¡¡Canada?
+¡¡¡¡131.¡¡How¡¡do¡¡you¡¡like¡¡your¡¡life¡¡in¡¡*******¡¡University?
+¡¡¡¡132.¡¡What¡¡do¡¡you¡¡think¡¡of¡¡the¡¡training¡¡in¡¡the¡¡university?
+¡¡¡¡133.¡¡In¡¡what¡¡way¡¡do¡¡you¡¡think¡¡university¡¡training¡¡is¡¡helpful¡¡or¡¡falls¡¡short?
+¡¡¡¡134.¡¡What¡¡aspect¡¡of¡¡English¡¡do¡¡you¡¡find¡¡the¡¡most¡¡difficult?
+¡¡¡¡135.¡¡Do¡¡you¡¡find¡¡American¡¡English¡¡easier¡¡to¡¡understand¡¡than¡¡Britain¡¡English?
+¡¡¡¡136.¡¡What¡¡sports¡¡are¡¡played¡¡in¡¡your¡¡country?
+¡¡¡¡137.¡¡Could¡¡you¡¡describe¡¡the¡¡traditional¡¡architecture¡¡of¡¡your¡¡country?
+¡¡¡¡138.¡¡What¡¡role¡¡dose¡¡religion¡¡play¡¡in¡¡everyday¡¡life¡¡in¡¡your¡¡country?
+¡¡¡¡139.¡¡What¡¡would¡¡you¡¡regard¡¡as¡¡the¡¡most¡¡significant¡¡events¡¡in¡¡your¡¡country¡¯s¡¡recent¡¡history?
+¡¡¡¡140.¡¡How¡¡aware¡¡do¡¡you¡¡think¡¡people¡¡are¡¡nowadays¡¡about¡¡environmental¡¡issues?
+¡¡¡¡141.¡¡Could¡¡you¡¡tell¡¡me¡¡why¡¡you¡¡chose¡¡to¡¡study¡¡at¡¡the¡¡university¡¡of¡¡****?
+¡¡¡¡142.¡¡What¡¡role¡¡dose¡¡tourism¡¡play¡¡in¡¡your¡¡country¡¯s¡¡economy?
+¡¡¡¡143.¡¡How¡¡serious¡¡is¡¡unemployment¡¡in¡¡your¡¡country?
+¡¡¡¡144.¡¡In¡¡your¡¡opinion,¡¡what¡¡are¡¡the¡¡most¡¡serious¡¡problems¡¡associated¡¡with¡¡modern¡¡life?
+¡¡¡¡145.¡¡What¡¡do¡¡you¡¡think¡¡have¡¡been¡¡the¡¡most¡¡important¡¡changes¡¡in¡¡your¡¡field¡¡over¡¡the¡¡past¡¡5¡¡years?
+¡¡¡¡146.¡¡What¡¡are¡¡you¡¡going¡¡to¡¡major¡¡in¡¡?
+¡¡¡¡147.¡¡Are¡¡you¡¡going¡¡to¡¡do¡¡your¡¡own¡¡cooking¡¡when¡¡you¡¡are¡¡at¡¡university?
+¡¡¡¡148.¡¡Some¡¡local¡¡students¡¡feel¡¡that¡¡overseas¡¡students¡¡get¡¡preferential¡¡treatment.¡¡What¡¡is¡¡your¡¡opinion?
+¡¡¡¡149.¡¡Do¡¡you¡¡think¡¡you¡¡will¡¡be¡¡able¡¡to¡¡cope¡¡with¡¡the¡¡English-language¡¡demands¡¡of¡¡your¡¡intended¡¡program?
+¡¡¡¡150.¡¡What¡¡do¡¡you¡¡think¡¡are¡¡the¡¡main¡¡causes¡¡of¡¡road¡¡accidents?
+¡¡¡¡151.¡¡Do¡¡you¡¡think¡¡the¡¡government¡¡is¡¡doing¡¡enough¡¡to¡¡prevent¡¡road¡¡accidents?
+¡¡¡¡152.¡¡As¡¡there¡¡are¡¡more¡¡and¡¡more¡¡private¡¡cars,¡¡what¡¡do¡¡you¡¡think¡¡the¡¡government¡¡should¡¡do¡¡in¡¡order¡¡to¡¡encourage¡¡citizens¡¡to¡¡use¡¡public¡¡transport?
+¡¡¡¡153.¡¡How¡¡do¡¡you¡¡see¡¡yourself¡¡in¡¡ten¡¡years¡¯¡¡time?
+¡¡¡¡154.¡¡Have¡¡you¡¡ever¡¡thought¡¡to¡¡have¡¡your¡¡own¡¡business?
+¡¡¡¡155.¡¡What¡¡business¡¡do¡¡you¡¡hope¡¡to¡¡have?
+¡¡¡¡156.¡¡Do¡¡you¡¡know¡¡about¡¡any¡¡policies¡¡about¡¡opening¡¡a¡¡business¡¡abroad?
+¡¡¡¡157.¡¡What¡¡are¡¡your¡¡plans¡¡for¡¡your¡¡future?
+¡¡¡¡158.¡¡Why¡¡do¡¡you¡¡think¡¡there¡¡are¡¡more¡¡and¡¡more¡¡people¡¡leaving¡¡to¡¡immigrate¡¡to¡¡other¡¡countries?
+¡¡¡¡159.¡¡Is¡¡it¡¡good¡¡for¡¡China¡¡that¡¡so¡¡many¡¡people¡¡are¡¡going¡¡to¡¡other¡¡countries?
+¡¡¡¡160.¡¡Will¡¡your¡¡life¡¡change¡¡a¡¡lot¡¡after¡¡you¡¡immigrate¡¡to¡¡XXX?
+¡¡¡¡161.¡¡What¡¡will¡¡you¡¡do¡¡if¡¡you¡¡are¡¡ill¡¡abroad?
+¡¡¡¡162.¡¡Do¡¡you¡¡know¡¡what¡¡to¡¡do¡¡in¡¡case¡¡of¡¡emergency?
+¡¡¡¡163.¡¡What¡¡will¡¡do¡¡if¡¡you¡¡cannot¡¡find¡¡a¡¡job¡¡in¡¡XXX?
+¡¡¡¡164.¡¡Why¡¡do¡¡you¡¡want¡¡to¡¡immigrate¡¡to¡¡XXX?
+¡¡¡¡165.¡¡What¡¡will¡¡you¡¡do¡¡after¡¡the¡¡IELTS¡¡test?
+¡¡¡¡166.¡¡What¡¡will¡¡do¡¡if¡¡you¡¡fail¡¡the¡¡IELTS¡¡test?
+¡¡¡¡167.¡¡How¡¡long¡¡have¡¡you¡¡been¡¡learning¡¡English?
+¡¡¡¡168.¡¡What¡¡troubles¡¡you¡¡most¡¡at¡¡the¡¡moment?
+¡¡¡¡169.¡¡Does¡¡your¡¡family¡¡support¡¡your¡¡decision¡¡on¡¡going¡¡XXX?
+¡¡¡¡ÎÞÂÛÄãÓÐÑ§Ï°ËÄÁù¼¶µÄ¾­Ñé¡¢ÒÉÎÊ»¹ÊÇÀÎÉ§£¬ËÄÁù¼¶´³¹Ø¶¼ÆÚ´ýÄãµÄ¼ÓÈë£¡
+¡¡¡¡±¸¿¼ËÄÁù¼¶ÈÕ¼Ç£¬ÉêÇëËÑºü²©¿Í£¬µãÕâÀï¸øÎÒÃÇÁôÏÂµØÖ·£¬ËæÊ±¹Ø×¢²¢¼à¶½ÄãµÄÑ§Ï°½ø³Ì£¡2&nbsp; 

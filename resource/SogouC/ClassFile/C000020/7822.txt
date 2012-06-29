@@ -1,0 +1,50 @@
+
+　　Scientists are developing a super-sensitive Breathalyzer-type tool that 
+works a lot like a nose and could one day sniff out human ills.
+　　Rather than detecting blood-alcohol levels—or garlic and onions—the device 
+would identify diseases by sensing chemical patterns carried in the breath. 
+Researchers have linked some of these patterns, known as biomarkers, to diseases 
+as diverse as diabetes, AIDS, and schizophrenia.
+　　Previous disease-smelling systems have been big and difficult to use and 
+had limited capability.
+　　"We're making a small, inexpensive, and robust device to assess the same 
+things, anywhere. It could work in the field, at the mall, in the parking lot, 
+and at home," said Frank Bright, a chemist from the University at Buffalo.
+　　How it works
+　　While it's not clear whether the devices would be needed in parking lots, 
+the technology is remarkable.
+　　The electronic olfactory system, which looks nothing like a nose, will be 
+made up of sensors similar to receptors in our nasal passages. These sensors 
+will be triggered by molecules floating in the air. When a patient breathes into 
+the device, different molecules will trigger a different set of sensors to light 
+up. Bright and his research team can train the device, which is made of 
+artificial neurons mimicking a brain, to connect the pattern of lights with 
+particular diseases.
+　　Scientists will start the training by comparing samples of patients already 
+diagnosed with cancer. They'll search for similar patterns in the patients' 
+breath, so that in the future, when the device sees those patterns, it 
+recognizes cancer.
+　　The training will also involve teaching the machine to ignore everyday 
+smells like Listerine, cheeseburgers and breath mints.
+　　More sensitive
+　　Other disease sniffers have had only about 30 sensors. So far, Bright's 
+team has engineered about a 100 different sensors, which match up to all kinds 
+of molecules. Their goal is to produce a million.
+　　"The ability to create a library with more than a million different sensors 
+is pretty remarkable," Bright told LiveScience.
+　　He said prototypes should be available about a year from now.
+　　The device's portability, speed and cheap price tag should help doctors 
+diagnose diseases early. It could particularly improve the health of the elderly 
+and impoverished, people who often don't have access to routine health care, 
+Bright said. As well, doctors could use it to filter out possible diagnoses and 
+cut down on costly medical tests.
+　　"We're really thinking about early intervention," said Bright.
+　　美国的一个科研小组目前正在开发一种类似呼气测醉器的工具，这种超级灵敏的仪器就像一个“电子鼻子”，它可以在不久的将来替人体查找病因。
+　　据美国“生活科学”网站2月18日报道，“电子鼻子”并不是用来检测血液酒精浓度，或是检查你吃了多少洋葱和大蒜的，这种仪器将通过病人呼出的气体中所带有的特定化学模式来查找病因。研究人员将这些模式（即用于说明疾病或健康状况的生物标志）同多种疾病联系在一起，如糖尿病、艾滋病和精神分裂症等。
+　　真鼻子请教假鼻子：闻闻我得了啥病
+　　这个电子嗅觉系统中有很多传感器，是模仿人类鼻子内及呼吸道其他部位的接受器而制成的。这些传感器因漂浮于空气中的各种分子而受到刺激。当病人对着仪器呼吸时，不同的分子会激发不同的传感器组合指示灯亮起来。
+　　布莱特和他的科研小组还可以训练这种仪器，让它在碰到某些疾病时亮起相应的组合指示灯。他们将利用已确诊患有癌症的病人来训练这种仪器，尽可能的搜索癌症病患的呼吸模式，以便今后再遇到这种病患时能很快诊断出病因。当然，训练的过程还包括教机器识别并忽略一些日常气味，如李斯特防腐液、干酪肉饼以及薄荷糖的气味。
+　　电子嗅觉的图书馆：拥有百万传感器
+　　负责查询其他疾病的传感器只有30个左右。到目前为止，布莱特的研究小组总共已设计了约100个不同传感器，他们的目标是做出100万个。布莱特说，用超过100万个不同的传感器来创造一个图书馆的做法是非常令人振奋的，他预计这种仪器的样机将于一年内研制成功。
+　　布莱特介绍说，“电子鼻子”的灵活性、速度和经济实惠将帮助医生更快锁定病因。它还能改善人们，特别是老年人和贫困人口的健康状况，因为这部分人一般不可能定期去做体检，而利用这种仪器滤出病因还可以省去昂贵的检查费用。
+　　

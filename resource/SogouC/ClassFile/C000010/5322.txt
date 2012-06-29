@@ -1,0 +1,8 @@
+
+　　CNET科技资讯网4月17日国际报道 卡巴斯基实验室已经推出针对Symbian OS智能手机的杀毒软件。
+　　这个软件名为“Anti-Virus Mobile 2.0 ”，它能够阻止手机可疑程序的运行。
+　　公司表示，这款软件能够很好的保护手机短消息及彩信的安全。
+　　安装了Anti-Virus Mobile 2.0 的用户可疑通过“无线应用协议”（WAP ）或者“超文本传输协议”（HTTP）的方式下载卡巴斯基的病毒升级库。
+　　据悉，Anti-Virus Mobile 2.0 兼容Symbian 6.1 ，7.0s，8.0 ，8.1 OS以及Series 60 
+手机平台。
+　　卡巴斯基透露，第二个测试版本的Series 60 还将支持Symbian Series UIQ以及微软Windows Mobile versions 2003，5.0 手机平台。

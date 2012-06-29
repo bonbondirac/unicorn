@@ -1,0 +1,512 @@
+
+搜狐直播员: 各位网友大家好，北京时间4月30日8：00搜狐体育将为大家直播NBA季后赛雄鹿队主场迎战活塞队的比赛，敬请收看。 
+[0:0 ] 
+搜狐直播员: 由于雄鹿队在前两个客场的比赛均告负，因此回到主场的两场比赛非常关键 [0:0 ] 
+搜狐直播员: 如果这两个主场比赛如果输掉一场，将可能宣告季后赛将过早出局。 [0:0 ] 
+搜狐直播员: 因此雄鹿队回到主场后将全力拚博。 [0:0 ] 
+搜狐直播员: 不过活塞队是全联盟在常规赛中战绩最好的球队，想战胜对手，也是相当困难的。 [0:0 ] 
+搜狐直播员: 最终本场比赛将会如何呢？欢迎大家到时关注。 [0:0 ] 
+搜狐直播员: 各位网友上午好 [0:0 ] 
+搜狐直播员: 第一节比赛开始了 [0:0 ] 
+搜狐直播员: 本-华莱士和马格洛伊尔跳球 [0:0 ]
+SetCookie("sports007centLeft","2");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 福特得球进攻，西蒙森上篮球进 [2:0 ] 
+搜狐直播员: 马格洛伊尔抢球时犯规 [2:0 ]
+SetCookie("sports007centLeft","2");SetCookie("sports007centRight","1");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 比卢普斯技术罚球得分 [2:1 ] 
+搜狐直播员: 比卢普斯跳投不中，马格洛伊尔抢骊篮板球 [2:1 ]
+SetCookie("sports007centLeft","4");SetCookie("sports007centRight","1");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 福特传球，博格特扣篮球进 [4:1 ]
+SetCookie("sports007centLeft","4");SetCookie("sports007centRight","7");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 拉希德-华莱士跳投三分命中 [4:7 ] 
+搜狐直播员: 福特跳投不中 [4:7 ] 
+搜狐直播员: 福特跳投不中，博格特补篮也不中 [4:7 ] 
+搜狐直播员: 比卢普斯抢到篮板球 [4:7 ] 
+搜狐直播员: 博格特从汉密尔顿手里断球 [4:7 ]
+SetCookie("sports007centLeft","4");SetCookie("sports007centRight","9");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 拉希德-华莱士跳投球进 [4:9 ] 
+搜狐直播员: 博格特跳投不中，西蒙森抢到篮板球 [4:9 ]
+SetCookie("sports007centLeft","7");SetCookie("sports007centRight","9");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 西蒙森跳投三分球进 [7:9 ] 
+搜狐直播员: 汉密尔顿跳投不中 [7:9 ]
+SetCookie("sports007centLeft","9");SetCookie("sports007centRight","9");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 里德跳投得分 [9:9 ] 
+搜狐直播员: 普林斯跳投三分不中，里德抢到篮板球 [9:9 ] 
+搜狐直播员: 福特跳投不中，拉希德-华莱士抢到篮板球 [9:9 ]
+SetCookie("sports007centLeft","11");SetCookie("sports007centRight","12");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 汉密尔顿三分远投命中 [11:12 ] 
+搜狐直播员: 西蒙森跳投偏出 [11:12 ]
+SetCookie("sports007centLeft","11");SetCookie("sports007centRight","15");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 比卢普斯传球，拉希德-华莱士三分远投命中 [11:15 ] 
+搜狐直播员: 博格特上篮不中，比卢普斯抢到篮板球 [11:15 ] 
+搜狐直播员: 福特抢球时犯规 [11:15 ]
+SetCookie("sports007centLeft","11");SetCookie("sports007centRight","16");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 普林斯罚球第一罚球进 [11:16 ] 
+搜狐直播员: 雄鹿队叫了暂停 [11:16 ] 
+搜狐直播员: 第一节比赛还有6分03秒的时间 [11:16 ]
+SetCookie("sports007centLeft","14");SetCookie("sports007centRight","16");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 里德突破上篮球进，并造成本-华莱士犯规，加罚球命中 [14:16 ] 
+搜狐直播员: 本-华莱士跳投不中 [14:16 ] 
+搜狐直播员: 马格洛伊尔抢到后场篮板，华莱士防守犯规，马格洛伊尔罚球两罚全中 [14:18 ] 
+搜狐直播员: 西蒙森外线投中三分 [16:17 ] 
+搜狐直播员: 比卢普斯跳投不中，普林斯抢到前场篮板 [16:17 ] 
+搜狐直播员: 西蒙森防守时犯规 [16:17 ] 
+搜狐直播员: 普林斯跳投不中，福特篮板 [16:17 ] 
+搜狐直播员: 汉密尔顿防守时犯规 [16:17 ] 
+搜狐直播员: 里德跳投不中，马格洛伊尔抢到篮板球组织进攻 [16:17 ] 
+搜狐直播员: 马格洛伊尔突破上篮不中，里德篮板 [16:17 ]
+SetCookie("sports007centLeft","22");SetCookie("sports007centRight","19");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 汉密尔顿防守时犯规，里德走上了罚球线，两罚全中 [22:19 ] 
+搜狐直播员: 麦克戴斯助攻，汉密尔顿外线投中三分 [23:22 ] 
+搜狐直播员: 里德外线投三分球不中，比卢普斯抢到后场篮板 [23:22 ] 
+搜狐直播员: 埃文斯防守时犯规 [23:22 ] 
+搜狐直播员: 活塞队请求暂停 [23:22 ] 
+搜狐直播员: 雄鹿队换人，史密斯上场换下了马格洛伊尔 [23:22 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [23:22 ]
+SetCookie("sports007centLeft","23");SetCookie("sports007centRight","23");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 暂停后埃文斯走上了罚球线，两罚一中 [23:23 ] 
+搜狐直播员: 史密斯跳投不中，麦克戴斯篮板 [23:23 ]
+SetCookie("sports007centLeft","23");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 汉密尔顿突破上篮球进 [23:25 ] 
+搜狐直播员: 里德跳投不中，麦克戴斯篮板，埃文斯跳投球进 [23:27 ]
+SetCookie("sports007centLeft","23");SetCookie("sports007centRight","27");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","27");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 福特跳投不中，博格特抢到前场篮板上篮得手 [25:27 ] 
+搜狐直播员: 汉密尔顿跳投不中，福特篮板 [25:27 ]
+SetCookie("sports007centLeft","28");SetCookie("sports007centRight","27");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 福特突破上篮球进，并造成比卢普斯犯规，加罚球命中 [28:27 ] 
+搜狐直播员: 雄鹿队换人，贝尔上场换里德 [28:27 ] 
+搜狐直播员: 比卢普斯传球失误，福特断球打反击，西蒙森外线投三分球不中，麦克戴斯篮板 [28:27 ] 
+搜狐直播员: 华莱士跳投不中，史密斯在争抢篮板球时犯规 [28:27 ]
+SetCookie("sports007centLeft","30");SetCookie("sports007centRight","27");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 埃文斯防守犯规，史密斯罚球两罚全中 [30:27 ] 
+搜狐直播员: 第一节比赛结束，雄鹿队以30：27领先活塞队 
+[30:27 ] 
+搜狐直播员: 第二节比赛开始了 [30:27 ] 
+搜狐直播员: 汉密尔顿外线投三分球不中，活塞队篮板 [30:27 ] 
+搜狐直播员: 博格特防守时犯规 [30:27 ]
+SetCookie("sports007centLeft","30");SetCookie("sports007centRight","29");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 活塞队控球进攻，亨特跳投命中 [30:29 ] 
+搜狐直播员: 亨特防守时犯规 [30:29 ]
+SetCookie("sports007centLeft","31");SetCookie("sports007centRight","29");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 库科奇走上了罚球线，两罚一中 [31:29 ] 
+搜狐直播员: 拉希德-华莱士抢到后场篮板 [31:29 ] 
+搜狐直播员: 亨特外线投三分球不中 [31:29 ] 
+搜狐直播员: 史密斯抢球时犯规 [31:29 ]
+SetCookie("sports007centLeft","31");SetCookie("sports007centRight","31");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 活塞队控球进攻，亨特跳投球进 [31:31 ] 
+搜狐直播员: 贝尔外线投三分球不中，拉希德-华莱士抢到后场篮板 [31:31 ] 
+搜狐直播员: 麦克戴斯跳投不中，史密斯篮板 [31:31 ] 
+搜狐直播员: 库科奇传球失误，亨特断球打反击 [31:31 ]
+SetCookie("sports007centLeft","31");SetCookie("sports007centRight","33");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 普林斯突破扣篮球进 [31:33 ] 
+搜狐直播员: 雄鹿队请求暂停，第二节比赛还有8分56秒 [31:33 ] 
+搜狐直播员: 活塞队换人，德尔克上场换下了汉密尔顿 [31:33 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [31:33 ]
+SetCookie("sports007centLeft","34");SetCookie("sports007centRight","33");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 雄鹿队控球进攻，库科奇外线投中三分 [34:33 ] 
+搜狐直播员: 福特防守时犯规 [34:33 ] 
+搜狐直播员: 活塞队换人，本-华莱士上场换下了拉希德-华莱士 [34:33 ] 
+搜狐直播员: 雄鹿队换人，威廉姆斯上场换下了福特 [34:33 ]
+SetCookie("sports007centLeft","34");SetCookie("sports007centRight","34");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 库科奇防守时犯规，本-华莱士走上了罚球线，两罚一中 [34:34 ]
+SetCookie("sports007centLeft","36");SetCookie("sports007centRight","34");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 贝尔突破上篮球进 [36:34 ] 
+搜狐直播员: 马格洛伊尔防守犯规 [36:34 ] 
+搜狐直播员: 本-华莱士走上了罚球线，两罚不中 [36:34 ] 
+搜狐直播员: 库科奇抢到篮板球进攻 [36:34 ]
+SetCookie("sports007centLeft","38");SetCookie("sports007centRight","34");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 威廉姆斯跳投命中 [38:34 ] 
+搜狐直播员: 威廉姆斯防守时犯规 [38:34 ]
+SetCookie("sports007centLeft","38");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 亨特走上了罚球线，两罚全中 [38:36 ]
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 雄鹿队控球进攻，库科奇外线投中三分 [41:36 ]
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","38");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 麦克戴斯跳投命中 [41:38 ] 
+搜狐直播员: 库科奇外线投三分球不中，麦克戴斯抢到后场篮板 [41:38 ]
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","41");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 亨特外线投中三分 [41:41 ]
+SetCookie("sports007centLeft","43");SetCookie("sports007centRight","41");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 威廉姆斯中距离投篮球进 [43:41 ] 
+搜狐直播员: 亨特外线投三分球不中，库科奇抢到后场篮板 [43:41 ] 
+搜狐直播员: 马格洛伊尔跳投不中，本-华莱士抢到后场篮板 [43:41 ] 
+搜狐直播员: 威廉姆斯防守犯规 [43:41 ] 
+搜狐直播员: 比赛进入官方暂停时间 [43:41 ] 
+搜狐直播员: 第二节比赛还有5分20秒 [43:41 ] 
+搜狐直播员: 雄鹿队换人，西蒙森上场换下了史密斯 [43:41 ] 
+搜狐直播员: 里德上场换下了贝尔 [43:41 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [43:41 ]
+SetCookie("sports007centLeft","43");SetCookie("sports007centRight","43");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 麦克戴斯罚球两罚全中 [43:43 ]
+SetCookie("sports007centLeft","45");SetCookie("sports007centRight","43");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 雄鹿队控球进攻，威廉姆斯跳投球进 [45:43 ]
+SetCookie("sports007centLeft","45");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 麦克戴斯跳投回敬一球 [45:45 ]
+SetCookie("sports007centLeft","47");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 马格洛伊尔突破扣篮球进 [47:45 ] 
+搜狐直播员: 普林斯跳投不中，雄鹿队篮板 [47:45 ]
+SetCookie("sports007centLeft","50");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 威廉姆斯外线投中三分 [50:45 ] 
+搜狐直播员: 活塞队请求暂停，第二节比赛还有3分48秒 [50:45 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [50:45 ] 
+搜狐直播员: 活塞队换人，比卢普斯上场换下了德尔克 [50:45 ] 
+搜狐直播员: 汉密尔顿上场换下了亨特 [50:45 ] 
+搜狐直播员: 西蒙森跳投不中，华莱士抢到的场篮板 [50:45 ]
+SetCookie("sports007centLeft","50");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 麦克戴斯中距离投篮球进 [50:47 ] 
+搜狐直播员: 西蒙森突破上篮不中，马格洛伊尔抢到前场篮板补篮不中 [50:47 ] 
+搜狐直播员: 本-华莱士抢到后场篮板 [50:47 ] 
+搜狐直播员: 比卢普斯传球失误 [50:47 ] 
+搜狐直播员: 西蒙森断球打反击 [50:47 ]
+SetCookie("sports007centLeft","52");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 马格洛伊尔突破上篮球进，并造成麦克戴斯犯规 [52:47 ] 
+搜狐直播员: 马格洛伊尔加罚球不中 [52:47 ] 
+搜狐直播员: 麦克戴斯抢到篮板球进攻 [52:47 ]
+SetCookie("sports007centLeft","52");SetCookie("sports007centRight","50");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 比卢普斯外线投中三分 [52:50 ]
+SetCookie("sports007centLeft","54");SetCookie("sports007centRight","50");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 威廉姆斯溜底线投篮球进 [54:50 ] 
+搜狐直播员: 普林斯外线投三分球不中，西蒙森抢到后场篮板 [54:50 ]
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","50");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 里德外线投中三分 [57:50 ] 
+搜狐直播员: 普林斯传球失误，库科奇断球打反击 [57:50 ]
+SetCookie("sports007centLeft","59");SetCookie("sports007centRight","50");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 里德突破上篮再添两分 [59:50 ] 
+搜狐直播员: 活塞队请求暂停 [59:50 ] 
+搜狐直播员: 活塞队要了20秒短暂停 [59:50 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [59:50 ] 
+搜狐直播员: 拉希德-华莱士外线投三分球不中，麦克戴斯抢到前场篮板 [59:50 ] 
+搜狐直播员: 马格洛伊尔抢球时犯规 [59:50 ]
+SetCookie("sports007centLeft","59");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 麦克戴斯走上了罚球线，两罚一中 [59:51 ]
+SetCookie("sports007centLeft","59");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 马格洛伊尔防守犯规 [59:51 ]
+SetCookie("sports007centLeft","59");SetCookie("sports007centRight","54");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 活塞队发球进攻，比卢普斯左翼投中三分 [59:54 ]
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","54");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 威廉姆斯左翼投篮回敬一球 [61:54 ] 
+搜狐直播员: 拉希德-华莱士压哨球没能投中，第二节比赛结束，雄鹿队以61-54领先活塞队 [61:54 ] 
+搜狐直播员: 威廉姆斯得到13分，里德12分抢下2篮板，西蒙森10分2篮板 [61:54 ] 
+搜狐直播员: 活塞队拉希德-华莱士得到11分3个篮板，麦克戴斯得到9分抢下7个篮板，亨特9分，比卢普斯9分，汉密尔顿得到8分 
+[61:54 ] 
+搜狐直播员: 休息一会儿，再来看双方后两节的比赛 [61:54 ] 
+搜狐直播员: 第三节比赛开始了 [61:54 ] 
+搜狐直播员: 普林斯进攻犯规 [61:54 ] 
+搜狐直播员: 雄鹿队控球进攻，里德跳投不中，比卢普斯抢下后场篮板 [61:54 ] 
+搜狐直播员: 汉密尔顿跳投不中，福特抢到后场篮板 [61:54 ]
+SetCookie("sports007centLeft","63");SetCookie("sports007centRight","54");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 马格洛伊尔勾手上篮球进 [63:54 ] 
+搜狐直播员: 比卢普斯外线投三分球不中 [63:54 ] 
+搜狐直播员: 福特抢到后场篮板，西蒙森跳投不中，里德抢到前场篮板 [63:54 ] 
+搜狐直播员: 汉密尔顿防守时犯规 [63:54 ] 
+搜狐直播员: 博格特突破上篮不中，比卢普斯抢到后场篮板 [63:54 ] 
+搜狐直播员: 福特防守时犯规 [63:54 ] 
+搜狐直播员: 汉密尔顿跳投不中，福特篮板 [63:54 ] 
+搜狐直播员: 福特传球失误，球出界 [63:54 ] 
+搜狐直播员: 博格特防守时犯规 [63:54 ] 
+搜狐直播员: 拉希德-华莱士走上了罚球线，两罚不中 [63:54 ] 
+搜狐直播员: 博格特抢下后场篮板 [63:54 ] 
+搜狐直播员: 博格特传球失误，本-华莱士断球打反击 [63:54 ] 
+搜狐直播员: 比卢普斯外线投三分球不中，西蒙森抢到后场篮板 [63:54 ]
+SetCookie("sports007centLeft","65");SetCookie("sports007centRight","54");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 里德 中距离投篮球进 [65:54 ]
+SetCookie("sports007centLeft","65");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 拉希德-华莱士跳投回敬一球 [65:56 ]
+SetCookie("sports007centLeft","67");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","67");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 福特右翼投篮球进 [67:56 ] 
+搜狐直播员: 比卢普斯突破上篮不中，福特抢到后场篮板 [67:56 ]
+SetCookie("sports007centLeft","69");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 博格特突破上篮球进 [69:56 ] 
+搜狐直播员: 活塞队请求暂停，第三节比赛还有7分33秒 [69:56 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [69:56 ] 
+搜狐直播员: 拉希德-华莱士跳投不中，里德抢到后场篮板 [69:56 ] 
+搜狐直播员: 拉希德-华莱士防守时犯规 [69:56 ]
+SetCookie("sports007centLeft","72");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 里德外线投中三分 [72:56 ] 
+搜狐直播员: 汉密尔顿传球失误，福特断球打反击 [72:56 ] 
+搜狐直播员: 里德突破上篮球进 [72:56 ]
+SetCookie("sports007centLeft","72");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 拉希德-华莱士中距离投篮球进 [72:58 ]
+SetCookie("sports007centLeft","74");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 马格洛伊尔突破扣篮球进，并造成拉希德-华莱士犯规 [74:58 ] 
+搜狐直播员: 马格洛伊尔加罚球不中，里德抢到前场篮板 [74:58 ]
+SetCookie("sports007centLeft","76");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 马格洛伊尔勾手上篮球进 [76:58 ] 
+搜狐直播员: 雄鹿队今天打疯了，怎么打怎么有 [76:58 ]
+SetCookie("sports007centLeft","78");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","78");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 汉密尔顿跳投球进 [78:60 ]
+SetCookie("sports007centLeft","81");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 里德外线再次投中三分 [81:60 ] 
+搜狐直播员: 汉密尔顿跳投不中，马格洛伊尔抢到后场篮板 [81:60 ] 
+搜狐直播员: 雄鹿队换人，威廉姆斯上场换下了福特 [81:60 ] 
+搜狐直播员: 汉密尔顿防守时犯规 [81:60 ]
+SetCookie("sports007centLeft","82");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 汉密尔顿技术犯规，里德罚球命中 [82:60 ]
+SetCookie("sports007centLeft","84");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 里德走上了罚球线，两罚全中 [84:60 ] 
+搜狐直播员: 威廉姆斯防守犯规 [84:60 ]
+SetCookie("sports007centLeft","84");SetCookie("sports007centRight","62");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 比卢普斯罚球两罚全中 [84:62 ]
+SetCookie("sports007centLeft","84");SetCookie("sports007centRight","64");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 里德突破上篮球进 [84:64 ] 
+搜狐直播员: 比卢普斯左翼跳投回敬一球 [86:64 ]
+SetCookie("sports007centLeft","86");SetCookie("sports007centRight","64");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 里德跳投不中，拉希德-华莱士抢到后场篮板 [86:64 ] 
+搜狐直播员: 雄鹿队请求暂停，第三节比赛还有2分58秒 [86:64 ]
+SetCookie("sports007centLeft","86");SetCookie("sports007centRight","66");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 暂停前德尔克突破上篮球进 [86:66 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [86:66 ] 
+搜狐直播员: 里德突破上篮不中，比卢普斯抢到后场篮板 [86:66 ] 
+搜狐直播员: 比卢普斯传球失误，史密斯断球打反击 [86:66 ]
+SetCookie("sports007centLeft","88");SetCookie("sports007centRight","66");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 史密斯跳投球进 [88:66 ]
+SetCookie("sports007centLeft","88");SetCookie("sports007centRight","68");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 活塞队控球进攻，比卢普斯跳投球进 [88:68 ]
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","68");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","90");SetCookie("sports007centRight","68");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 威廉姆斯跳投命中 [90:68 ] 
+搜狐直播员: 里德防守时犯规 [90:68 ] 
+搜狐直播员: 雄鹿队换人，贝尔上场换下了里德 [90:68 ]
+SetCookie("sports007centLeft","90");SetCookie("sports007centRight","70");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 比卢普斯走上了罚球线，两罚全中 [90:70 ] 
+搜狐直播员: 博格特传球失误，德尔克断球打反击 [90:70 ] 
+搜狐直播员: 拉希德-华莱士进攻三秒违例 [90:70 ] 
+搜狐直播员: 贝尔传球失误，德尔克断球打反击 [90:70 ]
+SetCookie("sports007centLeft","90");SetCookie("sports007centRight","72");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 比卢普斯突破上篮球进 [90:72 ] 
+搜狐直播员: 贝尔传球再次失误，比卢普斯断球打反击 [90:72 ]
+SetCookie("sports007centLeft","90");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 麦克戴斯跳投球进 [90:74 ] 
+搜狐直播员: 西蒙森带球走步失误 [90:74 ] 
+搜狐直播员: 比卢普斯外线投三分球不中，西蒙森抢到后场篮板 [90:74 ] 
+搜狐直播员: 威廉姆斯外线投三分球不中 [90:74 ] 
+搜狐直播员: 第三节比赛结束，雄鹿队以90-74领先活塞队 
+[90:74 ] 
+搜狐直播员: 第四节比赛开始了 [90:74 ] 
+搜狐直播员: 西蒙森跳投不中，德尔克抢到后场篮板 [90:74 ] 
+搜狐直播员: 德尔克传球失误 [90:74 ] 
+搜狐直播员: 西蒙森断球打反击 [90:74 ]
+SetCookie("sports007centLeft","92");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 库科奇助攻，史密斯跳投命中 [92:74 ] 
+搜狐直播员: 比卢普斯外线投三分球不中 [92:74 ] 
+搜狐直播员: 麦克戴斯抢到前场篮板 [92:74 ] 
+搜狐直播员: 史密斯打手犯规 [92:74 ]
+SetCookie("sports007centLeft","92");SetCookie("sports007centRight","76");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 麦克戴斯走上了罚球线，两罚全中 [92:76 ] 
+搜狐直播员: 西蒙森传球失误，比卢普斯断球打反击 [92:76 ] 
+搜狐直播员: 麦克戴斯防守犯规 [92:76 ]
+SetCookie("sports007centLeft","94");SetCookie("sports007centRight","76");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 亨特防守犯规，史密斯罚球两罚全中 [94:78 ] 
+搜狐直播员: 史密斯防守犯规 [94:78 ] 
+搜狐直播员: 雄鹿队换人，福特上场换下了威廉姆斯 [94:78 ] 
+搜狐直播员: 贝尔防守犯规 [94:78 ]
+SetCookie("sports007centLeft","94");SetCookie("sports007centRight","79");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 比卢普斯罚球两罚一中 [94:79 ] 
+搜狐直播员: 史密斯抢到后场篮板，亨特防守时犯规 [94:79 ] 
+搜狐直播员: 雄鹿队控球进攻，里德跳投命中 [96:79 ]
+SetCookie("sports007centLeft","96");SetCookie("sports007centRight","79");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 史密斯防守犯规 [96:79 ] 
+搜狐直播员: 亨特外线投三分球不中 [96:79 ] 
+搜狐直播员: 麦克戴斯争抢篮板球时犯规 [96:79 ]
+SetCookie("sports007centLeft","98");SetCookie("sports007centRight","79");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 里德跳投命中 [98:79 ]
+SetCookie("sports007centLeft","98");SetCookie("sports007centRight","82");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 普林斯突破分球，亨特外线投中三分 [98:82 ]
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","82");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 里德突破上篮球进 [100:82 ] 
+搜狐直播员: 比卢普斯进攻犯规 [100:82 ] 
+搜狐直播员: 比赛进入官方暂停时间 [100:82 ] 
+搜狐直播员: 第四节比赛还有8分14秒 [100:82 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [100:82 ] 
+搜狐直播员: 库科奇传球失误 [100:82 ] 
+搜狐直播员: 活塞队换人，汉密尔顿上场换下 亨特 [100:82 ]
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","84");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 拉希德-华莱士跳投球进 [100:84 ] 
+搜狐直播员: 里德跳投不中，活塞队篮板 [100:84 ] 
+搜狐直播员: 史密斯防守时犯规 [100:84 ] 
+搜狐直播员: 比卢普斯外线投三分球不中，史密斯抢到后场篮板 [100:84 ] 
+搜狐直播员: 汉密尔顿防守犯规 [100:84 ]
+SetCookie("sports007centLeft","102");SetCookie("sports007centRight","84");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 福特罚球两罚全中 [102:84 ] 
+搜狐直播员: 雄鹿队换人，西蒙森上场换下了贝尔 [102:84 ] 
+搜狐直播员: 库科奇防守犯规 [102:84 ]
+SetCookie("sports007centLeft","102");SetCookie("sports007centRight","85");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 拉希德-华莱士走上了罚球线，两罚一中 [102:85 ]
+SetCookie("sports007centLeft","105");SetCookie("sports007centRight","85");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 库科奇外线投中三分 [105:85 ] 
+搜狐直播员: 汉密尔顿外线投三分球不中，拉希德-华莱士抢到前场篮板 [105:85 ] 
+搜狐直播员: 汉密尔顿跳投还是不中 [105:85 ] 
+搜狐直播员: 史密斯抢下后场篮板，汉密尔顿防守犯规 [105:85 ] 
+搜狐直播员: 雄鹿队请求暂停 [105:85 ] 
+搜狐直播员: 第四节比赛还有5分48秒 [105:85 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [105:85 ]
+SetCookie("sports007centLeft","107");SetCookie("sports007centRight","85");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 暂停后里德走上了罚球线，两罚全中 [107:85 ]
+SetCookie("sports007centLeft","110");SetCookie("sports007centRight","85");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","110");SetCookie("sports007centRight","85");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 里德外线投中三分 [110:85 ]
+SetCookie("sports007centLeft","110");SetCookie("sports007centRight","87");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 普林斯急停跳投命中 [110:87 ]
+SetCookie("sports007centLeft","112");SetCookie("sports007centRight","87");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 福特传球，史密斯跳投命中 [112:87 ] 
+搜狐直播员: 汉密尔顿跳投不中，史密斯抢下后场篮板 [112:87 ] 
+搜狐直播员: 西蒙森投篮遭普林斯封盖 [112:87 ] 
+搜狐直播员: 雄鹿队抢下前场篮板 [112:87 ] 
+搜狐直播员: 雄鹿队进攻24秒违例 [112:87 ]
+SetCookie("sports007centLeft","112");SetCookie("sports007centRight","89");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 比卢普斯突破上篮球进 [112:89 ]
+SetCookie("sports007centLeft","114");SetCookie("sports007centRight","89");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 库科奇助攻，里德上篮得分 [114:89 ] 
+搜狐直播员: 史密斯防守时犯规 [114:89 ] 
+搜狐直播员: 活塞队换人，亨特上场换下了普林斯 [114:89 ]
+SetCookie("sports007centLeft","114");SetCookie("sports007centRight","91");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 比卢普斯走上了罚球线，两罚全中 [114:91 ]
+SetCookie("sports007centLeft","116");SetCookie("sports007centRight","91");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 雄鹿队控球进攻，福特传球，史密斯突破上篮球进 [116:91 ]
+SetCookie("sports007centLeft","117");SetCookie("sports007centRight","91");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 并造成拉希德-华莱士犯规，加罚球命中 [117:91 ] 
+搜狐直播员: 活塞队换人，德尔克上场换下了拉希德-华莱士 [117:91 ] 
+搜狐直播员: 卡托上场换下了本-华莱士 [117:91 ] 
+搜狐直播员: 戴尔菲诺上场换下了比卢普斯 [117:91 ] 
+搜狐直播员: 埃文斯扣篮不中，卡托篮板 [117:91 ] 
+搜狐直播员: 库科奇防守时犯规 [117:91 ] 
+搜狐直播员: 活塞队请求暂停，第四节比赛还有2分53秒 [117:91 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [117:91 ] 
+搜狐直播员: 暂停后亨特罚球两罚不中 [117:91 ] 
+搜狐直播员: 雄鹿队换人，维尔斯科上场换下了福特 [117:91 ] 
+搜狐直播员: 约翰逊上场换下了西蒙森 [117:91 ] 
+搜狐直播员: 加德苏利奇上场换下了里德 [117:91 ]
+SetCookie("sports007centLeft","117");SetCookie("sports007centRight","93");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 亨特罚球两罚全中 [117:93 ] 
+搜狐直播员: 贝尔突破上篮不中。戴尔菲诺抢下后场篮板 [117:93 ]
+SetCookie("sports007centLeft","117");SetCookie("sports007centRight","95");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 埃文斯跳投命中 [117:95 ] 
+搜狐直播员: 贝尔防守犯规 [117:95 ]
+SetCookie("sports007centLeft","118");SetCookie("sports007centRight","95");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 德尔克罚球两罚一中 [118:95 ] 
+搜狐直播员: 约翰逊抢下篮板球组织进攻 [118:95 ] 
+搜狐直播员: 约翰逊跳投不中，德尔克抢下后场篮板 [118:95 ] 
+搜狐直播员: 埃文斯跳投球进 [119:96 ]
+SetCookie("sports007centLeft","119");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 约翰逊传球失误，戴尔菲诺断球打反击 [119:98 ] 
+搜狐直播员: 亨特外线投三分球不中 [119:98 ]
+SetCookie("sports007centLeft","122");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 威廉姆斯外线投中三分 [122:98 ]
+SetCookie("sports007centLeft","122");SetCookie("sports007centRight","101");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 德尔克外线投中三分 [122:101 ]
+SetCookie("sports007centLeft","122");SetCookie("sports007centRight","104");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 埃文斯外线投中三分 [122:104 ]
+SetCookie("sports007centLeft","124");SetCookie("sports007centRight","104");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 维尔斯科突破上篮球进 [124:104 ] 
+搜狐直播员: 全场 比赛结束，雄鹿队以124-104战胜活塞队 
+[124:104 ] 
+搜狐直播员: 里德拿下了全场最高分40分抢下5个篮板，威廉姆斯20分，史密斯得到13分抢下7个篮板，西蒙森和库科奇各得10分 
+[124:104 ] 
+搜狐直播员: 比卢普斯得到26分抢下6个篮板球6次助攻，拉希德-华莱士18分6篮板，亨特14分，麦克戴斯13分8个篮板，汉密尔顿10分 
+[124:104 ] 
+搜狐直播员: 本场比赛就为您直播到这儿，再见 [124:104 ]

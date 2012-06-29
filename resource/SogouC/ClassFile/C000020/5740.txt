@@ -1,0 +1,35 @@
+&nbsp;
+　　荆楚网消息(楚天金报) 记者 赵飞 通讯员 楚静 报道：考研复试国家线公布以后，如何应对各高校的复试？昨日，记者就此采访了武汉大学数学与统计学院院长、博士生导师陈化教授。
+　　陈教授表示，目前各高校根据各自实际情况，所规定的考研复试成绩在录取中的所占比重各不相同，有的占50%，有的占30%。但从往年情况看，不论比重如何，复试中总是侧重于对考生基础知识掌握程度的考查。招生单位在录取时，相对分数而言，更看重考生的可培养性，只要本科学习阶段专业知识过硬，具有创新意识，往往会在复试中占很大优势。因此，一些考生拿到全国统考成绩后，认为自己刚过线，便觉得录取无望而主动放弃参加复试，是非常错误的决定。另外，考生应多留心全国统考卷中的难点，在面试时，不排除专家组会提出相关问题的可能。
+　　同时值得考生注意的是，不少高校在研究生录取时，都加大了面试权重。考生在参加面试时，一定要保持仪表整洁、大方，讲话应注意相应的礼节，答题时应从容、冷静，争取给评委留下良好的第一印象，从而抓住“印象分”。
+　　&gt;&gt;上线的考生报道啦！&nbsp;&nbsp; 2005考研复试国家线&nbsp; 你认同这个分数吗？&lt;&lt;
+
+
+
+
+你认为今年的国家线合理吗？
+
+很合理  高了  低了  
+
+你能过线吗？
+
+没问题  压线。。。  我挂了  
+
+     
+var NewWin = null; function WinOpen(url) {if(!NewWin 
+
+|| NewWin.closed) 
+
+{NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function 
+
+LoadWin(url, name, width, height) {var 
+
+str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',widt
+
+h='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; 
+
+var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str 
+
++=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return 
+
+window.open(url,name,str); }

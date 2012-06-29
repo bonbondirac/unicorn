@@ -1,0 +1,164 @@
+
+　　【来源：重庆新东方学校】 【作者：陈智 黄老邪】
+　　四级考试中阅读理解的题型，以细节性题为主。然而，每次考试四篇文章中对主题题的考察还是有2-3道，如何把这4-6分得到是很多同学感到很棘手的问题。希望通过本文对四级文章主题的分析，同学们能对这种题型有更好的把握。
+　　通常，在做主题题时，大家一般会在文章首段和尾端找答案。或者说认为一般文章中心出现在第一段首。其实，这种情况在四级文章的几率顶多是三分之一。而文章主题出现的方式（即地点）起码有四种（此处所说的主题虽不一定就是主题题的答案，但其中必然含有整个文章所说的中心话题或主体词，或者可以看出作者的褒贬态度。把此句话读懂，在做主题题时可迅速排除至少2个答案）。在此分作细说：
+　　一、开门见山
+　　这种文章的主题最好找。一般来说，开头是个陈述句或者判断句。其后没有对其进行否定。最典型的要算下定义型的文章了。比如90年1月的关于海洋学以及97年1月关于身份的文章。开头都是对海洋学和身份进行了定义，其后展开论述。对于这类文章，大部分同学在做主题题时还是比较好把握的。不过，有两点要注意的地方：
+　　（一）首句作出陈述后，后面的论述有转折，但该转折不是对首句的否定。比如98年1月关于Violin 
+Prodigies(神童)那篇文章，第一段快到末尾处出现转折，但细心的读者会发现，这只是对一个例子内部的转折。不影响整个文章的态度。再如02年1月的老年学那篇文章以及02年6月的absent-mindedness那篇文章，也是这种情况。但一旦读出中心话题，主题题就很好做了，以这篇文章为例稍作说明。
+　　Most episodes of absent-mindedness - forgetting where you left something or 
+wondering why you just entered a room - are caused by a simple lack of 
+attention, says Schacter. "You're supposed to remember something, but you 
+haven't encoded it deeply."
+　　Encoding, Schacter explains, is a special way of paying attention to an 
+event that has a major impact on recalling it later. Failure to encode properly 
+can create annoying situations. If you put your mobile phone in a pocket, for 
+example, and don't pay attention to what you did because you're involved in a 
+conversation, you'll probably forget that the phone is in the jacket now hanging 
+in you wardrobe (衣柜). "Your memory itself isn't failing you," says Schacter. 
+"Rather, you didn't give your memory system the information it needed."
+　　Lack of interest can also lead to absent-mindedness. "A man who can recite 
+sports statistics from 30 years ago," says Zelinski, "may not remember to drop a 
+letter in the mailbox." Women have slightly better memories than men, possibly 
+because they pay more attention to their environment, and memory relies on just 
+that.
+　　Visual cues can help prevent absent-mindedness, says Schacter. "But be sure 
+the cue is clear and available," he cautions. If you want to remember to take a 
+medication (药物) with lunch, put the pill bottle on the kitchen table - don't 
+leave it in the medicine chest and write yourself a note that you keep in a 
+pocket.
+　　Another common episode of absent-mindedness: walking into a room and 
+wondering why you're there. Most likely, you were thinking about something else. 
+"Everyone does this from time to time," says Zelinski. The best thing to do is 
+to return to where you were before entering the room, and you'll likely 
+remember.
+　　第一句话就是文章主题所在，虽然第二句有转折，但并不是对第一句的否定。再看本文的最后一道题：
+　　30. What is the passage mainly about?
+　　A) The process of gradual memory loss.
+　　B) The causes of absent-mindedness.
+　　C) The impact of the environment on memory.
+　　D) A way if encoding and recalling.
+　　只要把开头的主题把握住了，这道题就很容易做出来了。
+　　（二）开头提出话题，其后展开论述，虽然答案不一定就是开头那句话的同义转述，但正确答案中一定要包含开头那句话中的关键词（或者叫主体词，一般在后文中反复出现）典型的例子就是99年一月关于广告及2000年6月关于美国人喜欢制服这两篇文章。
+　　二、抛砖引玉
+　　顾名思义，这种文章开头绝不会是文章中心。这类文章一般会在开头引入一个例子（这种例子的典型的特点是有具体时间人物事件）。然后，在通常情况下，对该例子进行转折，或者负评价（本质上也是转折，与转折分开论述是因两者表现形式不一样），或者是总结。
+　　（一）转折的基本标志诸如：however, yet, 
+but的出现一般标志着文章主题的出现。不过，还有一些转折大家庭里的词汇也是大家需要留意的，如：despite, still, in 
+fact.或者一些意义上表示转折的词如：surprisingly（如99年6月PR那篇文章），today（如2000年12月垃圾回收那篇文章）等等。这些转折一般出现在第一段末尾或者第二段开头。转折在抛砖引玉型文章中最常出现。
+　　（二）其次是负评价，虽然没有转折词，但是对前文进行的否定型的评价一样意味着文章中心的出现。最典型的一篇文章要算93年6月关于时尚这篇文章的论述了，第一段说了一大堆，第二段开头：Changing 
+fashions are nothing more than the intentional creation of waste 
+马上对时尚做了一个负评价。对整个文章的褒贬定了一个调。把这句话读懂，大意就可以有个了解了。在做题时甚至是细节题都可以直接排除一些正评价的选项了。
+　　（三）开头引一段例子，其后进行总结的文章诸如99年一月英国草盖屋一文第一段尾出现总结性评价。这类文章中心出现是以therefore, as a 
+result, so, thus, hence等词汇的出现为标志的。在此不一一赘述 
+。在做抛砖引玉型文章时也需注意以下一个特点或者叫做难点，即有些文章转折出现得靠后，这就要求同学们把文章重心的理解放在靠后出现的转折后面的内容。这种文章有以下几篇：97年6月份关于洛杉矶大地震（despite出现在第四段首），95年一月英国工作一文（but出现在第三段首），99年6月玩具一文（第三段首出现转折），02年1月道德下降一文（第三段首出现转折）02年6月心理压力一文（第三段首出现转折）。以97年6月份关于洛杉矶大地震这篇文章为例我们稍作分析。
+　　After the violent earthquake that shook Los Angeles in 1994, earthquake 
+scientists had good news to report: The damage and death toll（死亡人数）could have 
+been much worse.
+　　More than 60 people died in this earthquake. By comparison, as earthquake 
+of similar intensity that shook America in 1988 claimed 25,000 victims.
+　　Injuries and deaths were relatively less in Los Angeles because the quake 
+occurred at 4:31 a.m. on a holiday, when traffic was light on the city's 
+highways. In addition, changes made to the construction codes in Los Angeles 
+during the last 20 years have strengthened the city's buildings and highways, 
+making them more resistant to quakes.
+　　Despite the good new, civil engineers aren't resting on their successes. 
+Pinned to their drawing boards are blueprints（蓝图）for improved quake-resistant 
+buildings. The new designs should offer even greater security to cities where 
+earthquakes often take place.
+　　In the past, making structures quake-resistant meant firm yet flexible 
+materials, such as steel and wood, that bend without breaking. Later, people 
+tried to lift a building off its foundation, and insert rubber and steel between 
+the building and its foundation to reduce the impact of ground vibrations. The 
+most recent designs give buildings brains as well as concrete and steel 
+supports. Called smart buildings, the structures respond like living organisms 
+to an earthquake's vibrations. When the ground shakes and the building tips 
+forward, the computer would force the building to shift in the opposite 
+direction.
+　　The new smart structures could be very expensive to build. However, they 
+would save many lives and would be less likely to be damaged during 
+earthquakes.
+　　前三段全部在谈地震的影响及死亡人数少的原因，不知道文章中心在哪儿，第四段开头出现：Despite the good new, civil 
+engineers aren't resting on their successes.紧跟着出现文章主题：Pinned to their drawing 
+boards are blueprints（蓝图）for improved quake-resistant 
+buildings.所以在做主题题时关键在与把这一句读出来。这样在做最后一题的时候就不会出错了。
+　　25. The author's main purpose in writing the passage is to ________.
+　　A) compare the consequences of the earthquakes that occurred in the 
+U.S.
+　　B) encourage civil engineers to make more extensive use of computers
+　　C) outline the history of the development of quake-resistant building 
+materials
+　　D) report new developments in constructing quake-resistant buildings
+　　三、观点对照
+　　四级文章中还有这么一类，文章当中有两种观点形成对照。而这两种观点会以以下两种方式其中一种出现：
+　　（一）纵向(或叫新旧观点)对照，这种观点对照比较简单，开头出现以前的某种观点或者大众的一种普遍观点，典型的形式是：For some time past 
+it was widely accepted that….There is a popular belief among…People tend to be 
+impressed that…Most people would agree…In the old days…The way people 
+hold…文章中心出现的方式是转折或者对老观点的负评价或者现在新观点出现的地方，以but, however, in fact, nowadays, now, 
+fail, neglect等词的出现作为标志。这种找主题的方式较类似于抛砖引玉型文章，就不过多赘述。
+　　（二）横向比较，这种文章一般会有两种对抗型的观点，双方各执己见，分不出到底谁正确。对于这种文章，通常作者的评价即为文章主题。如97年1月关于心理学家对与奖励的不同观点一文，behaviorists和cognitive 
+researchers持不同观点，而作者对两者观点进行了综合，取两者观点有力之处。作者的结论自然就是文章主题所在。所以不需要注意这两派的观点。再如2002年1月关于未来汽车一文。
+　　Some pessimistic experts feel that the automobile is bound to fall into 
+disuse. They see a day in the not-too-distant future when all autos will be 
+abandoned and allowed to rust. Other authorities, however, think the auto is 
+here to stay. They hold that the car will remain a leading means of urban travel 
+in the foreseeable future.
+　　The motorcar will undoubtedly change significantly over the next 30 years. 
+It should become smaller, safer, and more economical, and should not be powered 
+by the gasoline engine. The car of the future should be far more pollution-free 
+than present types.
+　　Regardless of its power source, the auto in the future will still be the 
+main problem in urban traffic congestion (拥挤). One proposed solution to this 
+problem is the automated highway system.
+　　When the auto enters the highway system, a retractable (可伸缩的) arm will drop 
+from the auto and make contact with a rail, which is similar to those powering 
+subway trains electrically. Once attached to the rail, the car will become 
+electrically powered from the system, and control of the vehicle will pass to a 
+central computer. The computer will then monitor all of the car's movements.
+　　The driver will use a telephone to dial instructions about his destination 
+into the system. The computer will calculate the best route, and reserve space 
+for the car all the way to the correct exit from the highway. The driver will 
+then be free to relax and wait for the buzzer (蜂鸣器) that will warn him of his 
+coming exit. It is estimated that an automated highway will be able to handle 
+10,000 vehicles per hour, compared with the 1,500 to 2,000 vehicles that can be 
+carried by a present-day highway.
+　　有pessimistic experts认为将来汽车会被废止（悲观观点），而other 
+authorities则认为将会继续保持交通主导工具地位不变（过于乐观）。而二段开头作者认为未来３０年汽车将会有巨大改变这一观点才是真正主题所在（客观中含有乐观，变化地看待事物）。所以在做这篇文章主题题的变体—态度题时，只要把第二段开头作者的态度读出来，答案也就很好选了。说白了，对于对抗型观点，读者只需了解作者的观点就行。
+　　25. What is the author's attitude toward the future of autos?
+　　A) Enthusiastic. B) Pessimistic. C) Optimistic. D) Cautious.
+　　四、还有这么一些文章，主题并不是在文章开头几段出现而是在文章末尾，这种文章比较难。不过还是可以通过重点阅读文章末尾加以解决，姑且称其为曲径通幽型文章。
+　　这类文章一般在前面几段对中心话题的论述不清不楚，很难判断作者的褒贬态度，直到文章末尾才出现作者明确的态度或评价（且一般为负）。这种类型文章典型有一下几篇：９１年６月人工心脏一文，９７年６月冰箱一文，０３年６月对人们无意识出差错研究一文，以及０４年６月氢弹协会一文。以氢弹一文为例.
+　　As soon as it was revealed that a reporter for Progressive magazine had 
+discovered how to make a hydrogen bomb, a group offirearm ( 火器 ) fans formed the 
+National Hydrogen bomb Association, and they are now lobbying against any 
+legislation to stop Americans from owning one.
+　　"The Constitution," said the association's spokesman, "gives everyone the 
+right to own arms. It doesn't spell out what kind of arms. But since anyone can 
+now make a hydrogen bomb, the public should be able to buy it to protect 
+themselves."
+　　"Don't you think it's dangerous to have one in the house, particularly 
+where there are children around?"
+　　"The National Hydrogen bomb Association hopes to educate people in the safe 
+handling of this type of weapon. We are instructing owners to keep the bomb in a 
+locked cabinet and the fuse (导火索 ) separately in a drawer."
+　　"Some people consider the hydrogen bomb a very fatal weapon which could 
+kill somebody."
+　　The spokesman said, "Hydrogen bombs don't kill people - people kill people. 
+The bomb is for self-protection and it also has a deterrent effect. If somebody 
+knows you have a nuclear weapon in your house, they're going to think twice 
+about breaking in."
+　　"But those who want to ban the bomb for American citizens claim that ifyou 
+have one locked in the cabinet, with the fuse in a drawer, you would never be 
+able to assemble it in time to stop an intruder ( 侵入者）"
+　　"Another argument against allowing people to own a bomb is that at the 
+moment it is very expensive to build one. So what your association is backing is 
+a program which would allow the middle and upper classes to acquire a bomb while 
+poor people will be left defenseless with just handguns."
+　　这篇文章时而出现赞成氢弹的论调，时而出现反对 
+的论调。而文章又是以反对的论调结尾，因而可以判断出作者是反对私人拥有氢弹的（虽然问中没有明确出现作者态度，在此只能从文章末尾感知作者态度）。因而在做最后一道主题题（转变为态度题的考察）时就比较容易选择了。注意，不能选B或者D，这2项看似合理，但违背了四级文章对事不对人以及不能推理2 
+大原则。从出现频率上看，这类文章慢慢多了起来，所以应该多加留意。
+　　30. From the tone of the passage we know that the author is
+　　A) not serious about the private ownership of H-bombs
+　　B) concerned about the spread of nuclear weapons
+　　C) doubtful about the necessity of keeping H-bombs at home for safety
+　　D) unhappy with those who vote against the ownership of H-bombs
+　　本文此次集中探讨读四级文章时读出文章中心对于做主题题的指导意义，其实，读懂主题对于做细节题也极具指导作用，具体如何，请听下回分解。

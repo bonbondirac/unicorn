@@ -1,0 +1,19 @@
+　　网界网消息 Red Hat公司收购JBoss已经涉及到了未来的Jonas应用服务器问题，这是欧洲ObjectWeb开放源代码软件协会的最知名的项目。
+　　Red Hat是在三年前加入ObjectWeb联盟的，并帮助这个非商业集团获得了Jonas认证，并遵循了Sun公司的Java Enterprise Edition 1.4的规范。现在Red Hat发布了一个Jonas版本，作为Red Hat Application Server，这是其向Linux操作系统以外挺进的努力的一部分。
+　　在讨论收购JBoss的一个电话会议上，Red Hat总裁兼首席执行官 Matthew Szulik说：“公司已经在Jonas上做了大量的投资，我们希望这个项目继续下去。”
+　　分析家们却不乐观。英国分析公司Ovum的Laurent Lachal说，如果Red Hat试图得到JBoss服务器（这是最广泛使用的开源应用服务器），它就不太可能会把大量的资源也投入到Jonas中，或者说不可能为客户支持两套应用服务器。
+　　他说：“这对Jonas来说是坏消息。”
+　　据Lachal说，因为Jonas没有被广泛采用，这让Red Hat很失望。除了JBoss之外，它的主要开源竟争对手是由IBM支持的阿帕奇（Apache）组织的Geronimo应用服务器。
+　　Lachal预测Red Hat会对采用Jonas服务器的客户再支持一段时间，“但是它会尽快转移到JBoss服务器上。”
+　　Forrester Research的一位高级研究人员Michael Goulde也这么认为。
+　　他通过电子邮件回答道：“从长期来看，Red Hat支持某种与JBoss相竞争的东西是毫无意义的。”
+　　当然，这项交易对ObjectWeb也有一些好处，自2002年由法国电信SA、Bull SA和法国国家计算机科学控制研究所成立以来，ObjectWeb已发展到包括50多个软件项目。
+　　Goulde说Red Hat和JBoss可能仍然会向ObjectWeb求助其他中间件，来构建它们的软件栈。他说：“我可以确信Red Hat和JBoss将继续同ObjectWeb合作，因为ObjectWeb平台在几个方面是重要的。”
+　　ObjectWeb对此Red Hat收购JBoss感到乐观。
+　　该组织执行委员会的一位成员Francois Letellier说：“我认为这是非常好的消息”。因为Red Hat是ObjectWeb的一员，并且它的CTO Paul Cormier是ObjectWeb董事会成员，收购将为ObjectWeb和JBoss之间建立一个“特别沟通渠道”。
+　　Letellier说：“不管是在代码基础上还是在两个不同平台兼容性上，我们都可能致力于融合。”
+　　当然，他承认，Red Hat的成员性质并不会迫使它把任何JBoss代码捐赠给ObjectWeb。
+　　该组织表示一些大公司在生产领域正在使用Jonas，虽然最知名的公司，如法国电信，是ObjectWeb的创始者。
+　　Letellier说：“对Jonas来说Red Hat是一个销售渠道，但不是仅有的一个渠道。这些渠道在Red Hat之前已经存在，并可以作为生命个体与之并存，所以不管情况如何它将继续存在下去。”
+　　Lachal 还估计Jonas将不会消失，但是没有Red Hat的全面支持，它不可能被广泛采用。
+　　他说：“这不是技术的问题——这是谁能更好地把他们的产品推向市场并为人们接受的问题。”

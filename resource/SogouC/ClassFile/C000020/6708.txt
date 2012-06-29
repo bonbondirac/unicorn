@@ -1,0 +1,427 @@
+&nbsp;试题 
+　　全国各类成人高等学校招生考试新模式试卷
+　　(高起点升本 /专 科 )英 语
+
+
+
+
+成考(高升本 /专科)英 语新模式试卷难度调查
+
+1、你认为成考(高升本/专科)英语试题的难度如何？
+
+特别难，根本就不会做
+
+很难，大多部分不会做
+
+比较难，有一部分题不会做
+
+还可以不是特别难，只有少数的不会
+
+我不感觉难，感觉很简单  
+
+2、你认为成考(高升本/专科)英语试题哪个题型比较难？
+
+语音知识
+
+词汇与语法知识
+
+完形填空
+
+阅读理解
+
+补全对话
+
+书面表达  
+
+     
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }
+
+　　一、语音知识（共5小题；每题1.5分，共7.5分）
+　　在下列每组单词中，有一个单词的划线部分与其他单词的划线部分的读音不同。找出这个词。
+　　( )1.A.neighbour B.weight C.height D.eight
+　　( )2.A.manage B.many C.matter D.madam
+　　( )3.A.chicken B.childhood C.chemistry D.chairman
+　　( )4.A.greater B.heavier C.measure D.peasant
+　　( )5.A.enough B.rough C.tough D.though
+　　二、词汇与语法知识（共15小题；每题1.5分，共22.5分）
+　　从每小题的四个选项中，选出最佳的一项。
+　　（ ）6.The price of books is than before.
+　　&nbsp;&nbsp; A.more expensive B.very expensive
+　　&nbsp;&nbsp; C.much more higher D.much higher
+　 （ ）7.The wonderful time they have been looking forward to finally arrived.
+　　&nbsp;&nbsp;&nbsp; A.had B.have C.has D.having
+　 （ ）8.I demand that one of them there at once.
+　　&nbsp;&nbsp;&nbsp; A.would go B.goes C.must go D.go
+　　（ ）9.If ,the material will give an unpleasant smell.
+　　&nbsp;&nbsp;&nbsp;&nbsp; A.burning; out B.burned; out C.burned; off D.burning; off
+　　（ ）10.After he great efforts, he improved his English a lot.
+　&nbsp;&nbsp;&nbsp;&nbsp; 　A.made B.had C.did D.tried
+　　（ ）11.Compared with Marx, Engles was always well and neatly.
+　&nbsp;&nbsp;&nbsp;&nbsp; 　A.dressed B.wearing C.putting on D.dressing
+　　（ ）12.— my glasses?
+　　—Yes, I saw them on your bed a moment ago.
+　　&nbsp;&nbsp;&nbsp; A.Do you see B.Did you see
+　&nbsp;&nbsp;&nbsp; 　C.Would you see D.Have you seen
+　　（ ）13.There are only two assistants in that shop.
+　&nbsp;&nbsp;&nbsp;&nbsp; 　A.woman; shoe B.women; shoe
+　　&nbsp;&nbsp;&nbsp;&nbsp; C.woman; shoes D.women; shoes
+　　（ ）14. his dream of going to college will come true is uncertain.
+　&nbsp;&nbsp;&nbsp;&nbsp;　A.That B.Whether C.If D.Even if
+　　（ ）15.—Would you mind lending me a hand?
+　　— . I’m busy with my work right now.
+　&nbsp;&nbsp;&nbsp;　A.Never mind B.No, please C.Yes, I would D.Sorry
+　　（ ）16.When was it you met him in the library?
+　&nbsp;&nbsp; 　A.where B.that C.in which D.which
+　　( )17.I don’t think Mary and Sue before, ?
+　　&nbsp;&nbsp;A.have met; haven’t they B.have seen; do I
+　&nbsp; 　C.have met; have they D.have seen; don’t they
+　　（ ）18.—You are not going out today, are you?
+　　— . I need to go shopping.
+　&nbsp;&nbsp;　A.Yes, I am B.No, I’m not C.Yes, I’m not D.No, I am
+　　（ ）19.—Is there anything I can do for you?
+　　—I’d like to have these materials by ten o’clock.
+　&nbsp;&nbsp;　A.printed B.print C.printing D.to print
+　　（ ）20.Our plane from New York at 6 o’clock yesterday evening.
+　&nbsp; 　A.took off B.put off C.flew off D.left off
+　　三、完形填空（共20小题；每题1.5分，共30分）
+　　通读下面的短文，掌握其大意。然后从每小题的四个选项中选出可填入相应空白处的最佳选择。
+　　A rich man was camping alone on a hill. One day it began to rain and the rain made the 21 wet. At last he 22 make his way home. As he passed a beautiful house he 23 to look for rest.
+　　A lady in 24 walked past him with her 25 holding up high. Following her were her two pretty daughters. They stopped and stared at him 26 .
+　　“Who are you? We don’t like tramps (流浪) going 27 out home,” one of them shouted. “Go away at once,” cried the other.
+　　“But I’m not a 28 ,”said the man.“All want is food and stay 29 the night.”
+　　“How 30 you come here? Go away at once!” they 31 . “We don’t like your feet around our house. Go, go!”
+　　The man moved on and reached a 32 house. On entering it he saw a 33 preparing their supper. Though the light was 34 and the furniture poor, 35 made him feel warm and comfortable.
+　　“Can I have some food and 36 ?” he asked.
+　　“ 37 ,friend,” said the woman, 38 a little chair for him. “We’re going to 39 our supper. Come and 40 us.”
+　　The food was not enough but they shared it with the stranger. That night they let him sleep on their bed while they themselves used the stable (马厩). Early the next morning, the man said goodbye to them. Their kindness left him a memory full of thanks. When he reached home he quickly ordered lovely house to be excitement for the couple in the woods.
+　　( )21.A.clothes B.tent C.house D.ground
+　　( )22.A.had to B.must C.should D.would
+　　( )23.A.tried B.managed C.asked D.stopped
+　　( )24.A.sight B.cloth C.silk D.trouble
+　　( )25.A.nose B.head C.eyes D.hands
+　　( )26.A.curiously B.eagerly C.surprisingly D.angrily
+　　( )27.A.around B.over C.to D.at
+　　( )28.A.madman B.tramp C.thief D.stranger
+　　( )29.A.for B.up C.to D.in
+　　( )30.A.do B.can C.will D.dare
+　　( )31.A.explained B.continued C.repeated D.announced
+　　( )32.A.big B.small C.lovely D.dirty
+　　( )33.A.woman B.man C.person D.couple
+　　( )34.A.weak B.bright C.dark D.strong
+　　( )35.A.he B.she C.it D.which
+　　( )36.A.the night B.a while C.some time D.a day
+　　( )37.A.Certainly not B.Of course C.I’m sorry D.Not at all
+　　( )38.A.taking B.bringing C.giving D.pulling
+　　( )39.A.prepare B.cook C.buy D.have
+　　( )40.A.join B.help C.attend D.feed
+　　四、阅读理解（共15小题；每题3分，共45分）
+　　阅读下列短文，然后根据短文的内容从每小题的四个选项中选出最佳的一项。
+　　A
+　　Who composed (作曲) some of the most famous songs of the 20th century? The answer was Irving Berlin. He composed famous ones, like Alexander’s Rag Time Band and White Christmas. There is a well-known story about the famous British Prime Minister, Winston Churchill(丘吉尔首相)， who read in a paper that Mr. Berlin was in London, so he asked his assistant to invite the great man to lunch. Over lunch, Mr. Churchill asked question after question. Which party would win the next American election? Who would be the next president of the USA? What were the papers saying? What did Mr. Berlin think of party politics in Britain? Which country had the better political system, Britain or America? Whose system did Mr. Berlin prefer? Mr. Churchill was very disappointed with Mr. Berlin’s answer. Mr. Berlin didn’t have strong political opinions, and Mr. Churchill’s assistant had invited the wrong Mr.Berlin. Not the famous philosopher, Isaiah Berlin, but Irving Berlin, the song-writer instead!
+　　( )41.Who made the mistake in the passage?
+　　A.Irving Berlin.B.Isaiah Berlin.
+　　C.Mr. Churchill. D.The newspaper reporter.
+　　( )42.If Mr. Churchill had asked about , Mr. Berlin’s answer would have been satisfied.
+　　A.how to enjoy the dinner
+　　B.how to appreciate White Christmas
+　　C.how to think of the future of the world
+　　D.which paper had a good effect on people
+　　( )43.We may know from the passage that Mr. Irving Berlin was
+　　A.a musician B.a politician
+　　C.good at asking questions D.judging people very correctly
+　　( )44.Which of the following can we draw from the passage?
+　　A.In our life we should be able to differ different people.
+　　B.Great people never make mistakes.
+　　C.Mr. Churchill didn’t like American system.
+　　D.Irving Berlin was an American.
+　　B
+　　People live with noises all of their lives. A place may seem quite at first, but sounds soon come through. During a quiet right at home, you may hear the whir (声音） of a refrigerator motor or the heating system. Nature’s noise usually bother us less than people’s noises. Even in a natural quiet spot one hears birds or animal noises or perhaps the wind.Weather is sometimes very noisy. Noise is everywhere.Noise can travel a long distance. The noise of power lines can be heard for up to two miles. The buzz of a chain saw is heard for up to five miles. If you live near a freeway, you know that mad noise can travel from eight to ten miles.
+　　Ways in which people can escape unwanted noise include insulation (隔离), substitution (代替物）, and selective listening. Various types of insulation can create soundproof (隔音） environments when needed. Insulation in homes protects not only against heat and cold, but against outside noise as well. Curtains, for example, in a home can soften noise.
+　　Music can cover up less attractive noises by a substituting one sound for another. Selective listening can provide escape from noise. When a person does something attentively, the sound seems to disappear. A train that passes on a regular schedule may hardly be noticed after its first rumbling journey.
+　　It is fortunate that people have ways to reduce the effects of noise although noise will probably not decrease. Silence will become even more rare.
+　　( )45.Which of the following states a FACT?
+　　A.People’s noises usually bother us less than nature’s noises.
+　　B.Home is a place without noise.
+　　C.It is unfortunate that people have no ways to control the noise.
+　　D.Insulation is one way to escape unwanted noise.
+　　( )46.Which of these sentences gives the best proof for “Noise can travel a long distance.”?
+　　A.Curtains can soften noise.
+　　B.The noise power lines can be heard for up to two miles.
+　　C.A train’s noise may hardly be noticed.
+　　D.During a quiet night at home, you may hear the whir of a refrigerator motor heating system.
+　　( )47.Ron’s family is building a house about two miles from a freeway, what can they do to make their home a quieter place?
+　　A.Set up a power music system.
+　　B.Use chain saws to cut the noise.
+　　C.Use as much insulation as possible.
+　　D.Pretend the freeway isn’t there.
+　　( )48.The topic sentence of the first paragraph probably is “ ”.
+　　A.Nature’s noises bother us
+　　B.People live with noise all of their lives
+　　C.Noise is everywhere
+　　D.People can control the noise
+　　C
+　　Eric liked to save pennies. He saved pennies from jobs for his mother, and gifts from relatives. Whenever his grandfather came to visit, he told Eric that he could have all the pennies in his pocket. Grandpa always had quite a few. He filled a small box with pennies. Then he put some into an empty bottle. The bottle was soon full of pennies, so he started another one.
+　　When his uncle came to visit, Uncle Alan said, “What are you going to do with all those pennies, Eric? A penny doesn’t buy much these days. Maybe you should start a collection.”
+　　Uncle Alan took him to a store, and they bought two books. One book had little spaces for pennies made in different years. The other one told how much money a coin dealer would pay for rare pennies. Eric was amazed that a penny sometimes was worth much more than one cent.
+　　“Let’s look through your pennies and see what you have here,” Uncle Alan said.
+　　They looked at the dates on the pennies and sorted them into piles by the years in which the pennies were made. Eric then chose the best one from each year to put into his collection book. He soon filled up most of the spaces with pennies.
+　　One penny, however, was different. It was one Eric had found in his own backyard under a big bush. It had been there for a long, long time. He checked the date on the penny, and then looked into the book that told the value of pennies.
+　　“Thirty dollars,” the book said! Not many pennies had been made that year, so each one was rare.
+　　“Well, what are you going to do, Eric?” his uncle asked.“Are you going to sell it so that you can have a lot of money?”
+　　Eric thought of all the things he could buy with that much money. Then he said, “No, I would rather keep the penny as my own.”
+　　( )49.What did Eric decide to do with the valuable penny he found?
+　　A.He sold it for thirty dollars.
+　　B.He kept it so he could enjoy owning something so rare.
+　　C.He bought his family a treat at the store.
+　　D.He gave it to his grandpa for helping him save pennies.
+　　( )50.Grandpa always had quite a few pennies in his pockets when he came to visit Eric’s family because .
+　　A.he knew his grandson liked pennies
+　　B.he was a rich man, so he could give money away
+　　C.pennies do not buy much these days
+　　D.he wanted to play a trick on Eric so that he could make fun of him
+　　( )51.What will probably happen in the future if Eric’s special penny is worth thirty dollars now?
+　　A.The value will increase because collectors will want it more when it is older.
+　　B.People will not want it in the future, so the value will go down.
+　　C.Eric will not take very good care of it and will probably lose it.
+　　D.Grandpa will give it to one of his other grandsons.
+　　( )52.A penny that is rare would be of greater value than one from a year in which many pennies are easy to get because .
+　　A.collectors want to fill their books
+　　B.the value of pennies always rises
+　　C.there are not enough pennies for everyone who wants to own one
+　　D.people want to have something that belongs to someone else
+　　D
+　　There are many stereotypes (定型）about the character of people in various parts of the United States. In the Northeast and Midwest, people are said to be closed and private (私有的，秘密的). In the South and West, however, they are often thought of as being more open and hospitable (好客). Ask someone from St. Louis where the nearest sandwich shop is, and he or she will politely give you directions. A New Yorker might eye you at first and after deciding it is safe to talk to you, might give a rather unexpected explanation. A person from Georgia might be very kind about directing you and even suggest some different places to eat. A Texan just might take you to the place and treat you to lunch.
+　　American stereotypes are abundant. New Englanders are often thought of as being friendly and helpful. Southerners are known for their hospitality and warmth. People from the western part of the United States are often considered very outgoing. These differences in character can be traced to different factors such as climate, living conditions, and historical development.
+　　When traveling from place to place, Americans themselves are often surprised at the differing degrees of friendliness in the United States.
+　　( )53.The main idea of the passage is .
+　　&nbsp;&nbsp; A.even Americans are surprised at the big differences among themselves
+　　&nbsp;&nbsp; B.there are many differences in character in different parts of the USA
+　　&nbsp;&nbsp; C.there are many reasons for the differences
+　&nbsp;&nbsp; 　D.stereotypes about people are not necessarily true
+　　( )54.Which of the following is true according to the passage?
+　&nbsp;&nbsp; 　A.New Yorkers are usually open with strangers.
+　&nbsp;&nbsp; 　B.People from the South are usually considered good hosts.
+　&nbsp;&nbsp; 　C.The friendliest Americans travel from place to place.
+　&nbsp;&nbsp; 　D.Different parts have different customs and habits.
+　　( )55.The differences lie in the following except of the parts.
+　&nbsp;&nbsp; 　A.the weather B.the history
+　&nbsp;&nbsp; 　C.geography D.the names
+　　五、补全对话（共5句；每句满分为3分，共15分）
+　　根据中文提示，将对话中缺少的内容写在线上。这些句子必须符合英语表达习惯。打句号的地方，用陈述句；打问号的地方，用疑问句。
+　　Policeman:What’s going on here?
+　　Man: You mean, 56 ? Well, I’m trying to get out of the window and Fred is helping me.
+　　Policeman: 57 ?
+　　Man: Well, 58 . Come on, Fred, we are wasting time.
+　　Policeman:Just a minute you two. 59 . This isn’t your house, is it?
+　　Man: No, it’s my brothers. 60 .
+　　Policeman:Is he at home?
+　　Man: I’m afraid not. He’s in prison for house breaking at the moment.
+　　六、书面表达(满分30分)
+　　你的美国朋友Morly写信问你有关中国的体育运动，你回信给她做介绍。内容如下：
+　　1.对运动的认识：运动很重要，是保健的最好方式，因此运动很普及；
+　　2.人们的运动方式：
+　　(1)老年人早晨做气功（Qigong）
+　　(2)中年人晚上跳舞；
+　　(3)青年人游泳、滑冰等；
+　　3.运动形式：
+　　最普遍的运动是乒乓球；
+　　其他有篮球、排球、足球、羽毛球（badminton）等。
+　　注意：(1)不要遗漏内容，且叙述要连贯；
+　　(2)写信人的地址可自编；
+　　(3)词数为100左右。答案 
+　　参考答案及解析
+　　一、 语音知识 (共5小题；每题1.5分，共7.5分)
+　　1.［答案］ C
+　　【解析】 字母组合eigh在C项height中读/ａｉ/，而在A、B、D三项中均读/ｅｉ/。
+　　2.［答案］ B
+　　【解析】 元音字母a在B项many中读/ｅ/，而在A、C、D三项中均读/&aelig;/。
+　　3.［答案］ C
+　　【解析】 辅音字母组合ch在C项chemistry中读/ｋ/，而在A、B、D三项中均读/ｔ&#402;/。
+　　4.［答案］ A
+　　【解析】 元音字母组合ea在A项greater中读/ｅｉ/，而在B、C、D三项中均读/ｅ/。
+　　5.［答案］ D
+　　【解析】 字母组合ough在D项though中读/&#601;ｕ/，而在A、B、C三项中均读/ｆ/。
+　　二、 词汇与语法知识 (共15小题；每题1.5分，共22.5分)
+　　6.［答案］ D
+　　［翻译］ 书的价格比以前更高了。
+　　〖考点〗 词语搭配。
+　　【解析】 “价格”的高或低用high或low，“东西”的贵或便宜，用expensive或cheap，A、B两项用词不当。C项中的more和higher都是比较级，不能连用，只能取其一，故选D项。
+　　7.［答案］ C
+　　［翻译］ 他们一直期待的好时光终于来到了。
+　　〖考点〗 谓语动词。
+　　【解析】 此句中they have been looking forward to为定语从句，修饰本句的主语the wonderful time，空白处应为time后的谓语，可排除B、D两项。根据have been looking 的提示，此处应为现在完成时。
+　　8.［答案］ D
+　　［翻译］ 我要求他们中的一个马上去那里。
+　　〖考点〗 句法结构。
+　　【解析】 在demand, order, insist, suggest等动词后的宾语从句中，谓语应用虚拟语气，用should+原形动词，或省去should只用原形动词。
+　　9.［答案］ C
+　　［翻译］ 这种材料如果被烧掉，将会发出难闻的气味。
+　　〖考点〗 词语搭配。
+　　【解析】 句中“材料”与“烧掉”之间为被动关系，用过去分词，if burned=if it is burne
+　　d。表示“发出”、“放出”应用give off。
+　　10.［答案］ A
+　　［翻译］ 在做出巨大努力之后，他大大提高了他的英语水平。
+　　〖考点〗 惯用短语。
+　　【解析】 表示“尽力”，可用make an effort, make great efforts, do one’s best或try one’s best。
+　　11.［答案］ A
+　　［翻译］ 与马克思相比，恩格斯总是衣着整洁。
+　　〖考点〗 词义辨析。
+　　【解析】 dress, wear, put on都表“穿”。dress指“给人穿”，人作主语时，多用被动式，即somebody be dressed; wear表示“穿着”，是一种状态；put on表示“穿上”，指一种动作，二词后都接“衣物”。若选B、C两项，其后缺少宾语，而D项dressing后，必用“人”作宾语。
+　　12.［答案］ D
+　　［翻译］ “你看见我的眼镜了吗?”“是的，我刚才看见它在你床上。”
+　　〖考点〗 谓语动词。
+　　【解析】 从答句中的saw推断，A、C两项的时态不对。问句中无具体的地点或时间，应指到目前为止见过没有，应用现在完成时态。
+　　13.［答案］ B
+　　［翻译］ 在那家鞋店里只有两个女售货员。
+　　〖考点〗 词语搭配。
+　　【解析】 有些复数形式的合成名词(尤其指人时)，其中的两个名词都要用复数，如men professors男教授；women doctors女医生，但由于其中第一个名词起形容词作用，多数情况下只用单数，如bus stops, school teachers, nurse schools, book shops。
+　　14.［答案］ B
+　　［翻译］ 他上大学的梦想是否能实现还不确定。
+　　〖考点〗 句法结构。
+　　【解析】 此句考查主语从句。从句中uncertain判断，此处的连词，不仅引导主语从句，而且还有“是否”的意思。A项与uncertain矛盾；D项引导状语从句，意思为“即使”。引导主语从句，尤其在句首表“是否”，不用if。
+　　15.［答案］ D
+　　［翻译］ “你帮我一把介意不介意?”“对不起，我现在正忙于工作。”
+　　〖考点〗 交际用语。
+　　【解析】 “Would you mind...?”的回答，表示“不介意”用“no”来回答，如表示“介意”，不能用Yes回答。A项never mind，表示给对方的安慰，译成“没关系”，“别在意”。B项本身错误，多用No，thanks.表否定，用Yes, please.表肯定。C项的回答生硬，没有礼貌，不是英语的习惯。
+　　16.［答案］ B
+　　［翻译］ 你什么时候在图书馆见到他的。
+　　〖考点〗 句法结构。
+　　【解析】 此题考查强调句，其句型为It is/was+被强调部分+that/who...。“when”为时间状语，是本句的被强调部分。注意，强调时间，后面的连词不用when，强调地点时，也不用where,除强调人时用who/whom,其他都用that。
+　　17.［答案］ C
+　　［翻译］ 我想玛丽和苏过去没见过面，对吗?
+　　〖考点〗 句法结构。
+　　【解析】 第一空“已见过”用have met较妥，由于have seen后多接宾语。第二空为反意疑问句。当I don’t think后接宾语从句时，为转移否定，实际否定在宾语从句，故反问时应用肯定式。
+　　18.［答案］ A
+　　［翻译］ “你不准备外出，对吗?”“不，我要去商店。”
+　　〖考点〗 交际用语。
+　　【解析】 此句考查对否定句的反意疑问句的回答。注意：回答时要排除汉语的干扰，用Yes+肯定或No+否定。C、D两项本身是错误的。A项译为“不，我外出”。B项译为“对，我不外出”。根据后句中need to go shopping，应选A。
+　　19.［答案］ A
+　　［翻译］ “我可以帮你什么忙吗?”“我想让材料在10点前印刷出来。”
+　　〖考点〗 非谓语动词。
+　　【解析】 have表示“使”，“让”时，后接复合宾语。如宾语与补语之间为被动关系，应用过去分词。D项本身错误，B、C两项表主动关系。
+　　20.［答案］ A
+　　［翻译］ 我们的班机昨天晚上6点从纽约起飞。
+　　〖考点〗 词语辨析。
+　　【解析】 A项take off “起飞”；B项put off “延期”；C项指“飞离”，但flew off from用法不对；D项指“离去”，但“离开纽约”应说left New York。
+　　三、 完形填空 (共20小题；每题1.5分，共30分)
+　　21.［答案］ B
+　　〖考点〗 逻辑推理。
+　　【解析】 从第一句中的关键词camping(宿营，野营)，可推断天下起雨，把帐篷打湿了。应选择B项tent(帐篷)为正确答案。
+　　22.［答案］ A
+　　〖考点〗 词义辨析。
+　　【解析】 C项should意为“应该”，用于表示道义上的责任，如：You shouldn’t tell lies.你不应该撒谎；D项would意为“总是，老是”，用于描述以往重复做的行为，如：We would often go to the cinema together.我们以前常一起看电影；B项must意为“必须”，用于现在时。只有A项had to表示必须的过去式，如：I had to leave early yesterday.昨天我必须提早离开。故A项had to为正确答案。
+　　23.［答案］ D
+　　〖考点〗 词义辨析。
+　　【解析】 本句的意思是：当这位富人路过一个漂亮的房子时，他停了下来想休息一下。从句意可判定D项stopped为正确答案，其他选项与句意不符。
+　　24.［答案］ C
+　　〖考点〗 词语搭配。
+　　【解析】 介词in在这里意为“穿着(wearing something)”，如：men in dark suits一位穿深色衣服的男士。本句A lady in silk...意为“一位穿丝绸衣服的太太……”。
+　　25.［答案］ B
+　　〖考点〗 词语搭配。
+　　【解析】 本句的意思是：这位穿丝绸衣服的太太经过他身边时高高地昂起头。词组hold up意为“使(身体某一部分)保持某种状态”，如：They held their heads up.他们昂起头。
+　　26.［答案］ D
+　　〖考点〗 逻辑推理。
+　　【解析】 从下文的“We don’t like tramps...”，“go away at once，”可判断D项angrily为正确答案，完全符合题目的要求。
+　　27.［答案］ A
+　　〖考点〗 词语搭配。
+　　【解析】 词组go around等于go round,意为“四处走动，到处走走”。本句的意思是：我们不喜欢离家到处走动的流浪者。B项go over意为“复习，检查”；C项go to后跟some place；D项go at没有这种搭配。
+　　28.［答案］ B
+　　〖考点〗 逻辑推理。
+　　【解析】 太太的女儿说：“We don’t like tramps...”，这位富人肯定会说：“But I’m not a tramp.”故B项tramp为正确答案。
+　　29.［答案］ A
+　　〖考点〗 词语搭配。
+　　【解析】 在这里stay为名词，意为“逗留，暂住”，固定搭配stay in some place for some time意为“在某地逗留一段时间”。本句的意思是：我所有的要求就是得到食物和留宿一夜。
+　　30.［答案］ D
+　　〖考点〗 词语搭配。
+　　【解析】 How dare you...意为“你怎么敢……”，用于气愤地指责某人做了某事，如：How dare you take my car without asking me?你怎么竟敢不问我就用我的车?
+　　31.［答案］ C
+　　〖考点〗 逻辑推理。
+　　【解析】 前面已出现过“Go away at once.”现在又出现了“Go away at once.”故选择C项repeated(重复)为正确答案是合乎情理的。
+　　32.［答案］ B
+　　〖考点〗 逻辑推理。
+　　【解析】 从下一句中“a couple”和后文中的描写，可以判定他们住的是一个小房子(a small house)，而不是big, lovely或dirty的房子。
+　　33.［答案］ D
+　　〖考点〗 语法结构。
+　　【解析】 从本句中的...preparing their supper可判定空格处应填写名词的复数，可排除A、B、C三项，故选择D项couple(一对夫妇)为正确答案。
+　　34.［答案］ A
+　　〖考点〗 语法结构。
+　　【解析】 Though引导的从句为让步状语从句，其内容应和主句的内容相反。主句中有warm and comfortable,所以从句中应填weak，才能和主句相匹配。
+　　35.［答案］ C
+　　〖考点〗 语法结构。
+　　【解析】 空格处的句子是主语从句，选项A和B作主语显然从意义上说不通，D项which引导定语从句，从结构来讲是错误的，只有C项it为正确答案。
+　　36.［答案］ A
+　　〖考点〗 逻辑推理。
+　　【解析】 通过上下文可知道：这位富人只想得到食物和留宿一夜，“All want is food and stay for the night.”可判定空格处应选A项the night。
+　　37.［答案］ B
+　　〖考点〗 逻辑推理。
+　　【解析】 the woman对富人请求的应答是肯定的，并用了friend一词，所以正确选项应是Of course。其他选项都是否定的应答。
+　　38.［答案］ B
+　　〖考点〗 语法结构。
+　　【解析】 bring something for somebody是一英语的常用句型，意为“给某人带来某物”。如：I’ve brought a present for you.我给你带来了一份礼物。本句中bringing a little chair for him意思是：给他拿来一个小椅子。
+　　39.［答案］ D
+　　〖考点〗 词语搭配。
+　　【解析】 have a meal (breakfast, lunch, supper...)是一固定搭配，意为“吃饭(早饭、午饭、晚饭……)”，如：I had breakfast at seven o’clock.我七点钟吃早餐。
+　　40.［答案］ A
+　　〖考点〗 词义辨析。
+　　【解析】 本句的意思是：过来咱们一起吃饭。join意为“会合，相聚”(to come together with someone)，如：Won’t you join us for a drink?你来和我们一起喝杯酒好吗?A项join为正确答案；B、C、D三项和句子的意思不相符。
+　　四、 阅读理解 (共15小题；每题3分，共45分)
+　　41.［答案］ C
+　　【解析】 本题为推理判断题。通过全文可知道英国首相Mr. Churchill邀请美国的音乐家Irving Berlin,并询问了这位作曲家许多政治问题。Mr. Berlin didn’t have strong political opinions，使得Mr. Churchill was very disappointed with Mr. Berlin’s answer。这一切过错当然是Mr. Churchill,一位音乐家为什么会知道那么多的政治问题呢?他能够做出那么多著名的歌曲就够了。
+　　42.［答案］ B
+　　【解析】 本题为事实细节题。从文中知道美国音乐家Irving Berlin composed famous ones, like Alexander’s Rag Time Band and White Christmas。如果Mr. Churchill问到如何欣赏White Christmas，这位音乐家的回答肯定令Mr. Churchill满意。
+　　43.［答案］ A
+　　【解析】 本题为事实细节题。文章的第二句已经清楚表明Mr. Irving Berlin创作了许多著名的曲子。像Alexander’s Rag Time Band和White Christmas等。他肯定是一位音乐家。
+　　44.［答案］ D
+　　【解析】 本题为推理判断题。通过文中Mr. Churchill asked question after question,如：哪个党将赢得下一届美国竞选的胜利?谁将出任美国总统?哪一个国家的政治制度更好些，是英国还是美国?可判定Mr. Irving Berlin was an American。
+　　【解析】 本题为事实细节题。从文章第二段的描述中可知道：Various types of insulation can create soundproof environments when needed(各种各样的隔离可以产生我们所需要的隔音环境)。所以选项D. Insulation is one way to escape unwanted noise.为正确答案。
+　　46.［答案］ B
+　　【解析】 本题为事实细节题。本文第一段的后半段就论述了：Noise can travel a long distance。并举出各种噪声所传播的距离:The noise power lines can be heard for up to two miles.动力线的噪声传播的距离长达二英里。所以B项为正确答案。
+　　47.［答案］ C
+　　【解析】 本题为推理判断题。从文中所提供的信息：If you live near a freeway, you know that mad noise can travel from eight to ten miles,可知道高速公路产生的噪声可传播8～10英里。罗恩一家(Ron’s family)要在离高速公路大约两英里的地方建造房子，并且有一个清静的环境，根据文章第二段所提供的隔音方法，只有C项use as much insultation as possible才是最好的选择。
+　　48.［答案］ B
+　　【解析】 本题为主旨大意题。本文第一段的主题句(the topic sentence)就是本题的第一句话：People live with noise all of their lives(人们是伴随着噪声过他们的生活的)。所以B项为正确答案，而A、C、D选项都是B项主题句的引申和细节。
+　　49.［答案］ B
+　　【解析】 本题为事实细节题。从文章的最后一句话Then he said, “No, I would rather keep the penny as my own.”可知道埃里克(Eric)保存英国便士的目的是为了自己拥有这些稀少的钱币。所以B项为正确答案。
+　　50.［答案］ A
+　　【解析】 本题是推理判断题。文章的第一句说明埃里克真喜欢积蓄便士。从本段的第三句：Whenever his grandfather came to visit, he told Eric that... 可判断埃里克的祖父知道埃里克喜欢便士。B项和本段的第三句意思相符合，所以he knew his grandson liked pennies为正确答案。
+　　51.［答案］ A
+　　【解析】 本题为推理判断题。文章中写了埃里克的叔叔艾伦(Uncle Alan)带他到书店买了两本书，其中一本书是这样描写的：The other one told how much money a coin dealer would pay for rare pennies.说明稀少的便士作为收藏品很值钱，所以可以推断便士越老，收藏家越愿意收藏，其价值也就越高。
+　　52.［答案］ C
+　　【解析】 本题为推理判断题。文章中描述了埃里克在他家后院的灌木丛中所发现一枚便士的价值使他认识到：Not many pennies had been made that year, so each one was rare。所以，并非每一个人都能收集到这样稀少的便士。故C项为正确答案。
+　　53.［答案］ B
+　　【解析】 本题为主旨大意题。通读全文，尤其是通过文章的第一句(There are many stereotypes about the character of people in various parts of the United States.)和最后一句(...Americans themselves are often surprised at the different degrees of friendliness in the United States.)可总结出：在美国不同的地区有许多不同的性格。所以B项为正确答案。
+　　54.［答案］ B
+　　【解析】 本题为事实细节题。文章第一段第三句“In the South and West, however, they are often thought of as being more open and hospitable”说明了美国南部和西部人的开放和好客，和B项的意思good hosts(好客的主人)相一致。而A、C、D三项要么与文章意思不一致，要么文章中没有提及到。
+　　55.［答案］ D
+　　【解析】 本题为事实细节题。文章第二段最后一句提到了美国人不同的性格可以追溯到不同的因素，例如climate (the weather), living conditions (geography)和historical development (the history)。惟独没有提到D项the names。
+　　五、 补全对话 (共5句；每句满分为3分，共15分)
+　　56.［答案］ what’s happening
+　　【解析】 根据前句警察的问话：What’s going on here?这个男人的应答：你的意思是：发生什么情况了?
+　　57.［答案］ Why are you climbing through the window and not leaving by the front door
+　　【解析】 警察对这个男人的应答做了进一步具体而细致的发问。
+　　58.［答案］ you see. I can’t find the boy and I’m in a hurry
+　　【解析】 这男人对警察的进一步发问做了具体的解释：因匆忙而没有找到钥匙。
+　　59.［答案］ I don’t think you’re telling me the truth
+　　【解析】 警察对这个男人的解释产生了怀疑，于是说了一句：我想你没有讲真话。
+　　60.［答案］ I’m staying with him for a while
+　　【解析】 警察向这个男人问：这是不是你的房子?这个男人回答：不是我的，是我哥哥的房子，并进一步做了解释。
+　　六、 书面表达 (满分30分)
+　　［答案］ 参考范文
+　　Nanyang Middle School
+　　No. 25, Guanhua Street
+　　Zhongshang District, Dalian,
+　　China
+　　Jan 20, 2005
+　　Dear Morly,
+　　You asked about sports in China in your letter. Now I’ll say something about this.
+　　Sports are very popular in China.Almost all the people have realized that sports are very important as taking part in sports is the best way of keeping healthy.
+　　People in cities play a lot of sports. Old people get up early in the morning and practise Qigong in groups in parks. A lot of middleaged people dance together in squares in the evening. Young people go swimming in summer and skating in winter.
+　　Table tennis is very popular in China.People play table tennis everywhere. There are other popular sports, such as basketball, volleyball, football and badminton.
+　　What about sports in your country?
+　　Best regards,
+　　Yours,
+　　【解析】 信中的内容要和题目要求内容相一致。
+　　1) 人们对运动的认识。
+　　2) 人们的运动方式。
+　　3) 人们的运动形式。
+　　2&nbsp; &nbsp;&nbsp; 

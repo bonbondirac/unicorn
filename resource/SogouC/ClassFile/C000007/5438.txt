@@ -1,0 +1,1 @@
+　　也许在某个时候，您受到了某位交警的帮助，但是您却没来得及记下他的名字，忘了说声谢谢。那么您可以将您遇到的好交警的故事告诉我们，描述您遇到的好交警的外貌或者警号，也许我们就能帮您寻找您想感谢的那位好交警。推荐您遇到的好交警同志姓名:性别：男女年龄:电话:您遭遇的故事:functionf_chkdata(form){varstrTemp=form.textarea1.value;if(strTemp.length==0){alert("请输入您遭遇的故事");form.textarea1.focus();returnfalse;}returntrue;}

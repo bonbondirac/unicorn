@@ -1,0 +1,60 @@
+　　中新网2月20日电 据中国卫生部消息，为加强作业场所高毒物品的许可和实施特殊管理，控制和消除作业场所职业病危害因素，根据《中华人民共和国职业病防治法》和《使用有毒物品作业场所劳动保护条例》的规定，卫生部组织制定了《高毒物品目录》。
+　　高毒物品目录 (2003年版)
+　　序号毒物名称 CAS No.别名英文名称MAC (mg/m3)PC-TWA (mg/m3)PC-STEL (mg/m3)
+　　1N-甲基苯胺 100-61-8N-Methyl aniline——25
+　　2N-异丙基苯胺 768-52-5N-Isopropylaniline——1025
+　　3氨 7664-41-7阿摩尼亚Ammonia——2030
+　　4苯 71-43-2Benzene——610
+　　5苯胺 62-53-3Aniline——37.5
+　　6丙烯酰胺 79-06-1Acrylamide——0.30.9
+　　7丙烯腈 107-13-1Acrylonitrile——12
+　　8对硝基苯胺 100-01-6p-Nitroaniline——37.5
+　　9对硝基氯苯/二硝基氯苯 100-00-5/25567-67-3p-Nitrochlorobenzene/ Dinitrochlorobenzene——0.61.8
+　　10二苯胺 122-39-4Diphenylamine——1025
+　　11二甲基苯胺 121-69-7Dimethylanilne——510
+　　12二硫化碳 75-15-0Carbon disulfide——510
+　　13二氯代乙炔 7572-29-4Dichloroacetylene0.4————
+　　14二硝基苯(全部异构体) 582-29-0/ 99-65-0/100-25-4Dinitrobenzene(all isomers)——12.5
+　　15二硝基(甲)苯 25321-14-6Dinitrotoluene——0.20.6
+　　16二氧化(一)氮 10102-44-0Nitrogen dioxide——510
+　　17甲苯-2，4-二异氰酸酯(TDI) 584-84-9Toluene-2，4-diisocyanate(TDI)——0.10.2
+　　18氟化氢 7664-39-3氢氟酸Hydrogen fluoride2————
+　　19氟及其化合物(不含氟化氢)Fluorides(except HF)， as F——25
+　　20镉及其化合物 7440-43-9Cadmium and compounds——0.010.02
+　　21铬及其化合物 305-03-3Chromic and compounds0.050.15——
+　　22汞 7439-97-6水银Mercury___0.020.04
+　　23碳酰氯 75-44-5光气Phosgene0.5————
+　　24黄磷 7723-14-0Yellow phosphorus——0.050.1
+　　25甲(基)肼 60-34-4Methyl hydrazine0.08————
+　　26甲醛 50-00-0福尔马林Formaldehyde0.5————
+　　27焦炉逸散物Coke oven emissions——0.10.3
+　　28肼；联氨 302-01-2Hydrazine——0.060.13
+　　29可溶性镍化物 7440-02-0Nickel soluble compounds——0.51.5
+　　30磷化氢；膦 7803-51-2Phosphine0.3————
+　　31硫化氢 7783-06-4Hydrogen sulfide10————
+　　32硫酸二甲酯 77-78-1Dimethyl sulfate——0.51.5
+　　33氯化汞 7487-94-7升汞Mercuric chloride——0.0250.025
+　　34氯化萘 90-13-1Chlorinated naphthalene——0.51.5
+　　35氯甲基醚 107-30-2Chloromethyl methyl ether0.005————
+　　36氯；氯气 7782-50-5Chlorine 1————
+　　37氯乙烯；乙烯基氯 75-01-4Vinyl chloride1025
+　　38锰化合物(锰尘、锰烟) 7439-96-5Manganese and compounds——0.150.45
+　　39镍与难溶性镍化物 7440-02-0Nichel and insoluble compounds——12.5
+　　40铍及其化合物 7440-41-7Beryllium and compounds——0.00050.001
+　　41偏二甲基肼 57-14-7Unsymmetric dimethylhydrazine——0.51.5
+　　42铅：尘 / 烟 7439-92-1/7439-92-1Lead dust0.05————
+　　Lead fume0.03————
+　　43氰化氢(按CN计) 460-19-5Hydrogen cyanide，as CN1————
+　　44氰化物(按CN计) 143-33-9Cyanides，as CN1————
+　　45三硝基甲苯 118-96-7TNT Trinitrotoluene——0.20.5
+　　46砷化(三)氢；胂 7784-42-1Arsine0.03————
+　　47砷及其无机化合物 7440-38-2Arenic and inorganic compounds——0.010.02
+　　48石棉总尘/纤维 1332-21-4 Asbestos0.8 0.8f/ml 1.5 1.5f/ml
+　　49铊及其可溶化合物 7440-28-0Thallium and soluble compounds——0.050.1
+　　50(四)羰基镍 13463-39-3Nickel carbonyl0.002————
+　　51锑及其化合物 7440-36-0Antimony and compounds——0.51.5
+　　52五氧化二钒烟尘 7440-62-6Vanadium pentoside fume and dust——0.050.15
+　　53硝基苯 98-95-3Nitrobenzene (skin)——25
+　　54一氧化碳(非高原) 630-08-0Carbon monoxide not in high altitude area ——2030
+　　备注： CAS为化学文摘号。 MAC为工作场所空气中有毒物质最高容许浓度。 PC-TWA为工作场所空气中有毒物质时间加权平均容许浓度。 PC-STEL为工作场所空气中有毒物质短时间接触容许浓度。
+　　

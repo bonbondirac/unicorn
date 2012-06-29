@@ -1,0 +1,1762 @@
+
+
+自动滚动
+var theFloaters = new floaters();
+
+theFloaters.play();
+
+
+var formlist='';
+formlist=formlist+'';
+formlist=formlist+'自动滚动';
+theFloaters.addItem('formdiv2','document.body.clientWidth-106',0,formlist);
+
+theFloaters.play();
+
+TimeScrollCentAll();
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","休息");
+
+SetCookie("sports007MenLeft"," ")
+
+SetCookie("sports007MenRight"," ")
+
+搜狐直播员: 北京时间5月5日上午10:30搜狐体育将图文直播NBA季后赛，太阳与湖人的第六场比赛，敬请收看！ [0:0 ]
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一局");
+ 
+搜狐直播员: 前瞻：湖人热火恐夜长梦多 太阳公牛欲绝境求生 [0:0 ] 
+搜狐直播员: 姚明恢复神速已脱离拐杖 明郅组合将重现世锦赛 [0:0 ] 
+搜狐直播员: NBA官方公布选秀大名单 唐正东孙悦双双入选 [0:0 ]
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 双方在第五场比赛中，太阳队主场以114-97击败湖人队，将总比分扳回2-3 [0:0 ]
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 在“禅师”菲尔杰克逊的执教生涯上，他从未输掉过季后赛的首轮比赛。 [0:0 ] 
+搜狐直播员: 在太阳队的历史上，他们也从未能够在1-3落后的局面下翻盘，但是倒有过一次在2-3的局面下翻盘的战例 [0:0 ]
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","休息");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","休息");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","休息");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 太阳队先发阵容：琼斯，纳什，马里昂，迪奥，巴博萨 [0:0 ] 
+搜狐直播员: 湖人队先发阵容：科比，帕克，布朗，奥多姆，沃顿 [0:0 ]
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 比赛即将开始，请稍候！ [0:0 ]
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 第一节比赛开始 [0:0 ] 
+搜狐直播员: 科比圈顶出手不中 [0:0 ]
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 马里昂底线跳投不中 [0:0 ]
+SetCookie("sports007centLeft","2");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 科比上篮得手 [2:0 ]
+SetCookie("sports007centLeft","2");SetCookie("sports007centRight","2");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 迪奥接纳什传球，上篮得手 [2:2 ]
+SetCookie("sports007centLeft","4");SetCookie("sports007centRight","2");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 沃顿跳投得分 [4:2 ]
+SetCookie("sports007centLeft","4");SetCookie("sports007centRight","5");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 巴博萨外线打中三分 [4:5 ]
+SetCookie("sports007centLeft","6");SetCookie("sports007centRight","5");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 沃顿上篮得手 [6:5 ]
+SetCookie("sports007centLeft","6");SetCookie("sports007centRight","7");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 迪奥抛投得分 [6:7 ]
+SetCookie("sports007centLeft","8");SetCookie("sports007centRight","7");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 布朗跳投得分 [8:7 ]
+SetCookie("sports007centLeft","8");SetCookie("sports007centRight","10");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 马里昂外围投中三分 [8:10 ]
+SetCookie("sports007centLeft","10");SetCookie("sports007centRight","10");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 布朗上篮命中 [10:10 ]
+SetCookie("sports007centLeft","10");SetCookie("sports007centRight","12");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 纳什上篮还以颜色 [10:12 ]
+SetCookie("sports007centLeft","10");SetCookie("sports007centRight","12");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","10");SetCookie("sports007centRight","12");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 布朗上篮不中 [10:12 ]
+SetCookie("sports007centLeft","10");SetCookie("sports007centRight","15");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 纳什外围投中三分 [10:15 ] 
+搜狐直播员: 帕克上篮不中 [10:15 ]
+SetCookie("sports007centLeft","10");SetCookie("sports007centRight","12");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","10");SetCookie("sports007centRight","17");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 琼斯上篮得分 [10:17 ] 
+搜狐直播员: 帕克突破上篮偏邮 [10:17 ]
+SetCookie("sports007centLeft","10");SetCookie("sports007centRight","20");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 琼斯外线打中三分 [10:20 ] 
+搜狐直播员: 湖人请求暂停 [10:20 ]
+SetCookie("sports007centLeft","10");SetCookie("sports007centRight","20");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 琼斯防守犯规 [10:20 ]
+SetCookie("sports007centLeft","12");SetCookie("sports007centRight","20");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 奥多姆两罚两中 [12:20 ] 
+搜狐直播员: 纳什出现失误 [12:20 ] 
+搜狐直播员: 帕克传球失误 [12:20 ]
+SetCookie("sports007centLeft","12");SetCookie("sports007centRight","22");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 琼斯跳投得分 [12:22 ]
+SetCookie("sports007centLeft","14");SetCookie("sports007centRight","22");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 布朗上篮得分 [14:22 ] 
+搜狐直播员: 马里昂出手不中 [14:22 ]
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","22");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 沃顿上篮得分 [16:22 ]
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 巴博萨外围投中三分 [16:25 ] 
+搜狐直播员: 马里昂防守犯规 [16:25 ]
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","17");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 奥多姆两罚一中 [17:25 ] 
+搜狐直播员: 迪奥上篮不中 [17:25 ]
+SetCookie("sports007centLeft","19");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 沃顿跳投得分 [19:25 ] 
+搜狐直播员: 巴博萨外围投三分不中 [19:25 ] 
+搜狐直播员: 科比出现失误 [19:25 ] 
+搜狐直播员: 官方暂停时间，第一节比赛还有4分26秒钟 [19:25 ]
+SetCookie("sports007centLeft","19");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","19");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","19");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","19");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","19");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","19");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","19");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","19");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","19");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","19");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 琼斯替下巴博萨 [19:25 ] 
+搜狐直播员: 迪奥圈顶出手不进 [19:25 ]
+SetCookie("sports007centLeft","19");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","21");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 奥多姆跳投得分 [21:25 ]
+SetCookie("sports007centLeft","21");SetCookie("sports007centRight","27");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 托马斯上篮命中 [21:27 ] 
+搜狐直播员: 同时造成布朗的犯规 [21:27 ]
+SetCookie("sports007centLeft","21");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 托马斯加罚得分 [21:28 ]
+SetCookie("sports007centLeft","23");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 科比跳投得分 [23:28 ] 
+搜狐直播员: 纳什打三分不中 [23:28 ] 
+搜狐直播员: 帕克打三分也不中 [23:28 ]
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 沃顿上篮得手 [25:28 ] 
+搜狐直播员: 沃顿防守中犯规 [25:28 ] 
+搜狐直播员: 太阳队请求暂停，第一节比赛还有2分49秒钟 [25:28 ]
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 托马斯打三分不中 [25:28 ]
+SetCookie("sports007centLeft","27");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 布朗扣篮得手 [27:28 ]
+SetCookie("sports007centLeft","27");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 纳什上篮命中 [27:30 ]
+SetCookie("sports007centLeft","27");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","30");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 乔治外围投中三分 [30:30 ] 
+搜狐直播员: 马里昂跳投不中 [30:30 ]
+SetCookie("sports007centLeft","30");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","32");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 布朗扣篮得手 [32:30 ] 
+搜狐直播员: 迪奥进攻犯规 [32:30 ]
+SetCookie("sports007centLeft","34");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 乔治扣篮命中 [34:30 ] 
+搜狐直播员: 琼斯外围三分不中 [34:30 ] 
+搜狐直播员: 纳什防守犯规 [34:30 ]
+SetCookie("sports007centLeft","34");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","34");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 库克替下了布朗 [34:30 ]
+SetCookie("sports007centLeft","34");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","36");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 科比上篮得手 [36:30 ] 
+搜狐直播员: 纳什上篮不中 [36:30 ] 
+搜狐直播员: 迪奥防守犯规 [36:30 ]
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 乔治两罚一中 [37:30 ] 
+搜狐直播员: 第一节比赛结束 [37:30 ]
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 纳什首节得到7分和4次助攻 [37:30 ] 
+搜狐直播员: 科比拿下7分，3个篮板和3次助攻 [37:30 ]
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007MenLeft","第一节比分 37")
+
+SetCookie("sports007MenRight","30")
+
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 第二节比赛开始 [37:30 ]
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","32");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 纳什上篮得手 [37:32 ] 
+搜狐直播员: 乌贾茨奇打三分不中 [37:32 ]
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","34");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 迪奥扣篮命中 [37:34 ] 
+搜狐直播员: 科比走步失误 [37:34 ]
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 托马斯上篮得手 [37:36 ]
+SetCookie("sports007centLeft","39");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 乌贾茨奇上篮得分 [39:36 ]
+SetCookie("sports007centLeft","39");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","39");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","39");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","39");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 帕克防守中犯规 [39:36 ]
+SetCookie("sports007centLeft","39");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","39");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","39");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","39");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","39");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 布朗防守中犯规 [39:36 ] 
+搜狐直播员: 科比替下了奥多姆 [39:36 ]
+SetCookie("sports007centLeft","39");SetCookie("sports007centRight","38");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 巴博萨两罚两中 [39:38 ]
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","38");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 科比上篮得手 [41:38 ] 
+搜狐直播员: 托马斯出手不中 [41:38 ] 
+搜狐直播员: 乔治防守犯规 [41:38 ] 
+搜狐直播员: 马里昂跳投偏出 [41:38 ] 
+搜狐直播员: 托马斯上篮不中 [41:38 ] 
+搜狐直播员: 乌贾茨奇防守犯规 [41:38 ]
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","38");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 托马斯两罚两中 [41:40 ] 
+搜狐直播员: 乔治外围三分不中 [41:40 ]
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 官方暂停时间，第二节比赛还有8分48秒钟 [41:40 ]
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 科比跳投不进 [41:40 ] 
+搜狐直播员: 迪奥传球失误 [41:40 ] 
+搜狐直播员: 沃顿进攻犯规 [41:40 ] 
+搜狐直播员: 奥多姆替下沃顿 [41:40 ]
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 巴博萨上篮得分 [41:42 ] 
+搜狐直播员: 库克进攻犯规 [41:42 ]
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","44");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 豪斯跳投得分 [41:44 ]
+SetCookie("sports007centLeft","43");SetCookie("sports007centRight","44");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 奥多姆上篮命中 [43:44 ] 
+搜狐直播员: 同时造成巴博萨的犯规 [43:44 ]
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","44");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 奥多姆加罚命中 [44:44 ]
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","44");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","44");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","44");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 库克防守犯规 [44:44 ]
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","44");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 巴博萨两罚一中 [44:45 ] 
+搜狐直播员: 奥多姆传球失误 [44:45 ]
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 巴博萨传球失误 [44:45 ] 
+搜狐直播员: 乔治跳投不中 [44:45 ]
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 布朗传球失误 [44:45 ]
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 托马斯跳投得分 [44:47 ] 
+搜狐直播员: 湖人请求暂停 [44:47 ] 
+搜狐直播员: 第二节比赛还有5分50秒钟 [44:47 ]
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 奥多姆出手不中 [44:47 ] 
+搜狐直播员: 托马斯进攻犯规 [44:47 ]
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 奥多姆运球失误 [44:47 ]
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","49");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 马里昂扣篮得手 [44:49 ]
+SetCookie("sports007centLeft","46");SetCookie("sports007centRight","49");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 乔治上篮命中 [46:49 ] 
+搜狐直播员: 迪奥走步失误 [46:49 ]
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","49");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 科比跳投得分 [48:49 ]
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","49");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 帕克防守犯规 [48:49 ]
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","49");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","49");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 纳什走上罚球线，两罚两中 [48:51 ] 
+搜狐直播员: 布朗进攻犯规 [48:51 ] 
+搜狐直播员: 托马斯外围三分不中 [48:51 ] 
+搜狐直播员: 马里昂防守犯规 [48:51 ]
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 科比出手不中 [48:51 ] 
+搜狐直播员: 纳什上篮不进 [48:51 ]
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 马里昂防守中犯规 [48:51 ] 
+搜狐直播员: 太阳请求暂停 [48:51 ] 
+搜狐直播员: 第二节比赛还有2分58秒钟 [48:51 ]
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 科比上篮不中 [48:51 ] 
+搜狐直播员: 托马斯防守犯规 [48:51 ]
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","49");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 图亚弗走上罚球线，两罚一中 [49:51 ]
+SetCookie("sports007centLeft","49");SetCookie("sports007centRight","53");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 迪奥上篮得手 [49:53 ]
+SetCookie("sports007centLeft","52");SetCookie("sports007centRight","53");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 奥多姆外围投中三分 [52:53 ]
+SetCookie("sports007centLeft","52");SetCookie("sports007centRight","53");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","52");SetCookie("sports007centRight","55");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 乌贾茨奇防守犯规，纳什两罚两中 [52:55 ] 
+搜狐直播员: 格兰特防守中犯规 [52:55 ]
+SetCookie("sports007centLeft","52");SetCookie("sports007centRight","55");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","52");SetCookie("sports007centRight","55");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","52");SetCookie("sports007centRight","55");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","53");SetCookie("sports007centRight","55");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 科比走上罚球线，两罚一中 [53:55 ] 
+搜狐直播员: 奥多姆防守犯规 [53:55 ]
+SetCookie("sports007centLeft","53");SetCookie("sports007centRight","55");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","53");SetCookie("sports007centRight","55");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","53");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 迪奥走上罚球线，两罚一中 [53:56 ]
+SetCookie("sports007centLeft","54");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 奥多姆出手得分 [54:56 ]
+SetCookie("sports007centLeft","55");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 格兰特上篮造成图亚弗的犯规 [55:56 ]
+SetCookie("sports007centLeft","55");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 格兰特走上罚球线，两罚两不中 [55:56 ]
+SetCookie("sports007centLeft","55");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 科比跳投得分 [57:56 ] 
+搜狐直播员: 巴博萨三分不中 [57:56 ] 
+搜狐直播员: 科比传球失误 [57:56 ]
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 科比防守犯规 [57:56 ]
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 巴博萨走上罚球线，两罚两中 [57:58 ] 
+搜狐直播员: 湖人请求短暂停 [57:58 ]
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 科比进攻犯规 [57:58 ]
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 巴博萨上篮得手 [57:60 ] 
+搜狐直播员: 乌贾茨奇外围三分不中 [57:60 ] 
+搜狐直播员: 第二节比赛结束 [57:60 ]
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 纳什得到13分和5次助攻 [57:60 ] 
+搜狐直播员: 科比拿下14分，5个篮板和4次助攻 [57:60 ] 
+搜狐直播员: 稍事休息一会儿，再来看双方第三节的比赛！ [57:60 ]
+SetCookie("sports007MenLeft","第一节比分 37第二节比分 20")
+
+SetCookie("sports007MenRight","3030")
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 第三节比赛开始 [57:60 ] 
+搜狐直播员: 马里昂上篮不中 [57:60 ] 
+搜狐直播员: 琼斯跳投不进 [57:60 ]
+SetCookie("sports007centLeft","59");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 科比上篮得手 [59:60 ] 
+搜狐直播员: 琼斯进攻犯规 [59:60 ]
+SetCookie("sports007centLeft","59");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 沃顿传球失误 [59:60 ]
+SetCookie("sports007centLeft","59");SetCookie("sports007centRight","63");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 琼斯外围投中三分 [59:63 ] 
+搜狐直播员: 帕克外围三分不中 [59:63 ] 
+搜狐直播员: 科比跳投不进，琼斯抢下篮板 [59:63 ]
+SetCookie("sports007centLeft","59");SetCookie("sports007centRight","63");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 布朗打手犯规 [59:63 ]
+SetCookie("sports007centLeft","59");SetCookie("sports007centRight","63");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","59");SetCookie("sports007centRight","63");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","59");SetCookie("sports007centRight","65");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 纳什走上罚球线，两罚两中 [59:65 ] 
+搜狐直播员: 奥多姆打三分不中 [59:65 ]
+SetCookie("sports007centLeft","59");SetCookie("sports007centRight","67");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 马里昂上篮得手 [59:67 ]
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","67");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 科比抛投得分 [61:67 ] 
+搜狐直播员: 迪奥出手不中 [61:67 ] 
+搜狐直播员: 沃顿外围三分也不进 [61:67 ]
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 迪奥跳投得分 [61:69 ] 
+搜狐直播员: 湖人请求暂停 [61:69 ] 
+搜狐直播员: 第三节比赛还有8分15秒钟 [61:69 ]
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007MenLeft","第一节比分 37第二节比分 20")
+
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007MenRight","20")
+
+SetCookie("sports007MenRight","2030")
+
+SetCookie("sports007MenRight","3030")
+
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","63");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 科比跳投得分 [63:69 ] 
+搜狐直播员: 马里昂打三分不中 [63:69 ]
+SetCookie("sports007centLeft","63");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 迪奥防守犯规 [63:69 ]
+SetCookie("sports007centLeft","65");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 科比跳投得分 [65:69 ]
+SetCookie("sports007centLeft","65");SetCookie("sports007centRight","71");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 纳什出手还以颜色 [65:71 ] 
+搜狐直播员: 帕克进攻犯规 [65:71 ]
+SetCookie("sports007centLeft","65");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 马里昂外围投中三分 [65:74 ]
+SetCookie("sports007centLeft","65");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","68");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 科比外围投中三分 [68:74 ] 
+搜狐直播员: 巴博萨传球失误 [68:74 ] 
+搜狐直播员: 迪奥防守犯规 [68:74 ]
+SetCookie("sports007centLeft","68");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","68");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","68");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","68");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","68");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","68");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","70");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 帕克两罚两中 [70:74 ] 
+搜狐直播员: 马里昂外围三分不中 [70:74 ] 
+搜狐直播员: 科比传球失误 [70:74 ]
+SetCookie("sports007centLeft","70");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","70");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 马里昂扣篮不中 [70:74 ] 
+搜狐直播员: 科比外围三分不中 [70:74 ]
+SetCookie("sports007centLeft","70");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","70");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","70");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","70");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","70");SetCookie("sports007centRight","74");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","70");SetCookie("sports007centRight","76");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 纳什跳投得分 [70:76 ]
+SetCookie("sports007centLeft","72");SetCookie("sports007centRight","76");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 布朗上篮命中 [72:76 ]
+SetCookie("sports007centLeft","72");SetCookie("sports007centRight","78");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 巴博萨出手得分 [72:78 ] 
+搜狐直播员: 同时造成沃顿的犯规 [72:78 ]
+SetCookie("sports007centLeft","72");SetCookie("sports007centRight","79");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 巴博萨加罚命中 [72:79 ] 
+搜狐直播员: 迪奥防守犯规 [72:79 ] 
+搜狐直播员: 琼斯替下了迪奥 [72:79 ]
+SetCookie("sports007centLeft","72");SetCookie("sports007centRight","79");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","73");SetCookie("sports007centRight","79");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 奥多姆两罚一中 [73:79 ] 
+搜狐直播员: 托马斯跳投不进 [73:79 ]
+SetCookie("sports007centLeft","73");SetCookie("sports007centRight","79");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","73");SetCookie("sports007centRight","79");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","73");SetCookie("sports007centRight","79");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 托马斯防守犯规 [73:79 ]
+SetCookie("sports007centLeft","73");SetCookie("sports007centRight","79");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","73");SetCookie("sports007centRight","79");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","73");SetCookie("sports007centRight","79");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","73");SetCookie("sports007centRight","79");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","73");SetCookie("sports007centRight","79");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","73");SetCookie("sports007centRight","79");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","79");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 科比走上罚球线，两罚两中 [75:79 ]
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 托马斯上篮得手 [75:81 ] 
+搜狐直播员: 科比跳投不进 [75:81 ]
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 托马斯传球失误 [75:81 ] 
+搜狐直播员: 太阳请求暂停，第三节比赛还有2分42秒钟 [75:81 ]
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 库克替下了布朗 [75:81 ]
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","78");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 乔治外围投中三分 [78:81 ]
+SetCookie("sports007centLeft","78");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 马里昂上篮得手 [78:83 ]
+SetCookie("sports007centLeft","78");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","80");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 科比上篮得手 [80:83 ] 
+搜狐直播员: 托马斯传球失误 [80:83 ]
+SetCookie("sports007centLeft","83");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 乔治外围投中三分 [83:83 ] 
+搜狐直播员: 太阳请求短暂停 [83:83 ]
+SetCookie("sports007centLeft","83");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","83");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","83");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","83");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","83");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","83");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 纳什跳投不进 [83:83 ]
+SetCookie("sports007centLeft","83");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","83");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","83");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","83");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 奥多姆跳投得分 [85:83 ]
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","83");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","85");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 琼斯跳投得分 [85:85 ] 
+搜狐直播员: 乔治外围三分不中 [85:85 ]
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","85");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","87");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 纳什上篮得手 [85:87 ] 
+搜狐直播员: 同时造成奥多姆的犯规 [85:87 ]
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 纳什加罚得分 [85:88 ] 
+搜狐直播员: 奥多姆外围三分不中 [85:88 ] 
+搜狐直播员: 第三节比赛结束 [85:88 ]
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 纳什得到22分和10次助攻 [85:88 ] 
+搜狐直播员: 科比拿下29分，6个篮板和5次助攻 [85:88 ]
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007MenLeft","第一节比分 37第二节比分 20第三节比分 28")
+
+SetCookie("sports007MenRight","303028")
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 第四节比赛开始 [85:88 ] 
+搜狐直播员: 奥多姆跳投偏出 [85:88 ]
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 豪斯外围三分不中 [85:88 ]
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 马里昂跳投不进 [85:88 ]
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 奥多姆出手命中 [87:88 ]
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 科比防守犯规 [87:88 ] 
+搜狐直播员: 迪奥上篮不中 [87:88 ]
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 巴博萨防守犯规 [87:88 ]
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 科比传球失误 [87:88 ] 
+搜狐直播员: 豪斯跳投不进 [87:88 ] 
+搜狐直播员: 科比出手也不进 [87:88 ]
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","88");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 巴博萨上篮得手 [87:90 ]
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 奥多姆出手得分 [89:90 ] 
+搜狐直播员: 同时造成马里昂的犯规 [89:90 ]
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 官方暂停时间 [89:90 ] 
+搜狐直播员: 第四节比赛还有8分47秒钟 [89:90 ]
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 纳什替下豪斯 [89:90 ] 
+搜狐直播员: 布朗替下了乔治 [89:90 ]
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","90");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 奥多姆加罚不中 [89:90 ]
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","92");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 巴博萨上篮得手 [89:92 ] 
+搜狐直播员: 帕克跳投不中 [89:92 ]
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","92");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","94");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 纳什跳投得分 [89:94 ] 
+搜狐直播员: 巴博萨防守犯规 [89:94 ]
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","94");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","94");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","91");SetCookie("sports007centRight","94");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 科比走上罚球线，两罚两中 [91:94 ]
+SetCookie("sports007centLeft","91");SetCookie("sports007centRight","94");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","91");SetCookie("sports007centRight","94");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","91");SetCookie("sports007centRight","94");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 纳什走步失误了 [91:94 ]
+SetCookie("sports007centLeft","91");SetCookie("sports007centRight","94");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","91");SetCookie("sports007centRight","94");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","91");SetCookie("sports007centRight","94");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","91");SetCookie("sports007centRight","94");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","91");SetCookie("sports007centRight","94");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","91");SetCookie("sports007centRight","94");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","91");SetCookie("sports007centRight","94");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","91");SetCookie("sports007centRight","94");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","93");SetCookie("sports007centRight","94");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 科比出手得分 [93:94 ]
+SetCookie("sports007centLeft","93");SetCookie("sports007centRight","96");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 托马斯上篮得分 [93:96 ] 
+搜狐直播员: 沃顿中投偏出 [93:96 ]
+SetCookie("sports007centLeft","93");SetCookie("sports007centRight","96");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","96");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 布朗上篮得手 [95:96 ]
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 纳什跳投得分 [95:98 ] 
+搜狐直播员: 科比外围三分不进 [95:98 ] 
+搜狐直播员: 纳什出手也不进，科比抢下篮板 [95:98 ] 
+搜狐直播员: 湖人请求暂停，第四节比赛还有4分50秒钟 [95:98 ]
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","97");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 奥多姆上篮得手 [97:98 ] 
+搜狐直播员: 迪奥出手不中 [97:98 ]
+SetCookie("sports007centLeft","99");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 布朗出手得分 [99:98 ] 
+搜狐直播员: 同时造成巴博萨的犯规 [99:98 ]
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","98");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 布朗加罚得分 [100:98 ]
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 迪奥出手命中 [100:100 ]
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 马里昂跳投不进 [100:100 ] 
+搜狐直播员: 科比跳投也不进 [100:100 ] 
+搜狐直播员: 帕克防守犯规 [100:100 ] 
+搜狐直播员: 太阳请求暂停 [100:100 ] 
+搜狐直播员: 第四节比赛还有2分11秒钟 [100:100 ]
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","100");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","100");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 纳什走上罚球线，两罚两中 [100:102 ]
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 科比外围投中三分 [103:102 ] 
+搜狐直播员: 托马斯外围三分不进 [103:102 ]
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 帕克上篮不中 [103:102 ] 
+搜狐直播员: 托马斯跳投不进 [103:102 ] 
+搜狐直播员: 湖人请求暂停 [103:102 ] 
+搜狐直播员: 第四节比赛还有44秒钟 [103:102 ]
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","105");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 科比上篮得手 [105:102 ] 
+搜狐直播员: 纳什外围三分不中 [105:102 ]
+SetCookie("sports007centLeft","105");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","105");SetCookie("sports007centRight","105");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 托马斯外围投中三分 [105:105 ] 
+搜狐直播员: 湖人请求暂停，还有最后的6秒钟 [105:105 ]
+SetCookie("sports007centLeft","105");SetCookie("sports007centRight","105");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","105");SetCookie("sports007centRight","105");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","105");SetCookie("sports007centRight","105");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","105");SetCookie("sports007centRight","105");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 科比出手不中 [105:105 ] 
+搜狐直播员: 第四节比赛结束 [105:105 ] 
+搜狐直播员: 双方战成105-105平，将进行加时赛 [105:105 ]
+SetCookie("sports007centLeft","105");SetCookie("sports007centRight","105");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 纳什得到28分和10次助攻 [105:105 ] 
+搜狐直播员: 科比拿下38分，8个篮板和5次助攻 [105:105 ]
+SetCookie("sports007MenLeft","第一节比分 37第二节比分 20第三节比分 28第四节比分 20")
+
+SetCookie("sports007MenRight","30302817")
+
+SetCookie("sports007centLeft","105");SetCookie("sports007centRight","105");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","105");SetCookie("sports007centRight","105");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","105");SetCookie("sports007centRight","105");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 双方的加时赛开始 [105:105 ] 实时技术统计:太阳－湖人 
+搜狐直播员: 马里昂上篮不中 [105:105 ]
+SetCookie("sports007centLeft","107");SetCookie("sports007centRight","105");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 科比跳投得分 [107:105 ]
+SetCookie("sports007centLeft","107");SetCookie("sports007centRight","105");SetCookie("sports007centTime","加时");
+ 欢迎网友点评火箭与姚明表现
+SetCookie("sports007centLeft","107");SetCookie("sports007centRight","107");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 迪奥跳投得分 [107:107 ]
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","107");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 科比出手得分 [109:107 ] 欢迎网友点评
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","107");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","109");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 迪奥出手命中 [109:109 ] 
+搜狐直播员: 沃顿上篮不中，托马斯篮板 [109:109 ]
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","111");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 马里昂上篮得手 [109:111 ] 约翰森40分难挡三剑客 基德准三双率队晋级
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","111");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","111");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 奥多姆传球失误 [109:111 ]
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 迪奥出手得分 [109:113 ] 奥胖大号两双携韦德发威 热火击败公牛晋级 
+搜狐直播员: 湖人请求暂停，加时赛还有2分30秒钟 [109:113 ]
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+ 网淘汰步行者精彩图 卡特有勇有谋 小奥难救主
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+
+搜狐直播员: 乔治替下了沃顿 [109:113 ]
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+ 热火淘汰公牛精彩图：奥尼尔肆虐 古登“中枪”
+搜狐直播员: 科比出手不中 [109:113 ]
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","116");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 托马斯外围投中三分 [109:116 ]
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","116");SetCookie("sports007centTime","加时");
+ SetCookie("sports007centLeft","111");SetCookie("sports007centRight","116");SetCookie("sports007centTime","加时"); 
+搜狐直播员: 科比突破上篮命中 [111:116 ]
+SetCookie("sports007centLeft","111");SetCookie("sports007centRight","116");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","111");SetCookie("sports007centRight","116");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","111");SetCookie("sports007centRight","116");SetCookie("sports007centTime","加时");
+ SetCookie("sports007centLeft","111");SetCookie("sports007centRight","118");SetCookie("sports007centTime","加时"); 
+搜狐直播员: 马里昂上篮得分 [111:118 ] 
+搜狐直播员: 奥多姆外围三分不中 [111:118 ]
+SetCookie("sports007centLeft","111");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 马里昂跳投命中 [111:120 ] 搜狐直播员: 湖人请求暂停，加时赛还有57秒钟 [111:120 ]
+SetCookie("sports007centLeft","111");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","111");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","111");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","111");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","111");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","111");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","111");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员： NBA最新动态
+SetCookie("sports007centLeft","114");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 科比外围投中三分 [114:120 ] 
+搜狐直播员: 科比防守中犯规 [114:120 ]
+SetCookie("sports007centLeft","114");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","114");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","114");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","114");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","114");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","114");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","114");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","114");SetCookie("sports007centRight","120");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","114");SetCookie("sports007centRight","122");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 纳什走上罚球线，两罚两中 [114:122 ]
+SetCookie("sports007centLeft","114");SetCookie("sports007centRight","122");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","114");SetCookie("sports007centRight","122");SetCookie("sports007centTime","加时");
+ 现场图  
+SetCookie("sports007centLeft","117");SetCookie("sports007centRight","122");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 科比外围投中三分 [117:122 ] 
+搜狐直播员: 乌贾茨奇打手犯规 [117:122 ]
+SetCookie("sports007centLeft","117");SetCookie("sports007centRight","122");SetCookie("sports007centTime","加时");
+
+SetCookie("sports007centLeft","117");SetCookie("sports007centRight","124");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 纳什走上罚球线，两罚两中 [117:124 ] 
+搜狐直播员: 科比外围三分不中 [117:124 ] 约翰森40分难挡三剑客 基德准三双率队晋级 
+搜狐直播员: 巴博萨防守中犯规 [117:124 ] 
+搜狐直播员: 乔治走上罚球线，两罚两不中 [117:124 ] 奥胖大号两双携韦德发威 热火击败公牛晋级
+SetCookie("sports007centLeft","118");SetCookie("sports007centRight","124");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 乔治的第三罚命中 [118:124 ] 
+搜狐直播员：独家文字比分直播NBA所有比赛(实时技术统计) 
+搜狐直播员: 奥多姆防守犯规 [118:124 ]
+SetCookie("sports007centLeft","118");SetCookie("sports007centRight","124");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 托马斯走上罚球线，两罚两中 [118:126 ]    
+搜狐直播员: 奥多姆外围三分不中 [118:126 ] 
+搜狐直播员: 全场比赛结束 [118:126 ]  
+搜狐直播员: 结果湖人主场118-126负于太阳，双方总比分战为3-3平 [118:126 ] 
+SetCookie("sports007centLeft","118");SetCookie("sports007centRight","126");SetCookie("sports007centTime","加时");
+
+搜狐直播员: 科比全场得到50分，8个篮板和5次助攻 [118:126 ] 
+搜狐直播员: 纳什拿下32分和13次助攻 [118:126 ] 
+搜狐直播员: 本场比赛直播到此结束，再见！ [118:126 ]
+SetCookie("sports007MenLeft","第一节比分 37第二节比分 20第三节比分 28第四节比分 20加时赛比分 13")
+
+SetCookie("sports007MenRight","3030281721")
+ NBA最新动态 

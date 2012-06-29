@@ -1,0 +1,62 @@
+
+　　禁止标志：
+　　1． 禁喇叭 No horn.
+　　2． 禁闯红灯 No joywalking.
+　　3． 禁止通行 No passing. No Through Traffic.
+　　4． 禁止越线 Keep in lane.
+　　5． 禁止汽车 Auto Not Permitted.
+　　6． 不准回转 No U Turn
+　　7． 不准入内 No Entry
+　　8． 不准停车 No Parking
+　　9． 不准等候 No Waiting
+　　10．不准左转 Keep Right
+　　11．不准右转 Keep Left
+　　12．不准超车 No Overhead
+　　13．不准掉头 No Turns
+　　14．禁止鸣笛 No tooting
+　　指示标志：
+　　1． 慢(快)车道 Slow(Quick) Lane
+　　2． 单行道 One Way Only, Single Lane
+　　3． 双车道 Two-way Traffic
+　　4． 高速公路 Freeway(FWY), highway
+　　5． 公路 Express way
+　　6． 收费站 Toll Station
+　　7． 高架道路 Elevated road
+　　8． 入口 Entrance;
+　　9． 出口 Exit
+　　10由此而入 Enter here
+　　11．绕路而行 Detour
+　　12．大路 Avenue
+　　13．林荫大道 Boulevard(Blvd)
+　　14．小路 Path
+　　15．人行道 Pavement
+　　16．宁静区 Silent Zone
+　　17．徒步区 Walking area
+　　18．拱桥 Arch bridge
+　　19．停车处 Parking Lot(Zone)
+　　20．地下道 Underpass
+　　警示标志：
+　　1． 窄路 Narrow road
+　　2． 滑路 Slippery road
+　　3． 斜坡 Steep hill
+　　4． 弯路 curve road
+　　5． 此路不通 Blocked, Road closed
+　　6． 修路 Road Works Ahead
+　　7． 改道 Diversion; Detour
+　　8． 险陡 Dangerous Ahead
+　　9． 危险弯路 Dangerous Curves
+　　10．三岔路 Road Junction
+　　11．十字路 Cross Road
+　　12．回车道 Loop road
+　　13．左(右)弯 Left (Right) Curve
+　　14．弯曲路 Winding road
+　　15．之字路 Double bend road
+　　16．让车弯 Passing Bay
+　　17．小心火车 RR Crossing
+　　18．前有工程 Men Working
+　　19．前有狭桥 Narrow Bridge Ahead
+　　20．塌方 Landslide
+　　21．当心行人 Caution pedestrian crossing
+　　22．让 Yield
+　　23．行人穿越马路先按钮等候 To across street push button wait for WALK
+　　

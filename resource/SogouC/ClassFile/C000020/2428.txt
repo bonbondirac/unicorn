@@ -1,0 +1,24 @@
+
+　命题&nbsp; （a&gt;0,c&gt;0,b&gt;0,且）
+　　证法一（取对数）
+　　因为 
+　　而 ,
+　　所以命题成立。
+　　注：以10为底或以b为底都很简洁优美。
+　　&nbsp;证法二 （指对互化）
+　　原式成立&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ，显然成立。
+&nbsp;　　证法三 （利用对数恒等式）
+　　&nbsp;原式左端&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+=右端。
+　　利用这个命题，可以巧妙地解决一些问题。　　例一&nbsp; 计算。
+
+　　解 ：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+&nbsp;　　例二&nbsp; 解关于x的方程
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+　　解&nbsp; 原方程可化为，
+　　解得或，x=1，或x=.
+　　经检验，它们都是原方程的解。
+&nbsp;
+来源:《中学生数学》　　　

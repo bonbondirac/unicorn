@@ -1,0 +1,6 @@
+　　【赛迪网讯】4月22日消息，据消息灵通人士称，微软公司正在开发一款在线存储服务。该服务的竞争对手似乎是Google正在开发中的名为Gdrive的服务。
+　　国外媒体报道称，微软的发言人亚当昨天证实了代号为Live Drive的项目的存在，该服务可以在PC和支持Sharing Folders的设备之间搜索和共享文件。他说，该项目还在研究共享和共享文件夹的方式。亚当拒绝披露更进一步的详细资料。
+　　微软去年11月份收购了开发文件同步和远程访问技术的FolderShare。
+　　该服务的β测试人员克里斯在一封电子邮件中证实微软正在开发Live Drive在线存储服务，该服务将使用户能够通过互联网访问存储在Windows计算机上的文件。他还说，由于该服务可能会与Windows Vista中的Mobility Center进行集成，因此它将成为微软连接Windows Live在线服务和Windows Vista的一种方式。Mobility Center向用户提供了设置显示器亮度、电源利用等其它对笔记本电脑用户非常重要的选项。克里斯指出，与Vista Mobility Center的整合非常重要，将成为Vista用户与Windows Live结合的方式之一。
+　　Live Drive与Google正在开发中的Gdrive相似。Gdrive服务是一款可以通过互联网访问的存储驱动器，用户可以在该服务中存储大量文件，并通过各种设备访问。
+　　Google还没有正式公布Gdrive。

@@ -1,0 +1,148 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1、您的性别：
+
+ 男
+
+ 女  
+
+2、您的年龄：
+
+ 20岁以下
+
+ 21～30岁
+
+ 31～45岁
+
+ 46～55岁
+
+ 56岁以上  
+
+3、工作状况：
+
+ 学生
+
+ 在职
+
+ 退休  
+
+4、您患糖尿病的类别：
+
+ 1型
+
+ 2型
+
+ 妊娠
+
+ 其他  
+
+5、患病时间：
+
+ 1年以内
+
+ 2～5年
+
+ 6年以上  
+
+6、您对接受糖尿病教育感兴趣吗？
+
+ 兴趣很大
+
+ 一般
+
+ 不感兴趣  
+
+7、您认为参加糖尿病教育对控制病情重要吗？
+
+ 很重要
+
+ 一般
+
+ 不重要
+
+ 不清楚  
+
+8、您的家人支持您参加糖尿病教育吗？
+
+ 支持
+
+ 不支持
+
+ 无所谓  
+
+9、您去大医院举办的糖尿病课堂听课吗？
+
+ 经常
+
+ 偶尔
+
+ 从不  
+
+10、您不参加医院教育课堂的原因：
+
+ 不方便去
+
+ 没时间
+
+ 内容单调
+
+ 没兴趣  
+
+11、您喜欢的糖尿病教育方式：
+
+ 到大课堂听课
+
+ 自己看书
+
+ 看杂志
+
+ 咨询
+
+ 其他  
+
+12、您对目前可获得的糖尿病教育资源或途径是否满意？
+
+ 很满意
+
+ 一般
+
+ 不满意  
+
+13、您对目前糖尿病课堂的讲课内容满意吗？
+
+ 很满意
+
+ 一般
+
+ 不满意  
+
+14、您对课堂讲课这种方式满意吗？
+
+ 很满意
+
+ 一般
+
+ 不满意  
+
+     
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }
+
+来源：糖尿病之友杂志社与搜狐健康联合推出
+糖尿病之友征订热线：010-51099130 51099131
+网址：http://www.tnbzy.com/
+
+
+
+编辑：韩冰&nbsp;

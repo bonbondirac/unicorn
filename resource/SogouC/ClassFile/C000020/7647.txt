@@ -1,0 +1,83 @@
+&nbsp;及匯匈 
+&nbsp;
+　　1.Logic
+　　&#8707; there exist
+　　&#8704; for all
+　　p&#8658;q p implies q / if p, then q
+　　p&#8660;q p if and only if q /p is equivalent to q / p and q are equivalent
+　　2.Sets
+　　x（A x belongs to A / x is an element (or a member) of A
+　　x&#8713;A x does not belong to A / x is not an element (or a member) of A
+　　A&#8834;B A is contained in B / A is a subset of B
+　　A&#8835;B A contains B / B is a subset of A
+　　A”B A cap B / A meet B / A intersection B
+　　A“B A cup B / A join B / A union B
+　　AB A minus B / the diference between A and B
+　　A〜B A cross B / the cartesian product of A and B
+　　3. Real numbers
+　　x+1 x plus one
+　　x-1 x minus one
+　　x＼1 x plus or minus one
+　　xy xy / x multiplied by y
+　　(x - y)(x + y) x minus y, x plus y
+　　x y x over y
+　　= the equals sign
+　　x = 5 x equals 5 / x is equal to 5
+　　x』5 x (is) not equal to 5
+　　x《y x is equivalent to (or identical with) y
+　　x 《 y x is not equivalent to (or identical with) y
+　　x &gt; y x is greater than y
+　　x−y x is greater than or equal to y
+　　x &lt; y x is less than y
+　　x＋y x is less than or equal to y
+　　0 &lt; x &lt; 1 zero is less than x is less than 1
+　　0＋x＋1 zero is less than or equal to x is less than or equal to 1
+　　| x | mod x / modulus 
+x及屈匈 
+　　x 2 x squared / x (raised) to the power 2
+　　x 3 x cubed
+　　x 4 x to the fourth / x to the power four
+　　x n x to the nth / x to the power n
+　　x &#8722;n x to the (power) minus n
+　　x (square) root x / the square root of x
+　　x 3 cube root (of) x
+　　x 4 fourth root (of) x
+　　x n nth root (of) x
+　　( x+y ) 2 x plus y all squared
+　　( x y ) 2 x over y all squared
+　　n! n factorial
+　　x ^ x hat
+　　x &macr; x bar
+　　x &#732; x tilde
+　　x i xi / x subscript i / x suffix i / x sub i
+　　‘ i=1 n a i the sum from i equals one to n a i / the sum as i runs from 1 
+to n of the a i
+　　4. Linear algebra
+　　゜ x ゜ the norm (or modulus) of x
+　　OA ★ OA / vector OA
+　　OA &macr; OA / the length of the segment OA
+　　A T A transpose / the transpose of A
+　　A &#8722;1 A inverse / the inverse of A
+　　5. Functions
+　　f( x ) fx / f of x / the function f of x
+　　f:S★T a function f from S to T
+　　x★y x maps to y / x is sent (or mapped) to y
+　　f'( x ) f prime x / f dash x / the (first) derivative of f with respect to 
+x
+　　f''( x ) f double-prime x / f double-dash x / the second derivative of f 
+with respect to x
+　　f'''( x ) triple-prime x / f triple-dash x / the third derivative of f with 
+respect to x
+　　f (4) ( x ) f four x / the fourth derivative of f with respect to x
+　　&#8706;f &#8706; x 1 the partial (derivative) of f with respect to x1
+　　&#8706; 2 f &#8706; x 1 2 the second partial (derivative) of f with respect to x1
+　　〈 0 ± the integral from zero to infinity
+　　lim&#8289; x★0 the limit as x approaches zero
+　　lim&#8289; x★ 0 + the limit as x approaches zero from above
+　　lim&#8289; x★ 0 &#8722; the limit as x approaches zero from below
+　　log e y log y to the base e / log to the base e of y / natural log (of) 
+y
+　　ln&#8289;y log y to the base e / log to the base e of y / natural log (of) y
+　
+&nbsp;
+　栖坿:朴匙縮圄芙曝2&nbsp; 

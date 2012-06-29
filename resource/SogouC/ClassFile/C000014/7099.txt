@@ -1,0 +1,680 @@
+
+
+自动滚动
+var theFloaters = new floaters();
+
+theFloaters.play();
+
+
+var formlist='';
+formlist=formlist+'';
+formlist=formlist+'自动滚动';
+theFloaters.addItem('formdiv2','document.body.clientWidth-106',0,formlist);
+
+theFloaters.play();
+
+TimeScrollCentAll();
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第四局");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","休息");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","休息");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","休息");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","休息");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","休息");
+
+SetCookie("sports007MenLeft"," ")
+
+SetCookie("sports007MenRight"," ")
+
+搜狐直播员: 北京时间4月26日9点30分，搜狐体育将为您带来NBA季后赛首轮，马刺和国王的第二场交锋，欢迎收看 [0:0 ] 
+搜狐直播员: 在双方的第一场比赛中，马刺大胜而归，这让他们占得比赛先机。 [0:0 ] 
+搜狐直播员: 作为西部常规赛头名，马刺面对西部第八的国王，必然不会放过横扫的机会 [0:0 ] 
+搜狐直播员: 国王的先发五虎是：毕比、威尔斯、托马斯、马丁和米勒 [0:0 ] 
+搜狐直播员: 马刺的先发五虎是：吉诺比利、帕克、邓肯、鲍文和穆罕默德 [0:0 ] 
+搜狐直播员: 双方的第一节比赛开始了 [0:0 ] 
+搜狐直播员: 国王跳球成功后发动进攻，马丁投篮偏出 [0:0 ] 
+搜狐直播员: 邓肯取得篮板，但是之后他的投篮也没有命中 [0:0 ] 
+搜狐直播员: 鲍文防守犯规，但是之后国王的托马斯出现了一次传球失误 [0:0 ] 
+搜狐直播员: 吉诺比利投篮不中 [0:0 ] 
+搜狐直播员: 毕比右翼尝试三分不中，邓肯的篮板 [0:0 ]
+SetCookie("sports007centLeft","2");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 邓肯接到穆罕默德传球后上篮得分 [2:0 ] 
+搜狐直播员: 米勒内线投篮不中，邓肯的篮板 [2:0 ] 
+搜狐直播员: 马丁防守犯规 [2:0 ]
+SetCookie("sports007centLeft","5");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 吉诺比利接到邓肯传球后三分命中 [5:0 ]
+SetCookie("sports007centLeft","5");SetCookie("sports007centRight","2");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 威尔斯内线跳投得分，米勒的助攻 [5:2 ] 
+搜狐直播员: 帕克左翼投篮不中，托马斯的篮板 [5:2 ] 
+搜狐直播员: 米勒跳投偏出，马丁取得篮板，造成了邓肯的犯规 [5:2 ]
+SetCookie("sports007centLeft","5");SetCookie("sports007centRight","4");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 马丁两罚全中 [5:4 ] 
+搜狐直播员: 米勒从邓肯手中断球成功 [5:4 ]
+SetCookie("sports007centLeft","5");SetCookie("sports007centRight","6");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 威尔斯快速上篮得手 [5:6 ]
+SetCookie("sports007centLeft","8");SetCookie("sports007centRight","6");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 吉诺比利右翼三分出手再次命中，帕克的助攻 [8:6 ]
+SetCookie("sports007centLeft","8");SetCookie("sports007centRight","8");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 托马斯16尺处跳投得分 [8:8 ]
+SetCookie("sports007centLeft","8");SetCookie("sports007centRight","10");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 毕比断下帕克的手中球，之后马丁再得两分 [8:10 ] 
+搜狐直播员: 吉诺比利三分不中，威尔斯的篮板 [8:10 ]
+SetCookie("sports007centLeft","8");SetCookie("sports007centRight","12");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 毕比助攻，托马斯扣篮得分 [8:12 ] 
+搜狐直播员: 第一节比赛还剩7分钟，马刺请求暂停 [8:12 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [8:12 ] 
+搜狐直播员: 威尔斯防守犯规，之后吉诺比利扣篮不中 [8:12 ] 
+搜狐直播员: 吉诺比利左侧底角出手三分偏出，米勒的篮板 [8:12 ] 
+搜狐直播员: 毕比的三分也灭有命中 [8:12 ] 
+搜狐直播员: 马丁防守犯规 [8:12 ] 
+搜狐直播员: 马刺用芬利换下了吉诺比利 [8:12 ] 
+搜狐直播员: 国王用哈特换下马丁 [8:12 ]
+SetCookie("sports007centLeft","10");SetCookie("sports007centRight","12");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 芬利上场后立即投篮得到两分 [10:12 ] 
+搜狐直播员: 毕比右翼出手不中，之后托马斯的补篮也没有进 [10:12 ]
+SetCookie("sports007centLeft","10");SetCookie("sports007centRight","14");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 马丁投篮命中两分 [10:14 ]
+SetCookie("sports007centLeft","12");SetCookie("sports007centRight","14");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 帕克上篮得分 [12:14 ]
+SetCookie("sports007centLeft","12");SetCookie("sports007centRight","16");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 毕比跳投得分，米勒的助攻 [12:16 ] 
+搜狐直播员: 帕克投篮不中，托马斯的篮板 [12:16 ]
+SetCookie("sports007centLeft","12");SetCookie("sports007centRight","18");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 托马斯接到毕比传球后得到两分 [12:18 ] 
+搜狐直播员: 托马斯防守犯规 [12:18 ] 
+搜狐直播员: 马刺用霍利换下穆罕默德 [12:18 ]
+SetCookie("sports007centLeft","14");SetCookie("sports007centRight","18");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 邓肯两罚全中 [14:18 ]
+SetCookie("sports007centLeft","14");SetCookie("sports007centRight","20");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 威尔斯跳投得到两分 [14:20 ] 
+搜狐直播员: 邓肯左翼投篮不中，帕克取得篮板 [14:20 ] 
+搜狐直播员: 哈特传球出现了失误 [14:20 ]
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","20");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 帕克获得两次罚球机会，全部命中 [16:20 ] 
+搜狐直播员: 第一节比赛还剩3分54秒，国王请求暂停 [16:20 ] 
+搜狐直播员: 马刺用内斯特洛维奇换下了邓肯 [16:20 ] 
+搜狐直播员: 托马斯尝试扣篮不中，芬利取得篮板 [16:20 ] 
+搜狐直播员: 帕克在进攻中出现了走步的失误 [16:20 ] 
+搜狐直播员: 内斯特洛维奇防守犯规 [16:20 ] 
+搜狐直播员: 国王用阿卜杜拉希姆换下了米勒 [16:20 ] 
+搜狐直播员: 毕比两罚一中，内斯特洛维奇的防守篮板 [16:20 ]
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","21");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 帕克进攻24秒违例 [16:21 ]
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","23");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 威尔斯投篮命中 [16:23 ]
+SetCookie("sports007centLeft","18");SetCookie("sports007centRight","23");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 鲍文接到帕克传球后左翼跳投得分 [18:23 ] 
+搜狐直播员: 毕比右翼投篮不中，托马斯抢到进攻篮板，但是上篮也不中 [18:23 ]
+SetCookie("sports007centLeft","18");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 阿卜杜拉希姆上篮得分 [18:25 ] 
+搜狐直播员: 芬利右翼底角出手三分不中，毕比的篮板 [18:25 ]
+SetCookie("sports007centLeft","18");SetCookie("sports007centRight","27");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 毕比妙传，阿卜杜拉希姆扣篮得分 [18:27 ] 
+搜狐直播员: 阿卜杜拉希姆还造成了芬利的防守犯规 [18:27 ] 
+搜狐直播员: 马刺用吉诺比利换下鲍文 [18:27 ]
+SetCookie("sports007centLeft","18");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 阿卜杜拉希姆加罚命中 [18:28 ]
+SetCookie("sports007centLeft","20");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 帕克快速突破上篮得分 [20:28 ]
+SetCookie("sports007centLeft","20");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 威尔斯随即也上篮得到两分 [20:30 ] 
+搜狐直播员: 芬利左翼投篮不中 [20:30 ]
+SetCookie("sports007centLeft","23");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 帕克断下了威尔斯的传球，之后助攻霍利左翼三分命中 [23:30 ] 
+搜狐直播员: 第一节比赛结束了，国王30比23领先马刺七分 [23:30 ]
+SetCookie("sports007MenLeft","第一节，23分")
+
+SetCookie("sports007MenRight","第一节，30分")
+
+SetCookie("sports007centLeft","23");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 第二节比赛开始，首先由马刺发动进攻 [23:30 ] 
+搜狐直播员: 吉诺比利投篮不中，毕比取得篮板 [23:30 ] 
+搜狐直播员: 哈特16尺处的投篮同样没有得分 [23:30 ] 
+搜狐直播员: 吉诺比利取得篮板 [23:30 ] 
+搜狐直播员: 毕比防守犯规 [23:30 ]
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 埃克塞尔两罚全中 [25:30 ]
+SetCookie("sports007centLeft","26");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 埃克塞尔的第三罚也进了 [26:30 ] 
+搜狐直播员: 托马斯失误，吉诺比利断球成功 [26:30 ]
+SetCookie("sports007centLeft","29");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 之后霍利接到吉诺比利助攻后右翼三分出手命中 [29:30 ] 
+搜狐直播员: 第二节比赛还剩10分48秒，国王请求了暂停 [29:30 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [29:30 ] 
+搜狐直播员: 托马斯上篮不中 [29:30 ] 
+搜狐直播员: 国王用马丁换下哈特 [29:30 ] 
+搜狐直播员: 毕比高位出手三分偏出，马丁取得进攻篮板 [29:30 ] 
+搜狐直播员: 埃克塞尔防守犯规 [29:30 ] 
+搜狐直播员: 托马斯进攻导致24秒违利 [29:30 ]
+SetCookie("sports007centLeft","32");SetCookie("sports007centRight","30");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 霍利接到芬利传球后再度出手三分命中 [32:30 ] 
+搜狐直播员: 威尔斯右翼投篮不中，威尔斯取得篮板，造成了托马斯的犯规 [32:30 ] 
+搜狐直播员: 马刺用鲍文换下了芬利 [32:30 ] 
+搜狐直播员: 邓肯换下了内斯特洛维奇 [32:30 ] 
+搜狐直播员: 国王用米勒换下了托马斯 [32:30 ] 
+搜狐直播员: 马刺在本节的开始阶段打出了一波9比0的进攻高潮 [32:30 ] 
+搜狐直播员: 阿卜杜拉希姆防守犯规，但是之后国王的霍利走步违例 [32:30 ]
+SetCookie("sports007centLeft","32");SetCookie("sports007centRight","31");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 霍利防守犯规，威尔斯两罚一中 [32:31 ] 
+搜狐直播员: 穆罕默德换下了霍利 [32:31 ]
+SetCookie("sports007centLeft","34");SetCookie("sports007centRight","31");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 吉诺比利右侧底角出手投篮得分 [34:31 ] 
+搜狐直播员: 毕比投篮不中，自己抢到篮板 [34:31 ] 
+搜狐直播员: 马丁的投篮也告偏出，穆罕默德的篮板 [34:31 ]
+SetCookie("sports007centLeft","34");SetCookie("sports007centRight","33");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 埃克塞尔投篮不中，威尔斯的篮板，之后威尔斯上篮得分 [34:33 ] 
+搜狐直播员: 米勒防守犯规，吉诺比利两罚不中 [34:33 ]
+SetCookie("sports007centLeft","34");SetCookie("sports007centRight","35");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 威尔斯上篮得分 [34:35 ]
+SetCookie("sports007centLeft","34");SetCookie("sports007centRight","37");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 马丁接到阿卜杜拉希姆传球后投篮命中 [34:37 ] 
+搜狐直播员: 埃克塞尔投篮不中，米勒的篮板 [34:37 ]
+SetCookie("sports007centLeft","34");SetCookie("sports007centRight","39");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 阿卜杜拉希姆上篮再得两分 [34:39 ]
+SetCookie("sports007centLeft","36");SetCookie("sports007centRight","39");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 穆罕默德接到帕克传球后投中两分 [36:39 ] 
+搜狐直播员: 国王用加西亚换下威尔斯 [36:39 ] 
+搜狐直播员: 鲍文防守犯规，之后阿卜杜拉希姆投篮不中，穆罕默德的篮板 [36:39 ] 
+搜狐直播员: 鲍文投篮不中，马刺摘得篮板 [36:39 ] 
+搜狐直播员: 第二节比赛还剩5分33秒，现在比赛进入官方暂时时间 [36:39 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [36:39 ]
+SetCookie("sports007centLeft","36");SetCookie("sports007centRight","41");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 阿卜杜拉希姆6尺处投篮命中 [36:41 ] 
+搜狐直播员: 阿卜杜拉希姆断下帕克的传球 [36:41 ] 
+搜狐直播员: 鲍文之后反断毕比的手中球 [36:41 ] 
+搜狐直播员: 穆罕默德投篮不中 [36:41 ]
+SetCookie("sports007centLeft","36");SetCookie("sports007centRight","43");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 马丁8尺处跳投命中 [36:43 ]
+SetCookie("sports007centLeft","39");SetCookie("sports007centRight","43");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 巴里接到鲍文传球后三分出手命中 [39:43 ] 
+搜狐直播员: 米勒右翼投篮不中，邓肯的篮板 [39:43 ] 
+搜狐直播员: 帕克跳投不中，米勒的篮板 [39:43 ]
+SetCookie("sports007centLeft","39");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 马丁11尺投篮得分 [39:45 ]
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 邓肯随即内线强攻还以颜色 [41:45 ] 
+搜狐直播员: 帕克防守犯规 [41:45 ] 
+搜狐直播员: 第二节比赛还剩2分45秒，马刺请求暂停 [41:45 ] 
+搜狐直播员: 国王用威尔斯换下了加西亚 [41:45 ] 
+搜狐直播员: 马刺用吉诺比利和霍利替下了鲍文和穆罕默德 [41:45 ]
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","46");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 毕比两罚一中 [41:46 ]
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 毕比的第三罚也命中了 [41:47 ]
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","50");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","47");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 吉诺比利接到邓肯助攻后三分出手命中 [44:47 ] 
+搜狐直播员: 米勒投篮不中，邓肯的篮板 [44:47 ] 
+搜狐直播员: 霍利上篮不中，阿卜杜拉希姆取得篮板 [44:47 ] 
+搜狐直播员: 巴里防守毕比时犯规 [44:47 ]
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","49");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 毕比两罚全中 [44:49 ] 
+搜狐直播员: 巴里上篮不中，马丁取得防守篮板 [44:49 ]
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 威尔斯突破投篮再得两分 [44:51 ]
+SetCookie("sports007centLeft","47");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 巴里接到帕克传球后左翼三分得手 [47:51 ] 
+搜狐直播员: 阿卜杜拉希姆19尺处跳投不中，帕克的篮板 [47:51 ]
+SetCookie("sports007centLeft","49");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 帕克漂亮的助攻帮助巴里扣篮得分 [49:51 ] 
+搜狐直播员: 邓肯内线防守犯规 [49:51 ] 
+搜狐直播员: 国王用托马斯换下阿卜杜拉希姆 [49:51 ]
+SetCookie("sports007centLeft","49");SetCookie("sports007centRight","53");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 马丁两罚全中 [49:53 ] 
+搜狐直播员: 巴里左翼出手不中，霍利取得进攻篮板 [49:53 ] 
+搜狐直播员: 马刺用穆罕默德换下邓肯 [49:53 ] 
+搜狐直播员: 国王的威尔斯防守犯规 [49:53 ]
+SetCookie("sports007centLeft","51");SetCookie("sports007centRight","53");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 霍利两罚全中 [51:53 ]
+SetCookie("sports007centLeft","51");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 米勒接到毕比传球后左翼尝试三分命中 [51:56 ] 
+搜狐直播员: 帕克最后时刻超远距离三分不中，穆罕默德取得篮板，但是比赛时间已到 [51:56 ] 
+搜狐直播员: 半场结束时，国王仍以56比51领先马刺五分 [51:56 ] 
+搜狐直播员: 马刺的吉诺比利和霍利各自得到了11分，邓肯和帕克也分别贡献了6分 [51:56 ] 
+搜狐直播员: 国王方面，威尔斯一人砍下19分，马丁也有14分进账，毕比和阿卜杜拉希姆分别取得7分 [51:56 ] 
+搜狐直播员: 休息一会儿，我们将为您带来双方下半场比赛的实况 [51:56 ]
+SetCookie("sports007MenLeft","第一节，23分第二节，28分")
+
+SetCookie("sports007MenRight","第一节，30分第二节，26分")
+ 
+搜狐直播员: 阿卜杜拉希 [51:56 ]
+SetCookie("sports007centLeft","51");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 双方第三节比赛开始了 [51:56 ]
+SetCookie("sports007centLeft","53");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 邓肯接到吉诺比利传球后投篮命中 [53:56 ] 
+搜狐直播员: 米勒进攻犯规 [53:56 ]
+SetCookie("sports007centLeft","56");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 吉诺比利7尺投篮得分，还造成威尔斯的犯规加罚命中 [56:56 ] 
+搜狐直播员: 威尔斯投篮不中，帕克取得防守篮板 [56:56 ] 
+搜狐直播员: 吉诺比利三分不中，毕比的篮板 [56:56 ] 
+搜狐直播员: 毕比投篮不中，邓肯抢到防守篮板 [56:56 ]
+SetCookie("sports007centLeft","58");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 吉诺比利接到帕克传球后上篮得分 [58:56 ] 
+搜狐直播员: 还造成了米勒的防守犯规 [58:56 ] 
+搜狐直播员: 第三接比赛还剩10分45秒，国王请求了暂停 [58:56 ] 
+搜狐直播员: 在下半场一开始，马刺就攻下一波7比0的进攻高潮 [58:56 ]
+SetCookie("sports007centLeft","59");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 吉诺比利加罚命中 [59:56 ] 
+搜狐直播员: 马丁右翼零度角三分出手不中，威尔斯取得进攻篮板 [59:56 ]
+SetCookie("sports007centLeft","59");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 威尔斯上篮得分 [59:58 ]
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 邓肯投篮不中，穆罕默德补篮命中 [61:58 ]
+SetCookie("sports007centLeft","63");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 马丁投篮不进，吉诺比利的篮板，之后吉诺比利上篮得分 [63:58 ] 
+搜狐直播员: 米勒右翼出手不中，马丁的篮板，但是毕比的投篮还是不进，鲍文护住防守篮板 [63:58 ] 
+搜狐直播员: 穆罕默德内线进攻三秒违例 [63:58 ] 
+搜狐直播员: 之后穆罕默德将功补过，断下米勒的传球 [63:58 ]
+SetCookie("sports007centLeft","65");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","65");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 穆罕默德接到帕克助攻后扣篮得分 [65:58 ] 
+搜狐直播员: 鲍文防守犯规 [65:58 ] 
+搜狐直播员: 马刺用芬利换下了鲍文 [65:58 ]
+SetCookie("sports007centLeft","65");SetCookie("sports007centRight","59");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 毕比第一罚命中 [65:59 ]
+SetCookie("sports007centLeft","65");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 毕比第二罚也进了 [65:60 ] 
+搜狐直播员: 邓肯7尺处投篮不中，马丁的篮板，之后邓肯防守犯规 [65:60 ]
+SetCookie("sports007centLeft","65");SetCookie("sports007centRight","62");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 马丁两罚全中 [65:62 ] 
+搜狐直播员: 托马斯防守犯规 [65:62 ]
+SetCookie("sports007centLeft","67");SetCookie("sports007centRight","62");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 吉诺比利两罚全中 [67:62 ] 
+搜狐直播员: 米勒左翼跳投偏出，邓肯的篮板 [67:62 ]
+SetCookie("sports007centLeft","69");SetCookie("sports007centRight","62");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 帕克妙传，邓肯轻松上篮得分 [69:62 ] 
+搜狐直播员: 毕比左翼尝试三分，但是没有进 [69:62 ]
+SetCookie("sports007centLeft","72");SetCookie("sports007centRight","62");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 吉诺比利奉献助攻，芬利左翼底角三分得手 [72:62 ] 
+搜狐直播员: 第三节比赛还剩6分50秒，国王请求暂停 [72:62 ] 
+搜狐直播员: 第三节打到现在，国王仅仅得到6分，而马刺已经砍下了21分 [72:62 ] 
+搜狐直播员: 马丁投篮不中，穆罕默德的篮板 [72:62 ] 
+搜狐直播员: 帕克左翼的投篮也没有得分，威尔斯取得篮板 [72:62 ] 
+搜狐直播员: 芬利防守犯规，马刺用霍利换下穆罕默德 [72:62 ] 
+搜狐直播员: 威尔斯9尺处投篮不中 [72:62 ] 
+搜狐直播员: 吉诺比利防守犯规 [72:62 ]
+SetCookie("sports007centLeft","72");SetCookie("sports007centRight","65");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 马丁接到毕比助攻后左侧零度角三分得手 [72:65 ]
+SetCookie("sports007centLeft","74");SetCookie("sports007centRight","65");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 帕克迅速上篮得分 [74:65 ] 
+搜狐直播员: 邓肯防守犯规 [74:65 ] 
+搜狐直播员: 马刺用内斯特洛维奇换下邓肯 [74:65 ]
+SetCookie("sports007centLeft","74");SetCookie("sports007centRight","67");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 托马斯两罚全中 [74:67 ] 
+搜狐直播员: 第三节比赛还剩5分16秒，马刺请求了暂停 [74:67 ]
+SetCookie("sports007centLeft","76");SetCookie("sports007centRight","67");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 吉诺比利高位接到帕克助攻后投篮得分 [76:67 ] 
+搜狐直播员: 吉诺比利随后防守犯规 [76:67 ] 
+搜狐直播员: 马刺用巴里换下了吉诺比利 [76:67 ]
+SetCookie("sports007centLeft","76");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 托马斯两罚全中 [76:69 ]
+SetCookie("sports007centLeft","78");SetCookie("sports007centRight","69");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 帕克突破内线跳投得分 [78:69 ]
+SetCookie("sports007centLeft","78");SetCookie("sports007centRight","71");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 米勒接到威尔斯传球后上篮得分 [78:71 ] 
+搜狐直播员: 帕克5尺处投篮不中 [78:71 ] 
+搜狐直播员: 马丁上篮不中，内斯特洛维奇的篮板 [78:71 ] 
+搜狐直播员: 巴里高位尝试三分偏出，托马斯的篮板 [78:71 ] 
+搜狐直播员: 毕比5尺处的跳投不中，米勒取得进攻篮板，并造成了内斯特洛维奇的犯规 [78:71 ]
+SetCookie("sports007centLeft","78");SetCookie("sports007centRight","73");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 米勒两罚全中 [78:73 ] 
+搜狐直播员: 帕克进攻犯规 [78:73 ] 
+搜狐直播员: 国王用阿卜杜拉希姆换下米勒 [78:73 ] 
+搜狐直播员: 巴里防守犯规 [78:73 ]
+SetCookie("sports007centLeft","78");SetCookie("sports007centRight","75");SetCookie("sports007centTime","第三节");
+
+SetCookie("sports007centLeft","78");SetCookie("sports007centRight","75");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 马丁两罚全中 [78:75 ] 
+搜狐直播员: 芬利9尺处跳投偏出，马丁取得篮板 [78:75 ] 
+搜狐直播员: 但是之后国王进攻24秒违例 [78:75 ]
+SetCookie("sports007centLeft","80");SetCookie("sports007centRight","75");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 巴里接到芬利传球后跳投得分 [80:75 ]
+SetCookie("sports007centLeft","80");SetCookie("sports007centRight","77");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 阿卜杜拉希姆随即投篮还以颜色 [80:77 ] 
+搜狐直播员: 巴里右翼底角三分出手不中，霍利取得进攻篮板，之后造成了阿卜杜拉希姆的犯规 [80:77 ] 
+搜狐直播员: 国王用哈特换下毕比 [80:77 ]
+SetCookie("sports007centLeft","82");SetCookie("sports007centRight","77");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 巴里两罚全中 [82:77 ]
+SetCookie("sports007centLeft","82");SetCookie("sports007centRight","79");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 阿卜杜拉希姆投篮得分 [82:79 ] 
+搜狐直播员: 哈特断下帕克的传球 [82:79 ] 
+搜狐直播员: 阿卜杜拉希姆5尺处投篮不中 [82:79 ] 
+搜狐直播员: 马刺用埃克塞尔和吉诺比利换下帕克和芬利 [82:79 ]
+SetCookie("sports007centLeft","82");SetCookie("sports007centRight","81");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 哈特右翼出手投篮命中 [82:81 ] 
+搜狐直播员: 吉诺比利的投篮不中，阿卜杜拉希姆得到篮板 [82:81 ] 
+搜狐直播员: 霍利防守犯规 [82:81 ] 
+搜狐直播员: 威尔斯第一罚不中 [82:81 ]
+SetCookie("sports007centLeft","82");SetCookie("sports007centRight","82");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 威尔斯第二罚命中 [82:82 ] 
+搜狐直播员: 埃克塞尔底线压哨三分不中 [82:82 ] 
+搜狐直播员: 第三节比赛结束，双方战成了82平 [82:82 ]
+SetCookie("sports007MenLeft","第一节，23分第二节，28分第三节，31分")
+
+SetCookie("sports007MenRight","第一节，30分第二节，26分第三节，26分")
+
+SetCookie("sports007centLeft","82");SetCookie("sports007centRight","82");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 双方的第四节比赛开始，首先由国王队进攻 [82:82 ]
+SetCookie("sports007centLeft","82");SetCookie("sports007centRight","84");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 托马斯奉献助攻，威尔斯爆扣得分 [82:84 ] 
+搜狐直播员: 阿卜杜拉希姆防守犯规 [82:84 ]
+SetCookie("sports007centLeft","84");SetCookie("sports007centRight","84");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 邓肯两罚全中 [84:84 ]
+SetCookie("sports007centLeft","84");SetCookie("sports007centRight","86");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 阿卜杜拉希姆4尺处投篮得分 [84:86 ] 
+搜狐直播员: 吉诺比利左翼三分不中，威尔斯的篮板 [84:86 ] 
+搜狐直播员: 马丁的三分也没有投进，威尔斯抢下进攻篮板，但是上篮不中 [84:86 ] 
+搜狐直播员: 威尔斯传球出现失误，之后防守犯规 [84:86 ] 
+搜狐直播员: 国王用毕比换下哈特 [84:86 ] 
+搜狐直播员: 埃克塞尔投篮不中 [84:86 ] 
+搜狐直播员: 毕比得到防守篮板，之后国王的进攻造成了邓肯的犯规 [84:86 ] 
+搜狐直播员: 马刺用穆罕默德换下了五次犯规的邓肯 [84:86 ] 
+搜狐直播员: 马丁右翼的投篮不中，国王得到进攻篮板 [84:86 ] 
+搜狐直播员: 穆罕默德断下毕比的传球 [84:86 ] 
+搜狐直播员: 埃克塞尔三分远投不中，穆罕默德的进攻篮板，但是之后霍利的三分还是不中 [84:86 ] 
+搜狐直播员: 毕比取得防守篮板 [84:86 ]
+SetCookie("sports007centLeft","84");SetCookie("sports007centRight","89");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 马丁接到托马斯传球后左翼三分命中 [84:89 ] 
+搜狐直播员: 第四节比赛还剩8分37秒，马刺请求暂停 [84:89 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [84:89 ] 
+搜狐直播员: 马刺用帕克换下埃克塞尔 [84:89 ] 
+搜狐直播员: 芬利换下了霍利 [84:89 ]
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","89");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 芬利上场之后立即发威，他接到鲍文传球后高位三分命中 [87:89 ]
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","91");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 阿卜杜拉希姆上篮得分 [87:91 ]
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","91");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 巴里也用相当的上篮手段得到两分 [89:91 ] 
+搜狐直播员: 穆罕默德防守犯规 [89:91 ]
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","93");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 阿卜杜拉希姆投篮不中，之后托马斯上篮得分 [89:93 ]
+SetCookie("sports007centLeft","92");SetCookie("sports007centRight","93");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 巴里接到芬利助攻后三分出手命中 [92:93 ] 
+搜狐直播员: 威尔斯左翼跳投不中 [92:93 ]
+SetCookie("sports007centLeft","93");SetCookie("sports007centRight","93");SetCookie("sports007centTime","第四节");
+
+SetCookie("sports007centLeft","94");SetCookie("sports007centRight","93");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 帕克上篮得分 [94:93 ]
+SetCookie("sports007centLeft","94");SetCookie("sports007centRight","95");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 阿卜杜拉希姆接到托马斯传球后扣篮得分 [94:95 ] 
+搜狐直播员: 芬利右翼底角出手三分不中，毕比取得篮板 [94:95 ] 
+搜狐直播员: 巴里防守犯规 [94:95 ] 
+搜狐直播员: 比赛还剩5分16秒，现在进入官方暂停时间 [94:95 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [94:95 ] 
+搜狐直播员: 马刺用内斯特洛维奇换下了穆罕默德 [94:95 ] 
+搜狐直播员: 吉诺比利换下巴里 [94:95 ] 
+搜狐直播员: 毕比两罚全中 [94:97 ]
+SetCookie("sports007centLeft","96");SetCookie("sports007centRight","97");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 内斯特洛维奇接到吉诺比利传球后6尺处跳投命中 [96:97 ] 
+搜狐直播员: 马刺用邓肯换下了内斯特洛维奇 [96:97 ]
+SetCookie("sports007centLeft","96");SetCookie("sports007centRight","99");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 威尔斯投篮命中两分 [96:99 ]
+SetCookie("sports007centLeft","98");SetCookie("sports007centRight","99");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 帕克上篮得手 [98:99 ] 
+搜狐直播员: 帕克还造成了马丁的犯规，但是加罚不中 [98:99 ] 
+搜狐直播员: 马刺用巴里换下鲍文 [98:99 ] 
+搜狐直播员: 毕比传球失误，之后阿卜杜拉希姆防守犯规 [98:99 ]
+SetCookie("sports007centLeft","99");SetCookie("sports007centRight","99");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 邓肯两罚一中 [99:99 ] 
+搜狐直播员: 阿卜杜拉希姆取得防守篮板 [99:99 ] 
+搜狐直播员: 比赛还剩3分45秒，国王请求暂停 [99:99 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [99:99 ]
+SetCookie("sports007centLeft","99");SetCookie("sports007centRight","101");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 阿卜杜拉希姆投篮命中两分 [99:101 ]
+SetCookie("sports007centLeft","101");SetCookie("sports007centRight","101");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 巴里接到吉诺比利传球后上篮得手 [101:101 ] 
+搜狐直播员: 芬利防守犯规 [101:101 ]
+SetCookie("sports007centLeft","101");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 威尔斯两罚一中 [101:102 ] 
+搜狐直播员: 吉诺比利右侧零度角出手三分不中，阿卜杜拉希姆的篮板 [101:102 ] 
+搜狐直播员: 毕比高位尝试远投也没有命中，帕克取得防守篮板 [101:102 ]
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","102");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 帕克8尺处跑投得手 [103:102 ] 
+搜狐直播员: 吉诺比利防守犯规 [103:102 ]
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","104");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 阿卜杜拉希姆两罚全中 [103:104 ] 
+搜狐直播员: 邓肯5尺处投篮不中，阿卜杜拉希姆的篮板 [103:104 ] 
+搜狐直播员: 威尔斯关键时刻进攻犯规 [103:104 ] 
+搜狐直播员: 帕克左翼12尺跳投不中 [103:104 ]
+SetCookie("sports007centLeft","103");SetCookie("sports007centRight","106");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 阿卜杜拉希姆取得篮板，之后他跳投命中 [103:106 ] 
+搜狐直播员: 比赛还剩最后的49.6秒，马刺落后三分请求暂停 [103:106 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [103:106 ]
+SetCookie("sports007centLeft","105");SetCookie("sports007centRight","106");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 芬利接到吉诺比利传球后右翼底角投篮命中 [105:106 ] 
+搜狐直播员: 毕比跳投不中，威尔斯得到进攻篮板 [105:106 ] 
+搜狐直播员: 帕克防守犯规 [105:106 ] 
+搜狐直播员: 马刺用穆罕默德换下了芬利 [105:106 ] 
+搜狐直播员: 霍利换下了巴里 [105:106 ]
+SetCookie("sports007centLeft","105");SetCookie("sports007centRight","107");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 威尔斯两罚一中 [105:107 ] 
+搜狐直播员: 比赛还剩20.1秒，马刺请求暂停 [105:107 ] 
+搜狐直播员: 马刺用巴里换下了霍利 [105:107 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [105:107 ] 
+搜狐直播员: 马刺用芬利换下了穆罕默德 [105:107 ] 
+搜狐直播员: 威尔斯防守犯规 [105:107 ] 
+搜狐直播员: 国王用米勒换下了威尔斯 [105:107 ] 
+搜狐直播员: 马刺用内斯特洛维奇换下了巴里 [105:107 ] 
+搜狐直播员: 吉诺比利关键时刻两罚不中 [105:107 ]
+SetCookie("sports007centLeft","106");SetCookie("sports007centRight","107");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 吉诺比利两罚一中 [106:107 ] 
+搜狐直播员: 马刺用鲍文换下了芬利 [106:107 ] 
+搜狐直播员: 比赛还剩最后的17.1秒，国王请求暂停 [106:107 ] 
+搜狐直播员: 马刺用巴里换下了内斯特洛维奇 [106:107 ] 
+搜狐直播员: 吉诺比利防守犯规 [106:107 ] 
+搜狐直播员: 马刺用霍利换下了鲍文 [106:107 ]
+SetCookie("sports007centLeft","106");SetCookie("sports007centRight","109");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 马丁两罚全中 [106:109 ] 
+搜狐直播员: 国王用加西亚换下了米勒 [106:109 ] 
+搜狐直播员: 比赛还剩14.6秒，马刺请求了20秒的短暂停 [106:109 ] 
+搜狐直播员: 看来马刺将采用三分策略了 [106:109 ]
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","109");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 关键时刻，巴里接到吉诺比利的传球后右翼底角三分命中！ [109:109 ] 
+搜狐直播员: 比赛还剩最后4秒，国王请求了20秒的短暂停 [109:109 ] 
+搜狐直播员: 阿卜杜拉希姆最后时刻出手不中 [109:109 ] 
+搜狐直播员: 比赛结束，双方战成109平，将进入加时赛 [109:109 ]
+SetCookie("sports007MenLeft","第一节，23分第二节，28分第三节，31分第四节，27分")
+
+SetCookie("sports007MenRight","第一节，30分第二节，26分第三节，26分第四节，27分")
+
+SetCookie("sports007centLeft","109");SetCookie("sports007centRight","109");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 加时赛比赛开始，经过跳球后，马刺获得进攻权 [109:109 ] 
+搜狐直播员: 阿卜杜拉希姆防守犯规 [109:109 ]
+SetCookie("sports007centLeft","110");SetCookie("sports007centRight","109");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 邓肯两罚一中 [110:109 ] 
+搜狐直播员: 阿卜杜拉希姆得到防守篮板 [110:109 ]
+SetCookie("sports007centLeft","110");SetCookie("sports007centRight","111");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 毕比接到托马斯传球后右翼跳投得分 [110:111 ]
+SetCookie("sports007centLeft","112");SetCookie("sports007centRight","111");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 吉诺比利上篮得手，巴里的助攻 [112:111 ]
+SetCookie("sports007centLeft","112");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 托马斯助攻，毕比高位投篮命中 [112:113 ] 
+搜狐直播员: 邓肯12尺处投篮不中，阿卜杜拉希姆的篮板 [112:113 ]
+SetCookie("sports007centLeft","114");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 邓肯断下毕比的传球，之后帕克接到吉诺比利传球后投篮命中 [114:113 ] 
+搜狐直播员: 毕比左翼中投不中，邓肯的篮板 [114:113 ] 
+搜狐直播员: 毕比防守犯规 [114:113 ]
+SetCookie("sports007centLeft","116");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 吉诺比利两罚全中 [116:113 ] 
+搜狐直播员: 马刺用鲍文换下了巴里 [116:113 ]
+SetCookie("sports007centLeft","117");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 吉诺比利第三罚也命中了 [117:113 ] 
+搜狐直播员: 比赛还剩2分38秒，国王请求暂停 [117:113 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [117:113 ] 
+搜狐直播员: 马刺用内斯特洛维奇换下了邓肯 [117:113 ] 
+搜狐直播员: 哈特关键时刻进攻犯规 [117:113 ] 
+搜狐直播员: 比赛还剩2分27秒，马刺请求暂停 [117:113 ] 
+搜狐直播员: 马刺用邓肯换下了内斯特洛维奇 [117:113 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [117:113 ] 
+搜狐直播员: 马刺又用巴里换希了鲍文 [117:113 ] 
+搜狐直播员: 帕克9尺处跳投不中，阿卜杜拉希姆的篮板 [117:113 ] 
+搜狐直播员: 阿卜杜拉希姆左翼的投篮也没有得分，巴里取得篮板 [117:113 ]
+SetCookie("sports007centLeft","119");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 吉诺比利上篮得分，还造成了哈特的犯规 [119:113 ]
+SetCookie("sports007centLeft","120");SetCookie("sports007centRight","113");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 吉诺比利加罚命中 [120:113 ] 实时技术统计 
+搜狐直播员: 比赛还剩1分40秒，国王请求暂停 [120:113 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [120:113 ]
+SetCookie("sports007centLeft","120");SetCookie("sports007centRight","115");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 阿卜杜拉希姆内线跳投得分 [120:115 ] 
+搜狐直播员: 邓肯进攻违例 [120:115 ] 实时技术统计 
+搜狐直播员: 马刺用鲍文换下了巴里 [120:115 ] 
+搜狐直播员: 内斯特洛维奇换下了邓肯 [120:115 ]
+SetCookie("sports007centLeft","120");SetCookie("sports007centRight","117");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 阿卜杜拉希姆投篮再得两分 [120:117 ]
+SetCookie("sports007centLeft","122");SetCookie("sports007centRight","117");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 内斯特洛维奇接道吉诺比利传球后上篮命中 [122:117 ] 
+搜狐直播员: 国王进攻违例 [122:117 ] 
+搜狐直播员: 比赛还剩1分09秒，马刺请求暂停 [122:117 ] 
+搜狐直播员: 马刺用邓肯换下了内斯特洛维奇 [122:117 ] 
+搜狐直播员: 巴里换下鲍文 [122:117 ] 
+搜狐直播员: 吉诺比利右翼跳投不中 [122:117 ] 
+搜狐直播员: 邓肯取得进攻篮板，之后帕克造成了马丁的犯规 [122:117 ] 
+搜狐直播员: 马刺用鲍文换下了巴里 [122:117 ]
+SetCookie("sports007centLeft","124");SetCookie("sports007centRight","117");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 帕克两罚全中 [124:117 ] 
+搜狐直播员: 比赛还剩最后的39.9秒，国王请求暂停 [124:117 ] 
+搜狐直播员: 阿卜杜拉希姆左翼底角三分不中，芬利取得篮板 [124:117 ] 
+搜狐直播员: 哈特防守犯规 [124:117 ]
+SetCookie("sports007centLeft","126");SetCookie("sports007centRight","117");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 帕克两罚全中 [126:117 ]
+SetCookie("sports007centLeft","126");SetCookie("sports007centRight","119");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 哈特上篮得分，之后迅速犯规 [126:119 ]
+SetCookie("sports007centLeft","128");SetCookie("sports007centRight","119");SetCookie("sports007centTime","加时");
+ 
+搜狐直播员: 芬利两罚全中 [128:119 ] 
+搜狐直播员: 哈特上篮偏出 [128:119 ] 
+搜狐直播员: 全场比赛结束，最终马刺经过加时以128比119击败了国王，总比分2比0领先对手 [128:119 ] 

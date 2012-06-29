@@ -1,0 +1,84 @@
+
+
+.digi12 a:link {color: #585858;text-decoration: none;font-size:12px;;line-height:18px;}
+.digi12 a:visited {color: #585858;text-decoration: none;font-size:12px;;line-height:18px;}
+.digi12 a:hover {color: #CC3300;text-decoration: underline;font-size:12px;;line-height:18px;}
+.digi12 a:active {color: #CC3300;text-decoration: underline;font-size:12px;;line-height:18px;}
+
+
+
+
+
+　左右间IT评论作者信息
+
+
+作者
+&nbsp;&nbsp;张樊
+
+
+专栏
+&nbsp;&nbsp;法眼看网
+
+
+搜狐博客
+&nbsp;&nbsp;网络法论坛
+
+
+博粹指数
+&nbsp;&nbsp;网络法论坛
+
+
+免责声明
+&nbsp;&nbsp;左右间刊载此文旨在传达更多信息，非代表自身观点和立场，如有疑问请邮件至chenzhong05#hotmail.com
+　　【搜狐IT左右间】（文/张樊）曾经在TCL缔造了神话的“手机狂人”万明坚近日在北京就国产手机发出了与市场不一般的声音，“问题在于，国产手机市场的价格战还不够多”。万明坚推崇价格战，他认为，国产手机的希望就在于价格战，要有雄厚的资本，以大规模制造加快产业淘汰进度，弱小厂商被淘汰出局。只要不把自己弄死的价格战，都是理性的，这要拼资金和制造规模。
+　　诚然对国产手机，国人都寄予了厚望，即使是在市场全面被洋品牌挤压的2005年，国人一样为国产手机摇旗呐喊，希望能够收复失地，甚至占据国内绝大部分市场份额。国产手机该如何在与洋品牌的竞争中取得优势呢？万明坚所推崇的价格战并不是一条“光明大道”，而是将国产手机推向“万劫不复”。
+　　万明坚自己也说，“洋品牌和国产品牌，都是几个做得好，几个做得不好”，我们要比的是诺基亚、摩托罗拉和三星等国外品牌，而不是松下、NEC等已经逐渐退出中国市场的日本品牌。万明坚提出了价格战就是要拼“资金和制造规模”，可是在这两项上，国产手机有哪一家厂商能够比得上诺基亚、摩托罗拉等洋品牌呢？美国加特纳数据搜索公司最新数据显示，2005年全球共售出8.17亿部手机，其中诺基亚、摩托罗拉、三星、LG、索爱和西门子六大手机生产商共占有79.4％的市场份额。诺基亚、摩托罗拉和三星销售的手机数量就分别达到了2.66亿部、1.45亿部和1.04亿部，排名前三。而这个数字不少就是在中国市场贡献的，它们三家目前也是中国市场的前三名。
+　　那么在资金和制造规模上跟它们有得一拼吗？万明坚提出国虹手机今年的目标是200万台，这个数字在洋品牌的国内出货量千万级的出货量面前真是汗颜。国产手机去跟洋品牌拼资金和制造规模无疑是拿小木船去撞大轮船。2004年摩托罗拉就宣布推出了４０美元手机，包括诺基亚、飞利浦等在内的众多其它厂商都宣称要推出各自的超低价手机。如此一来，如果诺基亚等洋品牌的价格也一再降低，参与到价格战，其资金和规模优势将比国产手机大得多，国产手机如何玩得过呢？
+
+
+
+
+小调查
+
+1、是否同意万明坚观点:国产手机市场价格战还不够多?
+
+同意,我支持这个说法
+
+不同意,根本不正确
+
+不好说,大家立场不同  
+
+     
+
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }
+
+　　我们应该看到目前国产手机市场正在回暖，可是这种回暖并不是靠价格战获得的。联想手机已经成为了国产手机的排头兵，在国内手机市场的份额仅次于诺基亚、摩托罗拉、三星等三大洋品牌，位居第四。联想手机成绩的取得靠的是长期技术的积累所迸发出的创新和对中国市场的准确把握，并不是参与价格战所获得的。同样国内仍然有一家企业的手机价格仍然高高在上，但是仍然把握住了自己在市场上的一份天地，这就是多普达。它靠的也是技术上的创新，在智能手机技术上所获得的优势地位。
+　　国产手机厂商都希望手机也一样能够重新演绎中国家电业的发展历史。中国家电企业在国内市场击败日本电视机厂商，表面上看主要原因是价格要比日本彩电低。其实并不然，光价格便宜，消费者并不一定买你的商品，正所谓“质优价廉”，“质优”必须是前提。国产家电企业在技术上做到了跟日本品牌相差无几，再以低廉的价格销售，消费者才接受，夺取了市场。而如今，国产手机“价廉”是做到了，可是无法做到“质优”，质量上的诸多缺陷让消费者无法信任，才更多地接受洋品牌。所以说一味地在价格战上做文章，是本末倒置，国产手机要振兴，技术要先行，才能再谈“价格战”的问题。
+  
+
+  
+.digi12 a:link {color: #585858;text-decoration: none;font-size:12px;;line-height:18px;}
+.digi12 a:visited {color: #585858;text-decoration: none;font-size:12px;;line-height:18px;}
+.digi12 a:hover {color: #CC3300;text-decoration: underline;font-size:12px;;line-height:18px;}
+.digi12 a:active {color: #CC3300;text-decoration: underline;font-size:12px;;line-height:18px;}
+
+   
+       小调查
+      &nbsp;&nbsp; 左右间调查：三成网友力挺万明坚      
+    
+    
+     
+       驳万派
+      &nbsp; &nbsp;万明坚：给我至少一个相信你的理由
+    
+     
+       驳万派
+      &nbsp; &nbsp;驳万明坚：价格战并非国产手机救命稻草
+    
+     
+       挺万派
+      &nbsp; &nbsp;声援万明坚：面向农村价格战就应进行到底
+    
+    
+  
+

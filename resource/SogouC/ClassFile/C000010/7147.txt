@@ -1,0 +1,5 @@
+　【eNet硅谷动力消息】苹果公司 (Apple(R)) 今天推出其获奖的桌面管理软件的第三代版本 Apple Remote Desktop(TM) 3。建基于 Mac OS(R) X 版本 10.4 "Tiger" 的创新功能 Spotlight(TM)、Dashboard 和 Automator 等的 Apple Remote Desktop 3 是通用型应用软件，经过优化可利用基于英特尔的 Macs 的功效，具有50多种新功能以改善软件发布、资产管理和远程协助。　　 
+
+　　苹果负责全球产品市场推广的高级副总裁 Philip Schiller 表示：“凭借 Apple Remote Desktop 3，我们带来了强大的创新功能，使管理Macs 的操作更简单、费用更低廉。远程 Spotlight 搜索和定制 Automator 动作等新特色利用了 Tiger 的创新功能，使 Apple Remote Desktop 3 成为任何一个管理多个 Mac 的人员的优质工具。”　 
+
+　　Apple Remote Desktop 3 提供各种高性能桌面管理功能，包括在多个 Tiger 系统上进行的超快速 Spotlight 搜索；用于轻松自动化重复的系统管理任务的30多种 Automator 动作；用于快速方便地远程系统观测的 Dashboard Widget；以及用于自动在在线移动系统上安装软件的 AutoInstall。

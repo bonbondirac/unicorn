@@ -1,0 +1,6 @@
+
+　　支持PayPalMobile的服务标有“Text2Buy”标志。购买商品时，将服务固有的号码和指定的文章记入文本信息中发送出去。就是可通过PayPal 
+Mobile购买的DVD杂志广告。
+　　美国eBay公司关联企业、电子商务结算系统巨头美国PayPal公司开始提供手机结算服务“PayPalMobile”。这是该公司总裁JeffJordan在日前举办的CTIA展会主题演讲上宣布的。Jordan指出，PayPal公司的结算系统是从PDA服务开始的。“现在已是人人随身携带手机外出的时代。移动结算成为主流的时代已经到来”。
+　　PayPalMobile是一种使用文本信息的结算系统。PayPalMobile专用网站上申请账户后，设置个人识别码。进行结算时，用户将记述结算信息的文本信息发送到PayPal公司的服务器。服务器为确认结算详情，以语音方式给用户打电话。对内容确认完毕的用户通过手机发送个人识别码，得到认证后结算完成。使用PayPalMobile，用户不仅可购买物品，还可向个人转账或汇款。销售美国二十世纪家庭娱乐、美国MTV 
+Networks、美国Bravo公司DVD等商品的服务支持PayPal Mobile。

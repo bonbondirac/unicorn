@@ -1,0 +1,9 @@
+　　CNET科技资讯网4月24日国际报道 Ubuntu Linux计划希望在年底前发布一版产品，能同时纳入虚拟化与32-64位混和架构的技术。
+　　下一版Ubuntu版Linux称为Dapper Drake，预计6月1日发布，比原订计划晚了六周。创版人Mark Shuttleworth周三表示，这一版操作系统是给“想要有非常实际，非常稳定”的人士使用。
+　　接下来代号Edgy Eft版本“则会超先进，有全新的源代码与架构。”他说。
+　　“我们希望在下一版中加入一些非主流的东西，探索一些前人没有做过的领域，”Shuttleworth在email中跟成员如此解释。
+　　Ubuntu版本出现不到两年，但却很快成了Linux社区的瞩目对象。
+　　Edgy Eft预计在2006年十月推出，加入的功能包括支持XGL显卡软件与Smart Package Manager，可方便进行软件安装与升级。
+　　“你可想像加入Xen虚拟技术，Xgl/AIGLX与其他很棒的windows元件，还有Network Manager，并首度尝试在AMD64上面支持真正的32/64位混和运算环境，还有SMART套装管理软件等。”Shuttleworth如此表示。
+　　但Shuttleworth也表示哪些功能会加入将不是由他来决定，这会是由设群共同决定。
+　　“Edgy要加入哪些元素将由开发团队共同决定。”他说。

@@ -1,0 +1,11 @@
+
+　　摘要：一些主要Linux发行商宣布，为了在桌面系统市场挑战Windows，它们已经在桌面Linux标准化问题上达成一致。
+　　天极网4月23日消息(孙淑艳 编译) 
+据外电报道，上周五，一些主要Linux发行商宣布，为了在桌面系统市场挑战Windows，它们已经在桌面Linux标准化问题上达成一致。
+　　自由标准集团创建的该标准将使开发人员能够更方便地开发可以在不同版本的Linux上运行的软件。
+　　Linux在桌面系统市场上不能成为主流的部分原因是，各种版本的Linux互不兼容，用户很难知道一种软件能否在一台具体的Linux桌面系统上运行。自由标准集团的执行主任吉姆说，而这正是Windows的优势所在，Linux在这方面需要向Windows学习。标准化是普及的前提。
+　　FSG此前推出了服务器版Linux的标准Linux Standard Base，最新的Linux Standard Base 
+3.1将首次包括针对桌面系统的标准。Xandros、Novell、Red Hat、Debian、Ubuntu等都将推出支持该标准的产品。
+　　Linux Standard Base 3.1还实现了对KDE和GNOME二种Linux图形用户环境的兼容，这意味着符合Linux Standard 
+Base 3.1标准的应用软件能够同时在二种图形用户环境中运行。
+　　但是，开发商是否会开发用户所需要的全部软件的Linux版本还有待观察。另外，几乎所有PC厂商都预装Windows，这也是桌面Linux普及的一个拦路虎。

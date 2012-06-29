@@ -1,0 +1,128 @@
+
+搜狐直播员: 第二节比赛开始 [22:24 ]
+SetCookie("sports007centLeft","22");SetCookie("sports007centRight","26");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 夸梅-布朗跳投命中 [22:26 ] 
+搜狐直播员: 迪奥进攻犯规 [22:26 ] 搜狐网友：喜欢科比的举手！ 
+搜狐直播员: 湖人队进攻，豪斯犯规 [22:26 ] 
+搜狐直播员: 库克跳投偏出，巴博萨抢到篮板球 [22:26 ] 
+搜狐直播员: 蒂姆-托马斯跳投也不中 [22:26 ] 
+搜狐直播员: 布莱恩特抢到篮板球反击 [22:26 ]
+SetCookie("sports007centLeft","22");SetCookie("sports007centRight","29");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 布莱恩特传球，库克跳投三分球进 [22:29 ] 
+搜狐直播员: 豪斯跳投不中，沃顿抢到篮板球 [22:29 ] 
+搜狐直播员: 豪斯抢球时犯规了 [22:29 ] 搜狐网友：有喜欢纳什的嘛？举手看看！ 
+搜狐直播员: 贝尔换下了豪斯 [22:29 ] 
+搜狐直播员: 纳什换下了巴博萨 [22:29 ] 
+搜狐直播员: 布莱恩特跳投偏出，詹姆斯-琼斯抢到篮板球 [22:29 ] 
+搜狐直播员: 詹姆斯-琼斯三分不中 [22:29 ] 
+搜狐直播员: 蒂姆-托马斯抢球时犯规 [22:29 ]
+SetCookie("sports007centLeft","22");SetCookie("sports007centRight","31");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 沃顿接库克传球跳投球进 [22:31 ] 
+搜狐直播员: 第二节比赛开始后，湖人队打出了7-0的小高潮 [22:31 ] 
+搜狐直播员: 纳什进攻犯规 [22:31 ] 
+搜狐直播员: 太阳队叫了暂停 [22:31 ] 
+搜狐直播员: 第二节比赛还有9分11秒 [22:31 ] 搜狐网友：纳十是谁啊？？？ 我不认识 也不知道在什么地方冒出来的 
+搜狐直播员: 库克跳投不中 [22:31 ] 
+搜狐直播员: 蒂姆-托马斯抢到篮板球 [22:31 ] 
+搜狐直播员: 纳什走步违例 [22:31 ] 
+搜狐直播员: 马里昂换下了迪奥 [22:31 ]
+SetCookie("sports007centLeft","22");SetCookie("sports007centRight","33");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 帕克得球，扣篮球进 [22:33 ] 
+
+搜狐直播员: 乔治防守犯规 [22:33 ] 
+搜狐直播员: 奥多姆换下乔治 [22:33 ] 
+搜狐直播员: 贝尔跳投不中，奥多姆抢到篮板球 [22:33 ] 搜狐网友：中国就少一个能得分又能传球的后卫,其他的都不缺 
+搜狐直播员: 詹姆斯-琼斯防守犯规 [22:33 ]
+SetCookie("sports007centLeft","22");SetCookie("sports007centRight","35");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 帕克上篮球进 [22:35 ] 
+搜狐直播员: 蒂姆-托马斯跳投不中 [22:35 ] 
+搜狐直播员: 蒂姆-托马斯自己抢到篮板球，造成了布莱恩特犯规 [22:35 ] 
+搜狐直播员: 巴博萨换下了詹姆斯-琼斯 [22:35 ] 
+搜狐直播员: 沃顿防守犯规 [22:35 ] 
+搜狐直播员: 杰克逊换下了沃顿 [22:35 ] 
+搜狐直播员: 夸梅-布朗换下了库克 [22:35 ] 
+搜狐直播员: 马里昂跳投不中，巴博萨抢到篮板球 [22:35 ] 
+搜狐直播员: 巴博萨进攻违例 [22:35 ]
+SetCookie("sports007centLeft","22");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 夸梅-布朗罚球两罚一中 [22:36 ] 
+搜狐直播员: 迪奥抢到篮板球 [22:36 ] 
+搜狐直播员: 迪奥跳投不中，布莱恩特抢到篮板球 [22:36 ]
+SetCookie("sports007centLeft","22");SetCookie("sports007centRight","38");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 帕克传球，杰克逊跳投球进 [22:38 ]
+SetCookie("sports007centLeft","24");SetCookie("sports007centRight","38");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 贝尔跳投终于得分 [24:38 ] 搜狐网友：现在湖人进攻很猛.每个人好像都可以得分. 
+SetCookie("sports007centLeft","24");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+搜狐直播员: 奥多姆突破上篮球进 [24:40 ] 
+搜狐直播员: 马里昂跳投三分不中，杰克逊抢到篮板球 [24:40 ] 
+搜狐直播员: 杰克逊跳投也不中，纳什得球反击 [24:40 ]
+SetCookie("sports007centLeft","26");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 马里昂接纳什传球，上篮球进 [26:40 ] 
+搜狐直播员: 湖人队叫了暂停 [26:40 ] 
+搜狐直播员: 第二节比赛还有5分03秒的时间 [26:40 ] 搜狐网友：大家看看现在的比分..其实湖人一点也不比太阳差..只是看发挥 搜狐网友：湖人其他队员的状态不错，Kobe等到第四节爆发，比赛就完美了 搜狐体育：美媒体预测火箭选两猛将 大学助攻王有希望加盟 
+搜狐直播员: 暂停时间到，比赛继续进行 [26:40 ] 
+搜狐直播员: 夸梅-布朗失误 [26:40 ] 
+搜狐直播员: 杰克逊抢球时犯规 [26:40 ]
+SetCookie("sports007centLeft","28");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 贝尔罚球两罚两中 [28:40 ]
+SetCookie("sports007centLeft","28");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 奥多姆接杰克逊传球，上篮球进 [28:42 ] 搜狐网友：都什么时候了？太阳才这点分？不是他们风格啊！ 
+搜狐直播员: 迪奥失误，杰克逊抢断反击 [28:42 ] 
+搜狐直播员: 夸梅-布朗走步违例 [28:42 ]
+SetCookie("sports007centLeft","31");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 贝尔接巴博萨传球，三分远投命中 [31:42 ] 
+搜狐直播员: 帕克三分不中，杰克逊抢到篮板球补篮也不中 [31:42 ] 
+搜狐直播员: 马里昂抢到篮板球反击 [31:42 ] 
+搜狐直播员: 纳什跳投三分不中，布莱恩特抢到篮板球 [31:42 ] 
+搜狐直播员: 布莱恩特进攻犯规 [31:42 ]
+SetCookie("sports007centLeft","33");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 迪奥接纳什传球，跳投球进 [33:42 ]
+SetCookie("sports007centLeft","33");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 乌贾基茨接奥多姆传球，三分远投命中 [33:45 ]
+SetCookie("sports007centLeft","36");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 巴博萨传球，贝尔三分远投命中 [36:45 ] 
+搜狐直播员: 帕克失误 [36:45 ] 
+搜狐直播员: 比赛进入官方暂停时间 [36:45 ] 
+搜狐直播员: 第二节比赛还有2分03秒 [36:45 ] 搜狐网友：谁知道布什是谁？我不认识啊，是不是纳什的兄弟？ 
+搜狐直播员: 乔治换下了杰克逊 [36:45 ] 
+搜狐直播员: 迪奥进攻犯规 [36:45 ] 
+SetCookie("sports007centLeft","36");SetCookie("sports007centRight","48");SetCookie("sports007centTime","第二节");
+
+搜狐直播员: 奥多姆接帕克传球三分远投命中 [36:48 ] 
+搜狐直播员: 巴博萨上篮被夸梅-布朗盖帽 [36:48 ] 
+搜狐直播员: 乔治得球进攻 [36:48 ]
+SetCookie("sports007centLeft","36");SetCookie("sports007centRight","50");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 夸梅-布朗投篮球进 [36:50 ] 搜狐网友：是纳什的表弟，一个姓纳，一个姓布，所以只能是表亲！！
+SetCookie("sports007centLeft","36");SetCookie("sports007centRight","51");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 同时造成了格兰特犯规，夸梅-布朗加罚球进 [36:51 ] 
+搜狐直播员: 纳什失误，帕克断球反击 [36:51 ] 
+搜狐直播员: 格兰特抢球时犯规 [36:51 ] 搜狐网友：KOBE看来是奔三双去的，现在10分8个篮板4次助攻。但是他已经3次犯规了，可能犯规会限制他上场时间。
+SetCookie("sports007centLeft","36");SetCookie("sports007centRight","52");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","36");SetCookie("sports007centRight","53");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 帕克上篮球进 [36:53 ] 
+搜狐直播员: 奥多姆跳投三分不中，马里昂抢到篮板球 [36:53 ] 
+搜狐直播员: 巴博萨上篮不中，帕克抢到篮板球 [36:53 ] 
+搜狐直播员: 贝尔从帕克手里断球 [36:53 ]
+SetCookie("sports007centLeft","38");SetCookie("sports007centRight","53");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 贝尔上篮球进 [38:53 ] 
+搜狐直播员: 第二节比赛结束，湖人队53-38领先于太阳队 [38:53 ] 

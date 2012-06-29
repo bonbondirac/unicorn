@@ -1,0 +1,37 @@
+
+&nbsp;&nbsp;&nbsp; 
+1858年，苏格兰古董收藏家兰德在非洲的尼罗河边买进了一卷古埃及的纸草卷。他惊奇地发现，这个公元前1600年左右遗留下来的纸草卷中有一些明显的证据，表明古埃及人早在公元前1700年就已经在处理一些代数问题。从古埃及“法老”即国王统治的时期开始，人们一直在寻求这样一个相同的数学目标：使一个含有未知数的数学问题能够得到解决。这个纸草卷中就有一些含有未知数的数学问题，当然都是用象形文字表示的。例如有一个问题翻译成数学语言是：　　“啊哈，它的全部，它的，其和等于19。” 
+　　这里的“啊哈”就是当时古埃及人的未知数，如果用x表示这个未知数，问题就化为方程。解这个方程，得。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;　　更令人惊奇的是，虽然古埃及人没有我们今天所使用的方程之类的表示法，但也得出了这个答数。 
+　　公元825年左右，阿拉伯数学家阿勒·花刺子模写了一本书《希萨伯一阿一 亚一 亚伯尔哇 
+一姆夸巴拉》，意思是“方程的科学”。作者认为他在这本小小的著作里所选的材料是数学中最容易和最有用处的，同时也是人们在处理日常事物中所经常需要的。这本书的阿拉伯文版已经失传，但12世纪的一册拉丁文译本却流传至今。在这个译本中，把“阿—亚伯尔”译成拉丁语“algebra”，并作为一门学科。后来英语中也用“algebra”。　　&nbsp;中国则在清朝咸丰9年（1859年）由数学家李善兰译成“代数学”。　　代数对于算术来说，是一个巨大的进步。我们举一个例子：一个数乘以2，再除以3，等干40，求这个数。　　算术解法（公元1200年左右伊斯兰教的数学家们就是这样解的）：　　既然这个数的是40，&nbsp;&nbsp;&nbsp; 　　那么它的就是40的一半。即 20；&nbsp;&nbsp;&nbsp; 
+　　一个数的是20，&nbsp;&nbsp;&nbsp; 
+　　那么这个数是20的3倍，即60。　　代数解法：设某数为x，则&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; , 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+2x=120, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+∴ 
+x=60.　　可见代数解法比较简单明了　　代数的早期意义显然不限于方程。考古学家从幼发拉底河畔附近的一座寺庙图书馆里掘出来的数千块泥板中，发现有一些加法表、乘法表及一些平方表。有证据表明，美索不达米亚的祭司已经发现了平方表的用法，他们能够利用平方表算出任意两个自然数的积。例如计算102乘以96：　　第一步，102加上96，将和除以2，得99；　　第二步，102减去96，将差除以2，得3；　　第三步，查平方表，知99的平方是9801；　　第四步，查平方表，知3的平方是9；　　第五步，9801减去9，得到答数9792　　这些步骤应用代数就很容易解释清楚：设这两个自然数为x．y则
+
+　　&nbsp;所以我们宁可说，代数最早的意义是“用字母代表数”，方程仅仅是“用字母代表数”的一项应用。代数使人类对于数的认识大大加深了。　　再举一个有趣的例子：你记得这样一首儿歌吗？ 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+一只青蛙一张嘴&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+两个眼睛四条腿，&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+“扑通”一声跳下水。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+两只青蛙两张嘴，&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+四个眼睛八条腿，&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+“扑通”、“扑通”跳下水。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+...... 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+四只青蛙四张嘴．&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+八个眼睛十六条腿，&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+“通”、“通”、“通”、“通”跳下水 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+......　　从代数的意义来说，这首儿歌比较罗嗦。如果我们用字母a表示青蛙的数目，就可以把它简化成：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+　　　　　　　　　a只青蛙a张嘴&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+2a个眼睛4a条腿&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+a声“扑通”跳下水。 
+　　你看，这不是既准确又简洁吗？在代数中，还有许多通过“用字母代表数”来进行运算的方法。我相信同学们已经体会到代数的优点和学习它的乐趣。
+　　
+&nbsp;
+来源:高中数学

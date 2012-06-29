@@ -1,0 +1,5 @@
+　　美国飞思卡尔半导体公司将退出超宽带无线技术普及促进团体“UWB论坛”。
+　　UWB论坛成员包括旨在推动直接扩散方式的UWB传输技术（DS-UWB）标准制订进程的企业和团体，飞思卡尔是核心企业之一。退出的理由是：将致力于该公司倡导的USB2.0的无线标准“Cable-FreeUSB”的普及。
+　　在飞思卡尔负责UWB相关业务的MartinRofheart（超宽带部门经理）解释说：“现在我们的主要精力放在Cable-FreeUSB的民用领域的普及问题上。而UWB论坛的主要任务是标准制订、频率限制和技术开发等。我们希望能在Cable-FreeUSB的普及活动中投入比以前更大的精力，所以要退出该论坛。我们认为Cable-Free USB才真正是现有有线USB的扩展技术”（Rofheart）。
+　　USB2.0的无线版方面，USB-IF已经制订了“CertifiedWirelessUSB”，其中采用了业界团体WiMedia联盟倡导的传输技术。飞思卡尔的目标是推动Cable-Free USB先于Certified Wireless USB实现普及。
+　　在UWB传输方式标准化方面，UWB论坛倡导的方式一直在与WiMedia联盟倡导的方式等进行竞争，不过对此进行审议的IEEE802.15TG3a小组即将解散，今后将转向围绕在市场上成为事实上的标准（DeFacTo Standard）展开竞争。

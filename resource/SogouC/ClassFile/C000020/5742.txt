@@ -1,0 +1,21 @@
+　　本报北京3月23日电(记者谢湘)记者今天从教育部有关部门获悉，2006年全国硕士研究生招生初试工作结束，进入复试的最低分数基本要求已经确定。各招生单位将于4月上旬陆续进行复试工作。考生可登录“中国研究生招生信息网(网址：http://www.chinayz.com.cn/)”。
+　　教育部要求各招生单位严格遵守招生纪律，坚持公平公正原则，切实负起为国家选拔优秀人才和为考生服务的责任，高标准、严要求，做好下一阶段研究生招生复试和录取工作，确保研究生选拔质量。
+　　为使上线考生有更多的调剂机会，教育部有关部门今年在“中国研究生招生信息网”从3月28日到5月15日开通硕士生招生调剂信息服务系统，有调剂要求的考生届时可上网自行发布调剂信息，也可浏览查阅招生单位的调剂信息。
+　　另据介绍，今年北京大学等34所高校仍然进行自主确定进入复试分数线试点工作，这些高等学校迄今已各自确定并公布了进入本校复试的基本要求。
+　　&gt;&gt;上线的考生报道啦！&nbsp;&nbsp;2005考研复试国家线&nbsp; 你认同这个分数吗？&lt;&lt;
+
+
+
+
+你认为今年的国家线合理吗？
+
+很合理  高了  
+低了  
+
+你能过线吗？
+
+没问题  压线。。。  
+我挂了  
+
+     
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }
