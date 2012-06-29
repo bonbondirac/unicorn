@@ -325,30 +325,25 @@ class Unicorn(object):
         return None
 
 
-def main():
-    un= Unicorn()
-    un.clear_db()
-    un.feed_multi_text(constants.TEXT_PATH_FULL)
-    fs = []
-#    path = 'C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample'
-    path = constants.TEXT_PATH_MINI
-    for dirpath, dirnames, filenames in os.walk(os.path.abspath(path)):
+def test_accuracy(un, feed_path=constants.TEXT_PATH_MINI, sample_path=constants.TEXT_PATH_MINI, need_feed=False):
+    if need_feed:
+        un.clear_db()
+        un.feed_multi_text(feed_path)
+    sample_paths = []
+    for dirpath, dirnames, filenames in os.walk(os.path.abspath(sample_path)):
             if dirnames == []:
-                fs.extend([os.path.join(dirpath, filename).replace('\\', '/') for filename in filenames if filename.endswith('.txt')])
+                sample_paths.extend([os.path.join(dirpath, filename).replace('\\', '/') for filename in filenames if filename.endswith('.txt')])
     counter = 0
     valid_counter = 0
-#    fs = ['c:/test.txt']
-    for f in fs:
-        result = un.tell_file(f)
-        if result:
-#            print un.get_class_name_human(result)
-#            print result, f.split('/')[-2]
-            if result == f.split('/')[-2]:
-                valid_counter += 1
+    for sample_path in sample_paths:
+        class_name = un.tell_file(sample_path)
+        if class_name and class_name == sample_path.split('/')[-2]:
+            valid_counter += 1
         counter += 1
         print 'accuracy: %d/%d' % (valid_counter, counter)
     print 'overall accuracy: %f' % (float(valid_counter) / counter)
 
 
 if __name__ == '__main__':
-    main()
+    un = Unicorn()
+    test_accuracy(un, feed_path=constants.TEXT_PATH_FULL, need_feed=True)
