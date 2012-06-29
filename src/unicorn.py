@@ -28,7 +28,6 @@ class Unicorn(object):
         words = self._seg.cut(buff)
         
         return words
-        
     
     def _load_seg_dict(self):
         print 'loading seg dict...',
@@ -56,6 +55,8 @@ class Unicorn(object):
                 class_name, weight = line.split()
                 self._class_weight_dict[class_name] = float(weight)
         print 'done!'
+        
+        return None
     
     def _load_common_freq(self, path):
         print 'loading word freq...',
@@ -75,17 +76,8 @@ class Unicorn(object):
                 else:
                     self._freq_dict[word] = int(freq)
         print 'done!'
-    
-    def feed_multi_text(self, path):
-        self._parse_path(path, callback=self.feed_single_text)
         
-    def feed_single_text(self, class_name, path):
-        with open(path, 'rb') as f:
-            content = f.read()
-        content = helper.unicodefy(content)
-        words = self._cut_text(content)
-        for word in words:
-            self._incr_freq_count(class_name, word)
+        return None
     
     def _generate_word_key(self, word):
         word_key = constants.WORD_FREQ_KEY % helper.unicode2utf8(word)
@@ -122,65 +114,19 @@ class Unicorn(object):
         
         return freqs_dict
     
-    def _get_freq_in_dict(self, freqs_dict, word):
+    def _get_factor_in_dict(self, freqs_dict, word):
         word_key = self._generate_word_key(word)
         freq_str = freqs_dict.get(word_key, None)
         freq = float(freq_str) if freq_str else constants.RARE_FREQ
         
         return freq
     
-    def _parse_path(self, path, callback=None):
-        for dirpath, dirnames, filenames in os.walk(os.path.abspath(path)):
-            if dirnames == []:
-                class_name = dirpath.replace('\\', '/').split('/')[-1]
-                paths = [os.path.join(dirpath, filename).replace('\\', '/') for filename in filenames]
-                if callback:
-                    for path in paths:
-                        print 'feeding %s ...' % path,
-                        callback(class_name, path)
-                        print 'done!'
-    
-    def tell_file(self, path):
-        with open(path, 'rb') as f:
-            content = f.read()
-            
-        return self.tell_buff(content)
-    
-    def tell_buff(self, buff):
-        buff = helper.unicodefy(buff)
-        words = self._cut_text(buff)
-        factors_dict = dict()
-        for class_name in self._class_dict:
-            freqs_dict = self._get_freqs_dict_by_class(class_name, words)
-            factors_dict[class_name] = self._get_factors(freqs_dict, words)
-        product_dict = self._factors_to_product(factors_dict)
-        product_dict = self._normalize_product_dict(product_dict)
-        class_result_list = product_dict.items()
-        class_result_list = sorted(class_result_list,
-                                   cmp=self._cmp_class_result_list,
-                                   reverse=True)
-        first_result = class_result_list[0]
+    def _get_factors_in_dict(self, freqs_dict, words):
+        factors = []
+        for word in words:
+            factors.append(self._get_factor_in_dict(freqs_dict, word))
         
-        return first_result
-        
-    
-    def _cmp_class_result_list(self, x, y):
-        if x[1] < y[1]:
-            return -1
-        elif x[1] == y[1]:
-            return 0
-        else:
-            return 1
-    
-    def _normalize_product_dict(self, product_dict):
-        total = sum(product_dict.values())
-        for key in product_dict:
-            value = product_dict[key]
-            value /=  total
-            product_dict[key] = int(value * 1000 + 0.5) / 1000.0
-        
-        return product_dict
-        
+        return factors
     
     def _factors_to_product(self, factors_dict):
         product_dict = dict()
@@ -193,7 +139,7 @@ class Unicorn(object):
                     if old_product:
                         product_dict[key] *= factors_dict[key][i]
                     else:
-                        # starting from a value of 1
+                        # starting by a base factor of 1
                         product_dict[key] = factors_dict[key][i]
                 total_product = 1.0
                 for key in keys:
@@ -201,18 +147,78 @@ class Unicorn(object):
                 average_product = total_product ** (1.0 / len(keys))
                 for key in keys:
                     product_dict[key] /= average_product
-#                print product_dict
+                print product_dict
                     
         return product_dict
     
-    def _get_factors(self, freqs_dict, words):
-        factors = []
+    def _normalize_product_dict(self, product_dict):
+        total = sum(product_dict.values())
+        for key in product_dict:
+            value = product_dict[key]
+            value /=  total
+            product_dict[key] = int(value * 1000 + 0.5) / 1000.0
+        
+        return product_dict
+    
+    def _cmp_class_result_list(self, x, y):
+        if x[1] < y[1]:
+            return -1
+        elif x[1] == y[1]:
+            return 0
+        else:
+            return 1
+    
+    def _parse_path(self, path, callback=None):
+        for dirpath, dirnames, filenames in os.walk(os.path.abspath(path)):
+            if dirnames == []:
+                class_name = dirpath.replace('\\', '/').split('/')[-1]
+                paths = [os.path.join(dirpath, filename).replace('\\', '/') for filename in filenames]
+                if callback:
+                    for path in paths:
+                        print 'feeding %s ...' % path,
+                        callback(class_name, path)
+                        print 'done!'
+        
+        return None
+    
+    def feed_single_text(self, class_name, path):
+        with open(path, 'rb') as f:
+            content = f.read()
+        content = helper.unicodefy(content)
+        words = self._cut_text(content)
         for word in words:
-            factors.append(self._get_freq_in_dict(freqs_dict, word))
+            self._incr_freq_count(class_name, word)
         
-        return factors
+        return None
+    
+    def feed_multi_text(self, path):
+        self._parse_path(path, callback=self.feed_single_text)
+        
+        return None
+    
+    def tell_buff(self, buff):
+        buff = helper.unicodefy(buff)
+        words = self._cut_text(buff)
+        factors_dict = dict()
+        for class_name in self._class_dict:
+            freqs_dict = self._get_freqs_dict_by_class(class_name, words)
+            factors_dict[class_name] = self._get_factors_in_dict(freqs_dict, words)
+        product_dict = self._factors_to_product(factors_dict)
+        product_dict = self._normalize_product_dict(product_dict)
+        class_result_list = product_dict.items()
+        class_result_list = sorted(class_result_list,
+                                   cmp=self._cmp_class_result_list,
+                                   reverse=True)
+        first_result = class_result_list[0]
+        
+        return first_result
+    
+    def tell_file(self, path):
+        with open(path, 'rb') as f:
+            content = f.read()
             
-        
+        return self.tell_buff(content)
+    
     def clear_db(self):
         print 'clear db...',
         keys = self._redis_instance.keys(constants.REDIS_PREFIX + '*')
@@ -224,10 +230,13 @@ class Unicorn(object):
     
 def main():
     un= Unicorn()
-#    un.clear_db()
-#    un.feed_multi_text(constants.TEXT_PATH)
-    f = 'C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample/C000010/10.txt'
-    print un.tell_file(f)
+    un.clear_db()
+    un.feed_multi_text(constants.TEXT_PATH)
+    fs = ['C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample/C000007/10.txt',
+          'C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample/C000008/10.txt',
+          'C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample/C000010/10.txt',]
+    for f in fs:
+        print un.tell_file(f)
 
 
 if __name__ == '__main__':
