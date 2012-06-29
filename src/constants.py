@@ -19,6 +19,8 @@ CLASS_WEIGHT_LIST_PATH = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)
                                       'resource/SogouC.mini.20061102/ClassWeightList.txt').replace('\\', '/')                         
 COMMON_FREQ_PATH = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
                                 'resource/SogouW/Freq/SogouLabDic.dic').replace('\\', '/')
+DB_DUMP_PATH = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
+                            'resource/unicorn_db.txt').replace('\\', '/')
 
 REDIS_HOST = 'localhost'
 REDIS_PORT = 6379

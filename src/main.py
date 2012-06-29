@@ -8,6 +8,7 @@ import unicorn
 import urllib2
 from readability.readability import Document
 from BeautifulSoup import BeautifulSoup
+import constants
 
 def tell_url(un, url):
     buff = urllib2.urlopen(url)
@@ -31,10 +32,25 @@ def extract_text(html_buff):
     
     return all_text
 
+def copy_db(un, host='localhost', port=6379, db=0):
+    un.copy_db(host, port, db)
+    
+    return None
+
+def dump_db(un, path):
+    db_dump_string = un.dump_db()
+    with open(path, 'wb') as f:
+        f.write(db_dump_string)
+    
+    return len(db_dump_string)
+    
+
 def main():
     un = unicorn.Unicorn()
-    url = raw_input('pls enter a url: ')
-    print tell_url(un, url)
+#    url = raw_input('pls enter a url: ')
+#    print tell_url(un, url)
+#    copy_db(un)
+    print '%d bytes dumped.' % dump_db(un, constants.DB_DUMP_PATH)
     
 
 if __name__ == '__main__':

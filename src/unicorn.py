@@ -10,6 +10,7 @@ import redis
 import helper
 import math
 from smallseg.smallseg import SEG
+import anyjson
 
 class Unicorn(object):
     
@@ -257,6 +258,11 @@ class Unicorn(object):
         
         return product_dict
     
+    def _get_db_keys(self):
+        keys = self._redis_instance.keys(constants.REDIS_PREFIX + '*')
+        
+        return keys
+    
     def tell_file(self, path):
         with open(path, 'rb') as f:
             content = f.read()
@@ -265,7 +271,7 @@ class Unicorn(object):
     
     def clear_db(self):
         print 'clear db...',
-        keys = self._redis_instance.keys(constants.REDIS_PREFIX + '*')
+        keys = self._get_db_keys()
         if keys:
             self._redis_instance.delete(*keys)
         print 'done!'
@@ -275,12 +281,54 @@ class Unicorn(object):
     def get_class_name_human(self, class_name):
         
         return self._class_dict[class_name]
+    
+    def copy_db(self, des_host, des_port, des_db):
+        print 'moving db...',
+        des_redis_instance = redis.StrictRedis(host=des_host, port=des_port, db=des_db)
+        keys = self._get_db_keys()
+        src_pipe = self._redis_instance.pipeline(transaction=True)
+        for key in keys:
+            src_pipe.hgetall(key)
+        mappings = src_pipe.execute()
+        des_pipe = des_redis_instance.pipeline(transaction=True)
+        for key, mapping in zip(keys, mappings):
+            des_pipe.hmset(key, mapping)
+        des_pipe.execute()
+        print 'done!'
+        
+        return None
+    
+    def dump_db(self):
+        print 'dumping db...',
+        db_data = dict()
+        keys = self._get_db_keys()
+        pipe = self._redis_instance.pipeline(transaction=True)
+        for key in keys:
+            pipe.hgetall(key)
+        mappings = pipe.execute()
+        for key, mapping in zip(keys, mappings):
+            db_data[key] = mapping
+        db_dump_string = anyjson.dumps(db_data)
+        print 'done!'
+        
+        return db_dump_string
+    
+    def load_db(self, db_dump_string):
+        print 'loading db...',
+        db_data = anyjson.loads(db_dump_string)
+        pipe = self._redis_instance.pipeline(transaction=True)
+        for key in db_data:
+            pipe.hmset(key, db_data[key])
+        pipe.execute()
+        print 'done!'
+        
+        return None
 
 
-def self_test():
+def main():
     un= Unicorn()
-#    un.clear_db()
-#    un.feed_multi_text(constants.TEXT_PATH_REDUCED)
+    un.clear_db()
+    un.feed_multi_text(constants.TEXT_PATH_FULL)
     fs = []
 #    path = 'C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample'
     path = constants.TEXT_PATH_MINI
@@ -303,4 +351,4 @@ def self_test():
 
 
 if __name__ == '__main__':
-    self_test()
+    main()
