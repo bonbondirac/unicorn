@@ -8,6 +8,7 @@ import os
 import constants
 import redis
 import helper
+import math
 from smallseg.smallseg import SEG
 
 class Unicorn(object):
@@ -25,9 +26,38 @@ class Unicorn(object):
         self._load_common_freq(constants.COMMON_FREQ_PATH)
     
     def _cut_text(self, buff):
+        buff = helper.unicodefy(buff)
         words = self._seg.cut(buff)
+        words = self._filter_words(words)
+#        words = list(set(words))
         
         return words
+    
+    def _filter_words(self, words):
+        new_words = []
+        for word in words:
+            if self._is_valid_word(word):
+                new_words.append(word)
+        
+        return new_words
+    
+    def _is_valid_word(self, buff):
+        if self._is_word_len_enough(buff) and self._is_word_not_number(buff):
+            return True
+        else:
+            return False
+    
+    def _is_word_len_enough(self, buff):
+        if len(buff) >= 2:
+            return True 
+        else:
+            return False
+    
+    def _is_word_not_number(self, buff):
+        if not buff.isnumeric():
+            return True
+        else:
+            return False
     
     def _load_seg_dict(self):
         print 'loading seg dict...',
@@ -42,7 +72,8 @@ class Unicorn(object):
             for line in f:
                 line = line.strip()
                 class_name, alias = line.split()
-                self._class_dict[class_name] = helper.unicodefy(alias)
+#                self._class_dict[class_name] = helper.unicodefy(alias)
+                self._class_dict[class_name] = alias.decode('gbk')
         print 'done!'
         
         return None
@@ -128,26 +159,24 @@ class Unicorn(object):
         
         return factors
     
-    def _factors_to_product(self, factors_dict):
+    def _factors_to_product(self, factors_dict, words):
         product_dict = dict()
         if factors_dict:
             factor_count = len(factors_dict.values()[0])
             keys = factors_dict.keys()
             for i in range(factor_count):
+#                print words[i]
                 for key in keys:
                     old_product = product_dict.get(key, None)
+                    ln_factor = math.log(factors_dict[key][i]) 
                     if old_product:
-                        product_dict[key] *= factors_dict[key][i]
+                        product_dict[key] += ln_factor
                     else:
-                        # starting by a base factor of 1
-                        product_dict[key] = factors_dict[key][i]
-                total_product = 1.0
-                for key in keys:
-                    total_product *= product_dict[key]
-                average_product = total_product ** (1.0 / len(keys))
-                for key in keys:
-                    product_dict[key] /= average_product
-                print product_dict
+#                        starting by a base factor of 1
+                        product_dict[key] = ln_factor
+#                    print self._class_dict[key], product_dict[key], ' | ',
+#                print
+#                print words[i], product_dict
                     
         return product_dict
     
@@ -184,7 +213,6 @@ class Unicorn(object):
     def feed_single_text(self, class_name, path):
         with open(path, 'rb') as f:
             content = f.read()
-        content = helper.unicodefy(content)
         words = self._cut_text(content)
         for word in words:
             self._incr_freq_count(class_name, word)
@@ -197,21 +225,32 @@ class Unicorn(object):
         return None
     
     def tell_buff(self, buff):
-        buff = helper.unicodefy(buff)
         words = self._cut_text(buff)
         factors_dict = dict()
         for class_name in self._class_dict:
             freqs_dict = self._get_freqs_dict_by_class(class_name, words)
             factors_dict[class_name] = self._get_factors_in_dict(freqs_dict, words)
-        product_dict = self._factors_to_product(factors_dict)
-        product_dict = self._normalize_product_dict(product_dict)
+        product_dict = self._factors_to_product(factors_dict, words)
+        product_dict = self._add_class_weight(product_dict)
+#        product_dict = self._normalize_product_dict(product_dict)
         class_result_list = product_dict.items()
         class_result_list = sorted(class_result_list,
                                    cmp=self._cmp_class_result_list,
                                    reverse=True)
+        class_result_list = [(self._class_dict[k], v) for k, v in class_result_list]
+#        for i, j in class_result_list:
+#            print i, j, ' | ',
+#        print
         first_result = class_result_list[0]
+#        print first_result
         
         return first_result
+    
+    def _add_class_weight(self, product_dict):
+        for class_name in self._class_dict:
+            product_dict[class_name] *= self._class_weight_dict[class_name]
+        
+        return product_dict
     
     def tell_file(self, path):
         with open(path, 'rb') as f:
@@ -222,21 +261,35 @@ class Unicorn(object):
     def clear_db(self):
         print 'clear db...',
         keys = self._redis_instance.keys(constants.REDIS_PREFIX + '*')
-        self._redis_instance.delete(keys)
+        if keys:
+            self._redis_instance.delete(*keys)
         print 'done!'
         
         return None
 
-    
+
 def main():
     un= Unicorn()
-    un.clear_db()
-    un.feed_multi_text(constants.TEXT_PATH)
-    fs = ['C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample/C000007/10.txt',
-          'C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample/C000008/10.txt',
-          'C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample/C000010/10.txt',]
+#    un.clear_db()
+#    un.feed_multi_text(constants.TEXT_PATH)
+    fs = []
+#    fs = ['C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample/C000007/10.txt',
+#          'C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample/C000008/10.txt',
+#          'C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample/C000010/10.txt',]
+    path = 'C:/Users/diracfang/Documents/workspace/SogouC.reduced.20061102/Reduced/C000008'
+    for dirpath, dirnames, filenames in os.walk(os.path.abspath(path)):
+            if dirnames == []:
+                fs.extend([os.path.join(dirpath, filename).replace('\\', '/') for filename in filenames if filename.endswith('.txt')])
+#    fs = ['c:/test.txt']
+    counter = 0
+    valid_counter = 0
     for f in fs:
-        print un.tell_file(f)
+        k, v = un.tell_file(f)
+        if k == u'\u6c7d\u8f66':
+            valid_counter += 1
+        counter += 1
+        print 'accuracy: %d/%d' % (valid_counter, counter)
+    print 'overall accuracy: %f' % float(valid_counter) / counter
 
 
 if __name__ == '__main__':
