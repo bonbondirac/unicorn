@@ -10,6 +10,8 @@ import redis
 import helper
 import math
 from smallseg.smallseg import SEG
+from readability.readability import Document
+import urllib2
 
 class Unicorn(object):
     
@@ -277,7 +279,7 @@ class Unicorn(object):
         return self._class_dict[class_name]
 
 
-def main():
+def self_test():
     un= Unicorn()
 #    un.clear_db()
 #    un.feed_multi_text(constants.TEXT_PATH_REDUCED)
@@ -303,4 +305,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    self_test()
