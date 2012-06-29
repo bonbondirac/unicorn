@@ -7,14 +7,16 @@ Created on 2012-6-28
 import os
 
 BASE_PATH = os.path.abspath(__file__).replace('\\', '/')
-TEXT_PATH = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
-                         'resource/SogouC.mini.20061102/Sample').replace('\\', '/')
+TEXT_PATH_MINI = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
+                              'resource/SogouC.mini.20061102/Sample').replace('\\', '/')
+TEXT_PATH_REDUCED = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
+                                 'resource/SogouC.reduced.20061102/Reduced').replace('\\', '/')
 CLASS_LIST_PATH = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
-                         'resource/SogouC.mini.20061102/ClassList.txt').replace('\\', '/')
+                               'resource/SogouC.mini.20061102/ClassList.txt').replace('\\', '/')
 CLASS_WEIGHT_LIST_PATH = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
-                         'resource/SogouC.mini.20061102/ClassWeightList.txt').replace('\\', '/')                         
+                                      'resource/SogouC.mini.20061102/ClassWeightList.txt').replace('\\', '/')                         
 COMMON_FREQ_PATH = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
-                         'resource/SogouW/Freq/SogouLabDic.dic').replace('\\', '/')
+                                'resource/SogouW/Freq/SogouLabDic.dic').replace('\\', '/')
 
 REDIS_HOST = 'localhost'
 REDIS_PORT = 6379

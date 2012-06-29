@@ -1,0 +1,9 @@
+cp ../ClassFile/C000008/1???.txt ./C000008/
+cp ../ClassFile/C000010/1???.txt ./C000010/
+cp ../ClassFile/C000013/1???.txt ./C000013/
+cp ../ClassFile/C000014/1???.txt ./C000014/
+cp ../ClassFile/C000016/1???.txt ./C000016/
+cp ../ClassFile/C000020/1???.txt ./C000020/
+cp ../ClassFile/C000022/1???.txt ./C000022/
+cp ../ClassFile/C000023/1???.txt ./C000023/
+cp ../ClassFile/C000024/1???.txt ./C000024/

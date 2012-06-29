@@ -137,11 +137,12 @@ class Unicorn(object):
         freqs_dict = dict()
         class_name_key = self._generate_class_name_key(class_name)
         word_keys = [self._generate_word_key(word) for word in words]
-        freqs = self._redis_instance.hmget(class_name_key, word_keys)
-        # this constants.RARE_FREQ depends on training material
-        freqs = [int(freq) if freq else constants.RARE_FREQ for freq in freqs]
-        for kv in zip(word_keys, freqs):
-            freqs_dict[kv[0]] = kv[1] 
+        if word_keys:
+            freqs = self._redis_instance.hmget(class_name_key, word_keys)
+#            this constants.RARE_FREQ depends on training material
+            freqs = [int(freq) if freq else constants.RARE_FREQ for freq in freqs]
+            for kv in zip(word_keys, freqs):
+                freqs_dict[kv[0]] = kv[1] 
         
         return freqs_dict
     
@@ -160,25 +161,25 @@ class Unicorn(object):
         return factors
     
     def _factors_to_product(self, factors_dict, words):
-        product_dict = dict()
+        ln_product_dict = dict()
         if factors_dict:
             factor_count = len(factors_dict.values()[0])
             keys = factors_dict.keys()
             for i in range(factor_count):
 #                print words[i]
                 for key in keys:
-                    old_product = product_dict.get(key, None)
+                    old_ln_product = ln_product_dict.get(key, None)
                     ln_factor = math.log(factors_dict[key][i]) 
-                    if old_product:
-                        product_dict[key] += ln_factor
+                    if old_ln_product:
+                        ln_product_dict[key] += ln_factor
                     else:
 #                        starting by a base factor of 1
-                        product_dict[key] = ln_factor
-#                    print self._class_dict[key], product_dict[key], ' | ',
+                        ln_product_dict[key] = ln_factor
+#                    print self._class_dict[key], ln_product_dict[key], ' | ',
 #                print
-#                print words[i], product_dict
+#                print words[i], ln_product_dict
                     
-        return product_dict
+        return ln_product_dict
     
     def _normalize_product_dict(self, product_dict):
         total = sum(product_dict.values())
@@ -201,7 +202,7 @@ class Unicorn(object):
         for dirpath, dirnames, filenames in os.walk(os.path.abspath(path)):
             if dirnames == []:
                 class_name = dirpath.replace('\\', '/').split('/')[-1]
-                paths = [os.path.join(dirpath, filename).replace('\\', '/') for filename in filenames]
+                paths = [os.path.join(dirpath, filename).replace('\\', '/') for filename in filenames if filename.endswith('.txt')]
                 if callback:
                     for path in paths:
                         print 'feeding %s ...' % path,
@@ -237,18 +238,22 @@ class Unicorn(object):
         class_result_list = sorted(class_result_list,
                                    cmp=self._cmp_class_result_list,
                                    reverse=True)
-        class_result_list = [(self._class_dict[k], v) for k, v in class_result_list]
+#        class_result_list = [(self._class_dict[k], v) for k, v in class_result_list]
 #        for i, j in class_result_list:
 #            print i, j, ' | ',
 #        print
-        first_result = class_result_list[0]
+        if class_result_list:
+            first_result = class_result_list[0][0]
+        else:
+            first_result = None
 #        print first_result
         
         return first_result
     
     def _add_class_weight(self, product_dict):
         for class_name in self._class_dict:
-            product_dict[class_name] *= self._class_weight_dict[class_name]
+            if product_dict.has_key(class_name):
+                product_dict[class_name] *= self._class_weight_dict[class_name]
         
         return product_dict
     
@@ -266,30 +271,35 @@ class Unicorn(object):
         print 'done!'
         
         return None
+    
+    def get_class_name_human(self, class_name):
+        
+        return self._class_dict[class_name]
 
 
 def main():
     un= Unicorn()
 #    un.clear_db()
-#    un.feed_multi_text(constants.TEXT_PATH)
+#    un.feed_multi_text(constants.TEXT_PATH_REDUCED)
     fs = []
-#    fs = ['C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample/C000007/10.txt',
-#          'C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample/C000008/10.txt',
-#          'C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample/C000010/10.txt',]
-    path = 'C:/Users/diracfang/Documents/workspace/SogouC.reduced.20061102/Reduced/C000008'
+#    path = 'C:/Users/diracfang/Documents/workspace/unicorn/resource/SogouC.mini.20061102/Sample'
+    path = constants.TEXT_PATH_REDUCED
     for dirpath, dirnames, filenames in os.walk(os.path.abspath(path)):
             if dirnames == []:
                 fs.extend([os.path.join(dirpath, filename).replace('\\', '/') for filename in filenames if filename.endswith('.txt')])
-#    fs = ['c:/test.txt']
     counter = 0
     valid_counter = 0
+#    fs = ['c:/test.txt']
     for f in fs:
-        k, v = un.tell_file(f)
-        if k == u'\u6c7d\u8f66':
-            valid_counter += 1
+        result = un.tell_file(f)
+        if result:
+#            print un.get_class_name_human(result)
+#            print result, f.split('/')[-2]
+            if result == f.split('/')[-2]:
+                valid_counter += 1
         counter += 1
         print 'accuracy: %d/%d' % (valid_counter, counter)
-    print 'overall accuracy: %f' % float(valid_counter) / counter
+    print 'overall accuracy: %f' % (float(valid_counter) / counter)
 
 
 if __name__ == '__main__':
