@@ -346,4 +346,4 @@ def test_accuracy(un, feed_path=constants.TEXT_PATH_MINI, sample_path=constants.
 
 if __name__ == '__main__':
     un = Unicorn()
-    test_accuracy(un, feed_path=constants.TEXT_PATH_FULL, need_feed=True)
+    test_accuracy(un, feed_path=constants.TEXT_PATH_FULL, need_feed=False)
