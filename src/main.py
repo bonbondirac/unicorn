@@ -10,6 +10,8 @@ from readability.readability import Document
 from BeautifulSoup import BeautifulSoup
 import constants
 import textwrap
+import zipfile
+
 
 def tell_url(un, url):
     buff = urllib2.urlopen(url)
@@ -23,6 +25,7 @@ def tell_url(un, url):
         class_name_human = None
     
     return class_name_human
+
     
 def extract_text(html_buff):
     soup = BeautifulSoup(html_buff)
@@ -33,21 +36,24 @@ def extract_text(html_buff):
     
     return all_text
 
+
 def copy_db(un, host='localhost', port=6379, db=0):
     un.copy_db(host, port, db)
     
     return None
 
+
 def dump_db(un, path):
     db_dump_string = un.dump_db()
-    with open(path, 'wb') as f:
-        f.write(db_dump_string)
+    with zipfile.ZipFile(path, 'w', zipfile.ZIP_DEFLATED) as zip_db:
+        zip_db.writestr(constants.DB_ARC_NAME, db_dump_string)
     
     return len(db_dump_string)
 
+
 def load_db(un, path):
-    with open(path, 'rb') as f:
-        db_dump_string = f.read()
+    with zipfile.ZipFile(path, 'r', zipfile.ZIP_DEFLATED) as zip_db:
+        db_dump_string = zip_db.read(constants.DB_ARC_NAME)
     un.load_db(db_dump_string)
     
     return len(db_dump_string)

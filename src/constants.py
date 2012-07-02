@@ -20,7 +20,8 @@ CLASS_WEIGHT_LIST_PATH = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)
 COMMON_FREQ_PATH = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
                                 'resource/SogouW/Freq/SogouLabDic.dic').replace('\\', '/')
 DB_DUMP_PATH = os.path.join(os.path.dirname(os.path.dirname(BASE_PATH)),
-                            'resource/unicorn_db.txt').replace('\\', '/')
+                            'resource/unicorn_db.zip').replace('\\', '/')
+DB_ARC_NAME = 'unicorn_db.json'
 
 REDIS_HOST = 'localhost'
 REDIS_PORT = 6379
