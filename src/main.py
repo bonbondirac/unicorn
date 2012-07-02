@@ -9,6 +9,7 @@ import urllib2
 from readability.readability import Document
 from BeautifulSoup import BeautifulSoup
 import constants
+import textwrap
 
 def tell_url(un, url):
     buff = urllib2.urlopen(url)
@@ -43,14 +44,45 @@ def dump_db(un, path):
         f.write(db_dump_string)
     
     return len(db_dump_string)
+
+def load_db(un, path):
+    with open(path, 'rb') as f:
+        db_dump_string = f.read()
+    un.load_db(db_dump_string)
+    
+    return len(db_dump_string)
     
 
 def main():
     un = unicorn.Unicorn()
-#    url = raw_input('pls enter a url: ')
-#    print tell_url(un, url)
-#    copy_db(un)
-    print '%d bytes dumped.' % dump_db(un, constants.DB_DUMP_PATH)
+    choice = raw_input(textwrap.dedent("""
+    1) tell a url
+    2) dump db
+    3) load db
+    4) copy db
+    pls enter your choice: """))
+    if choice == '1':
+        url = raw_input('url: ')
+        print tell_url(un, url)
+    elif choice == '2':
+        print '%d bytes dumped.' % dump_db(un, constants.DB_DUMP_PATH)
+    elif choice == '3':
+        print '%d bytes loaded.' % load_db(un, constants.DB_DUMP_PATH)
+    elif choice == '4':
+        host = raw_input('destination host: ')
+        if host.strip() == '':
+            host = 'localhost'
+        port = raw_input('destination port: ')
+        try:
+            port = int(port)
+        except:
+            port = 6379
+        db = raw_input('destination db: ')
+        try:
+            db = int(db)
+        except:
+            db = 2
+        copy_db(un, host, port, db)
     
 
 if __name__ == '__main__':

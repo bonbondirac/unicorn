@@ -283,7 +283,7 @@ class Unicorn(object):
         return self._class_dict[class_name]
     
     def copy_db(self, des_host, des_port, des_db):
-        print 'moving db...',
+        print 'copying db...',
         des_redis_instance = redis.StrictRedis(host=des_host, port=des_port, db=des_db)
         keys = self._get_db_keys()
         src_pipe = self._redis_instance.pipeline(transaction=True)
@@ -314,6 +314,7 @@ class Unicorn(object):
         return db_dump_string
     
     def load_db(self, db_dump_string):
+        self.clear_db()
         print 'loading db...',
         db_data = anyjson.loads(db_dump_string)
         pipe = self._redis_instance.pipeline(transaction=True)
