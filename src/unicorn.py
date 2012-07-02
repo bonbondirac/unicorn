@@ -27,7 +27,7 @@ class Unicorn(object):
         self._load_common_freq(constants.COMMON_FREQ_PATH)
     
     def _cut_text(self, buff):
-        buff = helper.unicodefy(buff)
+        buff = helper.unicode2utf8(helper.unicodefy(buff))
         words = self._seg.cut(buff)
         words = self._filter_words(words)
 #        words = list(set(words))
